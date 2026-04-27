@@ -1,0 +1,66 @@
+# MedAI — Qwen2.5-7B QLoRA training config
+# Tuned for Kaggle P100 (16 GB VRAM) / Colab T4 free tier.
+
+model:
+  name: unsloth/Qwen2.5-7B-Instruct-bnb-4bit  # pre-quantized 4-bit, faster download
+  max_seq_length: 2048                         # 4096 if VRAM allows; 2048 safer on T4
+  dtype: null                                  # auto: bf16 on Ampere+, fp16 on T4
+  load_in_4bit: true
+
+lora:
+  r: 16                                        # rank — 16 balances quality/VRAM
+  alpha: 32                                    # alpha = 2*r is a common rule
+  dropout: 0.0                                 # Unsloth optimization requires 0
+  bias: none
+  target_modules:                              # all linears for best quality
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+  use_gradient_checkpointing: unsloth          # Unsloth's optimized variant
+  use_rslora: false                            # rsLoRA only helps at rank > 64
+  random_state: 42
+
+training:
+  per_device_train_batch_size: 2
+  gradient_accumulation_steps: 8               # effective batch = 16
+  warmup_steps: 50
+  num_train_epochs: 2
+  learning_rate: 2.0e-4                        # standard for QLoRA SFT
+  embedding_learning_rate: 1.0e-5              # lower for embeddings (Unsloth)
+  logging_steps: 10
+  save_strategy: steps
+  save_steps: 500                              # checkpoint every 500 — Kaggle 9h safety
+  save_total_limit: 3                          # keep last 3 checkpoints
+  optim: paged_adamw_8bit                      # paged for OOM resilience
+  weight_decay: 0.01
+  lr_scheduler_type: cosine
+  seed: 42
+  bf16: true                                   # auto-fallback to fp16 on T4
+  fp16: false
+  report_to: tensorboard                       # wandb optional
+  output_dir: outputs/qwen25-7b-medai-phase1
+  push_to_hub: true
+  hub_model_id: vh0202/medai-qwen25-7b-phase1-ckpt
+  hub_strategy: every_save                     # checkpoints uploaded — survives Kaggle kill
+  hub_private_repo: false
+
+dataset:
+  template: chatml                             # Qwen2.5 native ChatML
+  text_field: text                             # after format_to_chatml
+  packing: false                               # disable for clean instruction tuning
+
+# Phase override examples (uncomment per phase)
+# phase_2:
+#   training.num_train_epochs: 1
+#   training.output_dir: outputs/qwen25-7b-medai-phase2
+#   training.hub_model_id: vh0202/medai-qwen25-7b-phase2-ckpt
+#
+# phase_3:
+#   training.num_train_epochs: 1
+#   training.learning_rate: 1.0e-4             # lower LR for safety alignment
+#   training.output_dir: outputs/qwen25-7b-medai-phase3
+#   training.hub_model_id: vh0202/medai-qwen25-7b-phase3-ckpt

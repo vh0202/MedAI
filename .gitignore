@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual envs
+venv/
+env/
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model artifacts (large — host on HF Hub)
+*.bin
+*.safetensors
+*.gguf
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+outputs/
+runs/
+wandb/
+
+# Data (large — most should be downloaded fresh from HF datasets)
+data/english/raw/
+data/vietnamese/raw/
+data/translation_qa/raw/
+data/*.jsonl
+data/*.parquet
+data/*.arrow
+
+# But keep small curated test sets
+!eval/vn_medical_benchmark/test_set.jsonl
+!data/safety/refusal_dataset.jsonl
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# HF cache (when running locally)
+.cache/
+~/.cache/huggingface/
+
+# Secrets
+.env.local
+secrets/
+*.key
+*.pem
+hf_token.txt
+kaggle.json
