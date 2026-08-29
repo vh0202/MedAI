@@ -6,3 +6,6 @@ build/sample.pdf
 build/t.txt
 *.pyc
 __pycache__/
+build/stub.docx
+build/monograph_src.txt
+build/*.docx

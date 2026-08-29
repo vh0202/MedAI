@@ -538,13 +538,14 @@ def parse_and_build(b, src):
 def enforce_font_everywhere(doc):
     """Give every run an explicit Times New Roman rFonts, incl. headers/footers."""
     bodies = [doc.element.body]
-    for sec in doc.sections:
-        for part in (sec.header, sec.footer, sec.first_page_header,
-                     sec.first_page_footer, sec.even_page_header, sec.even_page_footer):
-            try:
-                bodies.append(part._element)
-            except Exception:
-                pass
+    # only parts that already exist -- touching sec.first_page_header etc. would
+    # materialise unused header/footer parts in the package
+    for part in doc.part.package.parts:
+        try:
+            if part.content_type.endswith('header+xml') or part.content_type.endswith('footer+xml'):
+                bodies.append(part.element)
+        except Exception:
+            pass
     for b in bodies:
         for r in b.iter(qn("w:r")):
             rpr = r.find(qn("w:rPr"))
