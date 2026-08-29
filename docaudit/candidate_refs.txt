@@ -1,0 +1,536 @@
+[must-add] NEW
+  TOPIC: 2024 ESC atrial fibrillation guideline — CHA2DS2-VA replaces CHA2DS2-VASc
+  CITE : Van Gelder IC, Rienstra M, Bunting KV, Casado-Arroyo R, Caso V, Crijns HJGM, et al. 2024 ESC guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS). Eur Heart J. 2024;45(36):3314-3414. doi:10.1093/eurheartj/ehae176
+
+[must-add] NEW
+  TOPIC: ARAMIS secondary analysis — NIHSS 0-3 vs 4-5 changes the answer (directly relevant to the document's NIHSS-threshold discussion)
+  CITE : Fei ZX, Yin Y, Cui Y, Nguyen TN, Chen HS. Dual antiplatelet therapy versus alteplase for mild stroke with admission NIHSS score 0-3 versus 4-5: a secondary analysis of the ARAMIS randomized trial. CNS Drugs. 2025;39(10):1037-46. doi:10.1007/s40263-025-01211-6.
+
+[must-add] NEW
+  TOPIC: ARAMIS — DAPT non-inferior to alteplase in minor NON-DISABLING stroke within 4.5 h (the trial that underpins the document's own recommendation, but is never cited)
+  CITE : Chen HS, Cui Y, Zhou ZH, Zhang H, Wang LX, Wang WZ, et al. Dual antiplatelet therapy vs alteplase for patients with minor nondisabling acute ischemic stroke: the ARAMIS randomized clinical trial. JAMA. 2023;329(24):2135-44. doi:10.1001/jama.2023.7827.
+
+[must-add] IN DOC
+  TOPIC: ARCADIA — the primary result is correctly reported, but the bleeding row in Bảng 4.5 is wrong
+  CITE : Kamel H, Longstreth WT Jr, Tirschwell DL, Kronmal RA, Marshall RS, Broderick JP, et al. Apixaban to prevent recurrence after cryptogenic stroke in patients with atrial cardiopathy: the ARCADIA randomized clinical trial. JAMA. 2024;331(7):573-81. doi:10.1001/jama.2023.27188.
+
+[must-add] NEW
+  TOPIC: ARCADIA — why the atrial cardiopathy biomarkers may have failed: their predictive performance for incident AF
+  CITE : Kamel H, Elkind MS, Kronmal RA, Longstreth WT Jr, Plummer P, Aragon Garcia R, et al. Atrial cardiopathy biomarkers and atrial fibrillation in the ARCADIA trial. Eur Stroke J. 2025;10(2):495-501. doi:10.1177/23969873241276358.
+
+[must-add] NEW
+  TOPIC: ARCADIA-MRI — apixaban DID reduce covert (silent) infarcts
+  CITE : Lansberg MG, Wintermark M, Chen H, Howard G, Cassarly C, Pauls Q, et al. Apixaban to prevent covert infarcts after cryptogenic stroke in patients with atrial cardiopathy: a secondary analysis of the ARCADIA randomized clinical trial. JAMA Neurol. 2025;82(3):220-7. doi:10.1001/jamaneurol.2024.4838.
+
+[must-add] NEW
+  TOPIC: ARTESiA — apixaban vs aspirin in device-detected subclinical AF
+  CITE : Healey JS, Lopes RD, Granger CB, et al. Apixaban for stroke prevention in subclinical atrial fibrillation. N Engl J Med. 2024;390(2):107-17. doi:10.1056/NEJMoa2310234. PMID: 37952132.
+
+[must-add] NEW
+  TOPIC: BASIS - submaximal balloon angioplasty for symptomatic intracranial stenosis (first POSITIVE endovascular RCT in sICAS)
+  CITE : Sun X, Deng Y, Zhang Y, Yang M, Sun D, Nguyen TN, et al.; BASIS Investigators. Balloon angioplasty vs medical management for intracranial artery stenosis: the BASIS randomized clinical trial. JAMA. 2024;332(13):1059-69. doi:10.1001/jama.2024.12829. PMID: 39235816.
+
+[must-add] NEW
+  TOPIC: Blood pressure guidelines superseding the 2017/2021 framework (2025 AHA/ACC, 2024 ESC, 2023 ESH)
+  CITE : Jones DW, Ferdinand KC, Taler SJ, Johnson HM, Shimbo D, Abdalla M, et al. 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults. Hypertension. 2025;82(10):e212-e316. doi:10.1161/HYP.0000000000000249. | McEvoy JW, McCarthy CP, Bruno RM, Brouwers S, Canavan MD, Ceconi C, et al. 2024 ESC guidelines for the management of elevated blood pressure and hypertension. Eur Heart J. 2024;45(38):3912-4018. doi:10.1093/eurheartj/ehae178. | Mancia G, Kreutz R, Brunström M, Burnier M, Grassi G, Januszewicz A, et al. 2023 ESH guidelines for the management of arterial hypertension. J Hypertens. 2023;41(12):1874-2071. doi:10.1097/HJH.0000000000003480.
+
+[must-add] NEW
+  TOPIC: Blood pressure target after stroke — intensive SBP <120 mmHg (ESPRIT main trial)
+  CITE : Liu J, Li Y, Ge J, Yan X, Zhang H, Zheng X, et al. Lowering systolic blood pressure to less than 120 mm Hg versus less than 140 mm Hg in patients with high cardiovascular risk with and without diabetes or previous stroke: an open-label, blinded-outcome, randomised trial. Lancet. 2024;404(10449):245-255. doi:10.1016/S0140-6736(24)01028-6.
+
+[must-add] NEW
+  TOPIC: CASSISS - long-term (median 7.4-year) follow-up
+  CITE : Gao P, He X, Wang H, Chen Y, Wang T, Yang R, et al. Stenting versus medical therapy for symptomatic intracranial artery stenosis: long-term follow-up of a randomized trial. Stroke. 2025;56(5):1128-37. doi:10.1161/STROKEAHA.124.049602. PMID: 40099362.
+
+[must-add] IN DOC
+  TOPIC: CATALYST individual-participant-data meta-analysis — timing of DOAC after AF-related ischaemic stroke
+  CITE : Dehbi HM, Fischer U, Åsberg S, Milling TJ, Abend S, Ahmed N, et al. Collaboration on the optimal timing of anticoagulation after ischaemic stroke and atrial fibrillation: a systematic review and prospective individual participant data meta-analysis of randomised controlled trials (CATALYST). Lancet. 2025;406(10498):43-51. doi:10.1016/S0140-6736(25)00439-8. PMID: 40570866.
+
+[must-add] NEW
+  TOPIC: CHAMPION-AF — Watchman FLX LAAO vs DOAC in patients ELIGIBLE for anticoagulation
+  CITE : Doshi SK, Kar S, Nair DG, et al. Left atrial appendage closure or anticoagulation for atrial fibrillation. N Engl J Med. 2026;394(21):2083-94. doi:10.1056/NEJMoa2517213. PMID: 41910347.
+
+[must-add] NEW
+  TOPIC: CHANCE-3 colchicine — prespecified analysis showing a possible HARM signal in symptomatic intracranial atherosclerotic stenosis
+  CITE : Li J, Jing J, Meng X, Shi FD, Gu HQ, Jin A, et al. Colchicine for preventing stroke in patients with and without intracranial atherosclerotic stenosis: a prespecified analysis of a randomized clinical trial. EClinicalMedicine. 2025;84:103226. doi:10.1016/j.eclinm.2025.103226.
+
+[must-add] IN DOC
+  TOPIC: CREST-2 primary results (both parallel trials)
+  CITE : Brott TG, Howard G, Lal BK, Voeks JH, Turan TN, Roubin GS, et al.; CREST-2 Investigators. Medical management and revascularization for asymptomatic carotid stenosis. N Engl J Med. 2026;394(3):219-31. doi:10.1056/NEJMoa2508800. PMID: 41269206.
+
+[must-add] NEW
+  TOPIC: Current ESO status — no new ESO thrombolysis guideline exists; the document should cite what actually stands
+  CITE : Berge E, Whiteley W, Audebert H, De Marchis GM, Fonseca AC, Padiglioni C, et al. European Stroke Organisation (ESO) guidelines on intravenous thrombolysis for acute ischaemic stroke. Eur Stroke J. 2021;6(1):I-LXII. doi:10.1177/2396987321989865. AND Alamowitch S, Turc G, Palaiodimou L, Bivard A, Cameron A, De Marchis GM, et al. European Stroke Organisation (ESO) expedited recommendation on tenecteplase for acute ischaemic stroke. Eur Stroke J. 2023;8(1):8-54. doi:10.1177/23969873221150022.
+
+[must-add] NEW
+  TOPIC: DISCOUNT - thrombectomy for medium/distal occlusion (third negative trial, 2026)
+  CITE : Clarencon F, Bala F, Baptiste A, Marnat G, Gory B, Sibon I, et al.; DISCOUNT Investigators. Mechanical thrombectomy in ischemic stroke with a medium or distal arterial occlusion: the DISCOUNT randomized clinical trial. JAMA. 2026 Jul 22 [online ahead of print]. doi:10.1001/jama.2026.8977. PMID: 42485024.
+
+[must-add] NEW
+  TOPIC: DISTAL - thrombectomy for medium/distal vessel occlusion
+  CITE : Psychogios M, Brehm A, Ribo M, Rizzo F, Strbian D, Raty S, et al.; DISTAL Investigators. Endovascular treatment for stroke due to occlusion of medium or distal vessels. N Engl J Med. 2025;392(14):1374-84. doi:10.1056/NEJMoa2408954. PMID: 39908430.
+
+[must-add] NEW
+  TOPIC: Device-detected AF specifically in patients with prior stroke or TIA — pooled ARTESiA + NOAH-AFNET 6 subgroup
+  CITE : Palaiodimou L, Katsanos AH, Melanis K, Stefanou MI, Romoli M, Papagiannopoulou G, et al. Recurrent stroke in patients with history of stroke/transient ischemic attack and device-detected atrial fibrillation: a systematic review and meta-analysis. Eur Stroke J. 2025;10(4):1221-30. doi:10.1177/23969873251334278. PMID: 40265470.
+
+[must-add] NEW
+  TOPIC: EAST trial — early clopidogrel + aspirin within 6 h after thrombolysis in MINOR stroke (neutral, and the direct counterpart to TAPIS)
+  CITE : Chen HS, Cui Y, Li XQ, Wang XH, Jiang CH, Li J, et al. Early antiplatelet treatment for minor stroke following thrombolysis: the EAST trial. Eur Heart J. 2026;47(6):746-56. doi:10.1093/eurheartj/ehaf702.
+
+[must-add] NEW
+  TOPIC: ECST-2 (Second European Carotid Surgery Trial) - 2-year interim results
+  CITE : Donners SJA, van Velzen TJ, Cheng SF, Gregson J, Bulbulia R, Halliday A, et al.; ECST-2 Investigators. Optimised medical therapy alone versus optimised medical therapy plus revascularisation for asymptomatic or low-to-intermediate risk symptomatic carotid stenosis (ECST-2): a multicentre, randomised trial. Lancet Neurol. 2025;24(5):389-99. doi:10.1016/S1474-4422(25)00107-3. PMID: 40252662.
+
+[must-add] NEW
+  TOPIC: ESCAPE-MeVO - thrombectomy for medium vessel occlusion
+  CITE : Goyal M, Ospel JM, Ganesh A, Dowlatshahi D, Volders D, Mohlenbruch MA, et al.; ESCAPE-MeVO Investigators. Endovascular treatment of stroke due to medium-vessel occlusion. N Engl J Med. 2025;392(14):1385-95. doi:10.1056/NEJMoa2411668. PMID: 39908448.
+
+[must-add] NEW
+  TOPIC: ESO guideline on cerebral small vessel disease, part 2: lacunar ischaemic stroke (2024)
+  CITE : Wardlaw JM, Chabriat H, de Leeuw FE, Debette S, Dichgans M, Doubal F, et al. European Stroke Organisation (ESO) guideline on cerebral small vessel disease, part 2, lacunar ischaemic stroke. Eur Stroke J. 2024;9(1):5-68. doi:10.1177/23969873231219416
+
+[must-add] NEW
+  TOPIC: Early neurological deterioration in Vietnamese minor stroke (NIHSS <=5)
+  CITE : Nguyen DT, Mai TD, Dao PV, Ha HT, Fabus M, Fleming M, et al. Early neurological deterioration in patients with minor stroke: a single-center study conducted in Vietnam. PLoS One. 2025;20(5):e0323700. doi:10.1371/journal.pone.0323700.
+
+[must-add] IN DOC
+  TOPIC: Existing ref 34 (Tran MC 2025) - numbers the document omits, plus a GBD-vintage caveat
+  CITE : Tran MC, Prisco L, Pham PM, Phan HQ, Ganau M, Pham N, et al. Comprehensive analysis of stroke epidemiology in Vietnam: insights from GBD 1990-2019 and RES-Q 2017-2023. Glob Epidemiol. 2025;9:100199. doi:10.1016/j.gloepi.2025.100199.
+
+[must-add] NEW
+  TOPIC: Expert guidance document dedicated to exactly this monograph's topic (disabling vs non-disabling minor stroke)
+  CITE : De Santis F, Foschi M, D'Anna L, Coutts SB, Fischer U, Khatri P, et al. Acute treatment of disabling and nondisabling minor ischemic stroke: expert guidance for clinicians. Stroke. 2026;57(2):549-59. doi:10.1161/STROKEAHA.125.053504.
+
+[must-add] NEW
+  TOPIC: Extended-window thrombolysis: TRACE-III (positive) vs TIMELESS (neutral) — the document has no extended-window section at all
+  CITE : Xiong Y, Campbell BCV, Schwamm LH, Meng X, Jin A, Parsons MW, et al. Tenecteplase for ischemic stroke at 4.5 to 24 hours without thrombectomy. N Engl J Med. 2024;391(3):203-12. doi:10.1056/NEJMoa2402980. AND Albers GW, Jumaa M, Purdon B, Zaidi SF, Streib C, Shuaib A, et al. Tenecteplase for stroke at 4.5 to 24 hours with perfusion-imaging selection. N Engl J Med. 2024;390(8):701-11. doi:10.1056/NEJMoa2310392.
+
+[must-add] NEW
+  TOPIC: Extracranial carotid stenosis prevalence in Vietnamese TIA / ischaemic stroke
+  CITE : Ton MD, Hung PM, Nguyen TN, Tung BN. Prevalence and associated factors of extracranial carotid stenosis in Northern Vietnamese patients with transient ischemic attack or ischemic stroke. Cerebrovasc Dis Extra. 2025;15(1):210-217. doi:10.1159/000548297.
+
+[must-add] NEW
+  TOPIC: Factor XI inhibition — LIBREXIA-STROKE (milvexian): ONGOING, no results published
+  CITE : Ferrari F, Villa RF. Factor XI inhibition for ischemic stroke secondary prevention: pharmacology, clinical evidence, and future directions. J Clin Pharmacol. 2026;66(8):e70266. doi:10.1002/jcph.70266.
+
+[must-add] NEW
+  TOPIC: Factor XI inhibition — OCEANIC-STROKE (asundexian) main results, the single biggest change in this field since the document's evidence base
+  CITE : Sharma M, Dong Q, Hirano T, Kasner SE, Saver JL, Masjuan J, et al. Asundexian for secondary stroke prevention. N Engl J Med. 2026;394(15):1467-79. doi:10.1056/NEJMoa2513880.
+
+[must-add] NEW
+  TOPIC: GBD 2021 stroke burden, Vietnam-specific
+  CITE : Truyen TTTT, Vo NLY, Vo QP, Phan TC, Le PNB, Nguyen HT, et al. Burden and risk factors of stroke in Vietnam from 1990 to 2021 - a systematic analysis from global burden disease 2021. J Stroke Cerebrovasc Dis. 2025;34(3):108241. doi:10.1016/j.jstrokecerebrovasdis.2025.108241.
+
+[must-add] NEW
+  TOPIC: GLP-1 receptor agonist cardiovascular outcomes — SOUL (oral semaglutide)
+  CITE : McGuire DK, Marx N, Mulvagh SL, Deanfield JE, Inzucchi SE, Pop-Busui R, et al. Oral semaglutide and cardiovascular outcomes in high-risk type 2 diabetes. N Engl J Med. 2025;392(20):2001-2012. doi:10.1056/NEJMoa2501006.
+
+[must-add] NEW
+  TOPIC: Inclisiran has no published cardiovascular outcomes trial (ORION-4, VICTORION-2P)
+  CITE : Steg PG, Goodman SG, Jukema JW, Martens P, Zirlik A, Bhatt DL, et al. Design of VICTORION-2 Prevent: a randomized double-blind, placebo-controlled trial assessing the impact of inclisiran on major adverse cardiovascular events. Am Heart J. 2026;300:107493. doi:10.1016/j.ahj.2026.107493. | ClinicalTrials.gov. NCT03705234 (ORION-4), status active not recruiting, primary completion 2026-10; NCT05030428 (VICTORION-2-PREVENT), status active not recruiting, primary completion 2027-05-10. Both accessed 29 August 2026.
+
+[must-add] NEW
+  TOPIC: Intracranial atherosclerotic stenosis prevalence across Asian populations
+  CITE : Navarro JC, Pedregosa BIC, Punsalan MTS, Baroque GAB, Sarfati MSF, Cañete MTA, et al. Intracranial atherosclerotic stenosis in Asia: a systematic scoping and rapid review of prevalence, frequency in ischaemic stroke and risk factors. BMJ Neurol Open. 2025;7(2):e001164. doi:10.1136/bmjno-2025-001164.
+
+[must-add] NEW
+  TOPIC: Lipid lowering after stroke — how low to go (FOURIER/FOURIER-OLE prior-ischaemic-stroke analysis)
+  CITE : Monguillon V, Kelly PJ, O'Donoghue ML, Park JG, Bohula EA, Saver JL, et al. Efficacy and safety of very low achieved LDL cholesterol in patients with previous ischemic stroke. Circulation. 2026;153(2):86-93. doi:10.1161/CIRCULATIONAHA.125.077549.
+
+[must-add] NEW
+  TOPIC: Lipoprotein(a) — no outcomes trial has reported yet
+  CITE : Ebubechukwu U, Ugoala O, Shahid R, Kulkarni A. Novel lipoprotein(a) therapies: a comprehensive review. Curr Atheroscler Rep. 2026;28(1):81. doi:10.1007/s11883-026-01453-9. | Cho L, Nicholls SJ, Nordestgaard BG, Landmesser U, Tsimikas S, Blaha MJ, et al. Design and rationale of Lp(a)HORIZON trial: assessing the effect of lipoprotein(a) lowering with pelacarsen on major cardiovascular events in patients with CVD and elevated Lp(a). Am Heart J. 2025;287:1-9. doi:10.1016/j.ahj.2025.03.019.
+
+[must-add] NEW
+  TOPIC: Meta-analysis of the three modern asymptomatic-carotid RCTs (CREST-2 + ECST-2 + SPACE-2)
+  CITE : Gao Y, Wang L, Zhang H, et al. Medical management and revascularization for asymptomatic carotid stenosis: a meta-analysis of randomized controlled trials. J Neurol. 2026;273(4):220. doi:10.1007/s00415-026-13766-5. PMID: 41860631. // Ali A, Cheema WA, Nisar F, et al. Modern management of asymptomatic carotid stenosis: a meta-analysis of CREST-2, SPACE-2, and ECST-2. Ann Clin Transl Neurol. 2026 Jul 13 [online ahead of print; no volume/pages assigned]. doi:10.1002/acn3.70479. PMID: 42439053.
+
+[must-add] NEW
+  TOPIC: NOAH-AFNET 6 — edoxaban vs placebo in atrial high-rate episodes
+  CITE : Kirchhof P, et al. Anticoagulation with edoxaban in patients with atrial high-rate episodes. N Engl J Med. 2023;389(13):1167-79. doi:10.1056/NEJMoa2303062.
+
+[must-add] NEW
+  TOPIC: Network meta-analysis: DAPT vs IVT vs aspirin in acute NON-DISABLING minor stroke (ESO-affiliated authors)
+  CITE : Lun F, Palaiodimou L, Katsanos AH, Tsivgoulis G, Turc G. Intravenous thrombolysis or antiplatelet therapy for acute nondisabling ischemic stroke: a systematic review and network meta-analysis. Eur Stroke J. 2025;10(2):330-8. doi:10.1177/23969873241293323.
+
+[must-add] NEW
+  TOPIC: OPTION — tenecteplase 4.5-24 h in NON-large-vessel-occlusion stroke (the extended-window trial closest to the minor-stroke population)
+  CITE : Ma G, Mo R, Zuo Y, Ma Q, Zhao G, Yao X, et al. Tenecteplase for acute non-large vessel occlusion 4.5 to 24 hours after ischemic stroke: the OPTION randomized clinical trial. JAMA. 2026;335(13):1137-47. doi:10.1001/jama.2026.0210.
+
+[must-add] NEW
+  TOPIC: PASCAL classification — definitive validation in the SCOPE individual-participant-data meta-analysis of all 6 PFO closure RCTs
+  CITE : Saver JL, Kent DM, Kasner SE, Koethe B, Carroll JD, Chatellier G, et al. Patent foramen ovale closure in stroke and the PASCAL classification system. JAMA Neurol. 2026;83(3):242-9. doi:10.1001/jamaneurol.2025.5446.
+
+[must-add] NEW
+  TOPIC: PFO closure beyond age 60 — systematic review and meta-analysis (the only synthesis available)
+  CITE : Jazayeri SB, Phan C, Ghozy S, Ravichandran S, Maleki AH, Dumitrascu OM, et al. Outcomes of patent foramen ovale closure in patients over 60 years with cryptogenic stroke: a systematic review and meta-analysis. Int J Stroke. 2026;21(5):603-12. doi:10.1177/17474930251392333.
+
+[must-add] NEW
+  TOPIC: PFO closure beyond age 60 — the two ongoing randomised trials (registry records, no results)
+  CITE : CLOSE-2: Assistance Publique - Hôpitaux de Paris. Transcatheter patent foramen ovale (PFO) closure, oral anticoagulants or antiplatelet therapy after PFO-associated stroke in patients between 60 and 80 years old: a randomised controlled trial. ClinicalTrials.gov identifier NCT05387954. Bethesda (MD): National Library of Medicine (US); 2022 [cited 2026 Aug 29]. Available from: https://clinicaltrials.gov/study/NCT05387954. STOP: Rodés-Cabau J. Medical treatment with or without transcatheter patent foramen ovale closure for older patients with cryptogenic stroke and patent foramen ovale: the STOP trial. ClinicalTrials.gov identifier NCT05907694. Bethesda (MD): National Library of Medicine (US); 2023 [cited 2026 Aug 29]. Available from: https://clinicaltrials.gov/study/NCT05907694.
+
+[must-add] NEW
+  TOPIC: Pooled RCT evidence: IV thrombolysis in minor stroke (NIHSS ≤5) — the definitive quantitative synthesis
+  CITE : Doheim MF, Nguyen TN, Xiong Y, Chen HS, Bhatt NR, Wang Y, et al. Meta-analysis of randomized controlled trials on IV thrombolysis in patients with minor acute ischemic stroke. Neurology. 2025;105(3):e213863. doi:10.1212/WNL.0000000000213863.
+
+[must-add] NEW
+  TOPIC: RES-Q registry Vietnam - national scale and secondary-prevention gap
+  CITE : Ton MD, Phuong DV, Dung NT, Chi NV, Hoa TT, Minh TC, et al. Anticoagulation patterns in ischemic stroke patients with atrial fibrillation in developing country: insights from the stroke registry in Vietnam. J Cardiovasc Dev Dis. 2024;11(9):269. doi:10.3390/jcdd11090269.
+
+[must-add] NEW
+  TOPIC: SGLT2 inhibitors and stroke — the document's claim needs correction
+  CITE : Prentza V, Pavlidis G, Ikonomidis I, Pililis S, Lampsas S, Kountouri A, et al. Antidiabetic treatment and prevention of ischemic stroke: a systematic review. J Clin Med. 2024;13(19):5786. doi:10.3390/jcm13195786.
+
+[must-add] NEW
+  TOPIC: Stroke-specific effects of intensive BP lowering (ESPRIT prespecified stroke analysis)
+  CITE : Li J, Lei L, Li Y, Zhang H, Yan X, Sun Y, et al. Effect of intensive blood pressure control on stroke: a prespecified secondary analysis of the ESPRIT trial. J Am Coll Cardiol. 2025;86(17):1405-1417. doi:10.1016/j.jacc.2025.07.055.
+
+[must-add] NEW
+  TOPIC: TAPIS — early ticagrelor + aspirin DAPT combined with intravenous thrombolysis (positive trial, overturns the 'no DAPT if thrombolysed' rule for moderate stroke)
+  CITE : Wang A, Xia X, Tang Y, Zhang F, Han X, Li J, et al. Ticagrelor with aspirin dual antiplatelet therapy combined with intravenous thrombolysis in patients with ischaemic stroke in China (TAPIS): a multicentre, double-blind, randomised controlled trial. Lancet. 2026;407(10542):1919-28. doi:10.1016/S0140-6736(26)00757-9.
+
+[must-add] NEW
+  TOPIC: TEMPO-2 secondary analysis — the "minor DISABLING stroke" question (the single most important gap)
+  CITE : Zhang Y, Buck BH, Barber PA, Chatterjee K, Clarke B, Choi PMC, et al. Thrombolysis with tenecteplase for minor disabling stroke: secondary analysis of the TEMPO-2 randomized clinical trial. JAMA Neurol. 2025;82(12):1243-50. doi:10.1001/jamaneurol.2025.4152.
+
+[must-add] NEW
+  TOPIC: The 2026 AHA/ASA guideline the document leans on has a PUBLISHED CORRECTION and a public dispute — neither is acknowledged
+  CITE : Prabhakaran S, Gonzalez NR, Zachrison KS, Adeoye O, Alexandrov AW, Ansari SA, et al. Correction to: 2026 guideline for the early management of patients with acute ischemic stroke: a guideline from the American Heart Association/American Stroke Association. Stroke. 2026;57(8):e461-e467. doi:10.1161/STR.0000000000000530. AND Albers GW, Warach SJ, Saver JL, Fisher M, Heit JJ, Derdeyn CP, et al. Proposed corrections to the 2026 guideline for the early management of patients with acute ischemic stroke. Stroke. 2026;57(9):2935-8. doi:10.1161/STROKEAHA.126.056478. AND Gonzalez NR, Prabhakaran S, Zachrison KS, Leira EC, Bahouth MN, Broderick JP; 2026 AHA/ASA Acute Ischemic Stroke Guideline Writing Group. Response to request for modification of the 2026 AHA/ASA acute ischemic stroke guidelines: endovascular thrombectomy imaging selection in the 6- to 24-hour window. Stroke. 2026;57(9):2939-48. doi:10.1161/STROKEAHA.126.056726.
+
+[must-add] NEW
+  TOPIC: Timing of DAPT initiation — large registry analysis directly challenging the document's 24-72 h window claim
+  CITE : Shin J, Lee KJ, Kim CK, Oh K, Kim DY, Kim BJ, et al. Timing of initiation and efficacy of dual antiplatelet therapy in minor stroke or high-risk TIA. Stroke. 2026;57(3):673-83. doi:10.1161/STROKEAHA.125.053343.
+
+[must-add] NEW
+  TOPIC: Timing of high-intensity statin after minor stroke / high-risk TIA (INSPIRES statin arm)
+  CITE : Gao Y, Jiang L, Pan Y, Chen W, Jing J, Wang C, et al. Immediate- or delayed-intensive statin in acute cerebral ischemia: the INSPIRES randomized clinical trial. JAMA Neurol. 2024;81(7):741-751. doi:10.1001/jamaneurol.2024.1433.
+
+[must-add] IN DOC
+  TOPIC: Vietnamese Ministry of Health stroke guideline — Quyết định 3312/QĐ-BYT VERIFIED
+  CITE : Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.
+
+[must-add] NEW
+  TOPIC: Vietnamese stroke unit network - the only quantitative national organisational data
+  CITE : Phan HT, Nguyen TH, Watkins C, Lightbody E, Boaden E, Georgiou R, et al. Organisational survey for acute stroke care in Vietnam: Regional Collaboration Programme. J Stroke Cerebrovasc Dis. 2022;31(11):106792. doi:10.1016/j.jstrokecerebrovasdis.2022.106792.
+
+[should-add] NEW
+  TOPIC: 2025 AHA/ACC multisociety high blood pressure guideline (retires the 2017 guideline)
+  CITE : Writing Committee Members; Jones DW, Ferdinand KC, Taler SJ, Johnson HM, Shimbo D, et al. 2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM guideline for the prevention, detection, evaluation and management of high blood pressure in adults. Circulation. 2025;152(11):e114-e218. doi:10.1161/CIR.0000000000001356. (Also published as Hypertension. 2025;82(10):e212-e316, doi:10.1161/HYP.0000000000000249, and J Am Coll Cardiol. 2025;86(18):1567-1678, doi:10.1016/j.jacc.2025.05.007.)
+
+[should-add] NEW
+  TOPIC: 2025 update to the ESO guideline on blood pressure management in acute ischaemic stroke and intracerebral haemorrhage
+  CITE : Sandset EC, Palaiodimou L, Jahr SH, Ho L, Fischer U, Katsanos AH, et al. 2025 update to European Stroke Organisation (ESO) guideline on blood pressure management in acute ischaemic stroke and intracerebral haemorrhage. Eur Stroke J. 2026;11(5):aakag004. doi:10.1093/esj/aakag004
+
+[should-add] NEW
+  TOPIC: 2026 ACC/AHA multisociety dyslipidaemia guideline (retires the 2018 blood cholesterol guideline)
+  CITE : Writing Committee Members; Blumenthal RS, Morris PB, Gaudino M, Johnson HM, Anderson TS, et al. 2026 ACC/AHA/AACVPR/ABC/ACPM/ADA/AGS/APhA/ASPC/NLA/PCNA guideline on the management of dyslipidemia. Circulation. 2026;153(17):e1154-e1276. doi:10.1161/CIR.0000000000001423. (Also published as J Am Coll Cardiol. 2026;87(19):2624-2757, doi:10.1016/j.jacc.2025.11.016.)
+
+[should-add] IN DOC
+  TOPIC: 2026 AHA/ASA acute ischaemic stroke guideline - citation confirmed, but a published CORRECTION exists
+  CITE : Prabhakaran S, Gonzalez NR, Zachrison KS, Adeoye O, Alexandrov AW, Ansari SA, et al. 2026 guideline for the early management of patients with acute ischemic stroke: a guideline from the American Heart Association/American Stroke Association. Stroke. 2026;57(8):e316-e436. doi:10.1161/STR.0000000000000513. Correction: Stroke. 2026;57(8):e461-e467. doi:10.1161/STR.0000000000000530.
+
+[should-add] NEW
+  TOPIC: AMALFI — remote mail-based ECG-patch screening for AF in high-risk older people
+  CITE : Wijesurendra RS, et al. Remote screening for asymptomatic atrial fibrillation: the AMALFI randomized clinical trial. JAMA. 2025;334(15):1349-57. doi:10.1001/jama.2025.15440. PMID: 40878848.
+
+[should-add] NEW
+  TOPIC: ARAMIS post hoc — the LVO/no-LVO split, and the timing split, for DAPT vs alteplase
+  CITE : Cui Y, He C, Li ZA, Wang Y, Chen HS. Dual antiplatelet versus alteplase for early neurologic deterioration in minor stroke with versus without large vessel occlusion: prespecified post hoc analysis of the ARAMIS trial. Stroke. 2024;55(11):2590-8. doi:10.1161/STROKEAHA.124.048248. AND Yao ZG, Pei YF, Chen HS. Onset to treatment time and early neurological deterioration of dual antiplatelet therapy versus alteplase in minor stroke. J Am Heart Assoc. 2025;14(21):e043980. doi:10.1161/JAHA.125.043980.
+
+[should-add] NEW
+  TOPIC: ARCADIA secondary analysis — bleeding profile (confirms the correction above)
+  CITE : Kamel H, Longstreth WT Jr, Tirschwell DL, Kronmal RA, Elkind MSV, Pauls Q, et al. Apixaban versus aspirin and risk of hemorrhage in the ARCADIA trial. Ann Neurol. 2026;99(6):1589-97. doi:10.1002/ana.78186.
+
+[should-add] NEW
+  TOPIC: ARCADIA — hypertensive arteriopathy as an explanation for ESUS anticoagulation trial failures
+  CITE : Ridha M, Hailat R, Stanton R, Merkler AE, Elkind MSV, Longstreth WT Jr, et al. Hypertension with high-risk features in cryptogenic stroke: an exploratory analysis of the ARCADIA randomized clinical trial. JAMA Neurol. 2026;83(6):573-81. doi:10.1001/jamaneurol.2026.0855.
+
+[should-add] NEW
+  TOPIC: ARCADIA — left ventricular systolic dysfunction as a candidate responder phenotype
+  CITE : Sharma R, Jillella D, Zhang C, Elkind MSV, Kamel H, Di Tullio MR, et al. Apixaban and recurrent stroke risk with left ventricular dysfunction: a secondary analysis of the ARCADIA trial. Stroke. 2025;56(11):3118-26. doi:10.1161/STROKEAHA.125.052724.
+
+[should-add] NEW
+  TOPIC: Atrial cardiopathy biomarkers — new imaging marker: left atrial to left ventricular volume ratio
+  CITE : Deseoe J, Hänsel M, Herzog L, Davoudi N, Luft AR, Gebhard C, et al. Ratio of left atrial and ventricular volume as new marker of atrial cardiopathy and stroke risk. Stroke. 2026;57(8):2426-36. doi:10.1161/STROKEAHA.126.055551.
+
+[should-add] NEW
+  TOPIC: Atrial cardiopathy in ESUS — large East Asian real-world cohort (directly relevant to the Vietnamese population argument)
+  CITE : Kim SH, Kim HJ, Kim HK, Baek JH, Kim HY, Hwang YH, et al. Atrial cardiopathy worsens neurological severity, raises recurrence rates, and leads to poor vascular outcomes in patients with embolic stroke of undetermined source. J Stroke. 2025;27(3):350-9. doi:10.5853/jos.2025.00906.
+
+[should-add] NEW
+  TOPIC: Atrial fibrillation prevalence in Vietnamese TIA / ischaemic stroke
+  CITE : Phong PD, Tung BN, Hung PM, Quang NN, Hoai NTT, Dung NV, et al. Prevalence and factors associated with atrial fibrillation in patients with transient ischemic attack or ischemic stroke in Northern Vietnam. J Clin Med. 2023;12(17):5516. doi:10.3390/jcm12175516.
+
+[should-add] NEW
+  TOPIC: CHANCE-2 one-year outcomes — durability of CYP2C19-guided ticagrelor beyond 90 days
+  CITE : Meng X, Wang A, Tian X, Johnston SC, Li H, Bath PM, et al. One-year outcomes of early therapy with ticagrelor vs clopidogrel in CYP2C19 loss-of-function carriers with stroke or TIA trial. Neurology. 2024;102(3):e207809. doi:10.1212/WNL.0000000000207809.
+
+[should-add] NEW
+  TOPIC: CLOSURE-AF — LAAO vs physician-directed medical therapy in high stroke and bleeding risk AF
+  CITE : Landmesser U, et al. Left atrial appendage closure or medical therapy in atrial fibrillation. N Engl J Med. 2026;394(13):1270-80. doi:10.1056/NEJMoa2513310. PMID: 41849741.
+
+[should-add] NEW
+  TOPIC: CONVINCE secondary analyses — colchicine effect by stroke subtype and by presence of atherosclerosis
+  CITE : Maes L, Walsh C, Weimar C, Purroy F, Price C, Clarke B, et al. Effect of colchicine for secondary prevention according to stroke subtype: a secondary analysis of the CONVINCE randomized trial. Int J Stroke. 2026;21(7):1009-18. doi:10.1177/17474930251406818. AND McCabe JJ, Lemmens R, Purroy F, Walsh C, Weimar C, Czlonkowska A, et al. Colchicine for secondary prevention after stroke according to the presence of atherosclerosis. Stroke. 2026. Epub 2026 Aug. doi:10.1161/STROKEAHA.126.056561 (volume/pages not yet assigned as of 29 Aug 2026).
+
+[should-add] NEW
+  TOPIC: CREST-2 - magnitude and severity of the prevented events (critical appraisal)
+  CITE : Darsaut TE, Raymond J, Iancu D, Chagnon M, Gevry G, Fahed R. Understanding statistical versus clinical significance: a critical appraisal of the CREST-2 study. Neurochirurgie. 2026;72(3):101798. doi:10.1016/j.neuchi.2026.101798. PMID: 41886913. // Musialek P, et al. CREST-2 findings are unchanged using an aggregated control group for the CAS and CEA trial. Postepy Kardiol Interwencyjnej. 2026;22(2):178-89. doi:10.5114/aic.2026.163187. PMID: 42598485.
+
+[should-add] NEW
+  TOPIC: Colchicine after myocardial infarction — the negative anchor trial (CLEAR SYNERGY / OASIS 9)
+  CITE : Jolly SS, d'Entremont MA, Lee SF, Mian R, Tyrwhitt J, Kedev S, et al. Colchicine in acute myocardial infarction. N Engl J Med. 2025;392(7):633-642. doi:10.1056/NEJMoa2405922.
+
+[should-add] NEW
+  TOPIC: Countervailing evidence: IVT may help minor stroke WITH large-vessel severe stenosis or occlusion
+  CITE : Zhang T, Tong L, Xu L, Liu R, Xie L, Jiang L, et al. Intravenous thrombolysis versus standard medical therapy in minor stroke patients with large vessel severe stenosis or occlusion: a systematic review and meta-analysis. BMC Med. 2026;24(1):238. doi:10.1186/s12916-026-04777-0.
+
+[should-add] NEW
+  TOPIC: DAPT in stroke/TIA WITHOUT stenotic large-artery atherosclerosis — meta-analysis with trial sequential analysis casting doubt on generalisability
+  CITE : Ibiapino MK, Ibrahim M, Kumar V, Mamani-Sucari DL, Mantovani SZ, Haitovich I, et al. Dual antiplatelet therapy in stroke without stenotic atherosclerosis: a meta-analysis with trial sequential analysis. Int J Stroke. 2026. Epub 2026 Jul 27. doi:10.1177/17474930261475466 (volume/pages not yet assigned as of 29 Aug 2026; article number 17474930261475466).
+
+[should-add] NEW
+  TOPIC: Device-detected AF with vs without vascular disease — combined NOAH-AFNET 6 + ARTESiA analysis
+  CITE : Schnabel RB, et al. Anticoagulation in device-detected atrial fibrillation with or without vascular disease: a combined analysis of the NOAH-AFNET 6 and ARTESiA trials. Eur Heart J. 2024;45(46):4902-16. doi:10.1093/eurheartj/ehae596. PMID: 39222018.
+
+[should-add] NEW
+  TOPIC: Drug-coated balloons for intracranial atherosclerotic stenosis - two randomised trials
+  CITE : Guan S, Tong X, Li X, Wang B, Jia B, Gao F, et al. Drug-coated balloon for endovascular treatment of symptomatic intracranial stenotic disease: a multicenter randomized controlled trial. Radiology. 2026;318(1):e250893. doi:10.1148/radiol.250893. PMID: 41557900. // Ma G, Sun D, Jia B, Ling L, Nguyen TN, Sun X, et al. Comparison of drug-coated balloon with bare-metal stent in patients with symptomatic intracranial atherosclerotic stenosis: the AcoArt sICAS randomized clinical trial. J Neurointerv Surg. 2026;18(2):500-7. doi:10.1136/jnis-2024-022768. PMID: 41815310 (record set).
+
+[should-add] IN DOC
+  TOPIC: ESO guideline on diagnosis and management of patent foramen ovale after stroke (2024)
+  CITE : Caso V, Turc G, Abdul-Rahim AH, Castro P, Hussain S, Lal A, et al. European Stroke Organisation (ESO) guidelines on the diagnosis and management of patent foramen ovale (PFO) after stroke. Eur Stroke J. 2024;9(4):800-834. doi:10.1177/23969873241247978
+
+[should-add] NEW
+  TOPIC: GBD 2023 global stroke figures (supersede GBD 2021 headline numbers)
+  CITE : Feigin VL, Volovici V, Brainin M, Norrving B, Martins SO, Roth GA. The latest global stroke fact sheet 1990-2023: Global Burden of Disease Study. Neuroepidemiology. 2026 May 7:1-18. doi:10.1159/000552065. [Online ahead of print - no volume/issue/final pages assigned as of 29 Aug 2026.]
+
+[should-add] NEW
+  TOPIC: GUARD-AF — population screening with 14-day ECG patch to prevent stroke
+  CITE : Lopes RD, et al. Effect of screening for undiagnosed atrial fibrillation on stroke prevention. J Am Coll Cardiol. 2024;84(21):2073-84. doi:10.1016/j.jacc.2024.08.019. PMID: 39230544.
+
+[should-add] NEW
+  TOPIC: Glycoprotein IIb/IIIa inhibition — two new randomised trials of intravenous tirofiban after thrombolysis
+  CITE : Tao C, Liu T, Cui T, Liu J, Li Z, Ren Y, et al. Early tirofiban infusion after intravenous thrombolysis for stroke. N Engl J Med. 2025;393(12):1191-201. doi:10.1056/NEJMoa2503678. AND INSTANT Trial Authors for the INSTANT Investigators, Liu X, Zhang F, Zhang C, Li Z, Yuan G, et al. Intravenous tirofiban after tenecteplase in acute ischemic stroke: the INSTANT randomized clinical trial. JAMA. 2026;335(22):1949-58. doi:10.1001/jama.2026.5245.
+
+[should-add] NEW
+  TOPIC: INSPIRES secondary analysis — efficacy by exact time-to-randomisation window (24 h vs 24-48 h vs 48-72 h)
+  CITE : Liu Y, Zhao J, Gao Y, Chen W, Johnston SC, Bath PM, et al. Clopidogrel and aspirin initiated between 24 to 72 hours for mild ischemic stroke: a subgroup analysis of the INSPIRES randomized clinical trial. JAMA Netw Open. 2024;7(9):e2431938. doi:10.1001/jamanetworkopen.2024.31938.
+
+[should-add] NEW
+  TOPIC: INSPIRES secondary analysis — time-course of benefit vs risk within the 90 days (the evidence base for the '21 days' rule at the 24-72 h window)
+  CITE : Guan L, Han S, Johnston SC, Bath PM, Amarenco P, Yang Y, et al. Duration of benefit and risk of dual antiplatelet therapy up to 72 hours after mild ischemic stroke and transient ischemic attack. Neurology. 2024;103(7):e209845. doi:10.1212/WNL.0000000000209845.
+
+[should-add] NEW
+  TOPIC: INSPIRES secondary analysis — treatment effect stratified by baseline recurrence risk (Essen Stroke Risk Score)
+  CITE : Zhang Y, Wang X, Gao Y, Chen W, Johnston SC, Amarenco P, et al. Dual antiplatelet treatment up to 72 hours after ischemic stroke stratified by risk profile: a post hoc analysis. Stroke. 2025;56(1):46-55. doi:10.1161/STROKEAHA.124.049246.
+
+[should-add] NEW
+  TOPIC: International RES-Q benchmarking of acute stroke care quality
+  CITE : Mikulik R, Neto G, Sedani R, Ameriso SF, Mammadova N, Marchenko S, et al. Differences in acute ischemic stroke treatment: a cross-sectional study from international Registry of Stroke Care Quality (RES-Q). Int J Stroke. 2026;21(2):188-199. doi:10.1177/17474930251364082.
+
+[should-add] NEW
+  TOPIC: Intracranial atherosclerosis in an ethnically Vietnamese population
+  CITE : Alysha D, Blair C, Thomas P, Pham T, Nguyen T, Cordato TR, et al. Comparative prevalence of cerebrovascular disease in Vietnamese communities in South-Western Sydney. J Cardiovasc Dev Dis. 2024;11(6):164. doi:10.3390/jcdd11060164.
+
+[should-add] NEW
+  TOPIC: Lipid management guidance written specifically for stroke (ILEP consensus and Int J Stroke review)
+  CITE : Banach M, Toth PP, Ahn HJ, Bielecka-Dabrowa A, Cicero AFG, Covic A, et al. Lipid management for primary and secondary stroke prevention consensus paper of the International Lipid Expert Panel (ILEP). Prog Cardiovasc Dis. 2026;94:78-110. doi:10.1016/j.pcad.2025.11.003. | Stefanou MI, Panagiotopoulos E, Liberopoulos E, Milionis H, Theodorou A, Katan M, et al. Dyslipidemia management in stroke prevention: an individualized approach. Int J Stroke. 2026;21(6):759-777. doi:10.1177/17474930261418388.
+
+[should-add] NEW
+  TOPIC: Long-term prognostic factors after TIA or minor stroke (large 2026 meta-analysis, useful for the monograph's prognosis chapter)
+  CITE : Khan F, Yogendrakumar V, Lun R, Marx CE, Rochwerg B, Tran A, et al. Prognostic factors for long-term risk of stroke after transient ischemic attack or minor stroke: a systematic review and meta-analysis. Circulation. 2026;153(17):1281-95. doi:10.1161/CIRCULATIONAHA.125.078763.
+
+[should-add] NEW
+  TOPIC: Network meta-analysis of DAPT duration in acute minor non-cardioembolic stroke — quantitative support for the document's '21 days' recommendation
+  CITE : Liu W, Luo S, Huang R, Li Y, Li D, Deng Y. Comparative efficacy and safety of different durations of dual antiplatelet therapy in acute minor non-cardioembolic stroke: a systematic review and network meta-analysis. J Neurol. 2025;272(7):474. doi:10.1007/s00415-025-13210-0.
+
+[should-add] NEW
+  TOPIC: OPTION — LAAO vs oral anticoagulation after AF catheter ablation
+  CITE : Wazni OM, et al. Left atrial appendage closure after ablation for atrial fibrillation. N Engl J Med. 2025;392(13):1277-87. doi:10.1056/NEJMoa2408308. PMID: 39555822.
+
+[should-add] NEW
+  TOPIC: ORIGINAL — tenecteplase non-inferior to alteplase in Chinese patients within 4.5 h
+  CITE : Meng X, Li S, Dai H, Lu G, Wang W, Che F, et al. Tenecteplase vs alteplase for patients with acute ischemic stroke: the ORIGINAL randomized clinical trial. JAMA. 2024;332(17):1437-45. doi:10.1001/jama.2024.14721.
+
+[should-add] NEW
+  TOPIC: PASCAL and RoPE — external validation in long-term real-world cohorts
+  CITE : Goessinger B, Greisenegger S, Kastl S, Rosenhek R, Serles W, Hengstenberg C, et al. Stroke recurrence after transcatheter PFO closure in patients with cryptogenic stroke. Int J Stroke. 2025;20(4):450-60. doi:10.1177/17474930241298778. AND Gaspardone C, Trabattoni D, d'Atri DO, Morosato M, Costa P, Fraccaro C, et al. 15-year outcomes of PFO closure in patients with cryptogenic embolism: insights from the PROLONG registry. JACC Cardiovasc Interv. 2025;18(12):1526-37. doi:10.1016/j.jcin.2025.04.041.
+
+[should-add] NEW
+  TOPIC: PCSK9 inhibition extended below the classic secondary-prevention population (VESALIUS-CV)
+  CITE : Bohula EA, Marston NA, Bhatia AK, De Ferrari GM, Leiter LA, Nicolau JC, et al. Evolocumab in patients without a previous myocardial infarction or stroke. N Engl J Med. 2026;394(2):117-127. doi:10.1056/NEJMoa2514428.
+
+[should-add] NEW
+  TOPIC: PFO and stroke — current authoritative narrative review with pooled trial estimates (useful single citation for section 4.2)
+  CITE : Kent DM, Wang AY. Patent foramen ovale and stroke: a review. JAMA. 2025;334(16):1463-73. doi:10.1001/jama.2025.10946.
+
+[should-add] NEW
+  TOPIC: PUMICE — prourokinase vs standard care in mild stroke (a new negative trial in exactly this population)
+  CITE : Xiong Y, Meng X, Jin A, Campbell BCV, Xu A, Dong Q, et al. Prourokinase vs standard care for patients with mild ischemic stroke: the PUMICE randomized clinical trial. JAMA Neurol. 2025;82(3):258-66. doi:10.1001/jamaneurol.2024.4688.
+
+[should-add] NEW
+  TOPIC: Pooled long-term colchicine evidence across vascular beds
+  CITE : Samuel M, Berry C, Dubé MP, Koenig W, López-Sendón J, Maggioni AP, et al. Long-term trials of colchicine for secondary prevention of vascular events: a meta-analysis. Eur Heart J. 2025;46(26):2552-63. doi:10.1093/eurheartj/ehaf174.
+
+[should-add] NEW
+  TOPIC: Pooled study-level meta-analysis of NOAH-AFNET 6 and ARTESiA
+  CITE : McIntyre WF, et al. Direct oral anticoagulants for stroke prevention in patients with device-detected atrial fibrillation. Circulation. 2024;149(13):981-8. doi:10.1161/CIRCULATIONAHA.123.067512.
+
+[should-add] NEW
+  TOPIC: SAMMPRIS + CASSISS preplanned pooled individual-patient-data analysis
+  CITE : Wang T, Luo J, Li T, Wang X, Gao P, Yang R, et al. Stenting versus medical treatment alone for symptomatic intracranial artery stenosis: a preplanned pooled individual patient data analysis. J Neurointerv Surg. 2025;17(10):1032-9. doi:10.1136/jnis-2024-022189. PMID: 39147573.
+
+[should-add] NEW
+  TOPIC: SPACE-2 - 5-year results (context for the asymptomatic carotid section)
+  CITE : Reiff T, Eckstein HH, Mansmann U, Jansen O, Fraedrich G, Mudra H, et al.; SPACE-2 Investigators. Carotid endarterectomy or stenting or best medical treatment alone for moderate-to-severe asymptomatic carotid artery stenosis: 5-year results of a multicentre, randomised controlled trial. Lancet Neurol. 2022;21(10):877-88. doi:10.1016/S1474-4422(22)00290-3. PMID: 36115360.
+
+[should-add] NEW
+  TOPIC: Semaglutide in ASCVD without diabetes (SELECT)
+  CITE : Lincoff AM, Brown-Frandsen K, Colhoun HM, Deanfield J, Emerson SS, Esbjerg S, et al. Semaglutide and cardiovascular outcomes in obesity without diabetes. N Engl J Med. 2023;389(24):2221-2232. doi:10.1056/NEJMoa2307563.
+
+[should-add] NEW
+  TOPIC: Stroke subtype distribution in Vietnam - TOAST profile
+  CITE : Venketasubramanian N. Stroke epidemiology in Asia. Cerebrovasc Dis Extra. 2025;15(1):81-92. doi:10.1159/000543399.
+
+[should-add] NEW
+  TOPIC: TACTIS — ticagrelor+aspirin vs cilostazol+aspirin in large-vessel minor stroke/TIA, a cost-relevant comparison for low- and middle-income settings
+  CITE : Ismaiel M, Ahmed SR, Khalil MFE, Elmesallami AG, Ebied AAMK, Akl AZO, et al. Ticagrelor plus aspirin versus cilostazol plus aspirin in the acute-phase treatment of large-vessel minor stroke or TIA: a randomized controlled multi-center trial, the TACTIS trial. Int J Stroke. 2026;21(7):1019-29. doi:10.1177/17474930251406865.
+
+[should-add] NEW
+  TOPIC: TEMPO-2 secondary analysis — haemorrhage patterns explain the mortality signal
+  CITE : Massicotte S, Vatanpour S, Doolan C, Zhang J, Ganesh A, Choi PMC, et al. Intracranial hemorrhage patterns and outcomes in minor stroke: analysis of the TEMPO-2 trial. Stroke. 2026;57(6):1526-34. doi:10.1161/STROKEAHA.125.054491.
+
+[should-add] NEW
+  TOPIC: TEMPO-2 secondary analysis — patients >80 years are harmed
+  CITE : Ganesh A, Vatanpour S, Yu AYX, Barber P, Choi PMC, Field TS, et al. Outcomes after minor ischemic stroke in older patients treated with IV thrombolysis vs standard of care in the TEMPO-2 trial. Neurology. 2026;106(9):e214925. doi:10.1212/WNL.0000000000214925.
+
+[should-add] NEW
+  TOPIC: TEMPO-2 secondary analysis — recanalisation matters, but tenecteplase still does not
+  CITE : Singh N, Strbian D, Vatanpour S, Field TS, Yu AYX, Ganesh A, et al. Association of successful recanalization and functional outcomes in minor ischemic stroke with proven occlusion: a secondary analysis of TEMPO-2 trial. Stroke. 2026;57(8):2305-14. doi:10.1161/STROKEAHA.125.052872.
+
+[should-add] NEW
+  TOPIC: TRUST — IV urokinase vs best medical treatment in acute minor stroke (fourth negative lytic trial)
+  CITE : Tao Y, Gao Y, Zhao L, Xu Y, Jiang C, Liu K, et al. Effect of intravenous urokinase vs best medicine treatment on functional outcome for patients with acute minor stroke (TRUST): a randomized controlled trial. BMC Med. 2025;23(1):6. doi:10.1186/s12916-024-03820-2.
+
+[should-add] NEW
+  TOPIC: Timing of carotid stenting after TIA / non-disabling stroke in Vietnam
+  CITE : Nguyen Tung B, Quoc Thai N, Manh Hung P, Ngoc Quang N, Huynh Linh D, Duy Ton M. Timing of extracranial carotid revascularization following ischemic stroke or TIA: outcomes of early carotid stenting in a cohort study. Medicine (Baltimore). 2026;105(10):e47748. doi:10.1097/MD.0000000000047748.
+
+[should-add] NEW
+  TOPIC: Updated meta-analysis of tenecteplase beyond 4.5 h
+  CITE : Gonçalves OR, Scarcia L, Portela JGS, Santos GSB, Cardoso LJC, da Silva AMP, et al. Tenecteplase beyond the 4.5-h window for patients with acute ischemic stroke: an updated meta-analysis of randomized controlled trials. CNS Drugs. 2026;40(8):1073-87. doi:10.1007/s40263-026-01308-6.
+
+[should-add] NEW
+  TOPIC: When to (re)start antihypertensives after acute ischaemic stroke (CATIS-2)
+  CITE : Liu L, Xie X, Pan Y, Wang A, Wei Y, Liu J, et al. Early versus delayed antihypertensive treatment in patients with acute ischaemic stroke: multicentre, open label, randomised controlled trial. BMJ. 2023;383:e076448. doi:10.1136/bmj-2023-076448.
+
+[should-add] NEW
+  TOPIC: Who might still benefit from colchicine after stroke (CONVINCE atherosclerosis subgroup)
+  CITE : McCabe JJ, Lemmens R, Purroy F, Walsh C, Weimar C, Czlonkowska A, et al. Colchicine for secondary prevention after stroke according to the presence of atherosclerosis. Stroke. 2026 Aug 20 [Epub ahead of print; no volume/pages assigned as of 29 Aug 2026]. doi:10.1161/STROKEAHA.126.056561.
+
+[optional] IN DOC
+  TOPIC: 2024 AHA/ASA primary prevention of stroke guideline — citation VERIFIED, but two corrections exist
+  CITE : Bushnell C, Kernan WN, Sharrief AZ, Chaturvedi S, Cole JW, Cornwell WK 3rd, et al. 2024 guideline for the primary prevention of stroke: a guideline from the American Heart Association/American Stroke Association. Stroke. 2024;55(12):e344-e424. doi:10.1161/STR.0000000000000475. Corrections: Stroke. 2024;55(12):e439 and Stroke. 2025;56(2):e98.
+
+[optional] NEW
+  TOPIC: AI-enabled ECG risk-guided AF screening (VITAL-AF secondary analysis)
+  CITE : Risk-guided atrial fibrillation screening with AI-enabled ECG models: an analysis of the VITAL-AF trial. J Am Coll Cardiol. 2026;87(14):1798-813. doi:10.1016/j.jacc.2026.01.087. PMID: 41983618. (Title as returned by Europe PMC may be abbreviated; verify author list and exact title before citing.)
+
+[optional] NEW
+  TOPIC: APHRS scientific statement on stroke prevention in device-detected AF
+  CITE : Chao TF, et al. Asia Pacific Heart Rhythm Society (APHRS) scientific statement on stroke prevention strategies in device-detected atrial fibrillation. Lancet Reg Health West Pac. 2025;65:101770. doi:10.1016/j.lanwpc.2025.101770. PMID: 41476797.
+
+[optional] NEW
+  TOPIC: ARCADIA — cancer subgroup (relevant to the document's cancer-associated hypercoagulability discussion)
+  CITE : Navi BB, Zhang C, Miller B, Cushman M, Kasner SE, Elkind MSV, et al. Apixaban vs aspirin in patients with cancer and cryptogenic stroke: a post hoc analysis of the ARCADIA randomized clinical trial. JAMA Neurol. 2024;81(9):958-65. doi:10.1001/jamaneurol.2024.2404.
+
+[optional] NEW
+  TOPIC: ARCADIA — multiterritory infarction as a risk marker that anticoagulation does not modify
+  CITE : Gologorsky R, Lansberg MG, Wintermark M, Cassarly CN, Aragon Garcia R, Plummer P, et al. Multiterritory brain infarcts, anticoagulation, and recurrence after cryptogenic stroke: a subgroup analysis of the ARCADIA trial. Stroke. 2026;57(3):570-6. doi:10.1161/STROKEAHA.125.053079.
+
+[optional] NEW
+  TOPIC: ARCADIA-Cognition — no cognitive benefit from apixaban
+  CITE : Lazar RM, Howard G, Brewer MT, Cassarly C, Pauls Q, Kemp S, et al. Apixaban versus aspirin to reduce cognitive decline after cryptogenic stroke and atrial cardiopathy: ARCADIA-Cognition study. J Am Heart Assoc. 2025;14(18):e042147. doi:10.1161/JAHA.125.042147.
+
+[optional] NEW
+  TOPIC: ARTESiA subgroup — apixaban vs aspirin in subclinical AF with prior stroke/TIA
+  CITE : Shoamanesh A, Field TS, Coutts SB, Sharma M, Gladstone D, Hart RG, et al. Apixaban versus aspirin for stroke prevention in people with subclinical atrial fibrillation and a history of stroke or transient ischaemic attack: subgroup analysis of the ARTESiA randomised controlled trial. Lancet Neurol. 2025;24(2):140-51. doi:10.1016/S1474-4422(24)00475-7.
+
+[optional] IN DOC
+  TOPIC: ATTICUS — citation and numbers verified as correct in the document
+  CITE : Geisler T, Keller T, Martus P, Poli K, Serna-Higuita LM, Schreieck J, et al. Apixaban versus aspirin for embolic stroke of undetermined source. NEJM Evid. 2024;3(1):EVIDoa2300235. doi:10.1056/EVIDoa2300235.
+
+[optional] NEW
+  TOPIC: Asian consensus and Chinese national guidance on intracranial atherosclerotic stenosis
+  CITE : Leng X, Sui B, Liu C, Wang T, et al. Chinese guidelines for diagnosis and treatment of intracranial atherosclerotic stenosis. Int J Stroke. 2026 Jan 22:17474930261419812. doi:10.1177/17474930261419812. [Online ahead of print - no volume/pages assigned.]
+
+[optional] NEW
+  TOPIC: Aspirin dose within DAPT — POINT post hoc analysis
+  CITE : Qureshi AI, Huang Y, Ranjini NJ, Zahoor K, Suri MFK, French BR, et al. The effect of dose of aspirin in high-risk TIA and minor ischemic stroke patients receiving dual antiplatelet medication. J Stroke Cerebrovasc Dis. 2026;35(7):108664. doi:10.1016/j.jstrokecerebrovasdis.2026.108664.
+
+[optional] NEW
+  TOPIC: Atrial cardiopathy biomarkers — left atrial strain combined with NT-proBNP in cryptogenic stroke
+  CITE : López-Dequidt I, Eiras-Penas S, González-Maestro A, Peña-Gil C, Rodríguez-Castro E, Santamaría-Cadavid M, et al. Multiparametric assessment of atrial cardiopathy in cryptogenic stroke patients: implications for personalized clinical management. Eur Stroke J. 2026;11(1):23969873251372773. doi:10.1093/esj/23969873251372773.
+
+[optional] NEW
+  TOPIC: Blood pressure lowering after intracerebral haemorrhage (RECAP-ICH)
+  CITE : Wang X, Gao Y, Velasco MJ, Harris K, Li S, Li J, et al. Intensive blood pressure lowering after spontaneous intracerebral haemorrhage for secondary stroke prevention (RECAP-ICH): a systematic review and individual participant data meta-analysis. Lancet Neurol. 2026;25(9):830-839. doi:10.1016/S1474-4422(26)00244-9.
+
+[optional] NEW
+  TOPIC: CATALYST left atrial appendage occlusion trial (Amulet vs NOAC) — ONGOING, NO RESULTS
+  CITE : ClinicalTrials.gov. Amplatzer Amulet LAAO vs. NOAC (CATALYST). NCT04226547. Abbott Medical Devices. Active, not recruiting; estimated enrolment 2650; primary completion January 2029. Available from: https://clinicaltrials.gov/study/NCT04226547
+
+[optional] NEW
+  TOPIC: CYP2C19-guided therapy — CHANCE-2 biomarker and comorbidity post hoc analyses
+  CITE : Lin J, Zhou H, Wang Y, Jin A, Li S, Zhang L, et al. Lp-PLA2 activity and genotype-guided dual antiplatelet therapy in minor stroke or transient ischemic attack. Stroke. 2026;57(4):890-6. doi:10.1161/STROKEAHA.125.052954. AND Feng Z, Zhang F, Jin A, Li X, Li Y, Chu Q, et al. Genotype-guided dual antiplatelet therapy in minor stroke or transient ischemic attack with metabolic syndrome: a post hoc analysis of CHANCE-2. Diabetes Obes Metab. 2026;28(1):625-33. doi:10.1111/dom.70243.
+
+[optional] NEW
+  TOPIC: Early PCSK9 inhibition in acute ischaemic stroke — signal only, low certainty
+  CITE : Hamzah KA, Kurmasha YH, Shweliya MA, Al-Shammari AS, Alsaadany KR, Nofal AA, et al. Impact of early use of PCSK9 inhibitors in acute ischemic stroke: a systematic review and meta-analysis. Eur J Clin Pharmacol. 2026;82(4):103. doi:10.1007/s00228-026-04014-w. | Epelde F. PCSK9 inhibitors for secondary prevention in patients with prior stroke: a PRISMA-guided systematic review. Curr Neuropharmacol. 2026 Jul 25 [Epub ahead of print]. doi:10.2174/011570159X450809260715104225.
+
+[optional] NEW
+  TOPIC: Existing ref 21 (Mai DT 2022) - published correction not cited
+  CITE : Correction to: Current state of stroke care in Vietnam. Stroke Vasc Interv Neurol. 2022;3(3):e12306. doi:10.1161/svi2.12306.
+
+[optional] NEW
+  TOPIC: Factor XI inhibitor class context — AZALEA-TIMI 71 (abelacimab) and pooled asundexian evidence
+  CITE : Ruff CT, Patel SM, Giugliano RP, Morrow DA, Hug B, Kuder JF, et al. Abelacimab versus rivaroxaban in patients with atrial fibrillation. N Engl J Med. 2025;392(4):361-71. doi:10.1056/NEJMoa2406674. AND Abbas OF, Amin R, Ghozy S, Hamouda AM, Haddad R, Saha R, et al. Asundexian 50 mg for stroke prevention: a systematic review and meta-analysis of 14,031 patients. Naunyn Schmiedebergs Arch Pharmacol. 2026. Epub 2026 Aug. doi:10.1007/s00210-026-05796-7 (volume/pages not yet assigned as of 29 Aug 2026).
+
+[optional] NEW
+  TOPIC: Guideline companion piece — DAPT versus thrombolysis in non-disabling stroke within 4.5 hours
+  CITE : Osborne A, Inikori E, Simpkins AN. Guidelines in action: dual antiplatelet therapy for nondisabling stroke within the 4.5-hour window. Stroke. 2026;57(8):e295-e299. doi:10.1161/STROKEAHA.125.053825.
+
+[optional] NEW
+  TOPIC: Moderate-intensity statin plus ezetimibe versus high-intensity statin in acute cerebrovascular disease (MESIA)
+  CITE : Lv X, Liu X, Peng Y, Li W, Wang J, Chen X, et al. Medium-intensity statin with ezetimibe versus high-intensity statin in acute ischemic cerebrovascular disease (MESIA): a randomized clinical trial. J Stroke Cerebrovasc Dis. 2024;33(5):107647. doi:10.1016/j.jstrokecerebrovasdis.2024.107647.
+
+[optional] NEW
+  TOPIC: OCEANIC-STROKE supporting documents — design/baseline paper and NEJM editorial
+  CITE : Sharma M, Dong Q, Hirano T, Kasner SE, Saver J, Masjuan J, et al. Rationale, design and baseline characteristics of participants in the OCEANIC-STROKE trial of FXIa inhibition for secondary stroke prevention. Eur Stroke J. 2026. Epub 2026 Jan. doi:10.1093/esj/aakaf017 (article number aakaf017; volume/pages not yet assigned as of 29 Aug 2026). AND Boulanger M. Asundexian for noncardioembolic ischemic stroke. N Engl J Med. 2026;394(15):1540-1. doi:10.1056/NEJMe2601859.
+
+[optional] NEW
+  TOPIC: Oral PCSK9 inhibition — enlicitide approved July 2026
+  CITE : Sun Y, Gao J. Enlicitide: the first oral PCSK9 inhibitor approved for treatment of hypercholesterolemia. Drug Discov Ther. 2026 Aug 14 [Epub ahead of print; no volume/pages assigned as of 29 Aug 2026]. doi:10.5582/ddt.2026.01051.
+
+[optional] NEW
+  TOPIC: PFO closure at ≥60 years — nationwide Swedish registry (safety signal, counterpoint to the meta-analysis)
+  CITE : Damlin A, Verouhis D, Settergren M. Percutaneous closure of patent foramen ovale after cryptogenic stroke - a comparison between patients < 60 versus ≥ 60 years-of-age. Cardiovasc Interv Ther. 2026;41(3):816-25. doi:10.1007/s12928-026-01269-z.
+
+[optional] NEW
+  TOPIC: Post-CREST-2 interpretive literature for the asymptomatic-carotid section
+  CITE : Kelly P, McCabe J, De Borst GJ. Medical treatment or intervention for asymptomatic carotid stenosis? Interpreting CREST-2. Stroke. 2026;57(9):2952-5. doi:10.1161/STROKEAHA.126.054415. PMID: 42495730. // Paraskevas KI, et al. A critical analysis of the Carotid Revascularization and Medical Management for Asymptomatic Carotid Stenosis Trial (CREST-2) and the European Carotid Surgery Trial (ECST)-2. Semin Vasc Surg. 2026;39(2):180-4. PMID: 42285646.
+
+[optional] NEW
+  TOPIC: Published critique: 'Proposed Corrections to the 2026 Guideline' by Albers, Warach, Saver and colleagues
+  CITE : Albers GW, Warach SJ, Saver JL, Fisher M, Heit JJ, Derdeyn CP, et al. Proposed corrections to the 2026 guideline for the early management of patients with acute ischemic stroke. Stroke. 2026;57(9):2935-2938. doi:10.1161/STROKEAHA.126.056478
+
+[optional] NEW
+  TOPIC: TEMPO-2 secondary analysis — sex differences
+  CITE : Yu AYX, Vatanpour S, Ganesh A, Field TS, Barber PA, Choi PMC, et al. Sex differences in outcomes after tenecteplase for minor stroke: a subanalysis of the TEMPO-2 trial. J Am Heart Assoc. 2025;14(9):e039154. doi:10.1161/JAHA.124.039154.
+
+[optional] NEW
+  TOPIC: TRACE-2 — the pivotal tenecteplase non-inferiority trial in a Chinese population (context for the document's dose statement)
+  CITE : Wang Y, Li S, Pan Y, Li H, Parsons MW, Campbell BCV, et al. Tenecteplase versus alteplase in acute ischaemic cerebrovascular events (TRACE-2): a phase 3, multicentre, open-label, randomised controlled, non-inferiority trial. Lancet. 2023;401(10377):645-54. doi:10.1016/S0140-6736(22)02600-9.
+
