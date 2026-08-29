@@ -1,0 +1,8 @@
+unzipped/
+build/chk/
+build/out/
+build/sample.docx
+build/sample.pdf
+build/t.txt
+*.pyc
+__pycache__/
