@@ -8,4 +8,3 @@ build/t.txt
 __pycache__/
 build/stub.docx
 build/monograph_src.txt
-build/*.docx
