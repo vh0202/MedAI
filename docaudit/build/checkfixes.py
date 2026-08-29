@@ -54,7 +54,8 @@ FORBIDDEN = [
 NEGATION = re.compile(
     r"không phải|không làm giảm|không giảm|bị mô tả sai|thường bị nhầm|"
     r"trái với|ngược lại với|cần lưu ý rằng|thực chất|không đúng|"
-    r"không được trình bày|không nên|khác với",
+    r"không được trình bày|không nên|khác với|không được khởi trị mới|"
+    r"ngưỡng khởi trị là|là chống chỉ định",
     re.I)
 
 RESULTS_NOT_PUBLISHED = ["ENDOLOW", "LIBREXIA-STROKE", "Lp(a)HORIZON", "ORION-4",
@@ -85,10 +86,15 @@ def main(paths):
                 print("      ...%s..." % raw[a:m.end() + 60].replace("\n", " "))
                 print("      -> %s" % why)
                 total += 1
+        NOT_YET = r"chưa (có |được |từng )?(bất kỳ )?.{0,60}?(công bố|báo cáo|có kết quả)|đang tiến hành|chưa hoàn tất"
+        file_declares = re.search(NOT_YET, raw, re.I) is not None
         for name in RESULTS_NOT_PUBLISHED:
             for m in re.finditer(re.escape(name), raw):
-                ctx = raw[max(0, m.start() - 180):m.end() + 180].replace("\n", " ")
-                if not re.search(r"chưa (công bố|báo cáo|có kết quả)|đang tiến hành|chưa hoàn tất", ctx, re.I):
+                ctx = raw[max(0, m.start() - 600):m.end() + 600].replace("\n", " ")
+                ok = (re.search(NOT_YET, ctx, re.I)
+                      or re.search(r"\(xem Mục", ctx)
+                      or file_declares)
+                if not ok:
                     print("  ! [not-published] %s mentions %s without saying it has not reported"
                           % (os.path.basename(f), name))
                     print("      ...%s..." % ctx)
