@@ -79,6 +79,9 @@ def main(path):
             problems.append("H3 not numbered x.y.z: " + t[:60])
         if lvl == 4 and not re.match(r"^\d+\.\d+\.\d+\.\d+\.", t):
             problems.append("H4 not numbered x.y.z.w: " + t[:60])
+        if lvl > 1 and re.match(r"^0\.", t):
+            problems.append("heading numbered under chapter 0 (front/back matter "
+                            "must not carry numbered subheadings): " + t[:60])
     for p in problems[:20]:
         print("  !", p)
     print("  heading numbering problems:", len(problems))
