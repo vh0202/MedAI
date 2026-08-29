@@ -1,0 +1,1316 @@
+[
+ {
+  "location": "Bảng 2.1 (mục 2.1.2), dòng \"Nguy cơ trung bình\"",
+  "claimText": "Nguy cơ trung bình | 4–5 điểm: đột quỵ 7 ngày khoảng 4,1%",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "7-day stroke risk for ABCD2 4–5 is 5.9%. The 4.1% quoted is the 2-DAY risk from Johnston 2007. (2-day: 1.0/4.1/8.1%; 7-day: 1.2/5.9/11.7%; 90-day: 3.1/~9.8/~17.8% for strata 0–3/4–5/6–7.)",
+  "source": "Johnston SC, Rothwell PM, et al. Lancet 2007;369:283-92 (ref [9]); risk table reproduced at https://en.wikipedia.org/wiki/ABCD²_score and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10460395/"
+ },
+ {
+  "location": "Bảng 2.1 (mục 2.1.2), dòng \"Nguy cơ cao\"",
+  "claimText": "Nguy cơ cao | 6–7 điểm: đột quỵ 7 ngày khoảng 8,1%",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "7-day stroke risk for ABCD2 6–7 is 11.7%. The 8.1% quoted is the 2-DAY risk from Johnston 2007. The table is therefore a mixed-timepoint table: only the low-risk row (1.2%) is a genuine 7-day figure; the other two rows are 2-day figures mislabelled as 7-day.",
+  "source": "Johnston SC, Rothwell PM, et al. Lancet 2007;369:283-92 (ref [9]); https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10460395/"
+ },
+ {
+  "location": "Bảng 2.1 (mục 2.1.2), dòng \"Nguy cơ thấp\"",
+  "claimText": "Nguy cơ thấp | 0–3 điểm: đột quỵ 7 ngày khoảng 1,2%",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Johnston 2007 Lancet: 7-day risk 1.2% for ABCD2 0–3 (2-day 1.0%). This single row is correct, which is what makes the mislabelling of the other two rows easy to miss."
+ },
+ {
+  "location": "Mục 2.1.3, đoạn 2 (Canadian TIA Score)",
+  "claimText": "tích hợp 13 yếu tố lâm sàng và cận lâm sàng gồm tiền sử TIA, việc đang dùng kháng kết tập tiểu cầu, triệu chứng vận động, triệu chứng ngôn ngữ, thời gian triệu chứng, đái tháo đường, điện tâm đồ bất thường, tăng troponin, tiếng thổi động mạch cảnh, hẹp từ 50% trở lên trên chụp mạch cắt lớp vi tính và hình ảnh nhồi máu trên cắt lớp vi tính",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "The count (13) is right but the enumeration is wrong. Four listed items are NOT in the score: elevated troponin (tăng troponin), carotid bruit (tiếng thổi động mạch cảnh), ≥50% stenosis on CTA, and diabetes (đái tháo đường). Four real variables are omitted: history of gait disturbance (+1), history of vertigo (−3), initial triage diastolic BP ≥110 mmHg (+3), platelet count ≥400×10⁹/L (+2). Two more are distorted: the glucose variable is glucose ≥15 mmol/L (+3), not \"diabetes\"; the ECG variable is specifically atrial fibrillation on ECG (+2), not \"abnormal ECG\". And \"tiền sử TIA\" has inverted polarity — the scored variable is FIRST TIA in lifetime (+2), i.e. absence of prior TIA scores points. Full 13: first TIA in lifetime +2; symptoms ≥10 min +2; history of carotid stenosis +2; already on antiplatelet +3; gait disturbance +1; unilateral weakness +1; vertigo −3; DBP ≥110 +3; dysarthria/aphasia +1; AF on ECG +2; infarction on CT +1; platelets ≥400 +2; glucose ≥15 mmol/L +3.",
+  "source": "Perry JJ, et al. BMJ 2021;372:n49 (ref [58]); component/point list at https://www.mdcalc.com/calc/10421/canadian-transient-ischemic-attack-tia-score"
+ },
+ {
+  "location": "Mục 2.3.1, đoạn 1",
+  "claimText": "rung nhĩ tiềm ẩn chiếm phần lớn các trường hợp đột quỵ chưa rõ nguyên nhân",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Occult AF explains a MINORITY of cryptogenic strokes, not the majority. CRYSTAL-AF (the very trial cited as [66]) detected AF in 30% at 36 months with continuous ICM monitoring vs 3% usual care; across monitoring studies detection ranges ~2.7–30%. The ESUS anticoagulation trials (NAVIGATE ESUS, RE-SPECT ESUS) further argue against occult AF as the dominant mechanism.",
+  "source": "Sanna T, et al. NEJM 2014;370:2478-86 (ref [66]); Hart RG, et al. Lancet Neurol 2014 (ref [36])"
+ },
+ {
+  "location": "Mục 2.4.3 (hệ thống CCS)",
+  "claimText": "giảm tỷ lệ phân loại “không xác định” so với TOAST cổ điển từ khoảng 30% xuống dưới 20% [71]",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Both numbers are wrong and the citation does not support them. The direct head-to-head comparison (North Dublin Population Stroke Study, n=381 first-ever ischaemic strokes) found undetermined cause in 39.4% by TOAST vs 26.2% by CCS — a relative reduction of ~33%, not \"30% → <20%\". Ref [71] (Ay H, et al. Ann Neurol 2005) is the original CCS description and contains no such TOAST-vs-CCS undetermined comparison.",
+  "source": "Marnane M, et al. Stroke 2010;41(8):1579-86, https://pubmed.ncbi.nlm.nih.gov/20595675/"
+ },
+ {
+  "location": "Bảng 2.3, dòng \"Cắt lớp vi tính không cản quang\"",
+  "claimText": "Độ nhạy với nhồi máu cấp | Dưới 30% trong 24 giờ đầu",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "The cited Cochrane review [62] (Brazzelli 2009) gives pooled CT sensitivity 0.39 (95% CI 0.16–0.69) with specificity 1.00 (0.94–1.00) for acute ischaemic stroke — i.e. ~39%, not \"<30%\". No source supports a \"<30% within the first 24 hours\" figure; CT sensitivity is time-dependent (≈40–60% in the first 6 h in other series) and the fixed 24-hour framing is not from any of refs [5,18,61,62].",
+  "source": "Brazzelli M, et al. Cochrane Database Syst Rev 2009;(4):CD007424 (ref [62]), https://pubmed.ncbi.nlm.nih.gov/19821415/"
+ },
+ {
+  "location": "Bảng 2.3, dòng \"Cộng hưởng từ khuếch tán\"",
+  "claimText": "Độ nhạy với nhồi máu cấp | 85–95% trong 24 giờ đầu",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The cited Cochrane review reports pooled DWI sensitivity 0.99 (95% CI 0.23–1.00) and specificity 0.92 (0.83–0.97). The 85–95%/24-hour range is not traceable to refs [5,18,61,62]; if the Cochrane review is the source it should read ~99% (very wide CI).",
+  "source": "Brazzelli M, et al. Cochrane Database Syst Rev 2009;(4):CD007424 (ref [62])"
+ },
+ {
+  "location": "Mục 2.3.1, đoạn 2 và Bảng 2.4 dòng 1",
+  "claimText": "Tỷ lệ phát hiện rung nhĩ ngay tại điện tâm đồ nhập viện ở người bệnh chưa có tiền sử rung nhĩ vào khoảng 4–7%",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The pooled estimate is 7.7% (95% CI 5.0–10.8) for phase-1 (admission ECG) detection. The quoted \"4–7%\" sits entirely at or below the pooled point estimate and its lower bound falls outside the confidence interval.",
+  "source": "Sposato LA, et al. Lancet Neurol 2015;14(4):377-87, https://pubmed.ncbi.nlm.nih.gov/25748102/"
+ },
+ {
+  "location": "Bảng 2.4, dòng \"Holter | 24–72 giờ | 5–10%\"",
+  "claimText": "Holter | 24–72 giờ | 5–10% | Phân tích gộp",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The pooled ambulatory-Holter (phase 3) yield is 10.7% (95% CI 5.6–17.2); in-hospital monitoring (phase 2) is 5.1% (3.8–6.5). The single \"5–10%\" band conflates two different pooled phases and understates ambulatory Holter.",
+  "source": "Sposato LA, et al. Lancet Neurol 2015;14(4):377-87"
+ },
+ {
+  "location": "Mục 2.3.2, đoạn 2 và Bảng 2.4 dòng cuối (STROKE-AF)",
+  "claimText": "Nghiên cứu STROKE-AF trên 496 người bệnh ... máy cấy dưới da phát hiện rung nhĩ ở 12,1% so với 1,8% ở thời điểm 12 tháng",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "496 patients were ENROLLED but only 492 were randomised (ICM n=242, control n=250); the 12.1% vs 1.8% (27 vs 4 patients; HR 7.4, 95% CI 2.6–21.3) applies to the 492 randomised. Detection rates are correct.",
+  "source": "Bernstein RA, et al. JAMA 2021;325(21):2169-77 (ref [68]), https://pmc.ncbi.nlm.nih.gov/articles/PMC8170544/"
+ },
+ {
+  "location": "Mục 2.3.1, đoạn 3 (EMBRACE)",
+  "claimText": "Nghiên cứu EMBRACE trên 572 người bệnh ... tỷ lệ phát hiện rung nhĩ kéo dài từ 30 giây trở lên tăng từ 3,2% lên 16,1%, với chênh lệch tuyệt đối 12,9%",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Gladstone DJ, et al. NEJM 2014;370:2467-77 (ref [67]): 572 randomised, ≥55 y; AF ≥30 s in 45/280 (16.1%) vs 9/277 (3.2%), absolute difference 12.9 pp (95% CI 8.0–17.6). One omission: EMBRACE enrolled cryptogenic ischaemic stroke OR TIA, and the control arm was a repeat 24-h Holter."
+ },
+ {
+  "location": "Mục 2.3.2, đoạn 2 và Hình 2.4 (CRYSTAL-AF)",
+  "claimText": "441 người bệnh ... 8,9% so với 1,4% ở thời điểm 6 tháng, 12,4% so với 2% ở 12 tháng, và 30% so với 3% ở 36 tháng",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Sanna T, et al. NEJM 2014;370:2478-86 (ref [66]). All three timepoints and the \"~6-fold\" statement in Hình 2.4 (HR 6.4 at 6 months) check out."
+ },
+ {
+  "location": "Bảng 2.2 (ABCD3-I), dòng \"Hình ảnh — mạch máu\"",
+  "claimText": "Hình ảnh — mạch máu | Hẹp ≥ 50% động mạch cùng bên | 2",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "In Merwick's ABCD3-I the imaging-vascular variable is ipsilateral internal CAROTID artery stenosis ≥50% (carotid imaging), not stenosis of any ipsilateral artery. The body text (\"hẹp từ 50% trở lên ở động mạch cùng bên trên chụp mạch cộng hưởng từ hoặc cắt lớp vi tính\") has the same over-generalisation. Point values (dual TIA +2, DWI +2, carotid stenosis +2; total 0–13) are correct.",
+  "source": "Merwick Á, et al. Lancet Neurol 2010;9(11):1060-9 (ref [10])"
+ },
+ {
+  "location": "Mục 2.4.4 (CICAS)",
+  "claimText": "Nghiên cứu CICAS thực hiện ở quần thể châu Á cho thấy hẹp xơ vữa động mạch nội sọ ... chiếm tới 30–50% số ca nhồi máu não",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "CICAS was a Chinese-only study (2864 consecutive patients with acute cerebral ischaemia at 22 hospitals in China), not a pan-Asian one, and its own figure is a 46.6% prevalence of intracranial large-artery stenosis (≥50% on MRA), which is a prevalence of ICAS among stroke/TIA patients, not the proportion of strokes CAUSED by ICAS. The generic \"30–50%\" band is not a CICAS number.",
+  "source": "Wang Y, et al. Stroke 2014;45(3):663-9 (ref [19]), https://pubmed.ncbi.nlm.nih.gov/24481975/"
+ },
+ {
+  "location": "Mục 2.4.4, câu cuối",
+  "claimText": "cân nhắc sớm kháng kết tập tiểu cầu kép cường độ cao khi hẹp nội sọ có triệu chứng, theo bằng chứng từ SAMMPRIS, CHANCE và POINT [14,15,19,72]",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Miscitation. Neither CHANCE [14] nor POINT [15] enrolled patients on the basis of symptomatic intracranial stenosis — both randomised unselected minor stroke/high-risk TIA (post-hoc ICAS subgroups exist but are not the trials' tested question). The evidence for DAPT in symptomatic intracranial stenosis is SAMMPRIS [72], whose medical arm used aspirin 325 mg + clopidogrel 75 mg for 90 days only — not indefinite \"high-intensity\" DAPT. CICAS [19] is a prevalence/outcome study and tests no antiplatelet strategy.",
+  "source": "Chimowitz MI, et al. NEJM 2011;365:993-1003; Wang Y, et al. NEJM 2013;369:11-19; Johnston SC, et al. NEJM 2018;379:215-25"
+ },
+ {
+  "location": "Mục 2.2.3, đoạn 1",
+  "claimText": "Mức hẹp từ 50% trở lên ở động mạch cùng bên có ý nghĩa nguy cơ và có thể thay đổi xử trí ... [5,18,19]",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Ref [19] (CICAS) is an epidemiological prevalence/outcomes study of intracranial stenosis in China and does not issue imaging or management recommendations; it does not support this sentence. Refs [5] and [18] do.",
+  "source": "Wang Y, et al. Stroke 2014;45(3):663-9"
+ },
+ {
+  "location": "Bảng 2.5, dòng \"Nhóm chưa rõ nguyên nhân\"",
+  "claimText": "ESUS chiếm 50–80% nhóm này, khoảng 17% tổng số [35,36]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The 17% pooled figure (range 9–25%) comes from Hart RG, et al. Int J Stroke 2017 systematic review, not from ref [36] (Hart 2014 Lancet Neurol) or ref [35] (Adams 1993). Registry estimates vary: Athens Stroke Registry ~10%, Global ESUS Registry ~16%. The \"50–80% of cryptogenic\" range is a defensible back-calculation but is not stated in either cited reference.",
+  "source": "Hart RG, et al. Int J Stroke 2017 (ESUS systematic review); ESO ESUS FAQ, https://eso-stroke.org/embolic-strokes-of-undetermined-source-frequently-asked-questions/"
+ },
+ {
+  "location": "Bảng 2.5, dòng \"Tỷ lệ tái phát mỗi năm\"",
+  "claimText": "Tỷ lệ tái phát mỗi năm | Tuỳ phân nhóm | Khoảng 4–5%",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Pooled annual recurrent-stroke risk in ESUS ≈4.5%/year over mean 2.7 years follow-up (ESO/Hart data)."
+ },
+ {
+  "location": "Mục 2.4.2, đoạn 1 (tiêu chí ESUS thứ 3)",
+  "claimText": "không có nguồn lấp mạch tim nguy cơ cao như rung nhĩ kéo dài, phân suất tống máu dưới 30%, huyết khối thất trái, van cơ học hoặc viêm nội tâm mạc",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Hart's major-risk cardioembolic source includes permanent OR PAROXYSMAL atrial fibrillation, plus mitral stenosis, atrial myxoma and recent (<4 weeks) myocardial infarction. Omitting paroxysmal AF here is also internally inconsistent with the document's own Bảng 1.4, which lists \"rung nhĩ kéo dài hoặc kịch phát có ghi nhận\".",
+  "source": "Hart RG, et al. Lancet Neurol 2014;13(4):429-38 (ref [36])"
+ },
+ {
+  "location": "Mục 2.4.1, đoạn 2",
+  "claimText": "xơ vữa động mạch lớn chiếm 15–25%; lấp mạch nguồn tim chiếm 20–30%; bệnh mạch máu nhỏ ... chiếm khoảng 25% ... đột quỵ chưa rõ nguyên nhân chiếm 25–30% [22,35]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Ref [35] (Adams 1993) is the TOAST definitions paper, not a source of population subtype distributions, and these bands are not in it. The figures are also internally inconsistent with the document's own Bảng 1.5, which gives cardioembolic 20–25% (vs 20–30% here) and small-vessel disease 20–25% (vs ~25% here); Bảng 1.5 additionally splits out ESUS at 15–25%, so the two tables cannot both be right. Published population-based ranges vary widely by cohort (e.g. TOAST-undetermined 39.4% in North Dublin).",
+  "source": "Adams HP Jr, et al. Stroke 1993;24:35-41; Marnane M, et al. Stroke 2010;41:1579-86"
+ },
+ {
+  "location": "Mục 2.5.1, đoạn 2",
+  "claimText": "Đau nửa đầu có tiền triệu là bệnh cảnh giả TIA thường gặp nhất, có thể chiếm tới một nửa nhóm này [23]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Migraine is consistently the commonest single mimic, but the \"up to half\" figure is at the extreme end. ED-based series put migraine at ~12–20% of stroke/TIA mimics (migraine ≈2% of all emergency stroke evaluations, ≈12% of mimics; 13% in patients 18–70 y and only 1% in those >70 y). A single small TIA-clinic series reported 63%. The document should give a range rather than a single \"up to half\".",
+  "source": "Age-dependent TIA mimic study, https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7917180/; Iranian TIA-mimic cohort, https://pmc.ncbi.nlm.nih.gov/articles/PMC4240928/"
+ },
+ {
+  "location": "Mục 2.5.1, đoạn 1",
+  "claimText": "Các bệnh cảnh giả TIA chiếm 30–50% số người bệnh nhập cấp cứu vì triệu chứng thần kinh thoáng qua",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Reported mimic rates span ~10–48.5% in ED settings and up to ~60% of referrals to specialist TIA clinics. The narrow 30–50% band excludes the low end reported in several ED cohorts and the high end in clinic cohorts.",
+  "source": "Differentiation of true TIA vs TIA mimics, https://pmc.ncbi.nlm.nih.gov/articles/PMC4240928/; TIA review, https://pmc.ncbi.nlm.nih.gov/articles/PMC5898963/"
+ },
+ {
+  "location": "Mục 2.2.1, đoạn 3",
+  "claimText": "hiện tượng giả bình thường hoá của hệ số này xuất hiện sau 7–14 ngày",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "ADC pseudonormalisation is conventionally quoted at ~7–10 days after onset (some sources 4–10 days), not 7–14 days.",
+  "source": "Standard stroke-neuroimaging teaching; no figure of \"7–14 days\" appears in cited ref [32]"
+ },
+ {
+  "location": "Mục 2.3.4, đoạn cuối",
+  "claimText": "Nồng độ NT-proBNP vượt ngưỡng 250–400 pg/mL gợi ý quá tải nhĩ",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The operative, trial-validated threshold is NT-proBNP >250 pg/mL (one of the three ARCADIA atrial-cardiopathy criteria, alongside PTFV1 >5000 µV·ms and LA diameter index ≥3 cm/m²). The \"–400\" upper bound is not from ref [38] (ARCADIA) or ref [36].",
+  "source": "Kamel H, et al. ARCADIA. JAMA 2024;331(7):573-81 (ref [38])"
+ },
+ {
+  "location": "Mục 2.5.2 vs Bảng 2.6 (đau nửa đầu có tiền triệu)",
+  "claimText": "Tốc độ khởi phát | Từ từ (15–30 phút) ... Thời gian kéo dài | Tiền triệu 20–60 phút",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Internally inconsistent (15–30 min vs 20–60 min for the same aura) and neither matches ICHD-3, which defines aura as spreading gradually over ≥5 minutes with each aura symptom lasting 5–60 minutes. The headache duration 4–72 h is correct.",
+  "source": "ICHD-3 criteria for migraine with aura"
+ },
+ {
+  "location": "Mục 2.3.4, đoạn 3",
+  "claimText": "truy tìm các nguồn lấp mạch nguy cơ cao khác theo phân loại của Hart [18,36]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The high-/medium-/low-risk cardioembolic source taxonomy listed (mitral valve prolapse, mitral annular calcification, aortic arch plaque, isolated PFO, LV aneurysm) originates from the Cerebral Embolism Task Force / TOAST classification, not from Hart. Hart 2014 [36] only defines a binary \"major-risk\" cardioembolic source list for ESUS exclusion.",
+  "source": "Adams HP Jr, et al. Stroke 1993;24:35-41 (ref [35]); Hart RG, et al. Lancet Neurol 2014 (ref [36])"
+ },
+ {
+  "location": "Hình 2.3 (chú thích)",
+  "claimText": "đo mức hẹp theo phương pháp NASCET với đường kính nhỏ nhất 2,48 mm so với đường kính tham chiếu 5,10 mm, tương ứng mức hẹp khoảng 51%",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Arithmetic checks: (1 − 2.48/5.10) × 100 = 51.4%. Consistent with the NASCET method."
+ },
+ {
+  "location": "Mục 2.5.4, câu cuối",
+  "claimText": "Mô hình đánh giá nhanh tại các phòng khám TIA chuyên khoa đã chứng minh giảm 80% nguy cơ đột quỵ 90 ngày so với chăm sóc thường quy [5,18,20]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "EXPRESS (Rothwell PM, et al. Lancet 2007;370:1432-42, ref [20]): 90-day recurrent stroke 10.3% → 2.1%, ≈80% relative reduction."
+ },
+ {
+  "location": "Bảng 1.3 (Chương 1) — đối chiếu chéo với Bảng 2.1",
+  "claimText": "ABCD2 ≥ 4 | Nguy cơ 90 ngày 8–11% so với 1–3% nếu ABCD2 0–3",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Johnston 2007 90-day risks are 3.1% (score 0–3), ~9.8% (4–5) and ~17.8% (6–7). The document's \"1–3%\" understates the low-risk stratum (true value 3.1%, at the very top of the quoted band) and \"8–11%\" for all scores ≥4 badly understates the 6–7 stratum (~17.8%). Noted here because it is the same ABCD2 data set that Bảng 2.1 misreports, and the two tables cannot be reconciled with the source.",
+  "source": "Johnston SC, et al. Lancet 2007;369:283-92 (ref [9])"
+ },
+ {
+  "location": "§1.2.2, dòng 113 (đoạn văn đầu mục \"Nguy cơ tái phát sớm\")",
+  "claimText": "Phân tích gộp của Wu và cộng sự trên các nghiên cứu thuần tập lớn ước tính nguy cơ đột quỵ trong 7 ngày đầu sau TIA dao động khoảng 5–7%, trong 30 ngày là 8–12%, trong 90 ngày là 12–15%, sau một năm khoảng 15–20% và sau năm năm là 25–30%",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "Wu 2007 (Arch Intern Med 167:2417) pooled 11 studies / 7,238 patients and reported 3.5% at 2 days, 8.0% at 30 days and 9.2% at 90 days — NOT 12–15% at 90 days. Wu reported no 7-day, 1-year or 5-year estimate at all; the 7-day figure of 5.2% (95% CI 3.9–6.5) is from Giles & Rothwell 2007 (ref 3), and long-term pooled risks are 5.9% at 1 year, 12.5% at 5 years, 19.8% at 10 years (Khan et al., JAMA 2025;333:1508). The 1-year (15–20%) and 5-year (25–30%) figures are attributed to a source that never reported them.",
+  "source": "Wu CM et al. Arch Intern Med. 2007;167(22):2417-22 (2-day 3.5%, 30-day 8.0%, 90-day 9.2%); Giles & Rothwell, Lancet Neurol 2007;6:1063 (7-day 5.2%); NIHR HTA systematic review NBK263120; Khan et al. JAMA 2025;333:1508-1519."
+ },
+ {
+  "location": "Bảng 1.2 (dòng 116–121), cột \"Chăm sóc thông thường trước đây\"",
+  "claimText": "| 90 ngày | 12–15% | ... | 1 năm | 15–20% | ... | 5 năm | 25–30% |",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "None of the cited references [2,3,20,25,30] supports these conventional-care figures. Pooled 90-day risk is 9.2% (Wu) or 6.7% (95% CI 5.2–8.7, HTA review of 34 studies/19,769 patients); pooled 1-year and 5-year risks are 5.9% and 12.5% (Khan, JAMA 2025). EXPRESS phase 1 (the actual \"former usual care\" comparator, ref 20) gave 10.3% at 90 days.",
+  "source": "Wu 2007; NIHR HTA NBK263120; Khan JAMA 2025;333:1508; Rothwell PM et al. Lancet 2007;370:1432 (EXPRESS)."
+ },
+ {
+  "location": "Bảng 1.3, dòng 130 (hàng \"ABCD2 ≥ 4\")",
+  "claimText": "ABCD2 ≥ 4 | Lâm sàng | Nguy cơ 90 ngày 8–11% so với 1–3% nếu ABCD2 0–3",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "These are the 2-day and 7-day risks from Johnston 2007, mislabelled as 90-day. Johnston SC et al. (Lancet 2007;369:283) reported 2-day risks of 1.0% (ABCD2 0–3), 4.1% (4–5) and 8.1% (6–7), and 7-day risks of 1.2%, 5.9% and 11.7%. The 90-DAY risks are 3.1% (0–3), 9.8% (4–5) and 17.8% (6–7). Correct row: \"90-day risk ~10–18% for ABCD2 ≥4 vs ~3% for ABCD2 0–3\".",
+  "source": "Johnston SC, Rothwell PM, et al. Lancet. 2007;369(9558):283-92 (ABCD2 validation, 4,799 patients, 6 cohorts)."
+ },
+ {
+  "location": "§1.2.2, dòng 123 (đoạn TIAregistry.org)",
+  "claimText": "Theo dõi 5 năm cho thấy tỷ lệ tái phát đột quỵ là 9,5%, biến cố mạch máu chính tích luỹ là 12,9% và tử vong tim mạch khoảng 5%",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Stroke 9.5% (95% CI 8.5–10.5) and composite 12.9% (95% CI 11.8–14.1) are correct, but 5-year death from CARDIOVASCULAR causes was 2.7%, not ~5%. (Death from ANY cause was 10.6%; intracranial haemorrhage 1.1%; major bleeding 1.5%.)",
+  "source": "Amarenco P et al. Five-Year Risk of Stroke after TIA or Minor Ischemic Stroke. N Engl J Med. 2018;378(23):2182-90 (3,847 patients, 42 sites)."
+ },
+ {
+  "location": "§1.2.2, dòng 123",
+  "claimText": "Tỷ lệ đột quỵ tái phát sau một năm là 5,1% và tỷ lệ biến cố mạch máu chính gộp … là 6,2%, thấp hơn rõ rệt so với mức 12–20% được dự kiến với chăm sóc thông thường trước đây",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "Wrong time window in the comparison. In Amarenco 2016 the historical-cohort figure of 12–20% is the 90-DAY risk of stroke and other vascular events, and the paper compares it with the registry's 90-day rate of 3.7% — not with the 1-year rate of 6.2%. Quoting 6.2% at 1 year against \"12–20%\" compares a 1-year rate with a 90-day benchmark.",
+  "source": "Amarenco P et al. N Engl J Med. 2016;374(16):1533-42: \"the risk of stroke and other vascular events at 90 days in the historical cohorts was 12 to 20%, as compared with 3.7% in our cohort.\""
+ },
+ {
+  "location": "§1.5.2, dòng 209",
+  "claimText": "Tỷ lệ biến cố mạch máu chính sau một năm là 6,2% so với mức 12–20% với chăm sóc thông thường, và sau 5 năm là 12,9%",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "Same mismatched-time-window error repeated: the 12–20% historical benchmark in the source is a 90-day figure (compared with 3.7% at 90 days in TIAregistry), not a 1-year figure.",
+  "source": "Amarenco P et al. N Engl J Med. 2016;374(16):1533-42."
+ },
+ {
+  "location": "§1.4.4, dòng 199",
+  "claimText": "Ba thử nghiệm ngẫu nhiên lớn công bố năm 2018 — ASPREE …, ARRIVE … và ASCEND … — đều cho thấy aspirin liều thấp không giảm có ý nghĩa biến cố tim mạch ở người chưa có bệnh tim mạch xác định",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "ASCEND (ref 48) DID show a statistically significant reduction in serious vascular events: 8.5% with aspirin vs 9.6% with placebo (rate ratio 0.88, 95% CI 0.79–0.97, p=0.01, ~12% relative reduction), offset by more major bleeding (4.1% vs 3.2%, p=0.003). ASPREE (HR ~0.95, NS, with significantly more major haemorrhage) and ARRIVE (HR 0.96, 95% CI 0.81–1.13, p=0.60) were null. The correct statement is that ASCEND's benefit was largely offset by bleeding, not that all three were null.",
+  "source": "ASCEND Study Collaborative Group. N Engl J Med. 2018;379:1529-39; Gaziano JM et al. Lancet. 2018;392:1036-46 (ARRIVE); McNeil JJ et al. N Engl J Med. 2018;379:1509-18 (ASPREE)."
+ },
+ {
+  "location": "Bảng 1.3, dòng 132",
+  "claimText": "Hẹp ≥ 50% động mạch lớn cùng bên | Hình ảnh mạch máu | Nguy cơ 90 ngày tăng 4–8 lần",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Overstated by roughly 2–4×. In TIAregistry.org (cited ref 25) large-artery atherosclerosis carried a hazard ratio of 2.01 (95% CI 1.29–3.13) vs undetermined cause (1.54, 95% CI 1.11–2.11 as a binary variable). Calvet 2009 reported HR 3.4 for large-artery atherosclerosis. No cited source reports a 4–8-fold increase.",
+  "source": "Amarenco P et al. N Engl J Med. 2016;374:1533-42; Calvet D et al. Stroke. 2009;40(1):187-92."
+ },
+ {
+  "location": "§1.4.3, dòng 181",
+  "claimText": "ở người rất cao tuổi, thử nghiệm HYVET cho thấy hạ huyết áp vẫn mang lại lợi ích rõ rệt và an toàn",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "HYVET's PRIMARY endpoint (fatal or non-fatal stroke) was NOT statistically significant: 30% reduction, HR 0.70 (95% CI 0.49–1.01), p=0.06. The significant results were fatal stroke (−39%, p=0.046), death from any cause (−21%, p=0.02) and heart failure (−64%). HYVET also targeted <150/80 mmHg, not the <130/80 target the sentence is supporting — it cannot be cited as evidence for <130/80 in the very elderly.",
+  "source": "Beckett NS et al. Treatment of Hypertension in Patients 80 Years of Age or Older. N Engl J Med. 2008;358(18):1887-98 (n=3,845, SBP ≥160, target <150/80)."
+ },
+ {
+  "location": "§1.4.3, dòng 181",
+  "claimText": "Mục tiêu huyết áp dưới 130/80 mmHg được khuyến cáo mức I cho hầu hết người trưởng thành, dựa trên kết quả SPRINT",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "The Class 1 <130/80 target itself is correct (2024 AHA/ASA primary prevention guideline), but SPRINT is a weak support in a stroke monograph: it randomised to SBP <120 vs <140 (achieved 121.5 vs 134.6 mmHg), not to <130/80, and STROKE was not significantly reduced (62 vs 70 events; HR 0.89, 95% CI 0.63–1.25, p=0.50). SPRINT's benefit came from heart failure and cardiovascular death.",
+  "source": "SPRINT Research Group. N Engl J Med. 2015;373(22):2103-16; Bushnell C et al. Stroke. 2024;55(12):e344-e424."
+ },
+ {
+  "location": "§1.4.4, dòng 200",
+  "claimText": "ưu tiên atorvastatin hoặc rosuvastatin cường độ trung bình ở người có nguy cơ 10 năm từ 10% trở lên và cường độ cao ở người có nguy cơ từ 20% trở lên hoặc có yếu tố tăng cường nguy cơ",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "The cited 2024 AHA/ASA primary prevention guideline [41] gives a Class 1 statin recommendation for: LDL-C ≥190 mg/dL; type 2 diabetes; 10-year CVD risk ≥20% (high-intensity); and 10-year risk 7.5–19.9% WITH ≥1 risk enhancer (moderate-intensity). The threshold for the moderate-intensity band is 7.5%, not 10%, and the \"risk enhancer\" qualifier belongs to the 7.5–19.9% band, not to the ≥20% band. (10% is the USPSTF threshold, a different source.)",
+  "source": "Bushnell C et al. 2024 Guideline for the Primary Prevention of Stroke. Stroke. 2024;55(12):e344-e424; Ali/Sharrief et al., JACC Adv 2025 summary of the 7 updates."
+ },
+ {
+  "location": "Bảng 1.6, dòng 189 (hàng \"Rung nhĩ\")",
+  "claimText": "Rung nhĩ | 4–5 | Sàng lọc từ 65 tuổi; kháng đông nếu CHA2DS2-VASc ≥ 2 (nam) hoặc ≥ 3 (nữ) | I",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "The anticoagulation half is correct (Class 1: OAC for annual stroke risk ≥2%, i.e. CHA2DS2-VASc ≥2 men / ≥3 women). But the Class I grade for AF SCREENING from age 65 is not supported: the 2024 AHA/ASA primary prevention of stroke guideline [41] introduces no new AF screening recommendation, and the USPSTF (2022) concluded that evidence is insufficient (I statement) to assess screening for AF with ECG in asymptomatic adults ≥50.",
+  "source": "Bushnell C et al. Stroke. 2024;55(12):e344-e424; USPSTF. Screening for Atrial Fibrillation. JAMA. 2022;327(4):360-367."
+ },
+ {
+  "location": "§1.4.1, dòng 177",
+  "claimText": "Hẹp động mạch cảnh không triệu chứng được phát hiện ở 5–10% người trên 65 tuổi qua siêu âm Doppler",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Overstated. The USPSTF statement cited immediately after ([42]) puts general adult prevalence at 0.5%–1%. The largest individual-participant meta-analysis (de Weerd, 23,706 participants) found ≥50% asymptomatic stenosis in only 7.5% of MEN aged ≥80 and 5.0% of women aged ≥80, with markedly lower rates at 65–79 years; ≥70% stenosis is ~1–2% even in the very old.",
+  "source": "USPSTF. Screening for Asymptomatic Carotid Artery Stenosis. JAMA. 2021;325(5):476-81 (Grade D); de Weerd M et al. Stroke. 2010;41:1294-97."
+ },
+ {
+  "location": "Bảng 1.6, dòng 190 và §1.4.1, dòng 176",
+  "claimText": "Tiền sử TIA hoặc đột quỵ | 8–10 | Phòng ngừa thứ phát đa yếu tố | I",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Contemporary matched-cohort data give a ~4–5-fold, not 8–10-fold, excess. Danish nationwide cohort: 5-year ischaemic stroke 6.1% after TIA vs 1.5% in matched background population (≈5×); Framingham Heart Study: age/sex-adjusted 10-year HR 4.37 for incident stroke after TIA. No cited reference ([18,40,41]) reports an 8–10-fold relative risk.",
+  "source": "Lioutas VA et al. JAMA. 2021;325(4):373-81 (Framingham, HR 4.37); Danish nationwide TIA cohort, Circulation 2023;148 (5-year 6.1% vs 1.5%)."
+ },
+ {
+  "location": "§1.2.2, dòng 113",
+  "claimText": "Mức nguy cơ này cao gấp 30–100 lần so với nguy cơ đột quỵ nền của dân số chung cùng độ tuổi",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "None of the cited references [1-3] (Johnston 2000, Wu 2007, Giles & Rothwell 2007) makes any comparison against background population stroke rates, and no fold-range of 30–100 appears in this literature. Published matched comparisons give ~4–5-fold over 5–10 years; a defensible statement would quantify the ABSOLUTE early risk instead.",
+  "source": "Johnston SC et al. JAMA. 2000;284:2901-6; Wu CM et al. Arch Intern Med. 2007;167:2417-22; Giles & Rothwell, Lancet Neurol. 2007;6:1063-72; Lioutas VA et al. JAMA. 2021;325:373-81."
+ },
+ {
+  "location": "§1.5.2, dòng 208",
+  "claimText": "Trước khi triển khai, người bệnh TIA được chuyển khám chuyên khoa thần kinh chậm 1–3 tuần và nguy cơ đột quỵ tái phát 90 ngày là 10,3%",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "The 10.3% is correct, but the delay is wrong. In EXPRESS phase 1 the median delay to ASSESSMENT in the study clinic was 3 days (IQR 2–5); it was the median delay to FIRST PRESCRIPTION OF TREATMENT that was 20 days (IQR 8–53). Phase 2: assessment <1 day (IQR 0–3), treatment 1 day (IQR 0–3).",
+  "source": "Rothwell PM et al. Lancet. 2007;370(9596):1432-42; Luengo-Fernandez R et al. Stroke. 2022;53(2):488-96."
+ },
+ {
+  "location": "§1.5.2, dòng 209",
+  "claimText": "ngay cả ở nhóm người bệnh có điểm ABCD2 thấp từ 0 đến 3 … tỷ lệ tái phát vẫn đáng kể, từ 3% trở lên trong một năm",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Amarenco 2016 does not report a ≥3% 1-year rate for the ABCD2 0–3 band. What it reports is that the 1-year risk of stroke ranged from 0% (score 0) to 9.6% (score 7), that ABCD2 6–7 vs 0–3 carried HR 2.20 (95% CI 1.41–3.42), and that 22% of all recurrent strokes occurred in patients with ABCD2 <4 — which is the correct way to make the point.",
+  "source": "Amarenco P et al. N Engl J Med. 2016;374(16):1533-42 (and Table S4 of the Supplementary Appendix)."
+ },
+ {
+  "location": "§1.2.2, dòng 124",
+  "claimText": "Nghiên cứu EXPRESS tại Oxford so sánh hai giai đoạn của cùng một thuần tập gồm 1.278 người bệnh TIA hoặc đột quỵ nhẹ",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "1,278 was the total number of OXVASC patients with TIA OR STROKE of any severity ascertained across both phases (634 phase 1, 644 phase 2). The 10.3% vs 2.1% comparison rests on the 591 patients actually referred to and seen in the study clinic (310 in phase 1, 281 in phase 2).",
+  "source": "Rothwell PM et al. Lancet. 2007;370(9596):1432-42; Luengo-Fernandez R et al. Stroke. 2022;53(2):488-96."
+ },
+ {
+  "location": "§1.5.1, dòng 203",
+  "claimText": "Khoảng 50% số đột quỵ tái phát trong 90 ngày sau TIA xảy ra ngay trong 48 giờ đầu [20,25]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Figure correct but MISCITED. It comes from Johnston 2000 (ref 1): 91 of 180 strokes within 90 days occurred within the first 2 days. Neither EXPRESS [20] nor TIAregistry [25] reports it; in TIAregistry the 2-day rate was 1.5% of a 90-day rate of 3.7% (≈41%). Citation should be [1].",
+  "source": "Johnston SC, Gress DR, Browner WS, Sidney S. JAMA. 2000;284(22):2901-6; Amarenco P et al. N Engl J Med. 2016;374:1533-42."
+ },
+ {
+  "location": "§1.3.4, dòng 160 và Bảng 1.5, dòng 167",
+  "claimText": "Hẹp động mạch cảnh trong đoạn ngoài sọ chiếm 15–20% số ca nhồi máu não tại các quốc gia phương Tây … / Xơ vữa động mạch lớn | 15–25% (động mạch cảnh ngoài sọ)",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Two problems: (a) internal inconsistency — the text says 15–20% and Table 1.5 says 15–25% for the same quantity; (b) both overstate the population-based estimate. Extracranial internal carotid stenosis accounts for ~8–15% of ischaemic strokes (8.0% in the population-based Greater Cincinnati/Northern Kentucky study; range 7–18% across studies).",
+  "source": "Flaherty ML et al., Greater Cincinnati/Northern Kentucky Stroke Study (extracranial ICA stenosis in 8.0% of ischaemic strokes); Circ Res. 2017;120:502-513 (Stroke Caused by Extracranial Disease)."
+ },
+ {
+  "location": "ĐẶT VẤN ĐỀ (dòng 74) và §1.2.1 (dòng 111)",
+  "claimText": "đột quỵ nhẹ chiếm khoảng 30–50% số ca nhồi máu não nhập viện",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Understated for the NIHSS ≤5 definition the document itself adopts (Bộ Y tế 2024). Contemporary registry data put minor stroke (NIHSS 0–5) at >50% of hospitalised ischaemic strokes — 57.7% of 179,710 Get With The Guidelines–Stroke admissions with recorded NIHSS. A range of ~35–45% applies only to the NIHSS ≤3 definition.",
+  "source": "Get With The Guidelines–Stroke analyses of NIHSS distribution (103,765/179,710 = 57.7% with NIHSS 0–5)."
+ },
+ {
+  "location": "§1.2.1, dòng 111",
+  "claimText": "đột quỵ vẫn là nguyên nhân gây tử vong đứng hàng thứ ba và là nguyên nhân hàng đầu gây tàn tật lâu dài [29]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The cited GBD 2021 analysis states stroke was the third-leading cause of death (7.3 million deaths, 10.7% of all deaths) and the FOURTH-leading cause of DALYs (160.5 million, 5.6% of all DALYs) — not the leading cause of disability. The \"leading cause of long-term disability\" formulation is a US-specific AHA statement, not a GBD finding.",
+  "source": "GBD 2021 Stroke Risk Factor Collaborators. Lancet Neurol. 2024;23(10):973-1003."
+ },
+ {
+  "location": "§1.3.5, dòng 162",
+  "claimText": "thoái hoá kính – mỡ ở thành tiểu động mạch xuyên có đường kính dưới 300 µm và mảng xơ vữa vi thể ở các động mạch xuyên có đường kính 300–800 µm",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The microatheroma range (≈0.3–0.8 mm outer diameter) is right, but lipohyalinosis is classically described in vessels <200 µm (Fisher's segmental arteriolar disorganisation, typically quoted as 40–200 µm), not <300 µm.",
+  "source": "Fisher CM. Lacunar strokes and infarcts: a review. Neurology. 1982;32(8):871-6; AHA scientific review on cerebral small vessel disease, Hypertension. 2023 (microatheroma 0.3–0.8 mm; lipohyalinosis <200 µm)."
+ },
+ {
+  "location": "§1.2.1, dòng 110",
+  "claimText": "Tại Vương quốc Anh, số ca TIA mới mắc được báo cáo trong khoảng 50.000–100.000 ca mỗi năm",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The figure normally cited in UK sources (NICE) is at least 46,000 people per year having a first TIA; the upper bound of 100,000 has no obvious source. A defensible statement is \"approximately 46,000–70,000 first TIAs per year\".",
+  "source": "NICE guidance on stroke and TIA (≥46,000 first TIAs per year in the UK)."
+ },
+ {
+  "location": "§1.4.1, dòng 176",
+  "claimText": "Rung nhĩ là yếu tố tim mạch quan trọng nhất, làm tăng nguy cơ đột quỵ 4–5 lần và là nguyên nhân của khoảng 20–25% tổng số ca nhồi máu não",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The 4–5-fold risk is right (Framingham ~4.8×), but the attributable fraction is usually put at 15–20% of ischaemic strokes (AHA), rising to ~25% only in the very elderly. This also conflicts internally with §2.3.1 of the same document, which states 20–30% of ischaemic strokes are cardioembolic overall, and with Table 1.5, which assigns 20–25% to ALL cardioembolic causes combined (of which AF is only a part).",
+  "source": "AHA statistical statements (15–20% of ischaemic strokes attributable to AF); Marini C et al. Stroke. 2005;36:1115-19."
+ },
+ {
+  "location": "Bảng 1.6, dòng 186–188 và §1.4.1, dòng 176",
+  "claimText": "Đái tháo đường típ 2 | 2–3 … Hút thuốc lá | 2–3",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Both are at or above the top of the range given by the cited INTERSTROKE analysis [40], which for ISCHAEMIC stroke reported OR 1.16 for diabetes and OR 1.67 for current smoking (hypertension OR 2.98, PAR 47.9%; cardiac causes OR 3.17). Cohort meta-analyses support ~2.3× for diabetes (Emerging Risk Factors Collaboration) and ~2× for smoking, so \"2–3\" is defensible against other literature but is not what reference [40] shows.",
+  "source": "O'Donnell MJ et al. INTERSTROKE. Lancet. 2016;388(10046):761-75; Emerging Risk Factors Collaboration. Lancet. 2010;375:2215-22."
+ },
+ {
+  "location": "§1.1.1, dòng 86",
+  "claimText": "Năm 1975, Uỷ ban Đặc biệt … định nghĩa TIA là một đợt thiếu máu cục bộ não … không kèm theo tổn thương nhồi máu trên các phương tiện hình ảnh sẵn có lúc đó, chủ yếu là cắt lớp vi tính [7]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The 1975 NINDS Ad Hoc Committee definition was purely time-based (complete resolution within 24 hours) and contained no imaging requirement; CT had only just entered clinical use (1973–75) and was not part of the definition. Reference [7] (Albers 2002) makes precisely the opposite point — that the classical definition ignored imaging. Table 1.1 of the document states this correctly (\"Vai trò cộng hưởng từ khuếch tán: Không yêu cầu\"), so the body text contradicts its own table.",
+  "source": "Albers GW et al. Transient Ischemic Attack — Proposal for a New Definition. N Engl J Med. 2002;347(21):1713-16."
+ },
+ {
+  "location": "§1.2.2, dòng 124 và ĐẶT VẤN ĐỀ dòng 78",
+  "claimText": "Nguy cơ đột quỵ tái phát trong 90 ngày giảm từ 10,3% xuống 2,1% — tương đương mức giảm tương đối khoảng 80% … lợi ích được duy trì sau 10 năm theo dõi mở rộng",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "Verified: EXPRESS 90-day recurrent stroke 32/310 (10.3%) in phase 1 vs 6/281 (2.1%) in phase 2 (adjusted HR 0.20, 95% CI 0.08–0.49, p=0.0001). Ten-year follow-up confirmed persistence: all stroke 23.3% vs 31.6% (HR 0.68, 95% CI 0.48–0.95); disabling/fatal stroke 7.7% vs 13.1% (HR 0.54, 95% CI 0.30–0.97). Note that at 10 years total costs were non-significantly HIGHER in phase 2 (+$1,022), highly cost-effective at $2,103/QALY — so \"không tăng chi phí\" holds for the original in-hospital cost analysis but should be stated carefully for the 10-year data.",
+  "source": "Rothwell PM et al. Lancet. 2007;370:1432-42; Luengo-Fernandez R et al. Stroke. 2022;53(2):488-96."
+ },
+ {
+  "location": "§1.2.2, dòng 124 và §1.5.2, dòng 208",
+  "claimText": "Nghiên cứu SOS-TIA tại Paris với mô hình phòng khám mở 24/7 … nguy cơ đột quỵ 90 ngày khoảng 1,2% so với mức dự kiến 6%",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "Verified exactly: 90-day stroke rate 1.24% (95% CI 0.72–2.12) vs 5.96% predicted from ABCD2 scores, in 1,085 patients admitted to the SOS-TIA programme.",
+  "source": "Lavallée PC et al. Lancet Neurol. 2007;6(11):953-60."
+ },
+ {
+  "location": "§1.2.2, dòng 123 và Bảng 1.2",
+  "claimText": "ghi nhận 4.789 người bệnh … ở 21 quốc gia. Tỷ lệ đột quỵ tái phát sau một năm là 5,1% và tỷ lệ biến cố mạch máu chính gộp … là 6,2% … [90 ngày] 3,7% … [5 năm] đột quỵ 9,5%; biến cố gộp 12,9%",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "Verified: 4,789 patients at 61 sites in 21 countries; Kaplan-Meier stroke rates 1.5% (day 2), 2.1% (day 7), 2.8% (day 30), 3.7% (day 90), 5.1% (1 year); 1-year composite 6.2% (95% CI 5.5–7.0); 5-year stroke 9.5% (8.5–10.5) and composite 12.9% (11.8–14.1).",
+  "source": "Amarenco P et al. N Engl J Med. 2016;374:1533-42 and N Engl J Med. 2018;378:2182-90."
+ },
+ {
+  "location": "§1.3.2, dòng 148 và Bảng 1.4",
+  "claimText": "ESUS chiếm khoảng 17% tổng số ca nhồi máu não … với tỷ lệ tái phát 4–5% mỗi năm … [tiêu chí] nhồi máu cơ tim dưới 4 tuần, phân suất tống máu dưới 30%",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "Verified: Hart 2014 pooled 9 studies, ESUS frequency 9–25% (mean 17%) of ischaemic strokes, annualised recurrent stroke rate 4.5%/year on antiplatelet therapy; the major-risk cardioembolic source list includes recent (<4 weeks) MI and LVEF <30%, matching Table 1.4 exactly.",
+  "source": "Hart RG, Diener HC, et al. Lancet Neurol. 2014;13(4):429-38."
+ },
+ {
+  "location": "§1.4.1, dòng 175",
+  "claimText": "có khả năng giảm tới khoảng 90% gánh nặng đột quỵ trên cộng đồng theo phân tích INTERSTROKE trên 32 quốc gia",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "Verified: INTERSTROKE (13,447 cases / 13,472 controls, 32 countries) found 10 potentially modifiable risk factors collectively associated with 90.7% of the population attributable risk of all stroke.",
+  "source": "O'Donnell MJ et al. Lancet. 2016;388(10046):761-75."
+ },
+ {
+  "location": "§1.4.3, dòng 196 (PREDIMED) và §1.4.4, dòng 200 (HOPE-3)",
+  "claimText": "thử nghiệm PREDIMED với mức giảm nguy cơ tương đối khoảng 30% … Thử nghiệm HOPE-3 … rosuvastatin 10 mg giảm có ý nghĩa biến cố tim mạch ở người nguy cơ trung bình",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Both verified. PREDIMED (republished 2018, n=7,447): HR 0.69 (95% CI 0.54–0.92) for MedDiet+EVOO and 0.72 (0.54–0.96) for MedDiet+nuts vs control for the primary composite ≈ 28–31% RRR. HOPE-3 lipid arm: rosuvastatin 10 mg vs placebo, first co-primary outcome HR 0.76 (95% CI 0.64–0.91, p=0.002).",
+  "source": "Estruch R et al. N Engl J Med. 2018;378(25):e34; Yusuf S et al. N Engl J Med. 2016;374(21):2021-31."
+ },
+ {
+  "location": "§1.4.4, dòng 199 (khuyến cáo USPSTF) và §1.4.1, dòng 177 (USPSTF hẹp cảnh)",
+  "claimText": "khuyến cáo năm 2022 của USPSTF không ủng hộ khởi đầu aspirin phòng ngừa tiên phát ở người từ 60 tuổi trở lên và đề nghị cá thể hoá quyết định cho nhóm 40–59 tuổi có nguy cơ xơ vữa 10 năm từ 10% trở lên … USPSTF khuyến cáo không sàng lọc hẹp động mạch cảnh không triệu chứng",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Both verified. USPSTF 2022 aspirin: Grade D against initiation at ≥60 years; Grade C (individualise) for adults 40–59 with ≥10% 10-year CVD risk. USPSTF 2021 asymptomatic carotid stenosis: Grade D, recommends against screening in the general adult population.",
+  "source": "USPSTF. JAMA. 2022;327(16):1577-84; USPSTF. JAMA. 2021;325(5):476-81."
+ },
+ {
+  "location": "§1.1.2, dòng 100",
+  "claimText": "các thử nghiệm CHANCE và POINT dùng ngưỡng NIHSS ≤ 3, còn THALES, TEMPO-2 và một số khuyến cáo mở rộng dùng ngưỡng NIHSS ≤ 5",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Verified: CHANCE and POINT enrolled minor stroke with NIHSS ≤3; THALES enrolled non-cardioembolic ischaemic stroke with NIHSS ≤5 or high-risk TIA; TEMPO-2 enrolled NIHSS 0–5 with intracranial occlusion.",
+  "source": "Wang Y et al. N Engl J Med. 2013;369:11-19; Johnston SC et al. N Engl J Med. 2018;379:215-25; Johnston SC et al. N Engl J Med. 2020;383:207-17; Coutts SB et al. Lancet 2024 (TEMPO-2)."
+ },
+ {
+  "location": "Bảng 1.3, dòng 133 và 135",
+  "claimText": "Rung nhĩ mới phát hiện | Nguy cơ tái phát khoảng 12%/năm nếu không kháng đông … Triệu chứng kéo dài trên 60 phút | Yếu tố trong thang ABCD2 (2 điểm)",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Both verified. EAFT placebo arm: annual stroke rate 12%, reduced to 4%/year with anticoagulation (HR 0.34, 95% CI 0.20–0.57). ABCD2 duration component: ≥60 min = 2 points, 10–59 min = 1 point.",
+  "source": "EAFT Study Group. Lancet. 1993;342:1255-62; Johnston SC et al. Lancet. 2007;369:283-92."
+ },
+ {
+  "location": "§3.2.1 (body.txt line 392)",
+  "claimText": "Aspirin đơn trị liều 75–100 mg mỗi ngày giảm khoảng 20–25% nguy cơ tái phát sớm so với giả dược [77]",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "Ref [77] (Rothwell PM et al, Lancet 2016;388:365-75 — the very paper cited) found aspirin reduced the 6-WEEK risk of recurrent ischaemic stroke by ~60% (84/8452 vs 175/7326; HR 0.42, 95% CI 0.32–0.55, p<0.0001) and disabling/fatal recurrent ischaemic stroke by ~70% (HR 0.29, 95% CI 0.20–0.42). The ~13% figure in that paper is the LONG-TERM reduction, and ~22% is the classic Antithrombotic Trialists' long-term figure. No analysis in [77] yields 20–25% for early recurrence. Double miscitation: the number is wrong AND the cited source states the opposite magnitude; also the comparator in the pooled trials was 'control', not strictly placebo.",
+  "source": "Rothwell PM, Algra A, Chen Z, Diener HC, Norrving B, Mehta Z. Lancet 2016;388(10042):365-75. doi:10.1016/S0140-6736(16)30468-8",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.1 (body.txt line 392)",
+  "claimText": "Tỷ lệ nhồi máu não tái phát đạt đỉnh trong 7–30 ngày đầu, khoảng 10–15% nếu không được can thiệp tối ưu [3,76]",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Both cited sources say the risk PEAKS in the first 48 h–7 days, not in days 7–30. Ref [3] (Giles & Rothwell, Lancet Neurol 2007) pooled 10,126 TIA patients: 5.2% at 7 days (95% CI 3.9–6.5), with 2-day risks similar — it does not report any 7–30-day figure. Ref [76] (Coull, BMJ 2004) reports 8.0% at 7 days and 11.5% at 1 month after TIA (11.5% and 15.0% after minor stroke) in an untreated population cohort. The '10–15%' band also contradicts the monograph's own Chương 1 (line 113 and Bảng: 7 ngày 5–7%, 30 ngày 8–12%, 90 ngày 12–15%) and contradicts §3.1.1 line 372 ('nguy cơ tái phát tập trung trong 48 giờ đầu') and Chương 1 line 105 ('tập trung trong 48–72 giờ đầu').",
+  "source": "Giles MF, Rothwell PM. Lancet Neurol 2007;6(12):1063-72; Coull AJ, Lovett JK, Rothwell PM. BMJ 2004;328(7435):326",
+  "verdict_note": ""
+ },
+ {
+  "location": "Bảng 3.2, hàng THALES (body.txt line 411) và Bảng 3.3, hàng 'Quần thể/Đối tượng'",
+  "claimText": "THALES (2020) | 11.016 (đa quốc gia) | Đối tượng: 'Tương tự CHANCE và POINT'",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "THALES did NOT use the CHANCE/POINT entry criteria. It enrolled mild-to-MODERATE non-cardioembolic stroke with NIHSS ≤5 (vs NIHSS ≤3 in CHANCE/POINT), or TIA with ABCD2 ≥6 (vs ≥4), or symptomatic ipsilateral intracranial/extracranial stenosis ≥50%. The monograph's own §3.2.3 (line 400) states these correct criteria, so Bảng 3.2/3.3 contradict the running text.",
+  "source": "Johnston SC et al. N Engl J Med 2020;383(3):207-17 (THALES). doi:10.1056/NEJMoa1916870",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.3 (body.txt line 398); also Bảng 3.2 hàng CHANCE-2 and Bảng 3.3 'Phác đồ kép'",
+  "claimText": "Phác đồ aspirin phối hợp ticagrelor 90 mg hai lần mỗi ngày trong 21 ngày được so sánh với aspirin phối hợp clopidogrel chuẩn",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "In CHANCE-2 ticagrelor (180 mg day 1, then 90 mg twice daily) and the comparator clopidogrel (300 mg day 1, then 75 mg daily) were both given for DAYS 2–90, i.e. 90 days; only open-label aspirin (75–300 mg day 1, then 75 mg daily) was limited to 21 days. The sentence as written implies ticagrelor is stopped at day 21 — a prescribing-relevant error. Note the monograph handles the analogous CHANCE regimen correctly ('...trong 21 ngày, tiếp theo là clopidogrel đơn trị đến ngày 90') but omits the equivalent for CHANCE-2.",
+  "source": "Wang Y et al. N Engl J Med 2021;385(27):2520-30 (CHANCE-2); Wang Y et al. Stroke Vasc Neurol 2021;6(2):280-5 (design)",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.4 (body.txt line 402)",
+  "claimText": "ưu thế nhẹ của clopidogrel so với aspirin đã được thiết lập từ thử nghiệm CAPRIE [84]",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "CAPRIE's significant result was in the OVERALL population (annual event rate 5.32% vs 5.83%; RRR 8.7%, 95% CI 0.3–16.5, p=0.043; comparator aspirin 325 mg, not 75–100 mg). In the ischaemic-stroke qualifying subgroup — the population this monograph section is about — clopidogrel was NOT superior: 7.15%/yr vs 7.71%/yr, RRR 7.3% (95% CI −5.7 to 18.7, p=0.26). Citing CAPRIE as having 'established' clopidogrel's advantage for long-term monotherapy after stroke/TIA overstates the evidence.",
+  "source": "CAPRIE Steering Committee. Lancet 1996;348(9038):1329-39",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.3 (body.txt line 399)",
+  "claimText": "Kết cục gộp nhồi máu não hoặc tử vong trong 30 ngày là 5,5% so với 6,6%, tỷ số nguy cơ 0,83",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "5.5% vs 6.6% (HR 0.83, 95% CI 0.71–0.96) is the composite of STROKE (ischaemic OR haemorrhagic) or death, not 'nhồi máu não hoặc tử vong'. Ischaemic stroke alone in THALES was 5.0% vs 6.3% (HR 0.79, 95% CI 0.68–0.93). Bảng 3.2 labels the same numbers correctly ('Đột quỵ hoặc tử vong'), so the text and table disagree.",
+  "source": "Johnston SC et al. N Engl J Med 2020;383(3):207-17",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.2 (line 394) and §3.2.3 (line 398); Bảng 3.2 hàng CHANCE và CHANCE-2",
+  "claimText": "Tỷ lệ nhồi máu não tái phát trong 90 ngày là 8,2% ... so với 11,7% (CHANCE); Tỷ lệ nhồi máu não tái phát trong 90 ngày là 6,0% so với 7,6% (CHANCE-2)",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Both trials' primary outcome was ANY stroke (ischaemic or haemorrhagic), not recurrent ischaemic infarction. CHANCE: stroke 8.2% vs 11.7%; ischaemic stroke alone 7.9% vs 11.4%. CHANCE-2: stroke 6.0% vs 7.6%; ischaemic stroke alone 5.9% vs 7.4%. The figures quoted are right but the outcome label is wrong.",
+  "source": "Wang Y et al. N Engl J Med 2013;369(1):11-9; Wang Y et al. N Engl J Med 2021;385(27):2520-30",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.3 (line 398) and Bảng 3.2 hàng CHANCE-2 ('Chảy máu nặng: Tương đương')",
+  "claimText": "và tỷ lệ chảy máu nặng tương đương [16,83]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "True only for the primary safety outcome (severe or moderate bleeding: 9 patients [0.3%] vs 11 [0.3%]). CHANCE-2 also reported markedly MORE total bleeding with ticagrelor: any bleeding 170 (5.3%) vs 80 (2.5%). Omitting this makes the safety profile look more favourable than the trial showed, and the omission matters because §3.2.3 goes on to recommend ticagrelor-based strategies in LOF carriers.",
+  "source": "Wang Y et al. N Engl J Med 2021;385(27):2520-30 (CHANCE-2)",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.2 (body.txt line 396)",
+  "claimText": "Phân tích gộp dữ liệu CHANCE và POINT khẳng định rằng phần lớn lợi ích ... tập trung trong 21 ngày đầu, còn nguy cơ chảy máu tiếp tục tích luỹ [78]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "The efficacy half is correct (pooled n=10,051: major ischaemic events 6.5% vs 9.1%, HR 0.70, 95% CI 0.61–0.81; days 0–21 5.2% vs 7.8%, HR 0.66, 95% CI 0.56–0.77; no benefit days 22–90). But the pooled analysis explicitly states 'Major hemorrhages were more frequent in the clopidogrel-aspirin group, but the difference was NONSIGNIFICANT.' 'Nguy cơ chảy máu tiếp tục tích luỹ' should be qualified as a non-significant directional trend in this pooled dataset.",
+  "source": "Pan Y, Elm JJ, Li H, et al. JAMA Neurol 2019;76(12):1466-73",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.1 (body.txt line 392)",
+  "claimText": "chiến lược kháng kết tập tiểu cầu kép trong 21–30 ngày đã được kiểm chứng qua bốn thử nghiệm then chốt — CHANCE, POINT, CHANCE-2 và THALES",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "POINT tested 90 days of aspirin+clopidogrel, not a 21–30-day regimen; the 21-day limit is an inference from post-hoc/pooled analyses, not from POINT's randomised comparison. CHANCE-2 randomised the DAPT partner (ticagrelor vs clopidogrel) in LOF carriers rather than testing DAPT against monotherapy. Only CHANCE (21 days) and THALES (30 days) directly tested a 21–30-day DAPT strategy against single antiplatelet therapy.",
+  "source": "Johnston SC et al. N Engl J Med 2018;379(3):215-25 (POINT); Wang Y et al. N Engl J Med 2021;385(27):2520-30 (CHANCE-2)",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.1.2 (body.txt line 375)",
+  "claimText": "thử nghiệm TEMPO-2 cũng không chứng minh tenecteplase vượt trội so với điều trị chuẩn ở người bệnh NIHSS 0–5 có tắc mạch trong cửa sổ 12 giờ, đồng thời ghi nhận nhiều tử vong hơn ở nhánh tenecteplase [5,59,60]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Verified: TEMPO-2 (n=886; NIHSS 0–5; intracranial occlusion or focal perfusion abnormality; ≤12 h; stopped early for futility). Primary outcome (return to baseline function at 90 days) 309/432 (72%) TNK vs 338/452 (75%) control, RR 0.96 (95% CI 0.88–1.04, p=0.29). Deaths 20 (5%) vs 5 (1%), adjusted HR 3.8 (95% CI 1.4–10.2, p=0.0085); sICH 8 (2%) vs 2 (<1%).",
+  "source": "Coutts SB et al. Lancet 2024;403(10444):2597-605",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.1.2 (body.txt line 375)",
+  "claimText": "Thử nghiệm PRISMS không chứng minh được lợi ích của alteplase trong nhóm không gây tàn tật",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Verified, with one caveat worth adding: PRISMS (NIHSS 0–5, non-disabling, ≤3 h — not 4.5 h) enrolled only 313 of a planned 948 patients before early termination; mRS 0–1 at 90 days 78.2% vs 81.5% (adjusted risk difference −1.1%, 95% CI −9.4% to 7.3%); sICH 3.2% vs 0%. The authors state the early termination 'precludes any definitive conclusions', so 'không chứng minh được lợi ích' is right but should not be read as a definitive negative trial.",
+  "source": "Khatri P et al. JAMA 2018;320(2):156-66 (PRISMS)",
+  "verdict_note": ""
+ },
+ {
+  "location": "Bảng 3.2, hàng CHANCE / POINT / SOCRATES / INSPIRES",
+  "claimText": "CHANCE 5.170, 8,2% vs 11,7% HR 0,68, chảy máu 0,3% vs 0,3%; POINT 4.881, nạp 600 mg, 5,0% vs 6,5% HR 0,75, chảy máu 0,9% vs 0,4% HR 2,32; SOCRATES 13.199; INSPIRES 6.100, 7,3% vs 9,2% HR 0,79, vừa–nặng 0,9% vs 0,4%",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "All verified against the primary papers: CHANCE n=5170, HR 0.68 (0.57–0.81), moderate/severe haemorrhage 7 (0.3%) vs 8 (0.3%); POINT n=4881, clopidogrel 600 mg load, major ischaemic events 121/2432 (5.0%) vs 160/2449 (6.5%), HR 0.75 (0.59–0.95), major haemorrhage 23 (0.9%) vs 10 (0.4%), HR 2.32 (1.10–4.87); SOCRATES n=13,199, primary endpoint 6.7% vs 7.5%, HR 0.89 (0.78–1.01), p=0.07, major bleeding 0.5% vs 0.6%; INSPIRES n=6100, new stroke 222 (7.3%) vs 279 (9.2%), HR 0.79 (0.66–0.94), moderate-to-severe bleeding 27 (0.9%) vs 13 (0.4%), HR 2.08 (1.07–4.04).",
+  "source": "NEJM 2013;369:11-9; NEJM 2018;379:215-25; NEJM 2016;375:35-43; NEJM 2023;389:2413-24",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.3 (line 399) and Bảng 3.2 hàng THALES — bleeding column",
+  "claimText": "chảy máu nặng tăng đáng kể từ 0,1% lên 0,5% với tỷ số nguy cơ 3,99",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Verified: GUSTO severe bleeding 28/5523 (0.5%) with ticagrelor-aspirin vs 7/5493 (0.1%) with aspirin; HR 3.99, 95% CI 1.74–9.14, P=0.001. Denominators and rates are correct.",
+  "source": "Johnston SC et al. N Engl J Med 2020;383(3):207-17 (THALES)",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.3 (body.txt line 398)",
+  "claimText": "khoảng 58% người Đông Á mang ít nhất một alen mất chức năng, chủ yếu là CYP2C19*2 hoặc *3 [79-82]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Verified against ref [79]: in the CHANCE genetic substudy (n=2933 Chinese patients) 1726 (58.8%) carried *2 or *3 loss-of-function alleles and 1207 (41.2%) were non-carriers. Note this is a Chinese, not a pan-'East Asian', denominator — a small over-generalisation but within the usual reported range.",
+  "source": "Wang Y, Zhao X, Lin J, et al. JAMA 2016;316(1):70-8",
+  "verdict_note": ""
+ },
+ {
+  "location": "Hình 3.1 caption (body.txt line 427)",
+  "claimText": "CHANCE-2: chọn người bệnh từ 40 tuổi, NIHSS ≤ 3 hoặc ABCD2 ≥ 4, khởi trị được trong 24 giờ và mang alen mất chức năng CYP2C19 [83]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Verified: CHANCE-2 required age ≥40 years, acute non-disabling ischaemic stroke with NIHSS ≤3 or high-risk TIA with ABCD2 ≥4, ability to start study drug within 24 h of last-known-normal, and a CYP2C19 loss-of-function allele on point-of-care genotyping.",
+  "source": "Wang Y et al. Stroke Vasc Neurol 2021;6(2):280-5; Wang Y et al. NEJM 2021;385:2520-30",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.2.2 (body.txt line 396)",
+  "claimText": "việc kéo dài đến 90 ngày ... chỉ dành cho chỉ định riêng như hẹp động mạch nội sọ 70–99% có triệu chứng [5,18,53,72,78]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Ref [72] (SAMMPRIS) does support this: patients with recent TIA/stroke attributable to 70–99% stenosis of a major intracranial artery received aggressive medical management including aspirin 325 mg plus clopidogrel 75 mg daily for 90 days. Citation is appropriate.",
+  "source": "Chimowitz MI et al. N Engl J Med 2011;365(11):993-1003 (SAMMPRIS)",
+  "verdict_note": ""
+ },
+ {
+  "location": "§3.1.2 (line 376) and §3.2.2/§3.2.3 guideline statements",
+  "claimText": "Hướng dẫn năm 2026 ... NIHSS ≥ 6 cho tắc ICA/M1; tắc thân nền NIHSS ≥ 10; tenecteplase 0,25 mg/kg tối đa 25 mg; khởi trị 24–72 giờ ở NIHSS ≤ 5 theo INSPIRES; aspirin – ticagrelor 30 ngày ở NIHSS ≤ 5, ABCD2 ≥ 6 hoặc hẹp cùng bên ≥ 50% [5]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "Reference [5] is real and cited accurately (Prabhakaran S et al. Stroke 2026;57(8):e316-e436, doi:10.1161/STR.0000000000000513). Spot-checked recommendations match: tenecteplase 0.25 mg/kg Class 1 with parity to alteplase 0.9 mg/kg; anterior-circulation EVT NIHSS ≥6; basilar occlusion EVT within 24 h requires NIHSS ≥10 with pre-stroke mRS 0–1 and PC-ASPECTS ≥6; Section 4.8 COR 2a covers NIHSS ≤5 or ABCD2 ≥4 at 24–72 h with presumed atherosclerotic cause, DAPT 21 days then SAPT; aspirin+ticagrelor 30 days is COR 2b/B-R for NIHSS ≤5, ABCD2 ≥6, or symptomatic stenosis ≥50%; thrombolysis is Class 3 for minor non-disabling deficits. One nuance: §3.2.2's 24–72 h sentence omits the guideline's requirement of a presumed atherosclerotic cause (≥50% stenosis or large-artery-atherosclerosis infarct pattern), which §3.2.4 does state.",
+  "source": "Prabhakaran S, Gonzalez NR, Zachrison KS, et al. Stroke 2026;57(8):e316-e436",
+  "verdict_note": ""
+ },
+ {
+  "location": "Mục 3.3.1, đoạn về SPARCL (câu 2), ref [86]",
+  "claimText": "dù chảy máu nội sọ tăng nhẹ từ 1,3% lên 1,7%",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "Đột quỵ xuất huyết trong SPARCL: 55/2365 = 2,3% ở nhóm atorvastatin so với 33/2366 = 1,4% ở nhóm giả dược (HR 1,66; 95% CI 1,08–2,55). Cả hai con số trong văn bản đều sai và làm giảm đáng kể mức chênh lệch tuyệt đối thực tế (0,9 điểm phần trăm, chứ không phải 0,4).",
+  "source": "Amarenco P et al. High-dose atorvastatin after stroke or TIA. N Engl J Med. 2006;355:549-59 (ref 86); phân tích hậu kiểm SPARCL đăng trên Stroke 2008 (doi:10.1161/STROKEAHA.108.534107) trích dẫn 2,3% vs 1,4%, HR 1,66 (1,08–2,55)."
+ },
+ {
+  "location": "Mục 3.3.1, đoạn về SPARCL (câu 2), ref [86]",
+  "claimText": "tử vong do nguyên nhân mạch máu giảm có ý nghĩa",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "SPARCL KHÔNG cho thấy giảm tử vong có ý nghĩa ở bất kỳ kết cục tử vong nào. Tử vong do nguyên nhân tim mạch: 78 (3,3%) atorvastatin vs 98 (4,1%) giả dược, p = 0,11 (không có ý nghĩa). Tử vong do mọi nguyên nhân: 216 (9,1%) vs 211 (8,9%), không khác biệt (p ≈ 0,98). Chỉ có 'đột quỵ tử vong' (fatal stroke) và các biến cố mạch máu chính là giảm có ý nghĩa.",
+  "source": "Amarenco P et al. N Engl J Med. 2006;355:549-59; bảng tóm tắt SPARCL của RxFiles (rxfiles.ca/rxfiles/uploads/documents/lipid-qanda-sparcl.pdf): 'NS of CV death 78 3.3% in atorvastatin arm vs 98 4.1% p=0.11 ... NO reduction in overall mortality'."
+ },
+ {
+  "location": "Mục 3.3.1, đoạn về SPARCL (câu 2), ref [86]",
+  "claimText": "Sau 5 năm, tỷ lệ nhồi máu não hoặc TIA tái phát giảm từ 13,1% xuống 11,2% với tỷ số nguy cơ 0,84",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Nhãn kết cục sai. 11,2% vs 13,1% (HR hiệu chỉnh 0,84; 95% CI 0,71–0,99; P=0,03) là kết cục CHÍNH = đột quỵ tử vong hoặc không tử vong (mọi loại, bao gồm cả đột quỵ xuất huyết) trong thời gian theo dõi trung vị 4,9 năm — không phải 'nhồi máu não hoặc TIA tái phát'. Kết cục phụ 'đột quỵ hoặc TIA' của SPARCL là 15,9% vs 20,1% (HR 0,77; giảm 23%). Việc gộp TIA vào con số 11,2%/13,1% là sai và mâu thuẫn với chính con số HR 0,84 được trích.",
+  "source": "Amarenco P et al. N Engl J Med. 2006;355:549-59: '265 patients (11.2%) receiving atorvastatin and 311 (13.1%) receiving placebo had a fatal or nonfatal stroke'; kết cục phụ đột quỵ + TIA giảm 23% (P<0,001)."
+ },
+ {
+  "location": "Mục 3.3.3, đoạn 2 (FOURIER), ref [89]",
+  "claimText": "kết quả đặc biệt nổi bật ở phân nhóm có tiền sử nhồi máu não [89]",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "Ngược lại với dữ liệu thực tế. Trong FOURIER, phân nhóm có tiền sử nhồi máu não (n = 5.337; 19%) có HR cho đột quỵ nói chung là 0,90 (95% CI 0,68–1,19) và cho nhồi máu não là 0,92 (95% CI 0,68–1,25) — đều KHÔNG có ý nghĩa thống kê và yếu hơn về số học so với toàn bộ quần thể (0,79 và 0,75); p tương tác 0,22 và 0,09. Ngoài ra đây là MIS-CITATION: bài gốc [89] (Sabatine, NEJM 2017) không chứa phân tích phân nhóm này; nguồn đúng là Giugliano RP et al. Stroke. 2020;51(5):1546-54.",
+  "source": "Giugliano RP et al. Stroke Prevention With the PCSK9 Inhibitor Evolocumab... Stroke. 2020;51:1546-1554 (PMID 32312223); Sabatine MS et al. N Engl J Med. 2017;376:1713-22."
+ },
+ {
+  "location": "Bảng 3.4, dòng 'Rất cao' (cột Mức bằng chứng)",
+  "claimText": "Dưới 55 mg/dL (1,4 mmol/L) | Khuyến cáo lipid châu Âu, mức IIa",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "Mức khuyến cáo sai. Trong khuyến cáo ESC/EAS 2019 về rối loạn lipid máu, mục tiêu LDL-C <1,4 mmol/L (<55 mg/dL) kèm giảm ≥50% so với nền ở người bệnh nguy cơ rất cao trong phòng ngừa thứ phát là Class I, Level A (không phải IIa). Khuyến cáo mức IIb (Level B) là mục tiêu <1,0 mmol/L (<40 mg/dL) cho người bệnh có biến cố mạch máu thứ hai trong vòng 2 năm — có vẻ đã bị lẫn với dòng này (định nghĩa dòng 'Rất cao' trong bảng cũng mô tả 'kèm ít nhất một biến cố mạch hệ thống khác'). Ngoài ra bảng này mâu thuẫn nội bộ với bảng ở Mục 3.6 của chính tài liệu, nơi ghi 'LDL-C | Dưới 70 hoặc dưới 55 mg/dL | ... | Mức I, bằng chứng A'.",
+  "source": "Mach F et al. 2019 ESC/EAS Guidelines for the management of dyslipidaemias. Eur Heart J. 2020;41:111-188 (Class I A cho <55 mg/dL ở nguy cơ rất cao; Class IIb B cho <40 mg/dL sau biến cố thứ hai trong 2 năm); ESC E-Journal of Cardiology Practice Vol 19 xác nhận 'Class IA'."
+ },
+ {
+  "location": "Bảng 3.4, dòng 'Trung bình'",
+  "claimText": "Trung bình | Nhồi máu não không do xơ vữa rõ (nguồn tim, ổ khuyết) | Dưới 100 mg/dL (2,6 mmol/L) | Mức IIa",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Không có khuyến cáo nào trong bốn tài liệu được trích ([18] AHA/ASA 2021, [85] ESO 2022, [86] SPARCL, [87] TST) đặt mục tiêu LDL-C <100 mg/dL với mức IIa cho nhồi máu não không do xơ vữa. AHA/ASA 2021 dùng ngưỡng LDL-C >100 mg/dL làm tiêu chí chọn người bệnh để chỉ định atorvastatin 80 mg (Class 1, LOE A), không phải làm 'mục tiêu điều trị mức IIa'. Dòng bảng này nên bị xoá hoặc ghi rõ là ý kiến chuyên gia.",
+  "source": "Kleindorfer DO et al. Stroke. 2021;52:e364-e467; Dawson J et al. ESO guideline, Eur Stroke J. 2022;7:I-XLI."
+ },
+ {
+  "location": "Bảng 3.4 (caption) và Mục 3.3.1 câu cuối, ref [18,85-87] / [18,87]",
+  "claimText": "cũng như mục tiêu dưới 55 mg/dL cho nhóm nguy cơ rất cao theo khuyến cáo lipid châu Âu [18,87]",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Miscitation: 'khuyến cáo lipid châu Âu' (ESC/EAS 2019, Mach F et al. Eur Heart J. 2020;41:111-188) KHÔNG có trong danh mục tài liệu tham khảo, và không tài liệu nào trong [18] (AHA/ASA 2021), [85] (ESO 2022), [86] (SPARCL), [87] (TST) đưa ra mục tiêu <55 mg/dL. TST [87] so sánh <70 với 90–110 mg/dL, không kiểm chứng ngưỡng 55 mg/dL. Cần bổ sung tài liệu ESC/EAS 2019 vào danh mục.",
+  "source": "Rà soát refs.txt (không có mục ESC/EAS dyslipidaemia); Amarenco P et al. N Engl J Med. 2020;382:9-19."
+ },
+ {
+  "location": "Mục 3.3.4, câu 3, ref [86,87]",
+  "claimText": "Các cơ chế này có thể giải thích một phần lợi ích thu được nhanh chóng trong 4–12 tuần đầu của SPARCL, trước khi LDL-C đạt mức đáy ổn định",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Không được SPARCL [86] hỗ trợ, và trái với dữ liệu. Lợi ích trong SPARCL tích luỹ dần theo thời gian chứ không xuất hiện trong 4–12 tuần đầu: NNT để tránh một đột quỵ là 258 ở năm thứ nhất so với 45 ở năm thứ năm; đường cong Kaplan–Meier tách ra sau khoảng một năm. Thêm nữa, atorvastatin 80 mg đạt mức đáy LDL-C sau khoảng 4–6 tuần, nên mệnh đề 'trước khi LDL-C đạt mức đáy ổn định' cũng không đúng về dược lý.",
+  "source": "Amarenco P et al. N Engl J Med. 2006;355:549-59 (Hình Kaplan-Meier); tóm tắt SPARCL (WikiJournalClub / RxFiles): NNT 258 ở 1 năm vs 45 ở 5 năm."
+ },
+ {
+  "location": "Mục 3.4.1, đoạn 1, ref [18,66-68]",
+  "claimText": "Thuốc kháng đông đường uống trực tiếp được ưu tiên trong rung nhĩ không kèm van cơ học hoặc hẹp van hai lá mức trung bình đến nặng, với liều điều chỉnh theo chức năng thận, tuổi, cân nặng và tương tác thuốc [18,66-68]",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Miscitation. Ref [66] = CRYSTAL-AF (Sanna, NEJM 2014), [67] = EMBRACE (Gladstone, NEJM 2014), [68] = STROKE-AF (Bernstein, JAMA 2021) đều là thử nghiệm PHÁT HIỆN rung nhĩ bằng theo dõi nhịp kéo dài; không thử nghiệm nào đề cập chỉ định kháng đông, loại trừ van cơ học/hẹp van hai lá, hay tiêu chí giảm liều. Chỉ [18] (AHA/ASA 2021) mới hỗ trợ câu này — đúng như cách chính tài liệu trích dẫn ở Mục 2.3 (chỉ [18]).",
+  "source": "Sanna T et al. NEJM 2014;370:2478-86; Gladstone DJ et al. NEJM 2014;370:2467-77; Bernstein RA et al. JAMA 2021;325:2169-77."
+ },
+ {
+  "location": "Mục 3.4.1, đoạn 2 (RE-LY), ref [93]",
+  "claimText": "dabigatran 150 mg hai lần mỗi ngày giảm 35% nguy cơ nhồi máu não và thuyên tắc hệ thống so với warfarin",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Giảm 34%, không phải 35%: 1,11%/năm so với 1,69%/năm với warfarin, RR 0,66 (95% CI 0,53–0,82), P<0,001 — đúng với con số 0,66 đã ghi trong Bảng 3.6 (1 − 0,66 = 34%). Kết cục cũng là 'đột quỵ (mọi loại) hoặc thuyên tắc hệ thống', không riêng nhồi máu não.",
+  "source": "Connolly SJ et al. Dabigatran versus warfarin in patients with atrial fibrillation. N Engl J Med. 2009;361:1139-51."
+ },
+ {
+  "location": "Mục 3.3.3, đoạn 2 (FOURIER), ref [89]",
+  "claimText": "trong đó nhồi máu não giảm 21%",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Con số 21% (HR 0,79; 95% CI 0,66–0,95) là cho ĐỘT QUỴ NÓI CHUNG (1,5% vs 1,9%). Riêng nhồi máu não giảm 25% (HR 0,75; 95% CI 0,62–0,92; 1,2% vs 1,6%), và số liệu tách riêng nhồi máu não đến từ Giugliano, Stroke 2020, không phải từ [89].",
+  "source": "Sabatine MS et al. N Engl J Med. 2017;376:1713-22; Giugliano RP et al. Stroke. 2020;51:1546-54."
+ },
+ {
+  "location": "Bảng 3.8 (CHA2DS2-VASc), dòng 'Sc', ref [18]",
+  "claimText": "Sc | Giới nữ (chỉ tính khi có ít nhất một yếu tố nguy cơ khác) | 1",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Trong định nghĩa thang CHA2DS2-VASc (và trong bảng của AHA/ASA được trích là [18]), giới nữ được tính 1 điểm không điều kiện — đây chính là điều làm cho 'tối đa 9 điểm' ở dòng cuối bảng đúng về số học. Điều kiện 'chỉ tính khi có ít nhất một yếu tố nguy cơ khác' là quy tắc áp dụng của ESC 2020 (coi giới nữ là yếu tố điều chỉnh nguy cơ), không thuộc thang điểm và không có trong [18]; nếu áp dụng điều kiện này thì cần chú thích nguồn ESC.",
+  "source": "Lip GYH et al. Chest. 2010;137:263-72 (thang gốc); Kleindorfer DO et al. Stroke. 2021;52:e364-e467; Hindricks G et al. 2020 ESC AF Guidelines, Eur Heart J. 2021;42:373-498."
+ },
+ {
+  "location": "Bảng 3.6, dòng ENGAGE AF-TIMI 48 (và ROCKET-AF), cột 'Đột quỵ / thuyên tắc (HR)'",
+  "claimText": "ENGAGE AF-TIMI 48 (2013) | Edoxaban 60 mg/ngày | 21.105 | 0,87 (không thua kém)",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "0,87 (97,5% CI 0,73–1,04) là phân tích ITT toàn thời gian; phân tích CHÍNH được công bố (mITT, trong thời gian điều trị) cho HR 0,79 (97,5% CI 0,63–0,99; P<0,001 cho không thua kém). Tương tự ROCKET-AF 0,88 là ITT (phân tích per-protocol/on-treatment cho 0,79). Bảng nên ghi rõ quần thể phân tích, nếu không người đọc sẽ hiểu sai độ mạnh của hiệu quả.",
+  "source": "Giugliano RP et al. N Engl J Med. 2013;369:2093-104; Patel MR et al. N Engl J Med. 2011;365:883-91."
+ },
+ {
+  "location": "Bảng 3.5, dòng 'Bậc 2'",
+  "claimText": "Bậc 2 | Thêm ezetimibe | 10 mg/ngày | Thêm 15–20%",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Ezetimibe thêm vào statin thường hạ LDL-C thêm khoảng 18–25% (trong IMPROVE-IT, LDL-C trung bình 53,7 mg/dL ở nhóm phối hợp so với 69,9 mg/dL ở nhóm simvastatin đơn trị ≈ giảm thêm 23%). Khoảng '15–20%' là thấp hơn thực tế.",
+  "source": "Cannon CP et al. Ezetimibe added to statin therapy after acute coronary syndromes. N Engl J Med. 2015;372:2387-97."
+ },
+ {
+  "location": "Mục 3.3.3, đoạn cuối, ref [18,41,85]",
+  "claimText": "Chiến lược này phù hợp với hướng dẫn phòng ngừa thứ phát hiện hành và đồng bộ với can thiệp đa yếu tố (Bảng 3.4) (Bảng 3.5) [18,41,85]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Ref [41] là hướng dẫn PHÒNG NGỪA TIÊN PHÁT của AHA/ASA 2024 (Bushnell C et al. Stroke. 2024;55:e344-e424) — không phù hợp để chống lưng cho thuật toán hạ lipid bậc thang trong phòng ngừa thứ phát. Chỉ [18] và [85] là hướng dẫn phòng ngừa thứ phát.",
+  "source": "Bushnell C et al. 2024 guideline for the primary prevention of stroke. Stroke. 2024;55:e344-e424."
+ },
+ {
+  "location": "Mục 3.3.1, đoạn về TST, ref [18,87]",
+  "claimText": "Thử nghiệm TST ... trên 2.860 người bệnh tại Pháp và Hàn Quốc ... Kết cục mạch máu chính sau 3,5 năm là 8,5% ở nhóm mục tiêu thấp so với 10,9% ở nhóm mục tiêu cao, tỷ số nguy cơ 0,78 với khoảng tin cậy 95% từ 0,61 đến 0,98, trong khi xuất huyết não không tăng có ý nghĩa",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Amarenco P et al. N Engl J Med. 2020;382:9-19 (2.860 người bệnh, Pháp + Hàn Quốc, theo dõi trung vị 3,5 năm, 8,5% vs 10,9%, HR 0,78 [0,61–0,98]); Amarenco P et al. Intracranial Hemorrhage in the TST Trial. Stroke. 2022 (18 vs 13 ca, HR 1,17 [0,53–2,62], P=0,70)."
+ },
+ {
+  "location": "Mục 3.4.2, đoạn 2 và Bảng 3.7, ref [101]",
+  "claimText": "Phân tích gộp dữ liệu cá thể CATALYST công bố năm 2025 gộp 5.441 người bệnh từ bốn thử nghiệm ngẫu nhiên ... tỷ lệ 2,1% so với 3,0% và tỷ số chênh 0,70 ... trong khi tỷ lệ xuất huyết nội sọ có triệu chứng đều là 0,4%",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Dehbi HM, Fischer U, et al. CATALYST. Lancet. 2025;406:43-51 — 4 thử nghiệm (TIMING, ELAN, OPTIMAS, START), 5.441 người bệnh; kết cục chính 30 ngày 57/2683 (2,1%) vs 83/2746 (3,0%), OR 0,70 (P=0,039); sICH 0,4% vs 0,4% (OR 1,02); tái phát nhồi máu 1,7% vs 2,6% (OR 0,66)."
+ },
+ {
+  "location": "Mục 3.4.2, đoạn 1 (ELAN), ref [98]",
+  "claimText": "khởi trị sớm trong 48 giờ cho nhồi máu nhẹ và vừa, ngày thứ 6 đến 7 cho nhồi máu lớn ... Kết cục gộp ở 30 ngày là 2,9% so với 4,1%, với tỷ lệ xuất huyết nội sọ có triệu chứng 0,2% ở mỗi nhóm",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Fischer U et al. Early versus later anticoagulation for stroke with atrial fibrillation. N Engl J Med. 2023;388:2411-21 (2,9% vs 4,1%; chênh lệch nguy cơ −1,18 điểm phần trăm, 95% CI −2,84 đến 0,47; sICH 0,2% ở cả hai nhóm)."
+ },
+ {
+  "location": "Bảng 3.6, dòng ROCKET-AF, cột 'Tử vong (HR)'",
+  "claimText": "ROCKET-AF (2011) | ... | 0,92",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Phân tích ITT ROCKET AF: 582 vs 632 ca tử vong (4,5 vs 4,9/100 người-năm), HR 0,92 (95% CI 0,82–1,03), P=0,15 — nhất quán với việc bảng dùng số liệu ITT cho cột HR đột quỵ (0,88). (Lưu ý: phân tích on-treatment trong bài NEJM gốc cho HR 0,85 [0,70–1,02], P=0,07.) Pokorney SD et al. JAHA. 2016;5:e002197."
+ },
+ {
+  "location": "Mục 3.4.4, đoạn 2, ref [105]",
+  "claimText": "Theo dõi 5 năm gộp từ hai thử nghiệm PROTECT-AF và PREVAIL cho thấy dụng cụ Watchman không thua kém warfarin về kết cục gộp và giảm có ý nghĩa chảy máu nặng ngoài thủ thuật cùng tử vong do mọi nguyên nhân",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Reddy VY et al. 5-Year Outcomes After Left Atrial Appendage Closure: From the PREVAIL and PROTECT AF Trials. J Am Coll Cardiol. 2017;70:2964-75 — kết cục chính 2,8% vs 3,4% (P=0,27); giảm 52% chảy máu nặng ngoài thủ thuật; giảm 27% tử vong do mọi nguyên nhân (P=0,035)."
+ },
+ {
+  "location": "3.5.1, đoạn 1 (dòng đầu)",
+  "claimText": "Hẹp động mạch cảnh trong đoạn ngoài sọ chiếm 15–20% số ca nhồi máu não và TIA do xơ vữa động mạch lớn ở quần thể phương Tây",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "Sai mẫu số. Con số 15–20% là tỷ lệ trên TOÀN BỘ nhồi máu não, không phải trên riêng nhóm do xơ vữa động mạch lớn (trong nhóm LAA, hẹp cảnh ngoài sọ chiếm tỷ lệ cao hơn nhiều). Chính tài liệu này ở Mục 1.3.4 viết đúng: 'chiếm 15–20% số ca nhồi máu não tại các quốc gia phương Tây' — mâu thuẫn nội bộ giữa hai mục.",
+  "source": "Kolominsky-Rabas/AHA reviews; 'Atherosclerosis of the extracranial carotid arteries leads to about 15–20% of ischemic strokes' (Extracranial Vascular Disease: Carotid Stenosis and Plaque Imaging, PMC9112346); đối chiếu nội bộ body.txt dòng 160"
+ },
+ {
+  "location": "3.5.1, đoạn 2",
+  "claimText": "Sau 2 năm, tỷ lệ nhồi máu não cùng bên giảm từ 26% xuống 9%, tương đương mức giảm tuyệt đối 17 điểm phần trăm [107]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "NASCET Collaborators. N Engl J Med 1991;325:445-53 (PMID 1852179): 'cumulative risk of any ipsilateral stroke at two years were 26 percent in the 331 medical patients and 9 percent in the 328 surgical patients — an absolute risk reduction 17 ± 3.5 percent'"
+ },
+ {
+  "location": "3.5.1, đoạn 2",
+  "claimText": "Ở phân nhóm hẹp 50–69%, lợi ích nhỏ hơn với mức giảm tuyệt đối 4–7 điểm phần trăm",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Rothwell PM et al. Lancet 2003;361:107-16 (PMID 12531577): ARR 5 năm 4,6% cho hẹp 50–69%; NASCET riêng lẻ (Barnett 1998) ARR 6,5% ở 5 năm"
+ },
+ {
+  "location": "3.5.1, đoạn 2 (trích dẫn [109])",
+  "claimText": "...và phụ thuộc vào tuổi, giới cùng khoảng thời gian từ biến cố; can thiệp trong vòng 14 ngày sau biến cố cho lợi ích lớn nhất [109]",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Trích dẫn sai. Tài liệu [109] (Rothwell 2003, Lancet 361:107-16) KHÔNG phân tích thời điểm phẫu thuật, tuổi hay giới — abstract chỉ báo cáo ARR theo mức độ hẹp (<30%: −2,2%; 30–49%: 3,2%; 50–69%: 4,6%; ≥70% không gần tắc: 16,0%; gần tắc: −1,7%). Nguồn đúng cho phân tích tuổi–giới–thời điểm và mốc 2 tuần là Rothwell PM et al. Lancet 2004;363(9413):915-24 (PMID 15043958), cũng là tài liệu 373 được AHA 2021 trích dẫn.",
+  "source": "PubMed abstract PMID 12531577 (toàn văn abstract không có nội dung về timing); Rothwell et al. Lancet 2004;363:915-24"
+ },
+ {
+  "location": "Hình 3.2 (chú thích)",
+  "claimText": "Hai phương pháp chênh nhau khoảng 10–20 điểm phần trăm [110]",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Khoảng chênh không cố định: theo công thức quy đổi ECST ≈ 0,6 × NASCET + 40, chênh lệch là ~28 điểm ở mức NASCET 30%, ~20 điểm ở 50%, ~12 điểm ở 70%, và chỉ ~4 điểm ở 90%. Ngoài ra [110] là một tệp hình trên Wikimedia Commons, không phải nguồn có thể chống đỡ một khẳng định định lượng; tài liệu [111] (Saba L et al. Life 2024;14:73) mới là nguồn thích hợp và đang bị bỏ trống.",
+  "source": "Công thức quy đổi ECST/NASCET (Rothwell et al., Stroke 1994;25:2435-9 'Equivalence of Measurements of Carotid Stenosis'); refs.txt mục 110"
+ },
+ {
+  "location": "3.5.1, đoạn 1 và Hình 3.2 (chú thích)",
+  "claimText": "...theo phương pháp NASCET, đo tỷ lệ giữa đường kính lòng mạch tại chỗ hẹp với đường kính động mạch cảnh trong ở đoạn xa khỏi vùng hẹp",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Thiếu phép lấy phần bù: % hẹp NASCET = (1 − đường kính lòng mạch còn lại / đường kính ICA đoạn xa) × 100. Như đang viết, 'tỷ lệ' này chính là phần lòng mạch còn lại chứ không phải mức hẹp. Chính Hình 2.3 của tài liệu dùng đúng công thức (2,48/5,10 → hẹp ~51%).",
+  "source": "NASCET N Engl J Med 1991;325:445-53; đối chiếu nội bộ body.txt dòng 285"
+ },
+ {
+  "location": "3.5.2 và Bảng 3.9",
+  "claimText": "Kết cục gộp 30 ngày 4,5% (bóc nội mạc) so với 5,2% (stent); đột quỵ 2,3% so với 4,1%; nhồi máu cơ tim 2,3% so với 1,1%; tử vong 0,3% so với 0,7%; 4 năm 6,8% so với 7,2%; 2.502 người bệnh",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Brott TG et al. N Engl J Med 2010;363:11-23 (CREST): 2502 randomized; periprocedural composite 5,2% CAS vs 4,5% CEA (P=0,38); stroke 4,1% vs 2,3% (P=0,01); MI 1,1% vs 2,3% (P=0,03); death 0,7% vs 0,3% (P=0,18); 4-year primary endpoint 7,2% vs 6,8% (HR 1,11; 95% CI 0,81–1,51)"
+ },
+ {
+  "location": "3.5.2 và Bảng 3.9 (hàng 'Theo dõi 10 năm')",
+  "claimText": "Ở mốc 4 năm và 10 năm theo dõi, kết cục dài hạn tương đương giữa hai phương pháp [112,113]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Brott TG et al. N Engl J Med 2016;374:1021-31: kết cục gộp 10 năm 11,8% (stent) so với 9,9% (bóc nội mạc), HR 1,10 (95% CI 0,83–1,44); đột quỵ cùng bên sau thủ thuật 6,9% so với 5,6%"
+ },
+ {
+  "location": "3.5.2 và Bảng 3.9 (hàng 'Phân nhóm dưới 70 tuổi')",
+  "claimText": "người bệnh dưới 70 tuổi có kết quả tương đương giữa hai kỹ thuật",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "CREST báo cáo tương tác có ý nghĩa giữa tuổi và hiệu quả điều trị (P=0,02) với điểm giao cắt ~70 tuổi: ở tuổi trẻ hơn đặt stent cho hiệu quả nhỉnh hơn ('slightly greater efficacy with stenting'), chứ không phải 'tương đương'; chỉ đúng ở lân cận mốc 70 tuổi.",
+  "source": "Brott TG et al. N Engl J Med 2010;363:11-23, mục age interaction"
+ },
+ {
+  "location": "3.5.3",
+  "claimText": "phối hợp aspirin – clopidogrel đến 90 ngày ... Thử nghiệm WASID ... warfarin không vượt trội aspirin mà còn tăng biến chứng [115]. Các thử nghiệm SAMMPRIS và CASSISS không ủng hộ đặt stent nội sọ thường quy [72,116]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "WASID (Chimowitz, NEJM 2005;352:1305-16): kết cục chính 22,1% aspirin vs 21,8% warfarin; tử vong 4,3% vs 9,7%; chảy máu nặng 3,2% vs 8,3%. SAMMPRIS (NEJM 2011;365:993-1003): 30 ngày đột quỵ/tử vong 14,7% PTAS vs 5,8% nội khoa. CASSISS (JAMA 2022;328:534-42): 8,0% vs 7,2%, HR 1,10. AHA 2021 [18]: aspirin+clopidogrel tới 90 ngày cho hẹp 70–99% (COR 2a, B-NR)"
+ },
+ {
+  "location": "3.5.4",
+  "claimText": "giảm kết cục gộp ... từ 6,0% xuống 2,8%, ... 8 biến cố chu thủ thuật ở nhánh can thiệp và không có biến cố nào ở nhánh nội khoa. Trong nhánh bóc nội mạc, tỷ lệ 3,7% so với 5,3% không đạt ý nghĩa thống kê",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Brott TG et al. Medical Management and Revascularization for Asymptomatic Carotid Stenosis (CREST-2). N Engl J Med 2026;394(3):219-231 (PMID 41269206): 1245 + 1240 người bệnh, hẹp không triệu chứng ≥70%; stent 2,8% vs nội khoa 6,0% (P=0,02); CEA 3,7% vs 5,3% (P=0,24); ngày 0–44: 'no strokes or deaths occurred in the medical-therapy group and seven strokes and one death occurred in the stenting group'"
+ },
+ {
+  "location": "3.6.1",
+  "claimText": "giảm tới 80% nguy cơ nhồi máu não tái phát trong 90 ngày ... với lợi ích được duy trì sau 10 năm theo dõi [20,24,31]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "EXPRESS (Rothwell, Lancet 2007;370:1432-42): 10,3% (32/310) → 2,1% (6/281), HR hiệu chỉnh 0,20 (0,08–0,49). Luengo-Fernandez, Stroke 2022;53:488-96: đột quỵ 10 năm 23,3% vs 31,6%, HR 0,68 (0,48–0,95)"
+ },
+ {
+  "location": "3.6.2, đoạn 1",
+  "claimText": "Mục tiêu dưới 130/80 mmHg được khuyến cáo mức I cho mọi người bệnh sau nhồi máu não hoặc TIA",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Khuyến cáo COR 1/LOE B-R của AHA/ASA 2021 chỉ áp dụng 'in patients with HYPERTENSION who experience a stroke or TIA'. Với người không có tiền sử tăng huyết áp mà huyết áp trung bình ≥130/80, khuyến cáo là COR 2a (không phải mức I). Diễn đạt 'cho mọi người bệnh' làm rộng quá phạm vi khuyến cáo.",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467, mục 4.2 Hypertension, khuyến cáo 2 (1, B-R) và khuyến cáo 4 (2a, B-R)"
+ },
+ {
+  "location": "3.6.2, đoạn 1",
+  "claimText": "khởi đầu trong 24–72 giờ sau khi tình trạng cấp đã ổn định",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Không có mốc 24–72 giờ trong các tài liệu được trích [18,44]. Hướng dẫn AHA/ASA 2021 liệt kê chính vấn đề này là khoảng trống nghiên cứu: 'What is the optimal timing to begin BP lowering after acute stroke?'",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467, phần Knowledge Gaps mục tăng huyết áp"
+ },
+ {
+  "location": "3.6.2, đoạn 1",
+  "claimText": "Thử nghiệm PROGRESS với phối hợp perindopril và indapamide chứng minh hạ huyết áp giảm 28% nhồi máu não tái phát",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "Gán sai con số cho phân nhóm. 28% (95% CI 17–38) là mức giảm nguy cơ ĐỘT QUỴ TOÀN BỘ của cả nhóm điều trị tích cực (gồm cả đơn trị perindopril). Riêng phối hợp perindopril + indapamide giảm 43% (30–54); đơn trị perindopril 'produced no discernable reduction in the risk of stroke'. Ngoài ra kết cục chính là total stroke (cả xuất huyết), không riêng 'nhồi máu não'.",
+  "source": "PROGRESS Collaborative Group. Lancet 2001;358:1033-41 (PMID 11589932)"
+ },
+ {
+  "location": "3.6.2, đoạn 1",
+  "claimText": "Thử nghiệm SPRINT với mục tiêu huyết áp tâm thu dưới 120 mmHg ủng hộ kiểm soát tích cực ... dù việc áp dụng cho nhồi máu não và TIA cần thận trọng đặc biệt ở giai đoạn cấp [43]",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "SPRINT LOẠI TRỪ người có tiền sử đột quỵ (và đái tháo đường) ngay từ tiêu chuẩn chọn bệnh, vì giả thuyết này được kiểm định riêng trong SPS3 và ACCORD-BP. Do đó SPRINT không cung cấp bằng chứng nào cho quần thể sau nhồi máu não/TIA; cảnh báo mà tài liệu đưa ra ('thận trọng ở giai đoạn cấp') không phải là giới hạn thực sự của thử nghiệm.",
+  "source": "SPRINT Research Group. N Engl J Med 2015;373:2103-16; SPRINT Protocol v4.0, exclusion criteria (history of stroke)"
+ },
+ {
+  "location": "3.6.2, đoạn 1",
+  "claimText": "thử nghiệm SPS3 cho thấy mục tiêu huyết áp tâm thu dưới 130 mmHg không đạt ý nghĩa trên kết cục chính nhưng làm giảm rõ rệt xuất huyết não [121]",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "SPS3 Study Group. Lancet 2013;382:507-15: toàn bộ đột quỵ HR 0,81 (0,64–1,03; p=0,08); xuất huyết não HR 0,37 (0,15–0,95; p=0,03)"
+ },
+ {
+  "location": "3.6.2, đoạn 1",
+  "claimText": "chẹn kênh calci nhóm dihydropyridine phù hợp với người Đông Á và người cao tuổi [18,44]",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Không nguồn nào trong hai tài liệu trích dẫn nói điều này. AHA/ASA 2021 chỉ nêu 'the use of calcium channel blockers is reasonable for patients with stroke who require additional medication options', không có đặc thù chủng tộc. Tài liệu [44] là HYVET (Beckett, NEJM 2008) — dùng indapamide ± perindopril ở người ≥80 tuổi, không phải chẹn kênh calci.",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467; Beckett NS et al. N Engl J Med 2008;358:1887-98"
+ },
+ {
+  "location": "3.6.2, đoạn 2",
+  "claimText": "Metformin là thuốc đầu tay nếu mức lọc cầu thận ước tính từ 30 mL/phút/1,73 m² trở lên",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "eGFR <30 là chống chỉ định; nhưng ở khoảng eGFR 30–45 KHÔNG khuyến cáo khởi trị mới metformin (chỉ tiếp tục nếu đang dùng, có giảm liều). Ngưỡng để bắt đầu là eGFR ≥45.",
+  "source": "FDA metformin labeling 2016; ADA Standards of Care, Pharmacologic Approaches to Glycemic Treatment"
+ },
+ {
+  "location": "3.6.2, đoạn 2",
+  "claimText": "Bằng chứng mạnh ủng hộ ưu tiên nhóm ức chế SGLT-2 hoặc chất chủ vận thụ thể GLP-1 ... nhờ lợi ích đa cơ quan: giảm biến cố tim mạch lớn, giảm nhồi máu não, giảm suy tim và giảm tử vong tim mạch",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Ức chế SGLT-2 KHÔNG làm giảm đột quỵ. Phân tích gộp 5 CVOT (EMPA-REG, CANVAS, DECLARE-TIMI 58, CREDENCE, VERTIS CV; n=46.969) cho RR 0,95 (95% CI 0,79–1,13; P=0,585) cho đột quỵ toàn bộ. Chỉ nhóm chủ vận GLP-1 giảm đột quỵ (RR ~0,84 cho đột quỵ không tử vong). Lợi ích của SGLT-2i là suy tim, thận và tử vong tim mạch. Nên tách hai nhóm thuốc khi mô tả kết cục đột quỵ.",
+  "source": "Sci Rep 2021;11:15319 'Effects of SGLT2 inhibitors on stroke and its subtypes in patients with type 2 diabetes'; network meta-analysis 23 CVOTs (PMC8925229)"
+ },
+ {
+  "location": "3.6.2, đoạn 3 và Bảng 3.10 (hàng LDL-C)",
+  "claimText": "ngưỡng dưới 55 mg/dL có thể áp dụng cho nhóm nguy cơ rất cao hoặc tái phát [18,85,87] / Bảng 3.10: 'Dưới 70 hoặc dưới 55 mg/dL — Mức I, bằng chứng A'",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Không tài liệu nào trong ba tài liệu được trích khuyến cáo mốc <55 mg/dL: AHA/ASA 2021 đặt mục tiêu <70 mg/dL (COR 1, LOE A); ESO 2022 [85] khuyến cáo LDL-C <1,8 mmol/L (70 mg/dL), khuyến cáo mạnh, chất lượng bằng chứng trung bình; Treat Stroke to Target [87] so sánh <70 với 90–110 mg/dL. Mốc <55 mg/dL đến từ ESC/EAS 2019 (không có trong danh mục tham khảo). Gán 'Mức I, bằng chứng A' cho cả hai mốc là không có căn cứ trong nguồn đã trích.",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467, khuyến cáo lipid #2 (1, A); Dawson J et al. Eur Stroke J 2022;7:I-XLI; Amarenco P et al. N Engl J Med 2020;382:9-19"
+ },
+ {
+  "location": "3.6.3, đoạn 1",
+  "claimText": "Bỏ thuốc lá hoàn toàn giảm khoảng 50% nguy cơ nhồi máu não tái phát trong 5 năm",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "Phóng đại. Số liệu tốt nhất về người bỏ thuốc SAU đột quỵ: phân tích hậu kiểm SPS3 cho nguy cơ đột quỵ 5 năm 22% ở người tiếp tục hút so với 15,7% ở người bỏ (giảm tương đối ~29–34%); phân tích gộp cho HR 0,71 cho tái phát đột quỵ nói chung và HR 0,64 cho nhồi máu não tái phát (giảm ~29–36%). Hướng dẫn AHA/ASA 2021 ghi nhận nguy cơ tái phát tăng ~2 lần ở người tiếp tục hút so với người KHÔNG hút (không phải so với người bỏ), và nêu rõ 'No RCTs have examined smoking cessation interventions on recurrent events after stroke'. Nên sửa thành 'giảm khoảng 30%'.",
+  "source": "Chen J et al. Change in Smoking Behavior and Outcome After Ischemic Stroke: Post-Hoc Analysis of SPS3. Stroke 2022; Epstein KA et al., J Stroke Cerebrovasc Dis 2021 meta-analysis; Kleindorfer DO et al. Stroke 2021;52:e364-e467, mục 4.1.3"
+ },
+ {
+  "location": "3.6.3, đoạn 1 và Bảng 3.10 (hàng Hoạt động thể lực)",
+  "claimText": "Vận động ưa khí cường độ trung bình ít nhất 150 phút mỗi tuần hoặc cường độ cao ít nhất 75 phút mỗi tuần ... [18,41,45] / Bảng 3.10: 'Ít nhất 150 phút mỗi tuần — Mức I'",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Liều lượng không khớp với tài liệu được trích [18]. Khuyến cáo COR 1/LOE C-LD của AHA/ASA 2021 cho người sau đột quỵ/TIA là 'at least moderate-intensity aerobic activity for a minimum of 10 minutes 4 times a week or vigorous-intensity aerobic activity for a minimum of 20 minutes twice a week' (tức ~40 phút/tuần cường độ trung bình). Mốc 150/75 phút là khuyến cáo dân số chung/phòng ngừa tiên phát, nên ghi rõ nguồn khác.",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467, mục 4.1.2 Physical Activity, khuyến cáo 1 (COR 1, LOE C-LD)"
+ },
+ {
+  "location": "3.6.3, đoạn 1",
+  "claimText": "Chế độ ăn Địa Trung Hải đã được chứng minh trong PREDIMED giảm khoảng 30% biến cố tim mạch lớn ở quần thể nguy cơ cao",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Estruch R et al. N Engl J Med 2018;378:e34 (PREDIMED reprint): HR 0,69 (dầu ô liu) và 0,72 (hạt) cho kết cục chính; riêng đột quỵ HR 0,60 (0,45–0,80) theo trích dẫn của AHA 2021"
+ },
+ {
+  "location": "3.6.3, đoạn 2",
+  "claimText": "tình trạng này gặp ở 30–40% người bệnh (trầm cảm sau đột quỵ)",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Ước lượng gộp là ~31% (95% CI 28–35) ở bất kỳ thời điểm nào tới 5 năm (Hackett & Pickles 2014, 61 thuần tập, n=25.488); tổng quan gần đây ~33% (29–36). Cận trên 40% cao hơn bằng chứng gộp, và quần thể TIA/đột quỵ nhẹ của luận án còn thấp hơn mức này.",
+  "source": "Hackett ML, Pickles K. Int J Stroke 2014;9:1017-25; AHA/ASA Poststroke Depression Scientific Statement"
+ },
+ {
+  "location": "Bảng 3.10, hàng 'Rượu'",
+  "claimText": "Rượu | Dưới 2 đơn vị (nam), dưới 1 đơn vị (nữ) | Tư vấn | Mức IIa",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Phải là Mức I (COR 1), bằng chứng B-NR: 'Patients with ischemic stroke or TIA who drink >2 alcoholic drinks a day for men or >1 alcoholic drink a day for women should be counseled to eliminate or reduce their consumption of alcohol to reduce stroke risk (COR 1, LOE B-NR)'.",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467, mục 4.1.4 Substance Use, khuyến cáo 1"
+ },
+ {
+  "location": "Bảng 3.10, hàng 'Chế độ ăn'",
+  "claimText": "Chế độ ăn | Địa Trung Hải hoặc DASH | ... | Mức I",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Phải là Mức IIa (COR 2a), bằng chứng B-R: 'In patients with stroke and TIA, it is reasonable to counsel individuals to follow a Mediterranean-type diet ... in preference to a low-fat diet, to reduce risk of recurrent stroke (COR 2a, LOE B-R)'. Việc nâng lên Mức I là gán sai mức khuyến cáo.",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467, mục 4.1.1 Nutrition, khuyến cáo 1"
+ },
+ {
+  "location": "Bảng 3.10, hàng 'Cân nặng'",
+  "claimText": "Cân nặng | BMI dưới 25 (dưới 23 với người Đông Á) | Giảm cân 5–10% nếu thừa cân | Mức IIa",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "Phải là Mức I (COR 1), bằng chứng B-R: 'In patients with ischemic stroke or TIA who are overweight or obese, weight loss is recommended to improve the ASCVD risk factor profile (COR 1, LOE B-R)'; và chuyển tuyến chương trình thay đổi hành vi đa thành phần cũng COR 1, LOE B-R.",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467, mục 4.5 Obesity, khuyến cáo 1 và 2"
+ },
+ {
+  "location": "Bảng 3.10, hàng 'Trầm cảm'",
+  "claimText": "Trầm cảm | PHQ-9 dưới 5 | Sàng lọc và điều trị bằng SSRI ± liệu pháp nhận thức hành vi | Mức IIa",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Không tài liệu nào trong các tài liệu trích của bảng ([18,20,31,85,122]) đưa ra khuyến cáo có phân mức về sàng lọc/điều trị trầm cảm. Toàn văn hướng dẫn AHA/ASA 2021 [18] không có phần trầm cảm (chỉ một lần xuất hiện chữ 'depressed' trong tiêu đề một tài liệu tham khảo). Cần trích AHA/ASA Poststroke Depression Scientific Statement (Stroke 2017;48:e30-e43) hoặc bỏ cột mức bằng chứng.",
+  "source": "Trích xuất toàn văn Kleindorfer DO et al. Stroke 2021;52:e364-e467 (0 lần xuất hiện khuyến cáo về trầm cảm)"
+ },
+ {
+  "location": "Bảng 3.10, hàng 'Tiêm chủng' và 3.6.3 đoạn 2",
+  "claimText": "Tiêm chủng | Theo lịch | Cúm hằng năm; phế cầu; COVID-19 | Mức IIa",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Hướng dẫn AHA/ASA 2021 [18] hoàn toàn không đề cập tiêm chủng (0 lần xuất hiện 'vaccine', 'influenza', 'pneumococcal' trong toàn văn), và [20,31,85,122] cũng không. Mức IIa ở đây không có nguồn. Nếu giữ nội dung, cần trích các phân tích gộp dịch tễ về vắc-xin cúm và biến cố mạch máu.",
+  "source": "Trích xuất toàn văn Kleindorfer DO et al. Stroke 2021;52:e364-e467"
+ },
+ {
+  "location": "Bảng 3.10, hàng 'Huyết áp', 'LDL-C' (mốc <70), 'HbA1c', 'Kháng huyết khối'",
+  "claimText": "Huyết áp dưới 130/80 — Mức I, bằng chứng B-R; LDL-C dưới 70 — Mức I, bằng chứng A; HbA1c dưới 7% — Mức I; kháng kết tập tiểu cầu kép 21 ngày rồi đơn trị — Mức I, bằng chứng A",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Kleindorfer DO et al. Stroke 2021;52:e364-e467: BP <130/80 (COR 1, B-R); statin ± ezetimibe tới LDL-C <70 mg/dL (COR 1, A); HbA1c ≤7% (COR 1, A); DAPT 21–90 ngày ở đột quỵ nhẹ/TIA nguy cơ cao (COR 1, A)"
+ },
+ {
+  "location": "3.6.4, đoạn 2",
+  "claimText": "Nghiên cứu cộng đồng cho thấy chỉ 50–60% người bệnh duy trì đầy đủ statin, kháng kết tập tiểu cầu và thuốc hạ huyết áp sau một năm",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Không có tài liệu tham khảo nào trong đoạn ([50] HOPE-3, [122] tổng quan dược, [123] SECURE) là nghiên cứu tuân thủ cộng đồng. Số liệu công bố cho từng nhóm thuốc ở mốc 1 năm thường cao hơn (kháng kết tập tiểu cầu ~71–80%, statin ~65–82%, hạ huyết áp ~74–78%); mức 50–60% ứng với duy trì đồng thời cả ba nhóm hoặc mốc 2–3 năm. Cần trích nguồn cụ thể.",
+  "source": "Swedish/Singapore cohort data (J Stroke Cerebrovasc Dis 2024; Eur J Prev Cardiol adherence cohorts); PMC11414815 'Determinants of adherence to post-stroke/TIA secondary prevention medications'"
+ },
+ {
+  "location": "3.6.4, đoạn 2",
+  "claimText": "Viên phối hợp chứa aspirin, statin và thuốc hạ huyết áp đã được nghiên cứu trong SECURE và HOPE-3, cho thấy cải thiện tuân thủ và giảm biến cố [50,122,123]",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "Trích dẫn sai nghiêm trọng. HOPE-3 [50] KHÔNG phải thử nghiệm viên phối hợp: đó là thiết kế giai thừa 2×2 dùng rosuvastatin 10 mg và candesartan/HCTZ dưới dạng các viên riêng rẽ, KHÔNG chứa aspirin, và tiến hành ở người nguy cơ trung bình CHƯA có bệnh tim mạch (phòng ngừa tiên phát) — không đánh giá tuân thủ với viên phối hợp. Tài liệu [50] cụ thể là bài rosuvastatin đơn thuần (Yusuf, NEJM 2016;374:2021-31). Chỉ SECURE [123] là thử nghiệm polypill thật (aspirin 100 mg + ramipril + atorvastatin), và ở quần thể SAU NHỒI MÁU CƠ TIM (không phải sau đột quỵ): kết cục chính 9,5% vs 12,7%, HR 0,76 (0,60–0,96), tuân thủ cao hơn ở nhóm polypill. Nguồn đúng cho polypill có aspirin ngoài SECURE là TIPS-3 (Yusuf, NEJM 2021), PolyIran hoặc UMPIRE.",
+  "source": "Yusuf S et al. N Engl J Med 2016;374:2021-31 (HOPE-3, PMID 27040132); Castellano JM et al. N Engl J Med 2022;387:967-77 (SECURE, PMID 36018037)"
+ },
+ {
+  "location": "4.2.2, đoạn về REDUCE (câu cuối)",
+  "claimText": "...với tỷ số nguy cơ 0,23 và khoảng tin cậy 95% từ 0,09 đến 0,62; tỷ lệ nhồi máu não im lặng mới phát hiện trên cộng hưởng từ cũng giảm có ý nghĩa [128].",
+  "verdict": "wrong",
+  "severity": "critical",
+  "correctValue": "Sai ngược chiều. Trong REDUCE, nhồi máu não IM LẶNG đơn thuần KHÔNG khác biệt có ý nghĩa giữa hai nhánh (P = 0,97). Cái giảm có ý nghĩa là kết cục gộp 'nhồi máu não mới' (đột quỵ thiếu máu trên lâm sàng HOẶC nhồi máu im lặng trên hình ảnh): 22 người bệnh (5,7%) so với 20 (11,3%); RR 0,51; KTC 95% 0,29–0,91; P = 0,04.",
+  "source": "Søndergaard L, et al. Patent Foramen Ovale Closure or Antiplatelet Therapy for Cryptogenic Stroke. N Engl J Med. 2017;377(11):1033-42 (abstract: \"...but the incidence of silent brain infarction did not differ significantly between the study groups (P=0.97)\")"
+ },
+ {
+  "location": "4.1.2, đoạn NAVIGATE-ESUS; và Bảng 4.1, dòng NAVIGATE-ESUS, cột 'Tái phát đột quỵ'",
+  "claimText": "tỷ lệ tái phát đột quỵ thiếu máu não hằng năm là 5,1% ở nhóm rivaroxaban so với 4,8% ở nhóm aspirin, với tỷ số nguy cơ 1,07",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "5,1% so với 4,8% (HR 1,07; KTC 95% 0,87–1,33) là kết cục HIỆU QUẢ CHÍNH = đột quỵ thiếu máu HOẶC xuất huyết HOẶC lấp mạch hệ thống, không phải 'tái phát đột quỵ thiếu máu não'. Tái phát đột quỵ thiếu máu não đơn thuần là 4,7%/năm (158 ca) so với 4,7%/năm (156 ca) — hoàn toàn bằng nhau. Nhãn sai này che mất phát hiện quan trọng nhất của thử nghiệm.",
+  "source": "Hart RG, et al. N Engl J Med. 2018;378(23):2191-201 (NAVIGATE-ESUS), abstract"
+ },
+ {
+  "location": "4.1.2, đoạn RE-SPECT ESUS",
+  "claimText": "Kết cục chính là đột quỵ tái phát, xảy ra ở 4,1% người bệnh nhóm dabigatran so với 4,8% ở nhóm aspirin",
+  "verdict": "wrong",
+  "severity": "major",
+  "correctValue": "4,1% và 4,8% là TỶ LỆ HẰNG NĂM (per year), không phải tỷ lệ người bệnh. Tỷ lệ người bệnh có đột quỵ tái phát là 177/2695 = 6,6% (dabigatran) so với 207/2695 = 7,7% (aspirin); HR 0,85 (KTC 95% 0,69–1,03; P = 0,10). Tương tự, 'chảy máu nặng 1,7% so với 1,4%' cũng là tỷ lệ hằng năm (77 và 64 người bệnh; HR 1,19; KTC 95% 0,85–1,66).",
+  "source": "Diener HC, et al. N Engl J Med. 2019;380(20):1906-17 (RE-SPECT ESUS), abstract"
+ },
+ {
+  "location": "4.1.2, đoạn RE-SPECT ESUS; và Bảng 4.1, dòng RE-SPECT ESUS, cột 'Can thiệp'",
+  "claimText": "so sánh dabigatran 150 mg hai lần mỗi ngày với aspirin 100 mg mỗi ngày",
+  "verdict": "imprecise",
+  "severity": "major",
+  "correctValue": "RE-SPECT ESUS dùng dabigatran 150 mg HOẶC 110 mg hai lần mỗi ngày (liều 110 mg cho người ≥75 tuổi và/hoặc độ thanh thải creatinin 30–<50 mL/phút). Điều này quan trọng vì chính phân nhóm dùng liều thấp (chủ yếu là người ≥75 tuổi) mới là nơi thấy tín hiệu lợi ích (7,4% so với 13,0%; HR 0,57; KTC 95% 0,39–0,82) — mâu thuẫn với cách trình bày 'dabigatran 150 mg' của văn bản ở câu kế tiếp.",
+  "source": "Diener HC, et al. N Engl J Med. 2019;380(20):1906-17; Diener HC, et al. Antithrombotic Treatment of ESUS: RE-SPECT ESUS Elderly and Renally Impaired Subgroups. Stroke. 2020;51(6):1758-65"
+ },
+ {
+  "location": "4.1.1, đoạn 2 (dịch tễ ESUS), trích dẫn [36,38]",
+  "claimText": "ESUS chiếm xấp xỉ 17% với dao động 9–25% trong tổng số ca đột quỵ thiếu máu não, và chiếm 50–80% nhóm đột quỵ chưa rõ nguyên nhân theo phân loại TOAST khi được khảo sát chuẩn hoá [36,38].",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "Con số 17% (dao động 9–25%) là ĐÚNG nhưng nguồn là Hart RG, Catanese L, Perera KS, Ntaios G, Connolly SJ. Embolic Stroke of Undetermined Source: A Systematic Review and Clinical Update. Stroke. 2017;48(4):867-72 — tài liệu này KHÔNG có trong danh mục tham khảo. Tài liệu [36] (Hart 2014, Lancet Neurol) chỉ nêu 'đột quỵ chưa rõ nguyên nhân chiếm khoảng 25% tổng số nhồi máu não', không nêu 17% hay khoảng 9–25%. Tài liệu [38] là ARCADIA (JAMA 2024) — một thử nghiệm apixaban, hoàn toàn không báo cáo dịch tễ ESUS. Ở Chương 1 (mục 1.4) cùng số liệu này lại được trích [36,37]; [37] (Ntaios, Eur Heart J 2024) mới là nguồn hợp lý.",
+  "source": "Hart RG, et al. Stroke. 2017;48(4):867-72; đối chiếu Hart RG, et al. Lancet Neurol. 2014;13(4):429-38 và Kamel H, et al. JAMA. 2024;331(7):573-81"
+ },
+ {
+  "location": "4.1.1, đoạn 3 (cơ chế bệnh sinh ESUS), trích dẫn [36,38]",
+  "claimText": "Cơ chế bệnh sinh giả định trong ESUS rất đa dạng và chồng lấp, bao gồm: rung nhĩ kịch phát chưa được phát hiện; bệnh cơ nhĩ ... [36,38].",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Danh sách cơ chế này thuộc Hart 2014 [36] và tuyên bố đồng thuận ESC 2024 [37]; [38] (ARCADIA, JAMA 2024) là một RCT về apixaban ở người bệnh bệnh cơ nhĩ và không phải nguồn cho danh sách cơ chế ESUS. Nên trích [36,37].",
+  "source": "Ntaios G, et al. Eur Heart J. 2024;45(19):1701-15; Kamel H, et al. JAMA. 2024;331(7):573-81"
+ },
+ {
+  "location": "Bảng 4.4, dòng 'Kháng kết tập tiểu cầu kép | POINT | 2018'",
+  "claimText": "Xác nhận 21 ngày là thời lượng tối ưu; chảy máu tăng sau 21 ngày",
+  "verdict": "unsupported",
+  "severity": "major",
+  "correctValue": "POINT (Johnston SC, et al. N Engl J Med. 2018;379:215-25 = tài liệu [15]) ngẫu nhiên hoá kháng kết tập tiểu cầu kép trong 90 NGÀY, không hề khảo sát mốc 21 ngày và do đó không thể 'xác nhận 21 ngày là thời lượng tối ưu'. Nhận định này đến từ phân tích thứ cấp theo thời gian công bố sau đó (Johnston SC, et al. Time Course for Benefit and Risk of Clopidogrel and Aspirin After Acute TIA and Minor Ischemic Stroke. Circulation. 2019;140(8):658-64), tài liệu không có trong danh mục tham khảo.",
+  "source": "Johnston SC, et al. N Engl J Med. 2018;379(3):215-25; Johnston SC, et al. Circulation. 2019;140(8):658-64"
+ },
+ {
+  "location": "4.3, đoạn kết luận thứ hai (trích dẫn [38,60,102,129])",
+  "claimText": "TEMPO-2 với tiêu sợi huyết, NAVIGATE-ESUS và ARCADIA với kháng đông, CHANCE-3 với colchicine đều là những ví dụ cho thấy một can thiệp có cơ sở sinh học hợp lý vẫn có thể trung tính khi áp dụng cho quần thể không được chọn lọc theo cơ chế",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "CHANCE-3 là ví dụ không phù hợp cho luận điểm 'quần thể không được chọn lọc theo cơ chế': thử nghiệm này CÓ chọn lọc theo cơ chế viêm, chỉ tuyển người bệnh có hs-CRP ≥ 2 mg/L (8.343 người bệnh, 244 bệnh viện). Kết quả trung tính (đột quỵ mới trong 90 ngày 6,3% so với 6,5%; HR 0,98; KTC 95% 0,83–1,16; P = 0,79) vẫn đúng, nhưng lý do nêu ra thì không.",
+  "source": "Li J, et al. Colchicine in patients with acute ischaemic stroke or TIA (CHANCE-3). BMJ. 2024;385:e079061"
+ },
+ {
+  "location": "4.3, đoạn kết luận thứ tư (trích dẫn [16,20,25])",
+  "claimText": "phần lớn lợi ích thực tế đến từ tổ chức quy trình chứ không chỉ từ thuốc hay thủ thuật, như bằng chứng của EXPRESS, SOS-TIA và TIAregistry.org đã chỉ ra [16,20,25].",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Trích dẫn sai: [16] là CHANCE-2 (ticagrelor ở người mang alen mất chức năng CYP2C19), không liên quan gì đến EXPRESS/SOS-TIA/TIAregistry. Thiếu [24] (Lavallée PC, et al. SOS-TIA. Lancet Neurol. 2007) và [30] (Amarenco P, et al. Five-year risk. N Engl J Med. 2018). Trích đúng phải là [20,24,25,30].",
+  "source": "Đối chiếu danh mục tham khảo: 16 = Wang Y, NEJM 2021 (CHANCE-2); 24 = Lavallée, Lancet Neurol 2007 (SOS-TIA); 30 = Amarenco, NEJM 2018;378:2182-90"
+ },
+ {
+  "location": "Bảng 4.4, dòng 'Mô hình phòng khám nhanh | TIAregistry | 2016–2018'; và caption Bảng 4.4",
+  "claimText": "Tái phát 5 năm 9,5%, bằng khoảng một nửa các đoàn hệ cổ điển",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Con số 9,5% ở 5 năm là ĐÚNG (345/3.847; tỷ lệ tích luỹ ước tính 9,5%; KTC 95% 8,5–10,5), nhưng nguồn là tài liệu [30] (Amarenco 2018, NEJM 378:2182-90) — KHÔNG có trong danh sách trích dẫn của Bảng 4.4 ([14-17,20,25,38,53,60,66-68,86,87,97,101,102,107,112,119,127]); [25] chỉ là bài 1 năm. Ngoài ra 'khoảng một nửa' mâu thuẫn với chính Bảng 1.3 của chuyên đề (đoàn hệ cổ điển 25–30% ở 5 năm), tức 9,5% chỉ bằng khoảng một phần ba.",
+  "source": "Amarenco P, et al. Five-Year Risk of Stroke after TIA or Minor Ischemic Stroke. N Engl J Med. 2018;378(23):2182-90"
+ },
+ {
+  "location": "Caption Bảng 4.4",
+  "claimText": "Bảng 4.4. Tổng hợp các thử nghiệm ngẫu nhiên then chốt ... [14-17,20,25,38,53,60,66-68,86,87,97,101,102,107,112,119,127].",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Danh sách trích dẫn thiếu nguồn cho 6 thử nghiệm/kết quả được liệt kê ngay trong bảng: SOS-TIA [24], TIAregistry 5 năm [30], RE-SPECT ESUS [103], ATTICUS [104], RESPECT [124], REDUCE [128].",
+  "source": "Đối chiếu nội dung Bảng 4.4 với danh mục tham khảo của chuyên đề"
+ },
+ {
+  "location": "4.2.2, đoạn CLOSE; và Bảng 4.2, dòng CLOSE, cột 'Theo dõi'",
+  "claimText": "Sau thời gian theo dõi trung vị 5,3 năm, không có trường hợp đột quỵ tái phát nào ở nhánh đóng lỗ bầu dục so với 14 trường hợp tương đương 5,9% ở nhánh kháng kết tập tiểu cầu",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "5,3 năm là thời gian theo dõi TRUNG BÌNH (mean 5,3 ± 2,0 năm), không phải trung vị. Ngoài ra, so sánh 0/238 với 14/235 chỉ dùng dữ liệu của nhóm ngẫu nhiên hoá 1 và 2 (473 người bệnh), không phải toàn bộ 663 người bệnh như Bảng 4.2 ngụ ý — CLOSE là thử nghiệm ba nhánh (đóng lỗ bầu dục 238, kháng kết tập tiểu cầu 235, kháng đông 187).",
+  "source": "Mas JL, et al. N Engl J Med. 2017;377(11):1011-21 (CLOSE), abstract"
+ },
+ {
+  "location": "4.2.2, đoạn RESPECT; và Bảng 4.2, dòng RESPECT",
+  "claimText": "RESPECT trên 980 người bệnh ... theo dõi trung bình 5,9 năm",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "5,9 năm là thời gian theo dõi TRUNG VỊ (median), không phải trung bình. (Văn bản đảo ngược so với CLOSE, nơi 5,3 năm là trung bình lại bị gọi là trung vị.)",
+  "source": "Saver JL, et al. Long-Term Outcomes of Patent Foramen Ovale Closure or Medical Therapy after Stroke. N Engl J Med. 2017;377(11):1022-32"
+ },
+ {
+  "location": "4.2.2, đoạn mở đầu",
+  "claimText": "CLOSE tại Pháp, REDUCE tại Bắc Âu và Bắc Mỹ, và RESPECT tại Bắc Mỹ ... Cả ba đều ... so sánh đóng lỗ bầu dục bằng dụng cụ kèm điều trị nội khoa với điều trị nội khoa đơn thuần.",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "CLOSE được tiến hành ở Pháp VÀ Đức (34 trung tâm Pháp, 4 trung tâm Đức), và không phải là thử nghiệm hai nhánh mà là ba nhánh (đóng lỗ bầu dục + kháng kết tập tiểu cầu; kháng kết tập tiểu cầu đơn thuần; kháng đông đường uống).",
+  "source": "Mas JL, et al. N Engl J Med. 2017;377(11):1011-21"
+ },
+ {
+  "location": "4.2.3, đoạn cuối",
+  "claimText": "Sau khi đóng lỗ bầu dục, các thử nghiệm dùng kháng kết tập tiểu cầu kép trong 1–6 tháng rồi chuyển đơn trị",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "Khoảng '1–6 tháng' không phản ánh đúng các thử nghiệm: RESPECT dùng aspirin + clopidogrel 1 tháng rồi aspirin đơn trị đến tháng thứ 6; CLOSE dùng kháng kết tập tiểu cầu kép 3 tháng; REDUCE chỉ thêm clopidogrel (300 mg nạp, rồi 75 mg/ngày) trong 3 NGÀY quanh thủ thuật rồi trở lại đơn trị. Phát biểu 'chưa xác lập được thời lượng tối ưu' thì đúng.",
+  "source": "Saver JL, NEJM 2017;377:1022-32; Mas JL, NEJM 2017;377:1011-21; Søndergaard L, NEJM 2017;377:1033-42 (mục Methods)"
+ },
+ {
+  "location": "4.2.1, câu 2 (trích dẫn [124,125])",
+  "claimText": "Tỷ lệ lỗ bầu dục thông trong dân số người lớn xấp xỉ 25% theo các nghiên cứu siêu âm tim qua thực quản và giải phẫu tử thi [124,125].",
+  "verdict": "unsupported",
+  "severity": "minor",
+  "correctValue": "Giá trị ~25% là đúng, nhưng [124] (Saver JL, RESPECT long-term, NEJM 2017) không báo cáo tỷ lệ lỗ bầu dục thông trong dân số chung. [125] (Kent DM, Neurology 2013) chỉ GIẢ ĐỊNH tỷ lệ nền 25% khi tính phân suất quy thuộc. Nguồn kinh điển là Hagen PT, et al. Incidence and size of patent foramen ovale during the first 10 decades of life: an autopsy study of 965 normal hearts. Mayo Clin Proc. 1984;59(1):17-20 (27,3%), không có trong danh mục tham khảo.",
+  "source": "Hagen PT, et al. Mayo Clin Proc. 1984;59(1):17-20; Kent DM, et al. Neurology. 2013;81(7):619-25"
+ },
+ {
+  "location": "4.1.2, câu cuối đoạn RE-SPECT ESUS",
+  "claimText": "Phân tích phân nhóm sau nghiên cứu xác định lợi ích có xu hướng nghiêng về người bệnh từ 75 tuổi trở lên và những người tái phát muộn",
+  "verdict": "unverifiable",
+  "severity": "minor",
+  "correctValue": "Phần 'từ 75 tuổi trở lên' được xác nhận (7,8% so với 12,4%; HR 0,63; KTC 95% 0,43–0,94; p tương tác 0,10). Cụm 'những người tái phát muộn' không tương ứng với bất kỳ phân nhóm nào được báo cáo; phân nhóm thời gian trong RE-SPECT ESUS là theo thời điểm NGẪU NHIÊN HOÁ so với đột quỵ chỉ điểm (>3 tháng), không phải theo thời điểm tái phát. Nên diễn đạt lại.",
+  "source": "Diener HC, et al. Stroke. 2020;51(6):1758-65 (RE-SPECT ESUS elderly and renally impaired subgroups)"
+ },
+ {
+  "location": "Bảng 4.4, dòng 'Kháng kết tập tiểu cầu kép | INSPIRES | 2023'",
+  "claimText": "Mở rộng cửa sổ khởi trị đến 72 giờ cho nhóm nguy cơ trung bình",
+  "verdict": "imprecise",
+  "severity": "minor",
+  "correctValue": "INSPIRES tuyển người bệnh đột quỵ thiếu máu nhẹ hoặc TIA nguy cơ cao DO NGUYÊN NHÂN XƠ VỮA ĐỘNG MẠCH giả định (6.100 người bệnh; đột quỵ mới 90 ngày 7,3% so với 9,2%; HR 0,79; KTC 95% 0,66–0,94). Yếu tố chọn lọc then chốt là căn nguyên xơ vữa, không phải 'nguy cơ trung bình'; cách diễn đạt hiện tại làm mất tiêu chí chọn bệnh quyết định của thử nghiệm.",
+  "source": "Gao Y, et al. Dual Antiplatelet Treatment up to 72 Hours after Ischemic Stroke (INSPIRES). N Engl J Med. 2023;389(26):2413-24"
+ },
+ {
+  "location": "Bảng 4.3 và 4.2.3 (thang điểm RoPE)",
+  "claimText": "Thang điểm này tính từ 0 đến 10 ... mỗi yếu tố 1 điểm; và tuổi, với 5 điểm cho nhóm 18–29 tuổi, giảm dần đến 0 điểm cho nhóm từ 70 tuổi trở lên. Điểm cao từ 7 trở lên chỉ điểm xác suất lỗ bầu dục thông thực sự là nguyên nhân đạt 72–88%",
+  "verdict": "correct",
+  "severity": "minor",
+  "correctValue": "",
+  "source": "Kent DM, et al. An index to identify stroke-related vs incidental patent foramen ovale in cryptogenic stroke. Neurology. 2013;81(7):619-25 (5 biến lâm sàng 1 điểm mỗi biến; tuổi 18–29 = 5 điểm giảm dần tới ≥70 = 0; tổng 0–10; phân suất quy thuộc 72% / 84% / 88% cho điểm 7 / 8 / 9–10)"
+ },
+ {
+  "location": "4.2.3, đoạn về hướng dẫn (trích dẫn [18,70])",
+  "claimText": "Hướng dẫn phòng ngừa thứ phát năm 2021 xem đóng lỗ bầu dục thông cộng kháng kết tập tiểu cầu dài hạn là hợp lý ở mức khuyến cáo IIa ... khi không có đặc điểm nguy cơ cao, lợi ích chưa được xác lập rõ và chỉ ở mức IIb.",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "",
+  "source": "Kleindorfer DO, et al. Stroke. 2021;52(7):e364-e467 — COR 2a, LOE B-R khi có đặc điểm giải phẫu nguy cơ cao; COR 2b, LOE C-LD ('benefit of closure is not well established') khi không có; xác nhận qua Saver JL. Guideline Updates Needed. J Am Heart Assoc. 2024;13:e035937"
+ },
+ {
+  "location": "4.1.2 và Bảng 4.1, dòng NAVIGATE-ESUS",
+  "claimText": "7.213 người bệnh từ 459 trung tâm tại 31 quốc gia ... rivaroxaban 15 mg ... dừng sớm ... chảy máu nặng tăng từ 0,7% lên 1,8% với tỷ số nguy cơ 2,72",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "",
+  "source": "Hart RG, et al. N Engl J Med. 2018;378(23):2191-201; Hart RG, et al. Eur Stroke J. 2016 (thiết kế: 459 trung tâm, 31 quốc gia). Chảy máu nặng 62 so với 23 người bệnh, 1,8%/năm so với 0,7%/năm, HR 2,72 (KTC 95% 1,68–4,39)"
+ },
+ {
+  "location": "4.1.2 và Bảng 4.1, dòng ATTICUS",
+  "claimText": "Thử nghiệm ATTICUS trên 352 người bệnh ... tỷ số chênh 0,79 và khoảng tin cậy 95% từ 0,42 đến 1,48, và thử nghiệm dừng vì vô ích [104].",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "",
+  "source": "Geisler T, et al. Apixaban versus Aspirin for Embolic Stroke of Undetermined Source (ATTICUS). NEJM Evid. 2024;3(1):EVIDoa2300235 — 352 người bệnh (178 apixaban / 174 aspirin); tổn thương thiếu máu mới 23/169 (13,6%) so với 25/156 (16,0%); OR hiệu chỉnh 0,79 (KTC 95% 0,42–1,48; P = 0,57); dừng sớm vì vô ích"
+ },
+ {
+  "location": "4.1.2 và Bảng 4.1, dòng ARCADIA",
+  "claimText": "Thử nghiệm ARCADIA trên 1.015 người bệnh ... với tỷ lệ 4,4% mỗi năm ở cả hai nhánh và tỷ số nguy cơ 1,00 [38]. Apixaban 5 mg × 2 so với aspirin 81 mg",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "",
+  "source": "Kamel H, et al. JAMA. 2024;331(7):573-81 (ARCADIA) — 1.015 người bệnh; tái phát đột quỵ hằng năm 4,4% ở cả hai nhánh; HR 1,00"
+ },
+ {
+  "location": "Bảng 4.2, ba dòng CLOSE / REDUCE / RESPECT (số người bệnh, tỷ lệ tái phát, HR)",
+  "claimText": "CLOSE 663, 0% so với 5,9%, HR 0,03 (0,00–0,26) | REDUCE 664, 1,4% so với 5,4%, HR 0,23 (0,09–0,62) | RESPECT 980, 3,6% so với 5,8%, HR 0,55 (0,31–0,999)",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "",
+  "source": "Mas JL, NEJM 2017;377:1011-21 (0/238 so với 14/235 = 5,96%; HR 0,03; KTC 0–0,26); Søndergaard L, NEJM 2017;377:1033-42 (6/441 = 1,4% so với 12/223 = 5,4%; HR 0,23; KTC 0,09–0,62); Saver JL, NEJM 2017;377:1022-32 (18/499 = 3,6% so với 28/481 = 5,8%; HR 0,55; KTC 0,31–0,999)"
+ },
+ {
+  "location": "Bảng 4.4, dòng 'Động mạch cảnh không triệu chứng | CREST-2 | 2026'",
+  "claimText": "Đặt stent + nội khoa 2,8% so với 6,0%; bóc nội mạc + nội khoa 3,7% so với 5,3% (không ý nghĩa)",
+  "verdict": "correct",
+  "severity": "major",
+  "correctValue": "",
+  "source": "Brott TG, et al. Medical Management and Revascularization for Asymptomatic Carotid Stenosis (CREST-2). N Engl J Med. 2026;394(3):219-31 — nhánh stent 2,8% so với 6,0% (P = 0,02, CÓ ý nghĩa); nhánh bóc nội mạc 3,7% so với 5,3% (P = 0,24, không ý nghĩa). Lưu ý: cách đặt dấu ngoặc '(không ý nghĩa)' ở cuối dòng có thể bị hiểu nhầm là áp cho cả hai nhánh; nên tách rõ."
+ }
+]

@@ -1,0 +1,1162 @@
+[
+ {
+  "refNumber": 1,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Johnston SC, Gress DR, Browner WS, Sidney S. Short-term prognosis after emergency department diagnosis of TIA. JAMA. 2000;284(22):2901-6. doi:10.1001/jama.284.22.2901.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 11147987 (efetch MEDLINE): JAMA. 2000 Dec 13;284(22):2901-6; authors Johnston SC, Gress DR, Browner WS, Sidney S (all 4, exact order). Crossref on 10.1001/jama.284.22.2901 returns JAMA, 2000-12-13, vol 284, issue 22, page 2901. Title, journal abbreviation, year, volume, issue, pages and DOI all match."
+ },
+ {
+  "refNumber": 2,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Wu CM, McLaughlin K, Lorenzetti DL, Hill MD, Manns BJ, Ghali WA. Early risk of stroke after transient ischemic attack: a systematic review and meta-analysis. Arch Intern Med. 2007;167(22):2417-22. doi:10.1001/archinte.167.22.2417.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 18071162: Arch Intern Med. 2007 Dec 10;167(22):2417-22; authors Wu CM, McLaughlin K, Lorenzetti DL, Hill MD, Manns BJ, Ghali WA (all 6, exact order and spelling). Crossref on 10.1001/archinte.167.22.2417 confirms Archives of Internal Medicine, 2007-12-10, 167(22), page 2417. All fields match."
+ },
+ {
+  "refNumber": 3,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Giles MF, Rothwell PM. Risk of stroke early after transient ischaemic attack: a systematic review and meta-analysis. Lancet Neurol. 2007;6(12):1063-72. doi:10.1016/S1474-4422(07)70274-0.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 17993293: Lancet Neurol. 2007 Dec;6(12):1063-72, Epub 2007 Nov 13; authors Giles MF, Rothwell PM (both, exact). Crossref on 10.1016/S1474-4422(07)70274-0 confirms The Lancet Neurology, 2007-12, vol 6, issue 12, pages 1063-1072, exact title. All fields match."
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "correctCitation": "",
+  "evidence": "Decision number and date are both correct. Confirmed on multiple independent Vietnamese sources: thuvienphapluat.vn (van-ban record 651734), luatvietnam.vn (record 397568), nhansu.vn, and Bệnh viện C Đà Nẵng (bvcdn.org.vn, fetched directly and confirming: số 3312/QĐ-BYT, ngày 05/11/2024, Bộ Y tế, tài liệu chuyên môn 'Hướng dẫn chẩn đoán và điều trị đột quỵ não'). The MOH PDF hosted at trungtamthuoc.com carries the signature stamp 'Truong Le Van Ngoc 05/11/2024'. The decision replaces Quyết định 5331/QĐ-BYT ngày 23/12/2020. Optional refinement only (not an error): the full official title is 'Quyết định về việc ban hành tài liệu chuyên môn \"Hướng dẫn chẩn đoán và điều trị đột quỵ não\"' — the author could add 'tài liệu chuyên môn' for completeness."
+ },
+ {
+  "refNumber": 5,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Prabhakaran S, Gonzalez NR, Zachrison KS, Adeoye O, Alexandrov AW, Ansari SA, et al. 2026 guideline for the early management of patients with acute ischemic stroke: a guideline from the American Heart Association/American Stroke Association. Stroke. 2026;57(8):e316-e436. doi:10.1161/STR.0000000000000513.",
+  "correctCitation": "",
+  "evidence": "This 2026-dated reference is GENUINE, not fabricated — verified three independent ways. (1) PubMed PMID 41582814: Stroke. 2026 Aug;57(8):e316-e436, full title '2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: A Guideline From the American Heart Association/American Stroke Association'; author list begins Prabhakaran S, Gonzalez NR, Zachrison KS, Adeoye O, Alexandrov AW, Ansari SA — matching the six cited authors in exact order (34 authors total, so 'et al.' is correct). (2) Crossref on 10.1161/STR.0000000000000513 returns container Stroke, issued 2026-08, volume 57, issue 8, exact title (page field null, as is normal for AHA e-paginated guidelines). (3) doi.org/10.1161/STR.0000000000000513 resolves with HTTP 302 to https://www.ahajournals.org/doi/10.1161/STR.0000000000000513 (the AHA page itself returns 403 to automated fetches — bot blocking, not a dead DOI). Volume, issue, page range and DOI all match."
+ },
+ {
+  "refNumber": 6,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Easton JD, Saver JL, Albers GW, Alberts MJ, Chaturvedi S, Feldmann E, et al. Definition and evaluation of transient ischemic attack: a scientific statement ... Stroke. 2009;40(6):2276-93. doi:10.1161/STROKEAHA.108.192218.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 19423857: Stroke. 2009 Jun;40(6):2276-93; authors Easton JD, Saver JL, Albers GW, Alberts MJ, Chaturvedi S, Feldmann E, ... (13 total, first six match exactly in order). Crossref on 10.1161/STROKEAHA.108.192218 confirms Stroke, 2009-06, 40(6), 2276-2293. The long council enumeration in the cited title matches the PubMed title verbatim. Note (not an error): PubMed's title carries a further trailing sentence, 'The American Academy of Neurology affirms the value of this statement as an educational tool for neurologists.', which is conventionally omitted in citations."
+ },
+ {
+  "refNumber": 7,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Albers GW, Caplan LR, Easton JD, Fayad PB, Mohr JP, Saver JL, et al. Transient ischemic attack - proposal for a new definition. N Engl J Med. 2002;347(21):1713-6. doi:10.1056/NEJMsb020987.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 12444191: N Engl J Med. 2002 Nov 21;347(21):1713-6; authors Albers GW, Caplan LR, Easton JD, Fayad PB, Mohr JP, Saver JL, Sherman DG (corporate author: TIA Working Group) — the six cited names match in exact order, 'et al.' correctly covers Sherman DG. Crossref on 10.1056/NEJMsb020987 confirms N Engl J Med, 2002-11-21, 347(21), 1713-1716. Purely typographic note (not an error): the original title uses an em dash, 'Transient Ischemic Attack — Proposal for a New Definition'; the monograph renders it as a spaced hyphen."
+ },
+ {
+  "refNumber": 8,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Sacco RL, Kasner SE, Broderick JP, Caplan LR, Connors JJ, Culebras A, et al. An updated definition of stroke for the 21st century: a statement for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2013;44(7):2064-89. doi:10.1161/STR.0b013e318296aeca.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 23652265: Stroke. 2013 Jul;44(7):2064-89; authors Sacco RL, Kasner SE, Broderick JP, Caplan LR, Connors JJ, Culebras A, ... (20 total, first six match exactly in order). Full PubMed title matches the cited title verbatim. Crossref on 10.1161/STR.0b013e318296aeca confirms Stroke, 2013-07, 44(7), 2064-2089. All fields match."
+ },
+ {
+  "refNumber": 9,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Johnston SC, Rothwell PM, Nguyen-Huynh MN, Giles MF, Elkins JS, Bernstein AL, et al. Validation and refinement of scores to predict very early stroke risk after transient ischaemic attack. Lancet. 2007;369(9558):283-92. doi:10.1016/S0140-6736(07)60150-0.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 17258668: Lancet. 2007 Jan 27;369(9558):283-92; authors Johnston SC, Rothwell PM, Nguyen-Huynh MN, Giles MF, Elkins JS, Bernstein AL, Sidney S — the six cited names match in exact order and spelling, 'et al.' correctly covers Sidney S. Crossref on 10.1016/S0140-6736(07)60150-0 confirms The Lancet, 2007-01, 369(9558), 283-292, exact title. All fields match."
+ },
+ {
+  "refNumber": 10,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Merwick Á, Albers GW, Amarenco P, Arsava EM, Ay H, Calvet D, et al. Addition of brain and carotid imaging to the ABCD2 score to identify patients at early risk of stroke after transient ischaemic attack: a multicentre observational study. Lancet Neurol. 2010;9(11):1060-9. doi:10.1016/S1474-4422(10)70240-4.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 20934388: Lancet Neurol. 2010 Nov;9(11):1060-9; authors Merwick A, Albers GW, Amarenco P, Arsava EM, Ay H, Calvet D, ... (22 total, first six match exactly in order). Crossref on 10.1016/S1474-4422(10)70240-4 confirms The Lancet Neurology, 2010-11, 9(11), 1060-1069, exact title. The diacritic in 'Merwick Á' is correct (Áine Merwick); PubMed simply strips diacritics. PubMed renders the score as 'ABCD(2)' where the journal sets it as ABCD2 with subscript — the monograph's 'ABCD2' is right. All fields match."
+ },
+ {
+  "refNumber": 11,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Coutts SB, Hill MD, Campos CR, Choi YB, Subramaniam S, Kosior JC, et al. Recurrent events in transient ischemic attack and minor stroke: what events are happening and to which patients? Stroke. 2008;39(9):2461-6. doi:10.1161/STROKEAHA.107.513234.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 18617658: Stroke. 2008 Sep;39(9):2461-6; authors Coutts SB, Hill MD, Campos CR, Choi YB, Subramaniam S, Kosior JC, Demchuk AM (corporate: VISION study group) — six cited names match in exact order, 'et al.' correctly covers Demchuk AM. Full title matches verbatim. Crossref on 10.1161/STROKEAHA.107.513234 confirms Stroke, 2008-09, 39(9), 2461-2466. All fields match."
+ },
+ {
+  "refNumber": 12,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Fonseca AC, Merwick Á, Dennis M, Ferrari J, Ferro JM, Kelly P, et al. European Stroke Organisation (ESO) guidelines on management of transient ischaemic attack. Eur Stroke J. 2021;6(2):CLXIII-CLXXXVI. doi:10.1177/2396987321992905.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 34414299: Eur Stroke J. 2021 Jun;6(2):CLXIII-CLXXXVI; authors Fonseca AC, Merwick A, Dennis M, Ferrari J, Ferro JM, Kelly P, Lal A, Ois A, Olivot JM, Purroy F — the six cited names match in exact order. Crossref on 10.1177/2396987321992905 independently confirms European Stroke Journal, 2021-06-01, vol 6, issue 2, pages CLXIII-CLXXXVI (the unusual Roman-numeral pagination is genuine) and the exact title. Journal abbreviation 'Eur Stroke J' is the correct NLM form. All fields match."
+ },
+ {
+  "refNumber": 13,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Amin HP, Madsen TE, Bravata DM, Wira CR, Johnston SC, Ashcraft S, et al. Diagnosis, workup, risk reduction of transient ischemic attack in the emergency department setting: a scientific statement from the American Heart Association. Stroke. 2023;54(3):e109-e121. doi:10.1161/STR.0000000000000418.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 36655570: Stroke. 2023 Mar;54(3):e109-e121; authors Amin HP, Madsen TE, Bravata DM, Wira CR, Johnston SC, Ashcraft S, Burrus TM, Panagos PD, Wintermark M, Esenwa C — the six cited names match in exact order. Full title matches verbatim. Crossref on 10.1161/STR.0000000000000418 confirms Stroke, 2023-03, volume 54, issue 3 and the exact title (page field null, normal for AHA e-pagination; PubMed supplies e109-e121). All fields match."
+ },
+ {
+  "refNumber": 14,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 23803136 + Crossref 10.1056/NEJMoa1215340. N Engl J Med. 2013 Jul 4;369(1):11-9. CHANCE trial. First six authors in PubMed FAU order: Wang Y, Wang Y, Zhao X, Liu L, Wang D, Wang C — exact match. Volume/issue/pages/DOI all confirmed by both databases (Crossref renders pages as 11-19; the monograph's abbreviated 11-9 is correct Vancouver/NLM style).",
+  "citedAs": "Wang Y, Wang Y, Zhao X, Liu L, Wang D, Wang C, et al. Clopidogrel with aspirin in acute minor stroke or transient ischemic attack. N Engl J Med. 2013;369(1):11-9. doi:10.1056/NEJMoa1215340.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 15,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 29766750 + Crossref 10.1056/NEJMoa1800410. N Engl J Med. 2018 Jul 19;379(3):215-225. POINT trial. Author order confirmed: Johnston SC, Easton JD, Farrant M, Barsan W, Conwit RA, Elm JJ (then Kim AS, Lindblad AS, Palesch YY + the NETT/POINT Investigators group author). Title, journal abbreviation, year, volume, issue, pages and DOI all match.",
+  "citedAs": "Johnston SC, Easton JD, Farrant M, Barsan W, Conwit RA, Elm JJ, et al. Clopidogrel and aspirin in acute ischemic stroke and high-risk TIA. N Engl J Med. 2018;379(3):215-25. doi:10.1056/NEJMoa1800410.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 16,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 34708996 + Crossref 10.1056/NEJMoa2111749. N Engl J Med. 2021 Dec 30;385(27):2520-2530. CHANCE-2 trial. First six authors confirmed in order: Wang Y, Meng X, Wang A, Xie X, Pan Y, Johnston SC (29 authors total). Volume 385, issue 27, pages 2520-30 and DOI all confirmed.",
+  "citedAs": "Wang Y, Meng X, Wang A, Xie X, Pan Y, Johnston SC, et al. Ticagrelor versus clopidogrel in CYP2C19 loss-of-function carriers with stroke or TIA. N Engl J Med. 2021;385(27):2520-30. doi:10.1056/NEJMoa2111749.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 17,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 32668111 + Crossref 10.1056/NEJMoa1916870. N Engl J Med. 2020 Jul 16;383(3):207-217. THALES trial. Author order confirmed: Johnston SC, Amarenco P, Denison H, Evans SR, Himmelmann A, James S (11 authors incl. group). All bibliographic fields match.",
+  "citedAs": "Johnston SC, Amarenco P, Denison H, Evans SR, Himmelmann A, James S, et al. Ticagrelor and aspirin or aspirin alone in acute ischemic stroke or TIA. N Engl J Med. 2020;383(3):207-17. doi:10.1056/NEJMoa1916870.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 18,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 34024117 + Crossref 10.1161/STR.0000000000000375. Stroke. 2021 Jul;52(7):e364-e467. Volume, issue, e-page range, year and DOI all confirmed. Author order confirmed (19 authors: Kleindorfer DO, Towfighi A, Chaturvedi S, Cockroft KM, Gutierrez J, Lombardi-Hill D, ...). NOTE (cosmetic only, not scored as an error): the monograph writes \"Gutiérrez J\"; the published AHA byline and both PubMed (FAU - Gutierrez, Jose) and Crossref record the name WITHOUT the acute accent — \"Gutierrez J\". Crossref preserves diacritics elsewhere in this reference list (e.g. Lavallée, Canhão), so the unaccented form is the authoritative one. Worth normalising for consistency but it is not a substantive citation error.",
+  "citedAs": "Kleindorfer DO, Towfighi A, Chaturvedi S, Cockroft KM, Gutiérrez J, Lombardi-Hill D, et al. 2021 guideline for the prevention of stroke in patients with stroke and transient ischemic attack: a guideline from the American Heart Association/American Stroke Association. Stroke. 2021;52(7):e364-e467. doi:10.1161/STR.0000000000000375.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 19,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 24481975 + Crossref 10.1161/STROKEAHA.113.003508. Stroke. 2014 Mar;45(3):663-9. CICAS Study. First six authors confirmed in order: Wang Y, Zhao X, Liu L, Soo YO, Pu Y, Pan Y. Title (including the subtitle \"the Chinese Intracranial Atherosclerosis (CICAS) Study\"), journal, year, volume, issue, pages and DOI all match.",
+  "citedAs": "Wang Y, Zhao X, Liu L, Soo YO, Pu Y, Pan Y, et al. Prevalence and outcomes of symptomatic intracranial large artery stenoses and occlusions in China: the Chinese Intracranial Atherosclerosis (CICAS) Study. Stroke. 2014;45(3):663-9. doi:10.1161/STROKEAHA.113.003508.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 20,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 17928046 + Crossref 10.1016/S0140-6736(07)61448-2. Lancet. 2007 Oct 20;370(9596):1432-42. EXPRESS study. Author order confirmed: Rothwell PM, Giles MF, Chandratheva A, Marquardt L, Geraghty O, Redgrave JN (17 authors). Title, journal abbreviation, volume, issue, pages and DOI all match; the DOI resolves as the Lancet PII S0140-6736(07)61448-2.",
+  "citedAs": "Rothwell PM, Giles MF, Chandratheva A, Marquardt L, Geraghty O, Redgrave JN, et al. Effect of urgent treatment of transient ischaemic attack and minor stroke on early recurrent stroke (EXPRESS study): a prospective population-based sequential comparison. Lancet. 2007;370(9596):1432-42. doi:10.1016/S0140-6736(07)61448-2.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 21,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 41586263 + Crossref 10.1161/SVIN.121.000331. Stroke Vasc Interv Neurol. 2022 Mar;2(2):e000331. All six authors are listed in full and match the record exactly and in order (Mai DT, Dao XC, Luong NK, Nguyen TK, Nguyen HT, Nguyen TN) — no \"et al.\" needed since the article has exactly six authors. Title, journal abbreviation, year, volume, issue, e-locator and DOI all confirmed. (The very high PMID simply reflects that SVIN was back-indexed in PubMed recently; the article itself is genuinely from March 2022, confirmed independently by Crossref.)",
+  "citedAs": "Mai DT, Dao XC, Luong NK, Nguyen TK, Nguyen HT, Nguyen TN. Current state of stroke care in Vietnam. Stroke Vasc Interv Neurol. 2022;2(2):e000331. doi:10.1161/SVIN.121.000331.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 22,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 28157745 + Crossref 10.1212/CON.0000000000000424. Continuum (Minneap Minn). 2017 Feb;23(1):82-92. Single author Coutts SB confirmed. Title, journal abbreviation, year, volume, issue, pages and DOI all match. (PubMed records the issue as \"1, Cerebrovascular Disease\"; citing it as 23(1) is standard and acceptable.)",
+  "citedAs": "Coutts SB. Diagnosis and management of transient ischemic attack. Continuum (Minneap Minn). 2017;23(1):82-92. doi:10.1212/CON.0000000000000424.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 23,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 32402163 + Crossref 10.1056/NEJMcp1908837. N Engl J Med. 2020 May 14;382(20):1933-1941. Single author Amarenco P confirmed. Title, journal, year, volume, issue, pages and DOI all match. Correctly cited with the NEJMcp (Clinical Practice) DOI stem.",
+  "citedAs": "Amarenco P. Transient ischemic attack. N Engl J Med. 2020;382(20):1933-41. doi:10.1056/NEJMcp1908837.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 24,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 17928270 + Crossref 10.1016/S1474-4422(07)70248-X. Lancet Neurol. 2007 Nov;6(11):953-60. SOS-TIA. Author order confirmed: Lavallée PC, Meseguer E, Abboud H, Cabrejo L, Olivot JM, Simon O (17 authors); the accent in \"Lavallée\" is correct per Crossref. Title, journal abbreviation, volume, issue, pages and DOI (including the terminal -X check character) all match.",
+  "citedAs": "Lavallée PC, Meseguer E, Abboud H, Cabrejo L, Olivot JM, Simon O, et al. A transient ischaemic attack clinic with round-the-clock access (SOS-TIA): feasibility and effects. Lancet Neurol. 2007;6(11):953-60. doi:10.1016/S1474-4422(07)70248-X.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 25,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 27096581 + Crossref 10.1056/NEJMoa1412981. N Engl J Med. 2016 Apr 21;374(16):1533-42. TIAregistry.org one-year results. Author order confirmed: Amarenco P, Lavallée PC, Labreuche J, Albers GW, Bornstein NM, Canhão P (20 authors); accents on Lavallée and Canhão are correct. Title, journal, year, volume, issue, pages and DOI all match.",
+  "citedAs": "Amarenco P, Lavallée PC, Labreuche J, Albers GW, Bornstein NM, Canhão P, et al. One-year risk of stroke after transient ischemic attack or minor stroke. N Engl J Med. 2016;374(16):1533-42. doi:10.1056/NEJMoa1412981.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 26,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 29263784 + Crossref 10.12688/f1000research.12358.1. PubMed SO string: \"F1000Res. 2017 Oct 26;6:1893. doi:10.12688/f1000research.12358.1.\" All three authors listed in full and in order (Gomez CR, Schneck MJ, Biller J). Volume 6, article/page 1893, no issue number — exactly as cited. The DOI suffix \".1\" is the version-1 DOI and resolves correctly.",
+  "citedAs": "Gomez CR, Schneck MJ, Biller J. Recent advances in the management of transient ischemic attacks. F1000Res. 2017;6:1893. doi:10.12688/f1000research.12358.1.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 110,
+  "status": "major_error",
+  "problem": "The citation's own metadata is accurate — the file exists and the fields check out — but the SOURCE TYPE is not acceptable in a doctoral monograph and should be replaced. Three problems: (1) it is self-published, non-peer-reviewed content with no editorial or scientific oversight; (2) the \"author\" is the anonymous pseudonymous Wikimedia account \"Mme Mim\" (the user page does not even exist), so the work carries no attributable, citable authorship and no scholarly accountability; (3) most seriously, the Commons description page itself states the figure is taken from \"A. Thrush, Vascular ultrasound, 2011, page 101\" while simultaneously being tagged \"Own work\" under CC BY-SA 3.0 — i.e. it is an undisclosed derivative of a copyrighted textbook figure, so reproducing it in a thesis carries a copyright risk on top of the citation-quality problem. A doctoral monograph should cite the primary methodological literature that defines the NASCET and ECST measurement conventions, not a Wikimedia redraw. Note also that the surrounding reference list already contains a suitable peer-reviewed alternative at ref 111 (Saba L, et al. Life (Basel). 2024;14(1):73), which contains exactly this NASCET-vs-ECST measurement geometry as an open-access, reusable figure.",
+  "evidence": "Wikimedia Commons API (action=query&prop=imageinfo&iiprop=extmetadata on File:NASCET_and_ECST.png), page id 21016678. Confirmed: uploader/Artist = \"Mme Mim\" (redlinked, non-existent user page); DateTimeOriginal = 2012-09-01, upload timestamp 2012-09-02T08:57:34Z (so the year \"2012\" in the citation is correct); LicenseShortName = CC BY-SA 3.0; Credit = \"Own work\"; ImageDescription = \"carotid artery stenosis grades according NASCET and ECST, A. Thrush Vascular ultrasound, 2011, page 101\"; Categories include \"Self-published work\". The recommended substitute was verified in PubMed as PMID 7974586 (SO: Stroke. 1994 Dec;25(12):2435-9. doi:10.1161/01.str.25.12.2435).",
+  "citedAs": "Mme Mim. NASCET and ECST [Internet]. Wikimedia Commons; 2012 [truy cập ngày 26/8/2026]. Available from: https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png",
+  "correctCitation": "Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.STR.25.12.2435. [Preferred primary substitute: this is the definitive peer-reviewed paper that defines and geometrically compares the NASCET, ECST and common-carotid measurement methods on 1001 angiograms and gives the ECST-to-NASCET conversion equation. If an open-access, reusable colour figure is wanted instead, use the paper already in this reference list: Saba L, Scicolone R, Johansson E, Nardi V, Lanzino G, Kakkos SK, et al. Quantifying carotid stenosis: history, current applications, limitations, and potential: how imaging is changing the scenario. Life (Basel). 2024;14(1):73. doi:10.3390/life14010073 — CC BY, so its NASCET/ECST diagram may be reproduced with attribution.]"
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "evidence": "Decision number and date both confirmed correct. Quyết định số 3312/QĐ-BYT was signed on 05/11/2024 issuing the tài liệu chuyên môn \"Hướng dẫn chẩn đoán và điều trị đột quỵ não\". Confirmed against four independent sources: (1) Bệnh viện C Đà Nẵng official posting, https://bvcdn.org.vn/quyet-dinh-3312-qd-byt-ngay-05-11-2024-cua-bo-y-te-ve-viec-ban-hanh-tai-lieu-chuyen-mon-huong-dan-chan-doan-va-dieu-tri-dot-quy-nao/ (fetched directly; returns decision number 3312/QĐ-BYT, signing date 05/11/2024, title \"Hướng dẫn chẩn đoán và điều trị đột quỵ não\"), which also hosts the scanned original at https://bvcdn.org.vn/wp-content/uploads/2024/12/QD-3312.pdf; (2) Thư viện Pháp luật record 651734; (3) LuatVietnam record 397568; (4) trungtamthuoc.com, whose hosted PDF is filenamed ...dot-quy-nao-bo-y-te-05-11-2024. The decision takes effect from the date of signing and replaces Quyết định số 5331/QĐ-BYT ngày 23/12/2020; scope of application is khám bệnh, chữa bệnh facilities nationwide. The phrasing \"của Bộ trưởng Bộ Y tế\" is the standard Vietnamese legal citation convention for a QĐ-BYT and is appropriate even though the document was signed KT. Bộ trưởng by a Thứ trưởng. Optional improvement only: a doctoral monograph may add the URL and access date for the full-text PDF, and note the superseded 5331/QĐ-BYT if the text discusses the change.",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 40,
+  "status": "verified",
+  "citedAs": "O'Donnell MJ, Chin SL, Rangarajan S, Xavier D, Liu L, Zhang H, et al. Global and regional effects of potentially modifiable risk factors associated with acute stroke in 32 countries (INTERSTROKE): a case-control study. Lancet. 2016;388(10046):761-75. doi:10.1016/S0140-6736(16)30506-2.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 27431356 and Crossref both give: Lancet 2016;388(10046):761-75, title verbatim, first six authors O'Donnell MJ, Chin SL, Rangarajan S, Xavier D, Liu L, Zhang H (47 authors total, so 'et al.' after six is correct Vancouver). DOI 10.1016/S0140-6736(16)30506-2 resolves (302) to linkinghub.elsevier.com/retrieve/pii/S0140673616305062. All fields match."
+ },
+ {
+  "refNumber": 41,
+  "status": "verified",
+  "citedAs": "Bushnell C, Kernan WN, Sharrief AZ, Chaturvedi S, Cole JW, Cornwell WK 3rd, et al. 2024 guideline for the primary prevention of stroke: a guideline from the American Heart Association/American Stroke Association. Stroke. 2024;55(12):e344-e424. doi:10.1161/STR.0000000000000475.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 39429201: Stroke 2024;55(12):e344-e424; authors Bushnell C, Kernan WN, Sharrief AZ, Chaturvedi S, Cole JW, Cornwell WK, ... (26 total). Crossref confirms same volume/issue/year and byline (William K. Cornwell — AHA byline is 'William K. Cornwell III', so the '3rd' suffix is correct). DOI resolves to ahajournals.org/doi/10.1161/STR.0000000000000475."
+ },
+ {
+  "refNumber": 42,
+  "status": "verified",
+  "citedAs": "US Preventive Services Task Force; Krist AH, Davidson KW, Mangione CM, Barry MJ, Cabana M, Caughey AB, et al. Screening for asymptomatic carotid artery stenosis: US Preventive Services Task Force recommendation statement. JAMA. 2021;325(5):476-81. doi:10.1001/jama.2020.26988.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 33528542: JAMA 2021;325(5):476-481; author list begins 'US Preventive Services Task Force; Krist AH, Davidson KW, Mangione CM, Barry MJ, Cabana M, Caughey AB' (17 entries) — exactly the order cited. DOI resolves to jamanetwork.com/journals/jama/fullarticle/2775719. Page range 476-81 is the correct Vancouver contraction of 476-481."
+ },
+ {
+  "refNumber": 43,
+  "status": "verified",
+  "citedAs": "SPRINT Research Group; Wright JT Jr, Williamson JD, Whelton PK, Snyder JK, Sink KM, Rocco MV, et al. A randomized trial of intensive versus standard blood-pressure control. N Engl J Med. 2015;373(22):2103-16. doi:10.1056/NEJMoa1511939.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 26551272: N Engl J Med 2015;373(22):2103-16; authors 'SPRINT Research Group; Wright JT, Williamson JD, Whelton PK, Snyder JK, Sink KM, Rocco MV, ...' (19 entries), matching the cited order; NEJM byline is 'Jackson T. Wright, Jr.', so 'Wright JT Jr' is correct. DOI resolves to nejm.org/doi/10.1056/NEJMoa1511939."
+ },
+ {
+  "refNumber": 44,
+  "status": "verified",
+  "citedAs": "Beckett NS, Peters R, Fletcher AE, Staessen JA, Liu L, Dumitrascu D, et al. Treatment of hypertension in patients 80 years of age or older. N Engl J Med. 2008;358(18):1887-98. doi:10.1056/NEJMoa0801369.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 18378519 (HYVET): N Engl J Med 2008;358(18):1887-98; authors Beckett NS, Peters R, Fletcher AE, Staessen JA, Liu L, Dumitrascu D, ... (17). Crossref agrees. DOI resolves to nejm.org/doi/abs/10.1056/NEJMoa0801369. All fields match."
+ },
+ {
+  "refNumber": 45,
+  "status": "verified",
+  "citedAs": "Estruch R, Ros E, Salas-Salvadó J, Covas MI, Corella D, Arós F, et al. Primary prevention of cardiovascular disease with a Mediterranean diet supplemented with extra-virgin olive oil or nuts. N Engl J Med. 2018;378(25):e34. doi:10.1056/NEJMoa1800389.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 29897866: N Engl J Med 2018;378(25):e34; authors Estruch R, Ros E, Salas-Salvadó J, Covas MI, Corella D, Arós F, ... (22). DOI resolves to nejm.org/doi/10.1056/NEJMoa1800389. Note for the author (not an error): this is correctly the 2018 republished/corrected PREDIMED article (the 2013 version, NEJM 2013;368:1279-90, was retracted and republished); citing the 2018 e34 version is the right choice."
+ },
+ {
+  "refNumber": 46,
+  "status": "verified",
+  "citedAs": "McNeil JJ, Wolfe R, Woods RL, Tonkin AM, Donnan GA, Nelson MR, et al. Effect of aspirin on cardiovascular events and bleeding in the healthy elderly. N Engl J Med. 2018;379(16):1509-18. doi:10.1056/NEJMoa1805819.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 30221597 (ASPREE): N Engl J Med 2018;379(16):1509-1518; authors McNeil JJ, Wolfe R, Woods RL, Tonkin AM, Donnan GA, Nelson MR, ... (34). Crossref agrees. DOI resolves to nejm.org/doi/10.1056/NEJMoa1805819."
+ },
+ {
+  "refNumber": 47,
+  "status": "verified",
+  "citedAs": "Gaziano JM, Brotons C, Coppolecchia R, Cricelli C, Darius H, Gorelick PB, et al. Use of aspirin to reduce risk of initial vascular events in patients at moderate risk of cardiovascular disease (ARRIVE): a randomised, double-blind, placebo-controlled trial. Lancet. 2018;392(10152):1036-46. doi:10.1016/S0140-6736(18)31924-X.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 30158069: Lancet 2018;392(10152):1036-1046; authors Gaziano JM, Brotons C, Coppolecchia R, Cricelli C, Darius H, Gorelick PB, ... (13). Crossref confirms title verbatim. DOI resolves to linkinghub.elsevier.com/retrieve/pii/S014067361831924X."
+ },
+ {
+  "refNumber": 48,
+  "status": "verified",
+  "citedAs": "ASCEND Study Collaborative Group. Effects of aspirin for primary prevention in persons with diabetes mellitus. N Engl J Med. 2018;379(16):1529-39. doi:10.1056/NEJMoa1804988.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 30146931: N Engl J Med 2018;379(16):1529-1539, title verbatim. Crossref lists the sole author as 'The ASCEND Study Collaborative Group', matching NEJM's own preferred citation; PubMed additionally indexes the individual collaborators (Bowman L, Mafham M, ...) after the group name, so citing the collective author alone is acceptable Vancouver style, not an error. DOI resolves to nejm.org/doi/10.1056/NEJMoa1804988."
+ },
+ {
+  "refNumber": 49,
+  "status": "verified",
+  "citedAs": "US Preventive Services Task Force; Davidson KW, Barry MJ, Mangione CM, Cabana M, Chelmow D, Coker TR, et al. Aspirin use to prevent cardiovascular disease: US Preventive Services Task Force recommendation statement. JAMA. 2022;327(16):1577-84. doi:10.1001/jama.2022.4983.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 35471505: JAMA 2022;327(16):1577-1584; author list 'US Preventive Services Task Force; Davidson KW, Barry MJ, Mangione CM, Cabana M, Chelmow D, Coker TR, ...' (19) — identical order to the citation. DOI resolves to jamanetwork.com/journals/jama/fullarticle/2791399."
+ },
+ {
+  "refNumber": 50,
+  "status": "verified",
+  "citedAs": "Yusuf S, Bosch J, Dagenais G, Zhu J, Xavier D, Liu L, et al. Cholesterol lowering in intermediate-risk persons without cardiovascular disease. N Engl J Med. 2016;374(21):2021-31. doi:10.1056/NEJMoa1600176.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 27040132 (HOPE-3 lipid arm): N Engl J Med 2016;374(21):2021-31; authors Yusuf S, Bosch J, Dagenais G, Zhu J, Xavier D, Liu L, ... (34). Crossref agrees. DOI resolves to nejm.org/doi/10.1056/NEJMoa1600176."
+ },
+ {
+  "refNumber": 51,
+  "status": "verified",
+  "citedAs": "Wechsler PM, Parikh NS, Heier LA, Ruiz E, Fink ME, Navi BB, et al. Evaluation of transient ischemic attack and minor stroke: a rapid outpatient model for the COVID-19 pandemic and beyond. Neurohospitalist. 2022;12(1):38-47. doi:10.1177/19418744211000508.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 34950385: Neurohospitalist 2022;12(1):38-47 (NLM/ISO abbreviation is exactly 'Neurohospitalist'); seven authors — Wechsler PM, Parikh NS, Heier LA, Ruiz E, Fink ME, Navi BB, White H — so listing six then 'et al.' is correct. Crossref shows online-first 2021-03-29 but final issue assignment 2022;12(1), so the cited year is right. DOI resolves to journals.sagepub.com/doi/10.1177/19418744211000508."
+ },
+ {
+  "refNumber": 52,
+  "status": "verified",
+  "citedAs": "Johnston SC, Amarenco P, Albers GW, Denison H, Easton JD, Evans SR, et al. Ticagrelor versus aspirin in acute stroke or transient ischemic attack. N Engl J Med. 2016;375(1):35-43. doi:10.1056/NEJMoa1603060.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 27160892 (SOCRATES): N Engl J Med 2016;375(1):35-43; authors Johnston SC, Amarenco P, Albers GW, Denison H, Easton JD, Evans SR, ... (13). Crossref agrees. DOI resolves to nejm.org/doi/10.1056/NEJMoa1603060."
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "problem": "",
+  "correctCitation": "",
+  "evidence": "Decision number and date are both correct. Confirmed on luatvietnam.vn (record 397568) and thuvienphapluat.vn (record 651734), plus the Bệnh viện C Đà Nẵng posting: Quyết định 3312/QĐ-BYT, ngày ban hành 05/11/2024, promulgating the tài liệu chuyên môn 'Hướng dẫn chẩn đoán và điều trị đột quỵ não'; effective from the date of signing; it replaces Quyết định 5331/QĐ-BYT ngày 23/12/2020. Two optional refinements, neither an error: the document was signed 'KT. Bộ trưởng — Thứ trưởng Trần Văn Thuấn' (issuing authority is still the Bộ trưởng, so the wording as cited is acceptable), and the citation could add 'thay thế Quyết định số 5331/QĐ-BYT ngày 23/12/2020' for completeness."
+ },
+ {
+  "refNumber": 110,
+  "status": "major_error",
+  "citedAs": "Mme Mim. NASCET and ECST [Internet]. Wikimedia Commons; 2012 [truy cập ngày 26/8/2026]. Available from: https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png",
+  "problem": "The bibliographic details are accurate (the file exists), but the SOURCE is not acceptable as an academic reference in a doctoral monograph. It is a self-published, non-peer-reviewed, pseudonymous user upload ('Mme Mim', 'own work') with no editorial or scientific review, no DOI, no stable version-of-record, and page content that can be edited or deleted at any time. Its own description line even attributes the content to a secondary textbook (A. Thrush, Vascular Ultrasound, 2011, p.101), i.e. the citation points to a redrawing of someone else's figure rather than to the primary methodological literature. Correct handling: keep the Commons URL only as a figure credit/licence attribution line under the illustration (CC BY-SA 3.0 requires attribution), and cite a peer-reviewed source in the reference list for the NASCET vs ECST measurement method itself.",
+  "correctCitation": "Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.STR.25.12.2435. — Alternative already present in this reference list as no. 111: Saba L, Scicolone R, Johansson E, Nardi V, Lanzino G, Kakkos SK, et al. Quantifying carotid stenosis: history, current applications, limitations, and potential: how imaging is changing the scenario. Life (Basel). 2024;14(1):73. doi:10.3390/life14010073.",
+  "evidence": "WebFetch of https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png confirms the file exists: 632x1036 px PNG, uploaded 1-2 September 2012 by user 'Mme Mim', licence CC BY-SA 3.0, source 'own work', description 'carotid artery stenosis grades according NASCET and ECST, A. Thrush Vascular ultrasound, 2011, page 101'; used on German Wikipedia 'Karotisstenose'. The access date 26/8/2026 is plausible (before today, 29/8/2026). Substitute verified in PubMed: PMID 7974586 = Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP, Stroke 1994;25(12):2435-9, doi 10.1161/01.str.25.12.2435 — the canonical peer-reviewed paper comparing the NASCET, ECST and common-carotid methods on 1001 angiograms, with the standard measurement diagram. Second substitute verified: PMID 38255688 = Saba L et al., Life (Basel) 2024;14(1):73, doi 10.3390/life14010073, which contains modern NASCET/ECST/CC measurement figures."
+ },
+ {
+  "refNumber": 27,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 15731465 and Crossref (DOI 10.1161/01.STR.0000158917.59233.b7) both return: Kleindorfer D, Panagos P, Pancioli A, Khoury J, Kissela B, Woo D, Schneider A, Alwell K, Jauch E, Miller R, Moomaw C, Shukla R, Broderick JP. \"Incidence and short-term prognosis of transient ischemic attack in a population-based study.\" Stroke. 2005 Apr;36(4):720-3. Every field matches: first six authors and order, title, journal abbreviation (Stroke), year, volume 36, issue 4, pages 720-3, DOI resolves.",
+  "citedAs": "Kleindorfer D, Panagos P, Pancioli A, Khoury J, Kissela B, Woo D, et al. Incidence and short-term prognosis of transient ischemic attack in a population-based study. Stroke. 2005;36(4):720-3. doi:10.1161/01.STR.0000158917.59233.b7.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 28,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 33496774 and Crossref (DOI 10.1001/jama.2020.25071): Lioutas VA, Ivan CS, Himali JJ, Aparicio HJ, Leveille T, Romero JR, Beiser AS, Seshadri S. \"Incidence of Transient Ischemic Attack and Association With Long-term Risk of Stroke.\" JAMA. 2021 Jan 26;325(4):373-381. All fields match, including the full page range 373-81 (Crossref alone shows only the first page 373; PubMed PG field confirms 373-381). DOI resolves.",
+  "citedAs": "Lioutas VA, Ivan CS, Himali JJ, Aparicio HJ, Leveille T, Romero JR, et al. Incidence of transient ischemic attack and association with long-term risk of stroke. JAMA. 2021;325(4):373-81. doi:10.1001/jama.2020.25071.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 29,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 39304265 and Crossref (DOI 10.1016/S1474-4422(24)00369-7): corporate author indexed in the PubMed CN field exactly as \"GBD 2021 Stroke Risk Factor Collaborators\". Title, journal (Lancet Neurol), 2024 Oct, volume 23, issue 10, pages 973-1003 all match. DOI resolves. Only cosmetic note: the published title uses an en dash in \"1990–2021\" where the citation uses a hyphen — not a citation error.",
+  "citedAs": "GBD 2021 Stroke Risk Factor Collaborators. Global, regional, and national burden of stroke and its risk factors, 1990-2021: a systematic analysis for the Global Burden of Disease Study 2021. Lancet Neurol. 2024;23(10):973-1003. doi:10.1016/S1474-4422(24)00369-7.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 30,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 29766771 and Crossref (DOI 10.1056/NEJMoa1802712): Amarenco P, Lavallee PC, Monteiro Tavares L, Labreuche J, Albers GW, Abboud H, et al. \"Five-Year Risk of Stroke after TIA or Minor Ischemic Stroke.\" N Engl J Med. 2018 Jun 7;378(23):2182-2190. First six authors, order, journal abbreviation, year, volume, issue and pages all match. DOI resolves.",
+  "citedAs": "Amarenco P, Lavallée PC, Monteiro Tavares L, Labreuche J, Albers GW, Abboud H, et al. Five-year risk of stroke after TIA or minor ischemic stroke. N Engl J Med. 2018;378(23):2182-90. doi:10.1056/NEJMoa1802712.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 31,
+  "status": "minor_error",
+  "problem": "Two author initials are inflated beyond the published byline. The article indexes its third and fourth authors as \"Silver L\" (full name recorded as \"Silver, Louise\") and \"Gutnikov S\" (\"Gutnikov, Sergei\"), with no middle initial supplied by the publisher. The citation gives \"Silver LE\" and \"Gutnikov SA\". The middle initials are correct for these researchers in other papers (e.g. Gutnikov SA in ref 109) but were not used in this article's byline. Everything else — title, journal, 2022, vol 53, issue 2, pages 488-96, DOI — is correct. Cosmetic only; the reference is still fully retrievable.",
+  "evidence": "Three independent indexes agree and all omit the middle initials: PubMed PMID 34706563 (AU/FAU fields: \"Silver L\" / \"Silver, Louise\"; \"Gutnikov S\" / \"Gutnikov, Sergei\"); Crossref DOI 10.1161/STROKEAHA.121.034279 (publisher-deposited metadata from Ovid/Wolters Kluwer); Europe PMC authorString \"Luengo-Fernandez R, Li L, Silver L, Gutnikov S, Beddows NC, Rothwell PM.\" All three confirm Stroke. 2022;53(2):488-496. The AHA journal page itself returned HTTP 403 and could not be read directly.",
+  "citedAs": "Luengo-Fernandez R, Li L, Silver LE, Gutnikov SA, Beddows NC, Rothwell PM. Long-term impact of urgent secondary prevention after transient ischemic attack and minor stroke: ten-year follow-up of the EXPRESS study. Stroke. 2022;53(2):488-96. doi:10.1161/STROKEAHA.121.034279.",
+  "correctCitation": "Luengo-Fernandez R, Li L, Silver L, Gutnikov S, Beddows NC, Rothwell PM. Long-term impact of urgent secondary prevention after transient ischemic attack and minor stroke: ten-year follow-up of the EXPRESS study. Stroke. 2022;53(2):488-96. doi:10.1161/STROKEAHA.121.034279."
+ },
+ {
+  "refNumber": 32,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 18988917 and Crossref (DOI 10.1161/STROKEAHA.108.515817): Calvet D, Touze E, Oppenheim C, Turc G, Meder JF, Mas JL. \"DWI lesions and TIA etiology improve the prediction of stroke after TIA.\" Stroke. 2009 Jan;40(1):187-92. Complete six-author list matches in order and spelling; title, journal, year, volume, issue, pages and DOI all match.",
+  "citedAs": "Calvet D, Touzé E, Oppenheim C, Turc G, Meder JF, Mas JL. DWI lesions and TIA etiology improve the prediction of stroke after TIA. Stroke. 2009;40(1):187-92. doi:10.1161/STROKEAHA.108.515817.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 33,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 17379821 and Crossref (DOI 10.1161/STROKEAHA.106.477380): Redgrave JN, Coutts SB, Schulz UG, Briley D, Rothwell PM. \"Systematic review of associations between the presence of acute ischemic lesions on diffusion-weighted imaging and clinical predictors of early stroke risk after transient ischemic attack.\" Stroke. 2007 May;38(5):1482-8. All five authors listed in full and in correct order; title, journal, year, volume, issue, pages and DOI all match. (Crossref renders the first author as \"Redgrave JNE\"; PubMed's NLM-style \"Redgrave JN\" — as cited — is the correct Vancouver form.)",
+  "citedAs": "Redgrave JN, Coutts SB, Schulz UG, Briley D, Rothwell PM. Systematic review of associations between the presence of acute ischemic lesions on diffusion-weighted imaging and clinical predictors of early stroke risk after transient ischemic attack. Stroke. 2007;38(5):1482-8. doi:10.1161/STROKEAHA.106.477380.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 34,
+  "status": "verified",
+  "problem": "",
+  "evidence": "This 2025 reference is genuine, not fabricated. Independently confirmed in PubMed (PMID 40276373) and Crossref (DOI 10.1016/j.gloepi.2025.100199): Tran MC, Prisco L, Pham PM, Phan HQ, Ganau M, Pham N, Truong LH, Ariana P, Dao PV, Nguyen DT, Van Nguyen C, Truong HT, Nguyen TH, Pandian J, Mai TD, Farmery A. \"Comprehensive analysis of stroke epidemiology in Vietnam: Insights from GBD 1990-2019 and RES-Q 2017-2023.\" Glob Epidemiol. 2025 Jun;9:100199. First six authors and order match exactly; NLM journal abbreviation \"Glob Epidemiol\" is correct; volume 9 and article number 100199 are correct. The absence of an issue number is correct — this journal uses continuous article numbers, so \"9:100199\" is the proper Vancouver form.",
+  "citedAs": "Tran MC, Prisco L, Pham PM, Phan HQ, Ganau M, Pham N, et al. Comprehensive analysis of stroke epidemiology in Vietnam: insights from GBD 1990-2019 and RES-Q 2017-2023. Glob Epidemiol. 2025;9:100199. doi:10.1016/j.gloepi.2025.100199.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 35,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 7678184 and Crossref (DOI 10.1161/01.STR.24.1.35): Adams HP Jr, Bendixen BH, Kappelle LJ, Biller J, Love BB, Gordon DL, Marsh EE 3rd. \"Classification of subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. TOAST. Trial of Org 10172 in Acute Stroke Treatment.\" Stroke. 1993 Jan;24(1):35-41. First six authors and order match, \"Adams HP Jr\" suffix is correct, title matches verbatim, journal/year/volume/issue/pages and DOI all match.",
+  "citedAs": "Adams HP Jr, Bendixen BH, Kappelle LJ, Biller J, Love BB, Gordon DL, et al. Classification of subtype of acute ischemic stroke. Definitions for use in a multicenter clinical trial. TOAST. Trial of Org 10172 in Acute Stroke Treatment. Stroke. 1993;24(1):35-41. doi:10.1161/01.STR.24.1.35.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 36,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 24646875 and Crossref (DOI 10.1016/S1474-4422(13)70310-7): Hart RG, Diener HC, Coutts SB, Easton JD, Granger CB, O'Donnell MJ, Sacco RL, Connolly SJ; Cryptogenic Stroke/ESUS International Working Group. \"Embolic strokes of undetermined source: the case for a new clinical construct.\" Lancet Neurol. 2014 Apr;13(4):429-38. First six authors and order match; title, journal abbreviation, year, volume, issue, pages and DOI all match. (Optional refinement: the collaborative group \"Cryptogenic Stroke/ESUS International Working Group\" could be appended after the author list, but its omission is acceptable Vancouver practice.)",
+  "citedAs": "Hart RG, Diener HC, Coutts SB, Easton JD, Granger CB, O'Donnell MJ, et al. Embolic strokes of undetermined source: the case for a new clinical construct. Lancet Neurol. 2014;13(4):429-38. doi:10.1016/S1474-4422(13)70310-7.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 37,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 38685132 and Crossref (DOI 10.1093/eurheartj/ehae150): Ntaios G, Baumgartner H, Doehner W, Donal E, Edvardsen T, Healey JS, Iung B, Kamel H, Kasner SE, Korompoki E, Navi BB, Pristipino C, Saba L, Schnabel RB, Svennberg E, Lip GYH. Eur Heart J. 2024 May 21;45(19):1701-1715. First six authors and order match; the long title matches verbatim; journal abbreviation \"Eur Heart J\", year 2024, volume 45, issue 19, pages 1701-15 and DOI all correct. (Crossref shows an online-first date of 2024-04-30 and a print issue date of 2024-05-21; citing the print year 2024 with vol 45(19) is correct.)",
+  "citedAs": "Ntaios G, Baumgartner H, Doehner W, Donal E, Edvardsen T, Healey JS, et al. Embolic strokes of undetermined source: a clinical consensus statement of the ESC Council on Stroke, the European Association of Cardiovascular Imaging and the European Heart Rhythm Association of the ESC. Eur Heart J. 2024;45(19):1701-15. doi:10.1093/eurheartj/ehae150.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 38,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 38324415 and Crossref (DOI 10.1001/jama.2023.27188): Kamel H, Longstreth WT Jr, Tirschwell DL, Kronmal RA, Marshall RS, Broderick JP, et al; ARCADIA Investigators. \"Apixaban to Prevent Recurrence After Cryptogenic Stroke in Patients With Atrial Cardiopathy: The ARCADIA Randomized Clinical Trial.\" JAMA. 2024 Feb 20;331(7):573-581. First six authors and order match, including the \"Longstreth WT Jr\" suffix; journal, year, volume 331, issue 7 and full page range 573-81 confirmed by PubMed's PG field (Crossref lists only the first page 573). DOI resolves. Note the DOI year (2023) differs from the publication year (2024) — this is normal for JAMA and not an error.",
+  "citedAs": "Kamel H, Longstreth WT Jr, Tirschwell DL, Kronmal RA, Marshall RS, Broderick JP, et al. Apixaban to prevent recurrence after cryptogenic stroke in patients with atrial cardiopathy: the ARCADIA randomized clinical trial. JAMA. 2024;331(7):573-81. doi:10.1001/jama.2023.27188.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 39,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 7048128 and Crossref (DOI 10.1212/WNL.32.8.871): Fisher CM. \"Lacunar strokes and infarcts: a review.\" Neurology. 1982 Aug;32(8):871-6. Sole author, title, journal, year, volume 32, issue 8 all match; PubMed PG field confirms 871-6 (Crossref's \"871-871\" is a truncated deposit, not a discrepancy). DOI resolves.",
+  "citedAs": "Fisher CM. Lacunar strokes and infarcts: a review. Neurology. 1982;32(8):871-6. doi:10.1212/WNL.32.8.871.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 110,
+  "status": "major_error",
+  "problem": "The bibliographic details are accurate (the file exists on Wikimedia Commons, uploader \"Mme Mim\", uploaded 1 September 2012, CC BY-SA 3.0, URL resolves), but the source is not acceptable as an academic reference in a doctoral monograph. Three reasons: (1) it is an anonymous pseudonymous upload with no identifiable author, no editorial oversight and no peer review; (2) it is mutable and non-archival — Commons files can be edited, renamed or deleted, so the citation is not stable; (3) the file page is internally inconsistent about provenance — the source field claims \"Own work\" while the description says the diagram derives from a vascular ultrasound reference text, meaning the actual intellectual source of the NASCET/ECST figure is undisclosed and the CC BY-SA licence claim may not be sound. A thesis defence committee can reasonably object to a Wikimedia image as the sole authority for a definitional measurement method. Recommendation: replace it with the primary peer-reviewed methods paper (given in correctCitation), which is the original source of the NASCET/ECST/CC measurement comparison; if a reusable figure is needed, the monograph already cites an open-access alternative at ref 111 (Saba L, et al. Life (Basel). 2024;14(1):73, PMID 38255688, CC BY), whose figures illustrate NASCET vs ECST denominators and may be reproduced with attribution.",
+  "evidence": "Wikimedia Commons file page https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png fetched directly — confirms file exists, Author field \"Mme Mim\", Date field \"1 September 2012\", licence CC BY-SA 3.0, source field \"Own work\" despite a description referencing a vascular ultrasound text. Substitute verified in PubMed PMID 7974586 and Crossref DOI 10.1161/01.STR.25.12.2435: Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Stroke. 1994 Dec;25(12):2435-9. Backup substitute verified in PubMed PMID 38255688 / Crossref DOI 10.3390/life14010073: Saba L, Scicolone R, Johansson E, Nardi V, Lanzino G, Kakkos SK, et al. Life (Basel). 2024;14(1):73.",
+  "citedAs": "Mme Mim. NASCET and ECST [Internet]. Wikimedia Commons; 2012 [truy cập ngày 26/8/2026]. Available from: https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png",
+  "correctCitation": "Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.STR.25.12.2435."
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "evidence": "Decision number and date are both correct. Confirmed that Quyết định số 3312/QĐ-BYT was signed on 05/11/2024 by the Bộ trưởng Bộ Y tế, issuing the tài liệu chuyên môn \"Hướng dẫn chẩn đoán và điều trị đột quỵ não\". Verified against the Bệnh viện C Đà Nẵng posting of the decision (https://bvcdn.org.vn/quyet-dinh-3312-qd-byt-ngay-05-11-2024-cua-bo-y-te-ve-viec-ban-hanh-tai-lieu-chuyen-mon-huong-dan-chan-doan-va-dieu-tri-dot-quy-nao/), which reproduces the number, date, issuing body and document title verbatim, and cross-checked against the legal databases thuvienphapluat.vn (record 651734) and luatvietnam.vn (record 397568), which carry the same number, date and title. The decision takes effect on signature and replaces Quyết định số 5331/QĐ-BYT ngày 23/12/2020. Optional improvement: the monograph may wish to add the superseded decision or a page range, but nothing in the citation as written is wrong.",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 66,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 24963567 and Crossref both give: Sanna T, Diener HC, Passman RS, Di Lazzaro V, Bernstein RA, Morillo CA, et al. \"Cryptogenic stroke and underlying atrial fibrillation\" (CRYSTAL AF). N Engl J Med. 2014;370(26):2478-86. DOI 10.1056/NEJMoa1313600 resolves to nejm.org (HTTP 302). All six named authors match the published byline in order; 13 authors total, so \"et al.\" after six is correct Vancouver.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 67,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 24963566 and Crossref: Gladstone DJ, Spring M, Dorian P, Panzov V, Thorpe KE, Hall J, et al. \"Atrial fibrillation in patients with cryptogenic stroke\" (EMBRACE). N Engl J Med. 2014;370(26):2467-77. DOI 10.1056/NEJMoa1311376 resolves to nejm.org. Author order, year, volume, issue and pages all match exactly.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 68,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 34061145: Bernstein RA, Kamel H, Granger CB, Piccini JP, Sethi PP, Katz JM, et al. STROKE-AF randomized clinical trial. JAMA. 2021;325(21):2169-2177 (correctly abbreviated 2169-77). DOI 10.1001/jama.2021.6470 resolves to jamanetwork.com/journals/jama/fullarticle/2780490. Title, subtitle, author order and all numeric fields match.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 69,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 32361086 and Crossref: Mariani JA, Weerasooriya R, van den Brink O, Mohamed U, Gould PA, Pathak RK, et al. BIOMONITOR III paper. J Electrocardiol. 2020;60:118-125 (no issue number in the source record, matching the citation). DOI 10.1016/j.jelectrocard.2020.04.004 resolves to Elsevier linkinghub (S0022073620301072). 17 authors total; first six match in order.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 70,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 38752755 and Crossref: Caso V, Turc G, Abdul-Rahim AH, Castro P, Hussain S, Lal A, et al. ESO guidelines on PFO after stroke. Eur Stroke J. 2024;9(4):800-834 (abbreviated 800-34). DOI 10.1177/23969873241247978 resolves to academic.oup.com/esj/article/9/4/800/8269146 (Eur Stroke J is now hosted by OUP). All fields match.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 71,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 16240340 and Crossref: Ay H, Furie KL, Singhal A, Smith WS, Sorensen AG, Koroshetz WJ. Ann Neurol. 2005;58(5):688-97. DOI 10.1002/ana.20617 resolves to onlinelibrary.wiley.com. Exactly six authors, all listed with no \"et al.\" — correct. All fields match.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 72,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 21899409 and Crossref: Chimowitz MI, Lynn MJ, Derdeyn CP, Turan TN, Fiorella D, Lane BF, et al. (SAMMPRIS). N Engl J Med. 2011;365(11):993-1003. DOI 10.1056/NEJMoa1105335 resolves to nejm.org. 26 authors total; the six named match the byline in order.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 73,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 37166022 and Crossref: GRACE-3, Acad Emerg Med. 2023;30(5):442-486 (abbreviated 442-86). DOI 10.1111/acem.14728 resolves to onlinelibrary.wiley.com. Journal, year, volume, issue, pages and title all correct. Note (not an error, no change needed): the published byline is indexed as \"Carpenter C\" and \"Marcolini E\" (no middle initials), whereas the monograph writes \"Carpenter CR\" and \"Marcolini EG\". These are the correct people (Christopher R. Carpenter, Evie G. Marcolini); strict Vancouver would use the initials exactly as published, so the author could optionally drop the added middle initials.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 74,
+  "status": "verified",
+  "problem": "",
+  "evidence": "This 2026-dated reference is genuine, not fabricated. Confirmed by three independent sources: (1) PubMed PMID 41389830 — Glavan M, Liu J, Sampaio Silva G, Nguyen TN, Zhou J, Sestan N, Kimberly WT, Sheth KN. \"Endovascular thrombectomy for acute stroke: evolving eligibility criteria and adjunct therapies.\" Lancet Neurol. 2026 Jan;25(1):61-76, publication type Review; (2) Crossref for DOI 10.1016/S1474-4422(25)00356-4 returns identical metadata with published-print 2026-01, volume 25, issue 1, pages 61-76; (3) the DOI resolves (HTTP 302) to Elsevier PII S1474442225003564, and the article is live at thelancet.com/journals/laneur/article/PIIS1474-4422(25)00356-4. Exactly 8 authors, so the six named + \"et al.\" is correct. Volume/issue/page are a real print issue, not a fake assigned to an ahead-of-print item.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 75,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 34985520 and Crossref: Shahjouei S, Li J, Koza E, Abedi V, [Vafaei] Sadr A, Chen Q, et al. JAMA Netw Open. 2022;5(1):e2136644. DOI 10.1001/jamanetworkopen.2021.36644 resolves to jamanetwork.com/journals/jamanetworkopen/fullarticle/2787633. Ten authors total; e-locator, volume, issue and year all match. Note (not an error): PubMed indexes the fifth author as \"Sadr AV\" (ForeName \"Alireza Vafaei\", surname \"Sadr\"); the monograph writes \"Vafaei Sadr A\". Same person — a surname-parsing variant, harmless but could be aligned to \"Sadr AV\" for consistency with PubMed.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 76,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 14744823 and Crossref: Coull AJ, Lovett JK, Rothwell PM. \"Population based study of early risk of stroke after transient ischaemic attack or minor stroke: implications for public education and organisation of services.\" BMJ. 2004;328(7435):326. The unusual legacy BMJ DOI 10.1136/bmj.37991.635266.44 is valid — it returns a full Crossref record and resolves (HTTP 302) to bmj.com/lookup/doi/10.1136/bmj.37991.635266.44. Three authors, all listed, correct order. Single-page citation \"326\" matches both PubMed MedlinePgn and Crossref.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 77,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 27209146 and Crossref: Rothwell PM, Algra A, Chen Z, Diener HC, Norrving B, Mehta Z. Lancet. 2016;388(10042):365-375 (abbreviated 365-75). DOI 10.1016/S0140-6736(16)30468-8 resolves to Elsevier PII S0140673616304688. Exactly six authors, all listed without \"et al.\" — correct. Title, year, volume, issue and pages all match.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 78,
+  "status": "verified",
+  "problem": "",
+  "evidence": "PubMed PMID 31424481 and Crossref: Pan Y, Elm JJ, Li H, Easton JD, Wang Y, Farrant M, et al. JAMA Neurol. 2019;76(12):1466-1473 (abbreviated 1466-73). DOI 10.1001/jamaneurol.2019.2531 resolves to jamanetwork.com/journals/jamaneurology/fullarticle/2748072. 14 authors total; first six match. The long title with the CHANCE and POINT expansions matches the published title exactly.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 110,
+  "status": "major_error",
+  "problem": "The file itself is real and the citation metadata is accurate (Wikimedia Commons, File:NASCET_and_ECST.png, uploader \"Mme Mim\", created 1 Sep 2012 / uploaded 2 Sep 2012, CC BY-SA 3.0), but the SOURCE is not acceptable in a doctoral monograph. It is an anonymous, pseudonymous, user-generated image with no peer review, no editorial oversight, no stated provenance for the measurement conventions it depicts, and no guarantee of persistence or version stability (Commons files can be overwritten or deleted). Wikipedia/Wikimedia content is excluded by essentially all thesis and journal reference standards. The CC BY-SA 3.0 licence also imposes attribution and share-alike obligations that are awkward for a printed monograph. It should be replaced with a peer-reviewed source, and any figure should be redrawn by the author from that source.",
+  "evidence": "Fetched https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png — file exists; author field \"Mme Mim\"; date 1 September 2012; licence CC BY-SA 3.0; depicts carotid stenosis grading by the NASCET and ECST conventions. Substitute verified on PubMed: PMID 7974586, Stroke 1994;25(12):2435-9, DOI 10.1161/01.STR.25.12.2435 — this is the canonical peer-reviewed paper that defines and diagrams the NASCET vs ECST (vs common-carotid) measurement methods on 1001 angiograms and gives the conversion equation (ECST% = 0.6 x NASCET% + 40).",
+  "correctCitation": "Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.STR.25.12.2435. [Alternative already present in this bibliography: ref 111, Saba L, Scicolone R, Johansson E, et al. Quantifying carotid stenosis: history, current applications, limitations, and potential. Life (Basel). 2024;14(1):73. doi:10.3390/life14010073 — includes an open-access NASCET/ECST measurement figure that is freely reusable under CC BY. The ESVS 2023 guideline, ref 114, also diagrams both conventions.]"
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "evidence": "Decision number and date are both correct. Quyet dinh so 3312/QD-BYT was signed on 05/11/2024 by the Minister of Health, issuing the professional document \"Huong dan chan doan va dieu tri dot quy nao\". Confirmed on thuvienphapluat.vn (van ban 651734), luatvietnam.vn (397568-d1), and the full PDF of the decision hosted by Benh vien C Da Nang at https://bvcdn.org.vn/wp-content/uploads/2024/12/QD-3312.pdf. The decision takes effect from the date of signing and replaces Quyet dinh 5331/QD-BYT dated 23/12/2020. Suggestion only: for a legal instrument, consider adding the issuing-city/publisher detail already present and, if the monograph cites specific pages of the guideline, the relevant section numbers.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 53,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Gao Y, Chen W, Pan Y, Jing J, Wang C, Johnston SC, et al. Dual antiplatelet treatment up to 72 hours after ischemic stroke. N Engl J Med. 2023;389(26):2413-24. doi:10.1056/NEJMoa2309137.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 38157499. MEDLINE record: TI 'Dual Antiplatelet Treatment up to 72 Hours after Ischemic Stroke.'; TA 'N Engl J Med'; VI 389; IP 26; DP 2023 Dec 28; PG 2413-2424; LID/AID 10.1056/NEJMoa2309137 [doi]. First six FAU/AU entries are exactly Gao Y, Chen W, Pan Y, Jing J, Wang C, Johnston SC, in that order (INSPIRES trial). Abbreviated page range 2413-24 is correct Vancouver form for 2413-2424."
+ },
+ {
+  "refNumber": 54,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Powers WJ, Rabinstein AA, Ackerson T, Adeoye OM, Bambakidis NC, Becker K, et al. Guidelines for the early management of patients with acute ischemic stroke: 2019 update to the 2018 guidelines for the early management of acute ischemic stroke: a guideline for healthcare professionals from the American Heart Association/American Stroke Association. Stroke. 2019;50(12):e344-e418. doi:10.1161/STR.0000000000000211.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 31662037. MEDLINE: full title matches word for word ('Guidelines for the Early Management of Patients With Acute Ischemic Stroke: 2019 Update to the 2018 Guidelines for the Early Management of Acute Ischemic Stroke: A Guideline for Healthcare Professionals From the American Heart Association/American Stroke Association.'); TA 'Stroke'; VI 50; IP 12; DP 2019 Dec; PG e344-e418; AID 10.1161/STR.0000000000000211 [doi]. First six authors match in order."
+ },
+ {
+  "refNumber": 55,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Rothwell PM, Giles MF, Flossmann E, Lovelock CE, Redgrave JN, Warlow CP, et al. A simple score (ABCD) to identify individuals at high early risk of stroke after transient ischaemic attack. Lancet. 2005;366(9479):29-36. doi:10.1016/S0140-6736(05)66702-5.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 15993230. MEDLINE: title identical; TA 'Lancet'; VI 366; IP 9479; DP 2005 Jul 2-8; PG 29-36; AID 10.1016/S0140-6736(05)66702-5 [doi]. Full author list is Rothwell PM, Giles MF, Flossmann E, Lovelock CE, Redgrave JN, Warlow CP, Mehta Z (7 authors), so listing six followed by 'et al.' is correct Vancouver practice. PubMed's AU form 'Redgrave JN' matches (FAU is 'Redgrave, J N E')."
+ },
+ {
+  "refNumber": 56,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Sehatzadeh S. Is transient ischemic attack a medical emergency? An evidence-based analysis. Ont Health Technol Assess Ser. 2015;15(3):1-45.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 26355823 (PMC4558772). MEDLINE: TI 'Is Transient Ischemic Attack a Medical Emergency? An Evidence-Based Analysis.'; sole author FAU 'Sehatzadeh, S'; TA 'Ont Health Technol Assess Ser'; VI 15; IP 3; DP 2015 (SO line: 2015 Feb 1;15(3):1-45); PG 1-45. No DOI is assigned to this record, so the absence of a DOI in the citation is correct, not an omission."
+ },
+ {
+  "refNumber": 57,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Tsivgoulis G, Stamboulis E, Sharma VK, Heliopoulos I, Voumvourakis K, Teoh HL, et al. Multicenter external validation of the ABCD2 score in triaging TIA patients. Neurology. 2010;74(17):1351-7. doi:10.1212/WNL.0b013e3181dad63e.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 20421579. MEDLINE: title identical; TA 'Neurology'; VI 74; IP 17; DP 2010 Apr 27; PG 1351-7; AID 10.1212/WNL.0b013e3181dad63e [doi]. First six authors match exactly in order (Tsivgoulis G, Stamboulis E, Sharma VK, Heliopoulos I, Voumvourakis K, Teoh HL)."
+ },
+ {
+  "refNumber": 58,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Perry JJ, Sivilotti MLA, Émond M, Stiell IG, Stotts G, Lee J, et al. Prospective validation of Canadian TIA Score and comparison with ABCD2 and ABCD2i for subsequent stroke risk after transient ischaemic attack: multicentre prospective cohort study. BMJ. 2021;372:n49. doi:10.1136/bmj.n49.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 33541890. MEDLINE: full title identical; TA 'BMJ'; VI 372; no issue number (correct — BMJ is cited by volume plus article ID); PG n49; LID/AID 10.1136/bmj.n49 [doi]; DP 2021 Feb 4. First six authors match in order. PubMed strips the diacritic and renders 'Emond M'; the monograph's 'Émond M' is the author's true name (Marcel Émond) and is not an error."
+ },
+ {
+  "refNumber": 59,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Khatri P, Kleindorfer DO, Devlin T, Sawyer RN Jr, Starr M, Mejilla J, et al. Effect of alteplase vs aspirin on functional outcome for patients with acute ischemic stroke and minor nondisabling neurologic deficits: the PRISMS randomized clinical trial. JAMA. 2018;320(2):156-66. doi:10.1001/jama.2018.8496.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 29998337. MEDLINE: title identical including the 'PRISMS Randomized Clinical Trial' subtitle; TA 'JAMA'; VI 320; IP 2; DP 2018 Jul 10; PG 156-166; AID 10.1001/jama.2018.8496 [doi]. First six authors match exactly, including the 'Sawyer RN Jr' suffix. Abbreviated range 156-66 is correct Vancouver form."
+ },
+ {
+  "refNumber": 60,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Coutts SB, Ankolekar S, Appireddy R, Arenillas JF, Assis Z, Bailey P, et al. Tenecteplase versus standard of care for minor ischaemic stroke with proven occlusion (TEMPO-2): a randomised, open label, phase 3 superiority trial. Lancet. 2024;403(10444):2597-605. doi:10.1016/S0140-6736(24)00921-8.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 38768626. MEDLINE: full title identical; TA 'Lancet'; VI 403; IP 10444; DP 2024 Jun 15; PG 2597-2605; AID 10.1016/S0140-6736(24)00921-8 [doi]. First six of the 62 listed authors match exactly in order (Coutts SB, Ankolekar S, Appireddy R, Arenillas JF, Assis Z, Bailey P). DOI resolves (HTTP 302) to linkinghub.elsevier.com/retrieve/pii/S0140673624009218."
+ },
+ {
+  "refNumber": 61,
+  "status": "minor_error",
+  "problem": "Article title is incomplete: the subtitle is omitted. PubMed's title is 'Imaging recommendations for acute stroke and transient ischemic attack patients: a joint statement by the American Society of Neuroradiology, the American College of Radiology and the Society of NeuroInterventional Surgery.' The monograph stops after '...patients', dropping the joint-statement subtitle. All other fields (authors, journal, year, volume, issue, pages, DOI) are correct.",
+  "citedAs": "Wintermark M, Sanelli PC, Albers GW, Bello JA, Derdeyn CP, Hetts SW, et al. Imaging recommendations for acute stroke and transient ischemic attack patients. J Am Coll Radiol. 2013;10(11):828-32. doi:10.1016/j.jacr.2013.06.019.",
+  "correctCitation": "Wintermark M, Sanelli PC, Albers GW, Bello JA, Derdeyn CP, Hetts SW, et al. Imaging recommendations for acute stroke and transient ischemic attack patients: a joint statement by the American Society of Neuroradiology, the American College of Radiology and the Society of NeuroInterventional Surgery. J Am Coll Radiol. 2013;10(11):828-32. doi:10.1016/j.jacr.2013.06.019.",
+  "evidence": "PubMed PMID 23948676. MEDLINE: TA 'J Am Coll Radiol'; VI 10; IP 11; DP 2013 Nov; PG 828-32; AID 10.1016/j.jacr.2013.06.019 [doi]. First six of 15 authors match exactly in order. DOI resolves (302) to linkinghub.elsevier.com/retrieve/pii/S1546144013003931."
+ },
+ {
+  "refNumber": 62,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Brazzelli M, Sandercock PA, Chappell FM, Celani MG, Righetti E, Arestis N, et al. Magnetic resonance imaging versus computed tomography for detection of acute vascular lesions in patients presenting with stroke symptoms. Cochrane Database Syst Rev. 2009;(4):CD007424. doi:10.1002/14651858.CD007424.pub2.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 19821415. MEDLINE: title identical; TA 'Cochrane Database Syst Rev'; VI 2009; IP 4; DP 2009 Oct 7; PG CD007424; LID/AID 10.1002/14651858.CD007424.pub2 [doi]. Full author list is Brazzelli M, Sandercock PA, Chappell FM, Celani MG, Righetti E, Arestis N, Wardlaw JM, Deeks JJ, so the first six plus 'et al.' is correct. The '2009;(4)' form (volume omitted, issue in parentheses) is the classic Cochrane Vancouver style; PubMed's own volume field is also 2009, so '2009;2009(4):CD007424' would be an equally valid rendering. Not an error."
+ },
+ {
+  "refNumber": 63,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Sorensen AG, Ay H. Transient ischemic attack: definition, diagnosis, and risk stratification. Neuroimaging Clin N Am. 2011;21(2):303-13. doi:10.1016/j.nic.2011.01.013.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 21640301. MEDLINE: TI 'Transient ischemic attack: definition, diagnosis, and risk stratification.'; authors exactly Sorensen AG, Ay H (only two, so no 'et al.' is correct); TA 'Neuroimaging Clin N Am'; VI 21; IP 2; DP 2011 May; PG '303-13, x'; AID 10.1016/j.nic.2011.01.013 [doi]. The trailing ', x' in PubMed is the roman-numeral issue index page; citing 303-13 is standard and correct."
+ },
+ {
+  "refNumber": 64,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Adla T, Adlova R. Multimodality imaging of carotid stenosis. Int J Angiol. 2015;24(3):179-84. doi:10.1055/s-0035-1556056.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 26417185. MEDLINE: TI 'Multimodality Imaging of Carotid Stenosis.'; authors exactly Adla T, Adlova R; TA 'Int J Angiol'; VI 24; IP 3; DP 2015 Sep; PG 179-84; LID/AID 10.1055/s-0035-1556056 [doi]. DOI resolves (302) to thieme-connect.de/DOI/DOI?10.1055/s-0035-1556056."
+ },
+ {
+  "refNumber": 65,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Menon BK, d'Esterre CD, Qazi EM, Almekhlafi M, Hahn L, Demchuk AM, et al. Multiphase CT angiography: a new tool for the imaging triage of patients with acute ischemic stroke. Radiology. 2015;275(2):510-20. doi:10.1148/radiol.15142256.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 25633505. MEDLINE: TI 'Multiphase CT Angiography: A New Tool for the Imaging Triage of Patients with Acute Ischemic Stroke.'; TA 'Radiology'; VI 275; IP 2; DP 2015 May; PG 510-20; AID 10.1148/radiol.15142256 [doi]. Full author list is Menon BK, d'Esterre CD, Qazi EM, Almekhlafi M, Hahn L, Demchuk AM, Goyal M (7 authors), so six plus 'et al.' is correct. DOI resolves (302) to pubs.rsna.org/doi/10.1148/radiol.15142256."
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "correctCitation": "",
+  "evidence": "Decision number and date are both correct. Confirmed on luatvietnam.vn (record 397568) and thuvienphapluat.vn (record 651734), and by the official PDF hosted at bvcdn.org.vn/wp-content/uploads/2024/12/QD-3312.pdf: Quyết định số 3312/QĐ-BYT, ngày ban hành 05/11/2024, cơ quan ban hành Bộ Y tế, signed by Thứ trưởng Trần Văn Thuấn, 'Về việc ban hành tài liệu chuyên môn \"Hướng dẫn chẩn đoán và điều trị đột quỵ não\"'. It takes effect on signature and replaces Quyết định số 5331/QĐ-BYT ngày 23/12/2020. Optional improvement only: adding the URL of the official PDF would help readers locate it, but nothing in the citation as written is wrong."
+ },
+ {
+  "refNumber": 110,
+  "status": "major_error",
+  "problem": "The bibliographic details are accurate — the file genuinely exists — but the source itself is not admissible in a doctoral monograph and should be replaced. Three separate objections: (1) it is user-generated content on Wikimedia Commons with no peer review, no editorial oversight, and no stable version of record; (2) the 'author' is the pseudonymous account 'Mme Mim', so no identifiable, accountable author exists — a pseudonym cannot occupy the author position in a Vancouver reference in a thesis; (3) the file's own description states it was redrawn from A. Thrush, Vascular Ultrasound, 2011, p. 101, meaning the monograph is citing an uncredited derivative rather than the primary source, which is both a scholarly and an attribution problem. Note also that the CC BY-SA 3.0 licence is share-alike, which is awkward for a print monograph and for any later commercial publication.",
+  "citedAs": "Mme Mim. NASCET and ECST [Internet]. Wikimedia Commons; 2012 [truy cập ngày 26/8/2026]. Available from: https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png",
+  "correctCitation": "Preferred substitute (peer-reviewed, open access CC BY 4.0, contains a purpose-built NASCET-vs-ECST diagram that may be reproduced with attribution) — this is already reference 111 in the same list, so the figure can simply be attributed to it and reference 110 deleted: Saba L, Scicolone R, Johansson E, Nardi V, Lanzino G, Kakkos SK, et al. Quantifying carotid stenosis: history, current applications, limitations, and potential: how imaging is changing the scenario. Life (Basel). 2024;14(1):73. doi:10.3390/life14010073. [Figure 1: 'Schematic representation of ICA stenosis, illustrating NASCET and ECST measurement methods.'] || Alternative / additional primary source, the canonical peer-reviewed comparison of the two measurement methods: Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.STR.25.12.2435.",
+  "evidence": "Wikimedia Commons file page confirmed to exist: File:NASCET and ECST.png, uploaded 1-2 September 2012 by user 'Mme Mim', licence CC BY-SA 3.0 Unported, description 'carotid artery stenosis grades according NASCET and ECST, A. Thrush Vascular ultrasound, 2011, page 101'. Access date 26/8/2026 is consistent with today (29/8/2026). Substitutes verified: Saba 2024 — PMC10821425, DOI resolves (302) to mdpi.com/2075-1729/14/1/73, Figure 1 caption confirmed via PMC, CC BY 4.0. Rothwell 1994 — PubMed PMID 7974586, MEDLINE VI 25, IP 12, DP 1994 Dec, PG 2435-9, AID 10.1161/01.str.25.12.2435 [doi], authors Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP; abstract explicitly compares ECST, NASCET and common-carotid methods; DOI resolves (302) to ahajournals.org."
+ },
+ {
+  "refNumber": 79,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Wang Y, Zhao X, Lin J, Li H, Johnston SC, Lin Y, et al. Association between CYP2C19 loss-of-function allele status and efficacy of clopidogrel for risk reduction among patients with minor stroke or transient ischemic attack. JAMA. 2016;316(1):70-8. doi:10.1001/jama.2016.8662.",
+  "evidence": "PubMed PMID 27348249 (DOI lookup 10.1001/jama.2016.8662 -> exact match): JAMA 2016 Jul 5;316(1):70-8; authors Wang Y, Zhao X, Lin J, Li H, Johnston SC, Lin Y, Pan Y, Liu L ... (14 total) - cited first six and their order match exactly. Crossref record for the DOI confirms JAMA, vol 316, issue 1, first page 70, issued 2016-07-05.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 80,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Mega JL, Simon T, Collet JP, Anderson JL, Antman EM, Bliden K, et al. Reduced-function CYP2C19 genotype and risk of adverse clinical outcomes among patients treated with clopidogrel predominantly for PCI: a meta-analysis. JAMA. 2010;304(16):1821-30. doi:10.1001/jama.2010.1543.",
+  "evidence": "PubMed PMID 20978260 (found via DOI 10.1001/jama.2010.1543): JAMA 2010 Oct 27;304(16):1821-30; authors Mega JL, Simon T, Collet JP, Anderson JL, Antman EM, Bliden K, Cannon CP, Danchin N ... (21 total). Title, journal abbreviation, year, volume, issue and pages all match. Crossref confirms vol 304, issue 16, first page 1821.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 81,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Holmes DR Jr, Dehmer GJ, Kaul S, Leifer D, O'Gara PT, Stein CM. ACCF/AHA clopidogrel clinical alert: approaches to the FDA \"boxed warning\"... Circulation. 2010;122(5):537-57. doi:10.1161/CIR.0b013e3181ee08ed.",
+  "evidence": "PubMed PMID 20585015 and Crossref (DOI 10.1161/CIR.0b013e3181ee08ed): Circulation 2010 Aug 3;122(5):537-57. The six named authors (Holmes DR Jr, Dehmer GJ, Kaul S, Leifer D, O'Gara PT, Stein CM) match the journal byline and their order. Note only, not an error: PubMed/Crossref additionally index corporate authors (SCAI, STS, 'Writing Committee Members') ahead of the individuals, and the same document was co-published in J Am Coll Cardiol 2010;56(4):321-41 - the Circulation citation given is a valid and complete one.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 82,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Lee CR, Luzum JA, Sangkuhl K, Gammal RS, Sabatine MS, Stein CM, et al. Clinical Pharmacogenetics Implementation Consortium guideline for CYP2C19 genotype and clopidogrel therapy: 2022 update. Clin Pharmacol Ther. 2022;112(5):959-67. doi:10.1002/cpt.2526.",
+  "evidence": "PubMed PMID 35034351 (DOI 10.1002/cpt.2526): Clin Pharmacol Ther 2022 Nov;112(5):959-967; authors Lee CR, Luzum JA, Sangkuhl K, Gammal RS, Sabatine MS, Stein CM, Kisor DF, Limdi NA ... (17 total). Crossref confirms vol 112, issue 5, pages 959-967 (online-first 2022-02-08, print issue Nov 2022 - the cited year 2022 is correct either way).",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 83,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Wang Y, Johnston SC, Bath PM, Meng X, Jing J, Xie X, et al. Clopidogrel with aspirin in high-risk patients with acute non-disabling cerebrovascular events II (CHANCE-2): rationale and design of a multicentre randomised trial. Stroke Vasc Neurol. 2021;6(2):280-5. doi:10.1136/svn-2020-000791.",
+  "evidence": "PubMed PMID 33952670 and Crossref (DOI 10.1136/svn-2020-000791): Stroke Vasc Neurol 2021 Jun;6(2):280-285; title matches verbatim (journal capitalises the acronym-forming words: 'Clopidogrel with aspirin in High-risk patients with Acute Non-disabling Cerebrovascular Events II'). Author order matches. Only indexing quirk: PubMed/Crossref render the second author as 'Johnston C' / 'Claiborne Johnston'; 'Johnston SC' (S. Claiborne Johnston) as cited is the conventional and correct form.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 84,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "CAPRIE Steering Committee. A randomised, blinded, trial of clopidogrel versus aspirin in patients at risk of ischaemic events (CAPRIE). Lancet. 1996;348(9038):1329-39. doi:10.1016/S0140-6736(96)09457-3.",
+  "evidence": "PubMed PMID 8918275: Lancet 1996 Nov 16;348(9038):1329-39, corporate author 'CAPRIE Steering Committee'. Crossref resolves DOI 10.1016/S0140-6736(96)09457-3 to the same article, vol 348, issue 9038, pages 1329-1339. All fields correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 85,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Dawson J, Béjot Y, Christensen LM, De Marchis GM, Dichgans M, Hagberg G, et al. European Stroke Organisation (ESO) guideline on pharmacological interventions for long-term secondary prevention after ischaemic stroke or transient ischaemic attack. Eur Stroke J. 2022;7(3):I-XLI. doi:10.1177/23969873221100032.",
+  "evidence": "Crossref (DOI 10.1177/23969873221100032): European Stroke Journal, vol 7, issue 3, pages I-XLI, issued 2022-09-01; authors Dawson J, Béjot Y, Christensen LM, De Marchis GM, Dichgans M, Hagberg G, Heldner MR, Milionis H ... (13 total). PubMed (PMID 36082250) truncates the roman-numeral pagination to 'I-II', but the publisher/Crossref record confirms the cited I-XLI is the correct full page range.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 86,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Amarenco P, Bogousslavsky J, Callahan A 3rd, Goldstein LB, Hennerici M, Rudolph AE, et al. High-dose atorvastatin after stroke or transient ischemic attack. N Engl J Med. 2006;355(6):549-59. doi:10.1056/NEJMoa061894.",
+  "evidence": "PubMed PMID 16899775 (DOI lookup 10.1056/NEJMoa061894): N Engl J Med 2006 Aug 10;355(6):549-59; authors Amarenco P, Bogousslavsky J, Callahan A 3rd, Goldstein LB, Hennerici M, Rudolph AE, Sillesen H, Simunovic L ... (12 total, SPARCL investigators). Crossref confirms vol 355, issue 6, pages 549-559.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 87,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Amarenco P, Kim JS, Labreuche J, Charles H, Abtan J, Béjot Y, et al. A comparison of two LDL cholesterol targets after ischemic stroke. N Engl J Med. 2020;382(1):9-19. doi:10.1056/NEJMoa1910355.",
+  "evidence": "PubMed PMID 31738483 and Crossref (DOI 10.1056/NEJMoa1910355): N Engl J Med 2020 Jan 2;382(1):9-19 (PubMed shows only the first page '9'; Crossref gives the full range 9-19, matching the citation). Authors Amarenco P, Kim JS, Labreuche J, Charles H, Abtan J, Béjot Y ... (33 total, Treat Stroke to Target). All fields correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 88,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Cannon CP, Blazing MA, Giugliano RP, McCagg A, White JA, Theroux P, et al. Ezetimibe added to statin therapy after acute coronary syndromes. N Engl J Med. 2015;372(25):2387-97. doi:10.1056/NEJMoa1410489.",
+  "evidence": "PubMed PMID 26039521 (DOI 10.1056/NEJMoa1410489): N Engl J Med 2015 Jun 18;372(25):2387-97; authors Cannon CP, Blazing MA, Giugliano RP, McCagg A, White JA, Theroux P, Darius H, Lewis BS ... (22 total, IMPROVE-IT). Crossref confirms vol 372, issue 25, pages 2387-2397.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 89,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Sabatine MS, Giugliano RP, Keech AC, Honarpour N, Wiviott SD, Murphy SA, et al. Evolocumab and clinical outcomes in patients with cardiovascular disease. N Engl J Med. 2017;376(18):1713-22. doi:10.1056/NEJMoa1615664.",
+  "evidence": "PubMed PMID 28304224 (DOI 10.1056/NEJMoa1615664): N Engl J Med 2017 May 4;376(18):1713-1722; authors Sabatine MS, Giugliano RP, Keech AC, Honarpour N, Wiviott SD, Murphy SA, Kuder JF, Wang H ... (13 total, FOURIER). Crossref agrees. Cited page form 1713-22 is correct Vancouver contraction of 1713-1722.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 90,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Schwartz GG, Steg PG, Szarek M, Bhatt DL, Bittner VA, Diaz R, et al. Alirocumab and cardiovascular outcomes after acute coronary syndrome. N Engl J Med. 2018;379(22):2097-107. doi:10.1056/NEJMoa1801174.",
+  "evidence": "PubMed PMID 30403574 (DOI 10.1056/NEJMoa1801174): N Engl J Med 2018 Nov 29;379(22):2097-2107; authors Schwartz GG, Steg PG, Szarek M, Bhatt DL, Bittner VA, Diaz R, Edelberg JM, Goodman SG ... (23 total, ODYSSEY OUTCOMES). Crossref agrees on volume 379, issue 22, pages 2097-2107.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 91,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Ray KK, Wright RS, Kallend D, Koenig W, Leiter LA, Raal FJ, et al. Two phase 3 trials of inclisiran in patients with elevated LDL cholesterol. N Engl J Med. 2020;382(16):1507-19. doi:10.1056/NEJMoa1912387.",
+  "evidence": "PubMed PMID 32187462 (DOI 10.1056/NEJMoa1912387): N Engl J Med 2020 Apr 16;382(16):1507-1519; authors Ray KK, Wright RS, Kallend D, Koenig W, Leiter LA, Raal FJ, Bisch JA, Richardson T ... (12 total, ORION-10/ORION-11). Crossref agrees. All fields correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 110,
+  "status": "major_error",
+  "problem": "The file itself is real and the bibliographic details are accurate (Wikimedia Commons File:NASCET_and_ECST.png, uploaded 2 Sep 2012 by user 'Mme Mim', own work, CC BY-SA 3.0), but the SOURCE TYPE is not acceptable in a doctoral monograph: it is an anonymous pseudonymous, non-peer-reviewed, editable and deletable user-generated image with no editorial oversight and no stable version identifier. Worse, the Commons file description states it was drawn from 'A. Thrush, Vascular ultrasound, 2011, page 101', so citing the Commons page conceals the real (textbook) source and creates an attribution/derivative-rights problem if the figure is reproduced. Also stylistically off: the access date '26/8/2026' should be given in Vancouver form (e.g. [cited 2026 Aug 26]), and if the image is reproduced in the thesis the CC BY-SA 3.0 licence must be stated. Recommendation: replace with a peer-reviewed source for NASCET vs ECST measurement; if a figure is needed, redraw it and cite the peer-reviewed original.",
+  "evidence": "Wikimedia Commons API (action=query, titles=File:NASCET and ECST.png): pageid 21016678, timestamp 2012-09-02T08:57:34Z, user 'Mme Mim', credit 'Own work', licence CC BY-SA 3.0, ImageDescription 'carotid artery stenosis grades according NASCET and ECST, A. Thrush Vascular ultrasound, 2011, page 101'. Substitute verified in PubMed (PMID 7974586) and Crossref (DOI 10.1161/01.STR.25.12.2435 resolves: Stroke, vol 25, issue 12, pages 2435-2439, Dec 1994) - this is the definitive paper containing the NASCET/ECST/common-carotid measurement diagram and the conversion equation ECST% = 0.6 x NASCET% + 40. A second, already-cited alternative in the same list is ref 111 (Saba L, et al. Life (Basel). 2024;14(1):73; doi:10.3390/life14010073 confirmed on Crossref), an open-access peer-reviewed review whose figures show NASCET vs ECST vs CC measurement; the ESVS 2023 guideline (ref 114) also carries such a figure.",
+  "correctCitation": "Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.STR.25.12.2435."
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "evidence": "Decision number and date confirmed: Quyết định 3312/QĐ-BYT dated 05/11/2024 of the Minister of Health promulgating the professional document 'Hướng dẫn chẩn đoán và điều trị đột quỵ não' - corroborated by thuvienphapluat.vn (van ban 651734), luatvietnam.vn (397568), nhansu.vn and the official posting by Bệnh viện C Đà Nẵng (bvcdn.org.vn), all giving the same number, date and title. The decision takes effect on signing and replaces Quyết định 5331/QĐ-BYT dated 23/12/2020; it contains the chapter on mild stroke and transient ischaemic attack relevant to this monograph. Optional improvement: add the issuing-decision effective note or a URL/access date, but the number, date, title and year as cited are correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 92,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Nissen SE, Lincoff AM, Brennan D, Ray KK, Mason D, Kastelein JJP, et al. Bempedoic acid and cardiovascular outcomes in statin-intolerant patients. N Engl J Med. 2023;388(15):1353-64. doi:10.1056/NEJMoa2215024.",
+  "evidence": "PubMed PMID 36876740 (E-utilities efetch): N Engl J Med 2023;388(15):1353-1364, DOI 10.1056/NEJMoa2215024. First six authors on PubMed are Nissen SE; Lincoff AM; Brennan D; Ray KK; Mason D; Kastelein JJP (30 authors total + CLEAR Outcomes Investigators), so 'et al.' after six is correct. Journal abbreviation matches NLM ISOAbbreviation 'N Engl J Med'.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 93,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Connolly SJ, Ezekowitz MD, Yusuf S, Eikelboom J, Oldgren J, Parekh A, et al. Dabigatran versus warfarin in patients with atrial fibrillation. N Engl J Med. 2009;361(12):1139-51. doi:10.1056/NEJMoa0905561.",
+  "evidence": "PubMed PMID 19717844: N Engl J Med 2009;361(12):1139-51, DOI 10.1056/NEJMoa0905561 (RE-LY). Author order Connolly SJ; Ezekowitz MD; Yusuf S; Eikelboom J; Oldgren J; Parekh A matches exactly (21 authors + RE-LY Steering Committee and Investigators).",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 94,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Patel MR, Mahaffey KW, Garg J, Pan G, Singer DE, Hacke W, et al. Rivaroxaban versus warfarin in nonvalvular atrial fibrillation. N Engl J Med. 2011;365(10):883-91. doi:10.1056/NEJMoa1009638.",
+  "evidence": "PubMed PMID 21830957: N Engl J Med 2011;365(10):883-91, DOI 10.1056/NEJMoa1009638 (ROCKET AF). First six authors Patel MR; Mahaffey KW; Garg J; Pan G; Singer DE; Hacke W match exactly (17 authors + ROCKET AF Investigators).",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 95,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Granger CB, Alexander JH, McMurray JJ, Lopes RD, Hylek EM, Hanna M, et al. Apixaban versus warfarin in patients with atrial fibrillation. N Engl J Med. 2011;365(11):981-92. doi:10.1056/NEJMoa1107039.",
+  "evidence": "PubMed PMID 21870978: N Engl J Med 2011;365(11):981-92, DOI 10.1056/NEJMoa1107039 (ARISTOTLE). First six authors Granger CB; Alexander JH; McMurray JJ; Lopes RD; Hylek EM; Hanna M match exactly, including PubMed's initials form 'McMurray JJ' (33 authors + ARISTOTLE Committees and Investigators).",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 96,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Giugliano RP, Ruff CT, Braunwald E, Murphy SA, Wiviott SD, Halperin JL, et al. Edoxaban versus warfarin in patients with atrial fibrillation. N Engl J Med. 2013;369(22):2093-104. doi:10.1056/NEJMoa1310907.",
+  "evidence": "PubMed PMID 24251359: N Engl J Med 2013;369(22):2093-104, DOI 10.1056/NEJMoa1310907 (ENGAGE AF-TIMI 48). First six authors Giugliano RP; Ruff CT; Braunwald E; Murphy SA; Wiviott SD; Halperin JL match exactly (22 authors + ENGAGE AF-TIMI 48 Investigators).",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 97,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Ruff CT, Giugliano RP, Braunwald E, Hoffman EB, Deenadayalu N, Ezekowitz MD, et al. Comparison of the efficacy and safety of new oral anticoagulants with warfarin in patients with atrial fibrillation: a meta-analysis of randomised trials. Lancet. 2014;383(9921):955-62. doi:10.1016/S0140-6736(13)62343-0.",
+  "evidence": "PubMed PMID 24315724: Lancet 2014;383(9921):955-62, DOI 10.1016/S0140-6736(13)62343-0. Twelve named authors, first six Ruff CT; Giugliano RP; Braunwald E; Hoffman EB; Deenadayalu N; Ezekowitz MD match exactly, so 'et al.' is correct. Title (with British spelling 'randomised') matches.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 98,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Fischer U, Koga M, Strbian D, Branca M, Abend S, Trelle S, et al. Early versus later anticoagulation for stroke with atrial fibrillation. N Engl J Med. 2023;388(26):2411-21. doi:10.1056/NEJMoa2303048.",
+  "evidence": "PubMed PMID 37222476: N Engl J Med 2023;388(26):2411-2421, DOI 10.1056/NEJMoa2303048 (ELAN). First six authors Fischer U; Koga M; Strbian D; Branca M; Abend S; Trelle S match exactly (66 authors + ELAN Investigators).",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 99,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Werring DJ, Dehbi HM, Ahmed N, Arram L, Best JG, Balogun M, et al. Optimal timing of anticoagulation after acute ischaemic stroke with atrial fibrillation (OPTIMAS): a multicentre, blinded-endpoint, phase 4, randomised controlled trial. Lancet. 2024;404(10464):1731-41. doi:10.1016/S0140-6736(24)02197-4.",
+  "evidence": "PubMed PMID 39491870 confirms title, journal, year 2024 and DOI, but the PubMed record was created from the online-first version and carries no volume/issue/pages. Crossref (api.crossref.org/works/10.1016/S0140-6736(24)02197-4) supplies the print data and confirms them: The Lancet, volume 404, issue 10464, pages 1731-1741, published-print 2024-11. First six authors Werring David J; Dehbi Hakim-Moulay; Ahmed Norin; Arram Liz; Best Jonathan G; Balogun Maryam match the cited order exactly. All fields as cited are correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 100,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Oldgren J, Åsberg S, Hijazi Z, Wester P, Bertilsson M, Norrving B; National TIMING Collaborators. Early versus delayed non-vitamin K antagonist oral anticoagulant therapy after acute ischemic stroke in atrial fibrillation (TIMING): a registry-based randomized controlled noninferiority study. Circulation. 2022;146(14):1056-66. doi:10.1161/CIRCULATIONAHA.122.060666.",
+  "evidence": "PubMed PMID 36065821 (PMC9648987): Circulation 2022;146(14):1056-1066, DOI 10.1161/CIRCULATIONAHA.122.060666. Author list is exactly the six named authors Oldgren J; Åsberg S; Hijazi Z; Wester P; Bertilsson M; Norrving B plus collective name 'National TIMING Collaborators' — the semicolon-before-group-name form used in the citation is the correct Vancouver treatment, and the diacritic in Åsberg is right.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 101,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Dehbi HM, Fischer U, Åsberg S, Milling TJ, Abend S, Ahmed N, et al. Collaboration on the optimal timing of anticoagulation after ischaemic stroke and atrial fibrillation: a systematic review and prospective individual participant data meta-analysis of randomised controlled trials (CATALYST). Lancet. 2025;406(10498):43-51. doi:10.1016/S0140-6736(25)00439-8.",
+  "evidence": "This is the only 2025/2026-dated reference in the 92-104 range and it was given extra scrutiny; it is genuine and fully published, not ahead-of-print. Confirmed independently by two sources: PubMed PMID 40570866 gives Lancet 2025;406(10498):43-51 with DOI 10.1016/S0140-6736(25)00439-8, and Crossref resolution of that DOI returns The Lancet, volume 406, issue 10498, pages 43-51, published-print 2025-07. All 31 authors are indexed; the first six, Dehbi HM; Fischer U; Åsberg S; Milling TJ; Abend S; Ahmed N, match the cited order and spelling exactly (Åsberg diacritic correct). Journal, year, volume, issue and page range as cited are all correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 102,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Hart RG, Sharma M, Mundl H, Kasner SE, Bangdiwala SI, Berkowitz SD, et al. Rivaroxaban for stroke prevention after embolic stroke of undetermined source. N Engl J Med. 2018;378(23):2191-201. doi:10.1056/NEJMoa1802686.",
+  "evidence": "PubMed PMID 29766772: N Engl J Med 2018;378(23):2191-2201, DOI 10.1056/NEJMoa1802686 (NAVIGATE ESUS). First six authors Hart RG; Sharma M; Mundl H; Kasner SE; Bangdiwala SI; Berkowitz SD match exactly (50 authors + NAVIGATE ESUS Investigators).",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 103,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Diener HC, Sacco RL, Easton JD, Granger CB, Bernstein RA, Uchiyama S, et al. Dabigatran for prevention of stroke after embolic stroke of undetermined source. N Engl J Med. 2019;380(20):1906-17. doi:10.1056/NEJMoa1813959.",
+  "evidence": "PubMed PMID 31091372: N Engl J Med 2019;380(20):1906-1917, DOI 10.1056/NEJMoa1813959 (RE-SPECT ESUS). First six authors Diener HC; Sacco RL; Easton JD; Granger CB; Bernstein RA; Uchiyama S match exactly (26 authors + RE-SPECT ESUS Steering Committee and Investigators).",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 104,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Geisler T, Keller T, Martus P, Poli K, Serna-Higuita LM, Schreieck J, et al. Apixaban versus aspirin for embolic stroke of undetermined source. NEJM Evid. 2024;3(1):EVIDoa2300235. doi:10.1056/EVIDoa2300235.",
+  "evidence": "PubMed PMID 38320511: NEJM Evid 2024;3(1), article/pagination EVIDoa2300235, DOI 10.1056/EVIDoa2300235 (ATTICUS). Journal ISOAbbreviation is 'NEJM Evid' as cited. First six authors Geisler T; Keller T; Martus P; Poli K; Serna-Higuita LM; Schreieck J match exactly (38 authors + ATTICUS Investigators). Using the article ID in the page position is correct for this journal.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "evidence": "Decision number and date are both correct. Confirmed on thuvienphapluat.vn (van-ban 651734), luatvietnam.vn (397568), nhansu.vn and the official posting by Bệnh viện C Đà Nẵng (bvcdn.org.vn), all of which record Quyết định số 3312/QĐ-BYT dated 05/11/2024 issued by the Minister of Health promulgating the professional document 'Hướng dẫn chẩn đoán và điều trị đột quỵ não'. It takes effect on signature and supersedes Quyết định 5331/QĐ-BYT dated 23/12/2020. Title, issuing body, year and place of issue as cited are all correct. Optional improvement only: adding the superseded-decision note or a stable URL plus access date would make it easier for a reader to retrieve, but nothing in the citation is wrong.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 110,
+  "status": "major_error",
+  "problem": "The file exists exactly as cited (Wikimedia Commons, File:NASCET_and_ECST.png, uploaded 1-2 September 2012 by the account 'Mme Mim', CC BY-SA 3.0), so this is not a fabrication — but it is not acceptable as an academic reference in a doctoral monograph, for four compounding reasons. (1) No peer review and no editorial control: Commons is a user-editable repository, and the cited 'author' is an anonymous pseudonymous account, not an identifiable scholar or institution. (2) The source is unstable: a Commons file page can be edited, re-versioned, renamed or deleted at any time, which is why the citation needs the access date at all — and even with it the reader has no guarantee of retrieving what the candidate saw. (3) Most seriously, the file is itself derivative and the true intellectual source is unacknowledged: the Commons description page states the diagram is taken from A. Thrush, Vascular Ultrasound, 2011, page 101. Citing the Commons re-drawing instead of the underlying textbook misattributes authorship of the figure and cites a copy rather than a source. (4) The NASCET/ECST measurement conventions have canonical primary literature, so there is no justification for relying on a wiki image. Recommendation: replace ref 110 with Rothwell et al., Stroke 1994, which is the definitive peer-reviewed comparison of the NASCET, ECST and common-carotid measurement methods on 1001 angiograms and contains the standard measurement diagram, and cite Thrush's textbook directly if the specific Commons drawing is still wanted for reproduction (with permission, as CC BY-SA 3.0 requires attribution and share-alike).",
+  "citedAs": "Mme Mim. NASCET and ECST [Internet]. Wikimedia Commons; 2012 [truy cập ngày 26/8/2026]. Available from: https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png",
+  "evidence": "Direct fetch of https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png confirmed the uploader 'Mme Mim', upload date 1-2 September 2012, CC BY-SA 3.0 licence, and the description 'carotid artery stenosis grades according NASCET and ECST, A. Thrush Vascular ultrasound, 2011, page 101'. The proposed substitute was verified against PubMed PMID 7974586, DOI 10.1161/01.str.25.12.2435 (Stroke 1994;25(12):2435-9; five authors Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP — all named, no 'et al.' needed). A second acceptable option, verified at PubMed PMID 14500855, DOI 10.1148/radiol.2292030516, is Grant EG, Benson CB, Moneta GL, Alexandrov AV, Baker JD, Bluth EI, et al. Carotid artery stenosis: gray-scale and Doppler US diagnosis - Society of Radiologists in Ultrasound Consensus Conference. Radiology. 2003;229(2):340-6 — use this one if the figure is needed in an ultrasound rather than angiographic context.",
+  "correctCitation": "Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.str.25.12.2435."
+ },
+ {
+  "refNumber": 118,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Lavallée PC, Charles H, Albers GW, Caplan LR, Donnan GA, Ferro JM, et al. Effect of atherosclerosis on 5-year risk of major vascular events in patients with transient ischaemic attack or minor ischaemic stroke: an international prospective cohort study. Lancet Neurol. 2023;22(4):320-9. doi:10.1016/S1474-4422(23)00067-4.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 36931807 and Crossref both return: Lancet Neurol. 2023 Apr;22(4):320-329, doi 10.1016/S1474-4422(23)00067-4, TIAregistry.org Investigators. Author order confirmed: Lavallee PC, Charles H, Albers GW, Caplan LR, Donnan GA, Ferro JM, Hennerici MG, ... Amarenco P. Title, journal abbreviation (Lancet Neurol), year, volume, issue and pages all match exactly."
+ },
+ {
+  "refNumber": 119,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Brott TG, Howard G, Lal BK, Voeks JH, Turan TN, Roubin GS, et al. Medical management and revascularization for asymptomatic carotid stenosis. N Engl J Med. 2026;394(3):219-31. doi:10.1056/NEJMoa2508800.",
+  "correctCitation": "",
+  "evidence": "This is the CREST-2 trial and it is REAL despite the 2026 date. PubMed PMID 41269206: N Engl J Med. 2026 Jan 15;394(3):219-231, doi 10.1056/NEJMoa2508800, CN- CREST-2 Investigators, PT Randomized Controlled Trial. Crossref returns identical volume 394, issue 3, pages 219-231, published-print 2026-01-15. Author order confirmed: Brott TG, Howard G, Lal BK, Voeks JH, Turan TN, Roubin GS, Lazar RM, Brown RD Jr, ... DOI resolves via the Handle API to www.nejm.org/doi/10.1056/NEJMoa2508800 (NEJM returns 403 to bots, not a dead link). Only nuance: PubMed shows an Epub in 2025, but the print citation given (2026;394(3):219-31) is the correct one. Not fabricated, not a fake volume/page."
+ },
+ {
+  "refNumber": 120,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "PROGRESS Collaborative Group. Randomised trial of a perindopril-based blood-pressure-lowering regimen among 6105 individuals with previous stroke or transient ischaemic attack. Lancet. 2001;358(9287):1033-41. doi:10.1016/S0140-6736(01)06178-5.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 11589932: Lancet. 2001 Sep 29;358(9287):1033-41, corporate author CN- PROGRESS Collaborative Group, doi 10.1016/S0140-6736(01)06178-5. Crossref confirms title, volume 358, issue 9287, pages 1033-1041. Corporate-author-only citation form is correct for this paper."
+ },
+ {
+  "refNumber": 121,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "SPS3 Study Group; Benavente OR, Coffey CS, Conwit R, Hart RG, McClure LA, Pearce LA, et al. Blood-pressure targets in patients with recent lacunar stroke: the SPS3 randomised trial. Lancet. 2013;382(9891):507-15. doi:10.1016/S0140-6736(13)60852-1.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 23726159: Lancet. 2013 Aug 10;382(9891):507-15, doi 10.1016/S0140-6736(13)60852-1, CN- SPS3 Study Group, AU list Benavente OR, Coffey CS, Conwit R, Hart RG, McClure LA, Pearce LA, Pergola PE, Szychowski JM. The 'SPS3 Study Group; <named authors>' construction matches the MEDLINE record exactly. Crossref confirms volume/issue/pages."
+ },
+ {
+  "refNumber": 122,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Tremonti C, Thieben M. Drugs in secondary stroke prevention. Aust Prescr. 2021;44(3):85-90. doi:10.18773/austprescr.2021.018.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 34211246: Aust Prescr. 2021 Jun;44(3):85-90, doi 10.18773/austprescr.2021.018, authors Tremonti C, Thieben M. Crossref confirms Australian Prescriber, vol 44(3), pp 85-90, given names Chris Tremonti and Mark Thieben. Two-author list is complete (no 'et al.' needed and none used)."
+ },
+ {
+  "refNumber": 123,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Castellano JM, Pocock SJ, Bhatt DL, Quesada AJ, Owen R, Fernández-Ortiz A, et al. Polypill strategy in secondary cardiovascular prevention. N Engl J Med. 2022;387(11):967-77. doi:10.1056/NEJMoa2208275.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 36018037: N Engl J Med. 2022 Sep 15;387(11):967-977, doi 10.1056/NEJMoa2208275. First six authors confirmed in order: Castellano JM, Pocock SJ, Bhatt DL, Quesada AJ, Owen R, Fernandez-Ortiz A (SECURE trial). Crossref agrees. The accented 'Fernández-Ortiz' in the monograph is the correct native spelling (MEDLINE strips diacritics)."
+ },
+ {
+  "refNumber": 124,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Saver JL, Carroll JD, Thaler DE, Smalling RW, MacDonald LA, Marks DS, et al. Long-term outcomes of patent foramen ovale closure or medical therapy after stroke. N Engl J Med. 2017;377(11):1022-32. doi:10.1056/NEJMoa1610057.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 28902590: N Engl J Med. 2017 Sep 14;377(11):1022-1032, doi 10.1056/NEJMoa1610057, CN- RESPECT Investigators. Authors: Saver JL, Carroll JD, Thaler DE, Smalling RW, MacDonald LA, Marks DS, Tirschwell DL. Crossref confirms all fields."
+ },
+ {
+  "refNumber": 125,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Kent DM, Ruthazer R, Weimar C, Mas JL, Serena J, Homma S, et al. An index to identify stroke-related vs incidental patent foramen ovale in cryptogenic stroke. Neurology. 2013;81(7):619-25. doi:10.1212/WNL.0b013e3182a08d59.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 23864310: Neurology. 2013 Aug 13;81(7):619-25, doi 10.1212/WNL.0b013e3182a08d59. Author order confirmed: Kent DM, Ruthazer R, Weimar C, Mas JL, Serena J, Homma S, Di Angelantonio E, ... (the RoPE score paper). Crossref agrees on volume 81, issue 7, pages 619-625."
+ },
+ {
+  "refNumber": 126,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Ji MH, Seoung YH. Right-to-left shunt evaluation in cardiac patent foramen ovale using bubble contrast transcranial color-coded Doppler: a cryptogenic stroke case. Healthcare (Basel). 2023;11(19):2655. doi:10.3390/healthcare11192655.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 37830692: Healthcare (Basel). 2023 Sep 29;11(19):2655, doi 10.3390/healthcare11192655, authors Ji MH, Seoung YH. Crossref gives full names Ji Myeong-Hoon and Seoung Youl-Hun, volume 11, issue 19, article 2655. Journal abbreviation 'Healthcare (Basel)' matches the NLM title abbreviation exactly."
+ },
+ {
+  "refNumber": 127,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Mas JL, Derumeaux G, Guillon B, Massardier E, Hosseini H, Mechtouff L, et al. Patent foramen ovale closure or anticoagulation vs. antiplatelets after stroke. N Engl J Med. 2017;377(11):1011-21. doi:10.1056/NEJMoa1705915.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 28902593: N Engl J Med. 2017 Sep 14;377(11):1011-1021, doi 10.1056/NEJMoa1705915 (CLOSE trial). Author order confirmed: Mas JL, Derumeaux G, Guillon B, Massardier E, Hosseini H, Mechtouff L, Arquizan C, ... Crossref agrees. The 'vs.' with period in the title is the journal's own rendering."
+ },
+ {
+  "refNumber": 128,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Søndergaard L, Kasner SE, Rhodes JF, Andersen G, Iversen HK, Nielsen-Kudsk JE, et al. Patent foramen ovale closure or antiplatelet therapy for cryptogenic stroke. N Engl J Med. 2017;377(11):1033-42. doi:10.1056/NEJMoa1707404.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 28902580: N Engl J Med. 2017 Sep 14;377(11):1033-1042, doi 10.1056/NEJMoa1707404, CN- Gore REDUCE Clinical Study Investigators. Author order confirmed: Sondergaard L, Kasner SE, Rhodes JF, Andersen G, Iversen HK, Nielsen-Kudsk JE, Settergren M, ... The 'Søndergaard' spelling with ø in the monograph is the correct native form. Crossref agrees on all fields."
+ },
+ {
+  "refNumber": 129,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Li J, Meng X, Shi FD, Jing J, Gu HQ, Jin A, et al. Colchicine in patients with acute ischaemic stroke or transient ischaemic attack (CHANCE-3): multicentre, double blind, randomised, placebo controlled trial. BMJ. 2024;385:e079061. doi:10.1136/bmj-2023-079061.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 38925803: BMJ. 2024 Jun 26;385:e079061, doi 10.1136/bmj-2023-079061. Author order confirmed: Li J, Meng X, Shi FD, Jing J, Gu HQ, Jin A, Jiang Y, Li H, Johnston SC, Hankey GJ, ... Crossref confirms volume 385, no issue number, e-locator e079061. Omitting an issue number is correct for BMJ; the DOI prefix year (2023) differing from the publication year (2024) is normal BMJ practice, not an error."
+ },
+ {
+  "refNumber": 130,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Wardlaw J, Brazzelli M, Miranda H, Chappell F, McNamee P, Scotland G, et al. An assessment of the cost-effectiveness of magnetic resonance, including diffusion-weighted imaging, in patients with transient ischaemic attack and minor stroke: a systematic review, meta-analysis and economic evaluation. Health Technol Assess. 2014;18(27):1-368. doi:10.3310/hta18270.",
+  "correctCitation": "",
+  "evidence": "PubMed PMID 24791949: Health Technol Assess. 2014 Apr;18(27):1-368, v-vi, doi 10.3310/hta18270. Author order confirmed: Wardlaw J, Brazzelli M, Miranda H, Chappell F, McNamee P, Scotland G, Quayyum Z, Martin D, Shuler K, Sandercock P, Dennis M. Crossref confirms volume 18, issue 27, pages 1-368. Only nuance, not an error: MEDLINE pagination is '1-368, v-vi' (roman-numeral prelims); the widely used and acceptable short form is '1-368' as cited."
+ },
+ {
+  "refNumber": 110,
+  "status": "major_error",
+  "problem": "The bibliographic fields themselves are all correct, but the SOURCE TYPE is not acceptable in a doctoral monograph and should be replaced. The Wikimedia Commons page confirms: file 'NASCET and ECST.png', uploader 'Mme Mim', created 1 Sep 2012 / uploaded 2 Sep 2012, licence CC BY-SA 3.0 — so the citation as written is factually accurate. The problem is threefold: (1) it is an anonymous/pseudonymous user upload with no peer review, no editorial oversight and no stable version — the file can be edited, overwritten or deleted at any time, so it cannot support a scientific claim; (2) the Commons description page itself states the figure is redrawn from 'A. Thrush, Vascular Ultrasound, 2011, page 101', meaning the monograph is citing an uncredited derivative of a textbook rather than the underlying source; (3) the NASCET/ECST measurement convention is a primary-literature fact with a canonical peer-reviewed source, so there is no justification for a tertiary web image. Recommended handling: keep the Commons URL ONLY as a figure-credit line under the illustration (required by CC BY-SA 3.0 attribution), and cite the peer-reviewed article in the reference list instead.",
+  "citedAs": "Mme Mim. NASCET and ECST [Internet]. Wikimedia Commons; 2012 [truy cập ngày 26/8/2026]. Available from: https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png",
+  "correctCitation": "Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.STR.25.12.2435. [Alternatives: Staikov IN, Arnold M, Mattle HP, Remonda L, Sturzenegger M, Baumgartner RW, et al. Comparison of the ECST, CC, and NASCET grading methods and ultrasound for assessing carotid stenosis. J Neurol. 2000;247(9):681-6. doi:10.1007/s004150070110. — or simply reuse reference 111 already in this list: Saba L, Scicolone R, Johansson E, et al. Quantifying carotid stenosis: history, current applications, limitations, and potential. Life (Basel). 2024;14(1):73. doi:10.3390/life14010073, a peer-reviewed review that contains the NASCET/ECST/CC measurement diagram.]",
+  "evidence": "WebFetch of https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png confirmed the file exists with uploader 'Mme Mim', creation 1 Sep 2012, CC BY-SA 3.0, and a description citing A. Thrush, Vascular Ultrasound (2011) p. 101 as the origin of the drawing. Substitute verified in PubMed: PMID 7974586 = Stroke. 1994 Dec;25(12):2435-9, authors Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP — this is the canonical paper that defines and compares the NASCET, ECST and common-carotid ratio methods on 1001 angiograms and provides the conversion equation (ECST% = 0.6 x NASCET% + 40%). Second substitute verified: PMID 11081806 = J Neurol. 2000 Sep;247(9):681-6, Staikov IN, Arnold M, Mattle HP, Remonda L, Sturzenegger M, Baumgartner RW, Schroth G."
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "correctCitation": "",
+  "evidence": "Decision number and date are both correct. Confirmed on the Vietnamese legal databases (thuvienphapluat.vn document 651734 and luatvietnam.vn document 397568) and on the Bệnh viện C Đà Nẵng official posting (bvcdn.org.vn), all titled 'Quyết định 3312/QĐ-BYT ngày 05/11/2024 của Bộ Y tế về việc ban hành tài liệu chuyên môn \"Hướng dẫn chẩn đoán và điều trị đột quỵ não\"'. Issuing body Bộ Y tế, effective on signature, and it supersedes Quyết định 5331/QĐ-BYT dated 23/12/2020. The Vietnamese title of the attached professional document matches the monograph verbatim. Note (not an error, optional improvement): the citation could add the superseded decision or a retrieval URL, but as written the number 3312/QĐ-BYT and the date 05/11/2024 are both accurate."
+ },
+ {
+  "refNumber": 4,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Bộ Y tế. Hướng dẫn chẩn đoán và điều trị đột quỵ não. Ban hành kèm theo Quyết định số 3312/QĐ-BYT ngày 05/11/2024 của Bộ trưởng Bộ Y tế. Hà Nội: Bộ Y tế; 2024.",
+  "evidence": "Confirmed outside my assigned range at the orchestrator's request. Decision number 3312/QĐ-BYT and signing date 05/11/2024 both correct. Confirmed on Bệnh viện C Đà Nẵng's official posting of the decision (https://bvcdn.org.vn/quyet-dinh-3312-qd-byt-ngay-05-11-2024-cua-bo-y-te-ve-viec-ban-hanh-tai-lieu-chuyen-mon-huong-dan-chan-doan-va-dieu-tri-dot-quy-nao/, with the scanned PDF at https://bvcdn.org.vn/wp-content/uploads/2024/12/QD-3312.pdf) and cross-checked on thuvienphapluat.vn and luatvietnam.vn. Issuing body: Bộ Y tế; document title 'Hướng dẫn chẩn đoán và điều trị đột quỵ não'; effective from date of signing; it supersedes Quyết định 5331/QĐ-BYT ngày 23/12/2020. Optional refinement (not an error): the monograph could add the superseded-decision note for completeness.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 105,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Reddy VY, Doshi SK, Kar S, Gibson DN, Price MJ, Huber K, et al. 5-year outcomes after left atrial appendage closure: from the PREVAIL and PROTECT AF trials. J Am Coll Cardiol. 2017;70(24):2964-75. doi:10.1016/j.jacc.2017.10.021.",
+  "evidence": "PubMed PMID 29103847 and Crossref record for DOI 10.1016/j.jacc.2017.10.021 (DOI resolves). J Am Coll Cardiol 2017 Dec 19;70(24):2964-2975. Title matches exactly ('5-Year Outcomes After Left Atrial Appendage Closure: From the PREVAIL and PROTECT AF Trials'). Author order confirmed: Reddy VY, Doshi SK, Kar S, Gibson DN, Price MJ, Huber K, Horton RP, Buchbinder M, Neuzil P, Gordon NT, Holmes DR Jr; group author 'PREVAIL and PROTECT AF Investigators'. Journal abbreviation 'J Am Coll Cardiol' is the correct NLM form. Volume, issue, page range and DOI all correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 106,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Osmancik P, Herman D, Neuzil P, Hála P, Taborsky M, Kala P, et al. Left atrial appendage closure versus direct oral anticoagulants in high-risk patients with atrial fibrillation. J Am Coll Cardiol. 2020;75(25):3122-35. doi:10.1016/j.jacc.2020.04.067.",
+  "evidence": "PubMed PMID 32586585 and Crossref record for DOI 10.1016/j.jacc.2020.04.067 (DOI resolves). J Am Coll Cardiol 2020 Jun 30;75(25):3122-3135. Title matches exactly. Author order confirmed: Osmancik P, Herman D, Neuzil P, Hala P, Taborsky M, Kala P, ... (PRAGUE-17 Trial Investigators; senior author Reddy VY). Volume, issue, pages and DOI correct. Note: PubMed and Crossref both strip the diacritic ('Hala P' / 'Pavel Hala'); the monograph's 'Hála P' is the author's correct Czech spelling and is not an error.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 107,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "North American Symptomatic Carotid Endarterectomy Trial Collaborators. Beneficial effect of carotid endarterectomy in symptomatic patients with high-grade carotid stenosis. N Engl J Med. 1991;325(7):445-53. doi:10.1056/NEJM199108153250701.",
+  "evidence": "PubMed PMID 1852179 and Crossref record for DOI 10.1056/NEJM199108153250701 (DOI resolves). N Engl J Med 1991 Aug 15;325(7):445-453. Title matches exactly. PubMed's CN (corporate author) field is 'North American Symptomatic Carotid Endarterectomy Trial Collaborators', exactly as cited; PubMed additionally lists the writing collaborators (Barnett HJM, Taylor DW, Haynes RB, Sackett DL, Peerless SJ, Ferguson GG, ...), but citing the collaborative group as the byline is correct and standard for this paper. Volume, issue, pages, journal abbreviation and DOI all correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 108,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "European Carotid Surgery Trialists' Collaborative Group. Randomised trial of endarterectomy for recently symptomatic carotid stenosis: final results of the MRC European Carotid Surgery Trial (ECST). Lancet. 1998;351(9113):1379-87. doi:10.1016/S0140-6736(97)09292-1.",
+  "evidence": "PubMed PMID 9593407 (found by title search; the DOI is not indexed in PubMed's DOI field for this old Lancet record, which is why a DOI-field query returns nothing — not a sign of a bad DOI). Crossref record for DOI 10.1016/S0140-6736(97)09292-1 resolves and confirms: Lancet, volume 351, issue 9113, pages 1379-1387, published May 1998; title matches exactly. Europe PMC confirms Lancet 351(9113):1379-1387, 1998, same DOI. PubMed lists no individual authors ([No authors listed]) — the byline is the collaborative group, exactly as cited. All fields correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 109,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Rothwell PM, Eliasziw M, Gutnikov SA, Fox AJ, Taylor DW, Mayberg MR, et al. Analysis of pooled data from the randomised controlled trials of endarterectomy for symptomatic carotid stenosis. Lancet. 2003;361(9352):107-16. doi:10.1016/S0140-6736(03)12228-3.",
+  "evidence": "PubMed PMID 12531577 and Crossref record for DOI 10.1016/S0140-6736(03)12228-3 (DOI resolves). Lancet 2003 Jan 11;361(9352):107-116. Title matches exactly. Full author list from both sources: Rothwell PM, Eliasziw M, Gutnikov SA, Fox AJ, Taylor DW, Mayberg MR, Warlow CP, Barnett HJ (group: Carotid Endarterectomy Trialists' Collaboration) — the first six names and their order match the citation exactly, and 'et al.' after the sixth is correct Vancouver style for 8 authors. Volume, issue, pages and DOI correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 110,
+  "status": "minor_error",
+  "problem": "The Wikimedia Commons file itself is real and the citation details are accurate (File:NASCET_and_ECST.png, uploaded 1-2 September 2012 by the pseudonymous Commons user 'Mme Mim', licensed CC BY-SA 3.0, still live at the URL given; the access date 26/8/2026 is plausible). The defect is source quality, not bibliographic accuracy. This is not acceptable as a reference in a doctoral monograph: (a) the 'author' is an unverifiable Commons pseudonym with no institutional affiliation, so authorship cannot be attributed or held accountable; (b) it has no peer review or editorial oversight; (c) Commons files are mutable and can be overwritten or deleted, so the cited content is not stable; (d) most importantly, the Commons file description itself states the figure is redrawn from Thrush A, Vascular Ultrasound (2011), p.101 — so the monograph is citing an anonymous derivative instead of the actual source, which is a provenance/attribution problem as well as a possible copyright-derivation issue. It is acceptable only as an image credit line under the figure (if the CC BY-SA 3.0 licence terms are reproduced), never as a numbered scientific reference supporting the NASCET/ECST measurement methods.",
+  "citedAs": "Mme Mim. NASCET and ECST [Internet]. Wikimedia Commons; 2012 [truy cập ngày 26/8/2026]. Available from: https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png",
+  "evidence": "Fetched https://commons.wikimedia.org/wiki/File:NASCET_and_ECST.png directly: file exists, uploader 'Mme Mim', 1-2 Sep 2012, CC BY-SA 3.0, description 'carotid artery stenosis grades according NASCET and ECST', stated source A. Thrush, Vascular Ultrasound (2011), p.101; in use on German Wikipedia 'Karotisstenose'. Recommended peer-reviewed substitutes verified via Crossref: (1) DOI 10.1161/01.STR.25.12.2435 resolves to Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-2439 — this is the canonical primary paper, whose Figure 1 shows the NASCET, ECST and common-carotid measurement methods side by side on the same angiogram, and which supplies the ECST-to-NASCET conversion equation (NASCET% = 1.2 x ECST% - 40). (2) Already present in this bibliography as ref 111: Saba L, Scicolone R, Johansson E, et al. Life (Basel). 2024;14(1):73 (PMID 38255688) — an open-access peer-reviewed review with current figures contrasting NASCET vs ECST measurement; citing 111 in place of 110 would need no new reference at all.",
+  "correctCitation": "Rothwell PM, Gibson RJ, Slattery J, Sellar RJ, Warlow CP. Equivalence of measurements of carotid stenosis. A comparison of three methods on 1001 angiograms. European Carotid Surgery Trialists' Collaborative Group. Stroke. 1994;25(12):2435-9. doi:10.1161/01.STR.25.12.2435."
+ },
+ {
+  "refNumber": 111,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Saba L, Scicolone R, Johansson E, Nardi V, Lanzino G, Kakkos SK, et al. Quantifying carotid stenosis: history, current applications, limitations, and potential: how imaging is changing the scenario. Life (Basel). 2024;14(1):73. doi:10.3390/life14010073.",
+  "evidence": "PubMed PMID 38255688 and Crossref record for DOI 10.3390/life14010073 (DOI resolves). Life (Basel) 2024 Jan 1;14(1):73 (MDPI article number 73, correct as the 'page' in Vancouver for MDPI). Title matches exactly. Author order confirmed: Saba L, Scicolone R, Johansson E, Nardi V, Lanzino G, Kakkos SK, Pontone G, Annoni AD, Paraskevas KI, Fox AJ — first six and order match, 'et al.' correct. 'Life (Basel)' is the correct NLM abbreviation. Volume, issue, article number and DOI all correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 112,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Brott TG, Hobson RW 2nd, Howard G, Roubin GS, Clark WM, Brooks W, et al. Stenting versus endarterectomy for treatment of carotid-artery stenosis. N Engl J Med. 2010;363(1):11-23. doi:10.1056/NEJMoa0912321.",
+  "evidence": "PubMed PMID 20505173 and Crossref record for DOI 10.1056/NEJMoa0912321 (DOI resolves). N Engl J Med 2010 Jul 1;363(1):11-23. Title matches exactly. Author order confirmed: Brott TG, Hobson RW 2nd, Howard G, Roubin GS, Clark WM, Brooks W, Mackey A, Hill MD, ... (CREST Investigators). The suffix form 'Hobson RW 2nd' matches PubMed exactly (Crossref renders it as 'II'; both denote the same person). Volume, issue, pages and DOI correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 113,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Brott TG, Howard G, Roubin GS, Meschia JF, Mackey A, Brooks W, et al. Long-term results of stenting versus endarterectomy for carotid-artery stenosis. N Engl J Med. 2016;374(11):1021-31. doi:10.1056/NEJMoa1505215.",
+  "evidence": "PubMed PMID 26890472 and Crossref record for DOI 10.1056/NEJMoa1505215 (DOI resolves). N Engl J Med 2016 Mar 17;374(11):1021-1031. Title matches exactly ('Long-Term Results of Stenting versus Endarterectomy for Carotid-Artery Stenosis'). Author order confirmed: Brott TG, Howard G, Roubin GS, Meschia JF, Mackey A, Brooks W, Moore WS, Hill MD, ... (CREST Investigators). Volume, issue, pages and DOI correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 114,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Naylor R, Rantner B, Ancetti S, de Borst GJ, De Carlo M, Halliday A, et al. Editor's choice - European Society for Vascular Surgery (ESVS) 2023 clinical practice guidelines on the management of atherosclerotic carotid and vertebral artery disease. Eur J Vasc Endovasc Surg. 2023;65(1):7-111. doi:10.1016/j.ejvs.2022.04.011.",
+  "evidence": "PubMed PMID 35598721 and Crossref record for DOI 10.1016/j.ejvs.2022.04.011 (DOI resolves). Eur J Vasc Endovasc Surg 2023 Jan;65(1):7-111 (online-first 20 May 2022, print issue Jan 2023 — the 2023 year and 65(1) pagination cited are the correct final print citation). Title matches. Author order confirmed: Naylor R, Rantner B, Ancetti S, de Borst GJ, De Carlo M, Halliday A, Kakkos SK, Markus HS, ... Journal abbreviation, volume, issue, page range and DOI all correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 115,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Chimowitz MI, Lynn MJ, Howlett-Smith H, Stern BJ, Hertzberg VS, Frankel MR, et al. Comparison of warfarin and aspirin for symptomatic intracranial arterial stenosis. N Engl J Med. 2005;352(13):1305-16. doi:10.1056/NEJMoa043033.",
+  "evidence": "PubMed PMID 15800226 and Crossref record for DOI 10.1056/NEJMoa043033 (DOI resolves). N Engl J Med 2005 Mar 31;352(13):1305-1316. Title matches exactly. Author order confirmed: Chimowitz MI, Lynn MJ, Howlett-Smith H, Stern BJ, Hertzberg VS, Frankel MR, Levine SR, Chaturvedi S, Kasner SE, Benesch CG, Sila CA, Jovin TG, Romano JG (WASID Trial Investigators). Volume, issue, pages and DOI correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 116,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Gao P, Wang T, Wang D, Liebeskind DS, Shi H, Li T, et al. Effect of stenting plus medical therapy vs medical therapy alone on risk of stroke and death in patients with symptomatic intracranial stenosis: the CASSISS randomized clinical trial. JAMA. 2022;328(6):534-42. doi:10.1001/jama.2022.12000.",
+  "evidence": "PubMed PMID 35943472 and Crossref record for DOI 10.1001/jama.2022.12000 (DOI resolves). JAMA 2022 Aug 9;328(6):534-542. Full title with the ': The CASSISS Randomized Clinical Trial' subtitle matches exactly. Author order confirmed: Gao P, Wang T, Wang D, Liebeskind DS, Shi H, Li T, Zhao Z, Cai Y, ... (CASSISS Trial Investigators). Volume, issue, pages and DOI correct.",
+  "correctCitation": ""
+ },
+ {
+  "refNumber": 117,
+  "status": "verified",
+  "problem": "",
+  "citedAs": "Hurford R, Wolters FJ, Li L, Lau KK, Küker W, Rothwell PM. Prognosis of asymptomatic intracranial stenosis in patients with transient ischemic attack and minor stroke. JAMA Neurol. 2020;77(8):947-54. doi:10.1001/jamaneurol.2020.1326.",
+  "evidence": "PubMed PMID 32453401 and Crossref record for DOI 10.1001/jamaneurol.2020.1326 (DOI resolves). JAMA Neurol 2020 Aug 1;77(8):947-954. Title matches exactly. The article has exactly six authors — Hurford R, Wolters FJ, Li L, Lau KK, Kuker W, Rothwell PM — all six listed in the correct order with no 'et al.' needed, which is what the monograph does. Crossref gives the umlaut form 'Wilhelm Küker'; the monograph's 'Küker W' is correct (PubMed's 'Kuker W' merely strips the diacritic). Volume, issue, pages and DOI correct.",
+  "correctCitation": ""
+ }
+]
