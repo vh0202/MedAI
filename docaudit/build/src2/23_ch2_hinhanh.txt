@@ -1,0 +1,60 @@
+H2 2.3. Chẩn đoán hình ảnh não và mạch máu
+H3 2.3.1. Cộng hưởng từ khuếch tán
+H4 2.3.1.1. Vai trò, độ nhạy và diễn giải hệ số khuếch tán biểu kiến
+P Định nghĩa dựa trên mô năm 2009 tách cơn thiếu máu não thoáng qua (TIA) khỏi đột quỵ nhẹ; hình ảnh trả lời bốn câu hỏi: chảy máu, nhồi máu, tuổi tổn thương, cơ chế [6,61]. Khuếch tán trả lời câu hỏi thứ hai: nhạy gộp 0,99 (KTC 95% 0,23–1,00), đặc hiệu 0,92 (KTC 95% 0,83–0,97), so với 0,39 (KTC 95% 0,16–0,69) và 1,00 của cắt lớp vi tính [62]. Dương tính ở 1/3–1/2 quần thể TIA [33,63]; âm tính không loại trừ thiếu máu não (Hình 2.2) [5,12,61].
+FIG image4.jpg | 12.0 | Hình 2.2. Các ổ nhồi máu nhỏ trên chuỗi xung khuếch tán trong một trường hợp cơn thiếu máu não thoáng qua [63].
+P Hệ số khuếch tán biểu kiến (ADC) thấp nhất ngày 1–4, giả bình thường hoá khoảng 7–10 ngày (một số tài liệu 4–10 ngày) [61,63]. ADC giảm: tổn thương cấp; ADC bình thường hoặc tăng: xuyên thấu T2 của tổn thương cũ. Bất tương xứng khuếch tán – FLAIR gợi khởi phát dưới 4,5 giờ; lần chụp đầu dễ âm tính, chụp lại sau 24–48 giờ (xem Mục 2.1.5.3) [5,61].
+H4 2.3.1.2. Giá trị tiên lượng
+P Đưa khuếch tán dương tính và căn nguyên vào mô hình dự báo cải thiện phân biệt; xơ vữa động mạch lớn tái phát cao nhất, tăng khoảng 3,4 lần [32]. Dương tính tăng cùng yếu vận động, rối loạn ngôn ngữ, triệu chứng kéo dài [33]; kèm tắc hoặc hẹp nội sọ cùng bên là nguy cơ cao nhất [11,33]; nên dùng thang điểm có biến số hình ảnh (xem Mục 2.2.2) [10,32].
+H3 2.3.2. Cắt lớp vi tính và các chuỗi xung bổ sung
+H4 2.3.2.1. Cắt lớp vi tính không cản quang, FLAIR, SWI và T2*
+P Cắt lớp vi tính không cản quang chụp đầu tiên vì nhanh và sẵn có: nhạy thấp với thiếu máu cấp, đặc hiệu 1,00 [62]. Nó loại trừ chảy máu, choán chỗ, tụ máu dưới màng cứng, giãn não thất; cùng lượt chụp mạch cắt lớp vi tính cung chủ – đỉnh sọ đủ cho quyết định cấp cứu, trừ hội chứng tiền đình cấp (xem Mục 2.1.5.4) [5,61,73].
+P FLAIR định tuổi tổn thương và gánh nặng mạch máu nhỏ nền; nhồi máu ổ khuyết chiếm khoảng 1/4 số nhồi máu não [134]. Chuỗi xung nhạy từ (SWI), hoặc T2*, phát hiện vi xuất huyết cũ: ưu thế thuỳ não gợi bệnh mạch máu não thoái hoá dạng bột (xem Mục 2.8.3); ưu thế nhân xám, thân não gợi bệnh mạch máu nhỏ do tăng huyết áp [61,134].
+H4 2.3.2.2. Hình ảnh tưới máu và chụp mạch cắt lớp vi tính đa thì
+P Hai kỹ thuật là tiêu chí chọn bệnh ngoài cửa sổ kinh điển [61,65]. OPTION: 570 người bệnh nhồi máu não không tắc mạch lớn, còn mô cứu được, 4,5–24 giờ (566 phân tích); Rankin sửa đổi 0–1 ngày 90: 123/282 (43,6%) tenecteplase so với 97/284 (34,2%) nội khoa chuẩn, tỷ suất nguy cơ 1,28 (KTC 95% 1,04–1,57), p = 0,02; chảy máu nội sọ có triệu chứng 36 giờ 2,8% so với 0%; tử vong ngày 90 5,0% so với 3,2% (tỷ suất nguy cơ 1,57; KTC 95% 0,69–3,57) [144].
+P TRACE-III: 516 người bệnh tắc cảnh trong hoặc M1, còn mô cứu được, 4,5–24 giờ, không lấy được huyết khối; Rankin 0–1 ngày 90: 33,0% so với 24,2%, tỷ suất tương đối 1,37 (KTC 95% 1,04–1,81), p = 0,03; tử vong 13,3% so với 13,1%; chảy máu nội sọ có triệu chứng 3,0% so với 0,8% (xem Mục 3.1.2) [143]. TEMPO-2: thiếu sót lâm sàng nhẹ không loại trừ tắc mạch nội sọ [60].
+H3 2.3.3. Đánh giá mạch máu đầu và cổ
+H4 2.3.3.1. Chụp mạch cắt lớp vi tính, cộng hưởng từ và siêu âm Doppler
+P Chụp mạch cắt lớp vi tính cung động mạch chủ – đỉnh sọ bao phủ toàn trục mạch: tắc mạch lớn, hẹp cảnh trong ngoài sọ, hẹp nội sọ, bóc tách [5,61]. Chụp mạch cộng hưởng từ thay thế khi suy thận hoặc dị ứng iod; thời gian bay ước lượng quá mức mức hẹp, có thể giả tắc, cần đối chiếu bằng chụp mạch số hoá xoá nền (DSA) trước can thiệp [61,111].
+P Trong 1.191 người bệnh TIA hoặc nhồi máu não tại Bệnh viện Bạch Mai, hẹp cảnh trong ngoài sọ 50–99% cùng bên gặp ở 62 người, tức 5,2% (KTC 95% 4,0–6,6) [182]. Ngược lại, tổng quan phạm vi 2025 trên 142 nghiên cứu: hẹp xơ vữa nội sọ 3%–89,4%, trung vị 13% [186]; CICAS trên 2.864 người bệnh tại 22 bệnh viện: hẹp nội sọ từ 50% trở lên ở 46,6% [19]. Quy trình tại Việt Nam phải gồm tuần hoàn nội sọ.
+P Siêu âm Doppler động mạch cảnh dựa trên ngưỡng vận tốc hiệu chuẩn theo từng phòng, không khảo sát được gốc mạch và đoạn xa, dễ xếp sai gần tắc [111,114]. Doppler xuyên sọ bổ sung tín hiệu vi lấp mạch, dự trữ vận mạch, luồng thông phải – trái khi kết hợp cản âm (xem Mục 2.5.3), nhưng phụ thuộc cửa sổ thái dương [61,111].
+H4 2.3.3.2. Phương pháp đo mức hẹp NASCET, ECST và WASID
+P Ngưỡng tái thông động mạch cảnh 50% và 70% rút ra từ thử nghiệm dùng một phương pháp đo. Cả ba lấy phần bù của tỷ số hai đường kính nhân 100, chỉ khác mẫu số: NASCET là lòng cảnh trong đoạn xa; ECST là đường kính ước lượng bầu cảnh tại chỗ hẹp; WASID là đoạn bình thường phía gần, đoạn xa hoặc xương đá [107,108,111,115].
+P Bầu cảnh rộng hơn đoạn xa nên ECST luôn lớn hơn NASCET; quy đổi trên 1.001 phim chụp mạch: ECST ≈ 0,6 × NASCET + 40 [110,111]. Chênh lệch không hằng định: NASCET 30% ứng ECST 58% (chênh 28 điểm phần trăm), 50% ứng 70% (20 điểm), 70% ứng 82% (12 điểm), 90% ứng 94% (4 điểm) (Hình 2.3). Gần tắc phải báo cáo riêng (xem Mục 3.5.1) [110,111,114]; mảng không gây hẹp cần cộng hưởng từ thành mạch độ phân giải cao [37,111].
+FIG image5.jpg | 12.0 | Hình 2.3. Đo mức hẹp động mạch cảnh trong theo phương pháp NASCET trên chụp mạch cắt lớp vi tính [64].
+H3 2.3.4. Chi phí – hiệu quả và thứ tự ưu tiên phương tiện
+P Đánh giá công nghệ y tế của Wardlaw và cộng sự kết luận khuếch tán chính xác nhất để xác nhận tổn thương, giá trị kinh tế phụ thuộc việc chụp sớm, lợi ích chủ yếu từ tốc độ tổ chức chứ không từ chiếc máy [130].
+P Mỗi phương tiện chỉ vào quy trình khi kết quả thay đổi một quyết định, xếp theo mức khẩn: chảy máu, tổn thương động mạch lớn cần xử trí, nhồi máu và cơ chế (Bảng 2.7). Khi cộng hưởng từ khan hiếm, ưu tiên người hết triệu chứng mà chẩn đoán chưa chắc và hội chứng tuần hoàn sau [12,130].
+TABLE Bảng 2.7. Vai trò của các phương tiện chẩn đoán hình ảnh trong cơn thiếu máu não thoáng qua và đột quỵ thiếu máu não nhẹ [5,18,61,62,65].
+COLW 1.05,1.3,1.7,0.75
+ALIGN l,j,j,c
+FSIZE 10.5
+H Phương tiện|Câu hỏi lâm sàng|Hiệu năng và giới hạn|Vị trí trong quy trình
+R Cắt lớp vi tính không cản quang|Chảy máu, choán chỗ, giãn não thất|Nhạy 0,39 (KTC 95% 0,16–0,69); đặc hiệu 1,00|Tầng 1
+R Chụp mạch cắt lớp vi tính|Tắc mạch, hẹp, bóc tách|Cung chủ – đỉnh sọ; nền đo NASCET|Tầng 1
+R Chụp mạch cắt lớp vi tính đa thì|Bàng hệ màng mềm|Ba thì; đồng thuận cao|Tầng 1 khi nghi tắc
+R Khuếch tán và bản đồ ADC|Nhồi máu thật; tuổi tổn thương|Nhạy 0,99 (KTC 95% 0,23–1,00); đặc hiệu 0,92 (0,83–0,97)|Tầng 2
+R Chuỗi FLAIR, SWI hoặc T2*|Tuổi tổn thương; vi xuất huyết|Khuếch tán (+)/FLAIR (–): dưới 4,5 giờ|Tầng 2
+R Cộng hưởng từ thời gian bay|Mức hẹp khi chống chỉ định iod|Quá ước lượng; giả tắc|Tầng 2
+R Doppler động mạch cảnh|Mức hẹp, hình thái mảng cổ|Ngưỡng vận tốc từng phòng|Tầng 2
+R Doppler xuyên sọ|Hẹp nội sọ, vi lấp mạch, dự trữ vận mạch|Phụ thuộc cửa sổ thái dương|Tầng 3
+R Hình ảnh tưới máu|Mô cứu được; vùng đe doạ|Chọn bệnh, cửa sổ 4,5–24 giờ|Tầng 3
+R Cộng hưởng từ thành mạch độ phân giải cao|Mảng thủ phạm; bệnh thành mạch|Xơ vữa, viêm mạch, bóc tách, moyamoya|Tầng 3
+ENDTABLE
+H3 2.3.5. Quy trình hình ảnh ba tầng khả thi cho cơ sở tại Việt Nam
+P Khảo sát 91 bệnh viện đủ tiêu chuẩn, 66 trả lời (73%): khoảng 70% có đơn vị đột quỵ, số ca đột quỵ cấp trung vị 630 ca/bệnh viện/năm (tứ phân vị 250–1.200), trên 90% có phác đồ lâm sàng [185]. Mặt bằng đó đủ để triển khai quy trình ba tầng, mỗi tầng gắn một câu hỏi và một mốc thời gian (Bảng 2.8) [21].
+TABLE Bảng 2.8. Quy trình hình ảnh ba tầng đề xuất cho cơ sở tại Việt Nam [4,5,12,61,65].
+COLW 0.5,1.25,1.85,1.0
+ALIGN c,l,j,j
+FSIZE 10.5
+H Tầng|Kỹ thuật|Chỉ định|Mốc thời gian
+R 1|Cắt lớp vi tính không cản quang|Mọi ca nghi TIA/đột quỵ nhẹ|Ngay khi tiếp nhận
+R 1|Chụp mạch cắt lớp vi tính cung chủ – đỉnh sọ|Triệu chứng còn/dao động; nghi động mạch lớn|Cùng lượt cắt lớp vi tính
+R 2|Cộng hưởng từ: khuếch tán, ADC, FLAIR, SWI|Hồi phục; chẩn đoán chưa chắc; nghi tuần hoàn sau|Trong 24 giờ
+R 2|Doppler động mạch cảnh|Chưa chụp được mạch; theo dõi mức hẹp|Trong 24–48 giờ
+R 3|Tưới máu, chụp mạch đa thì|Tắc nội sọ; khởi phát 4,5–24 giờ|Khi phát hiện tắc mạch
+R 3|Cộng hưởng từ thành mạch độ phân giải cao|Hẹp nội sọ bất thường; viêm mạch; bóc tách|Tuần đầu, tuyến chuyên sâu
+R 3|Doppler xuyên sọ, có cản âm|Nghi luồng thông phải – trái|Sau khảo sát động mạch lớn
+R 3|Chụp mạch số hoá xoá nền|Dẫn tới can thiệp; kết quả mâu thuẫn|Theo lịch can thiệp
+ENDTABLE
+P Hướng dẫn Bộ Y tế năm 2024 đưa cắt lớp vi tính sọ não, chụp mạch cắt lớp vi tính và cộng hưởng từ vào quy trình chuẩn, được bảo hiểm chi trả [4]; rào cản là máy tập trung ở tuyến tỉnh và trung ương, không chụp được trong đêm thì đặt lịch sáng hôm sau. Hình ảnh đơn thuần không xác lập nguồn lấp mạch từ tim, không đủ kết luận cơ chế (xem Mục 2.7) [4,61].

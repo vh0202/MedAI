@@ -1,0 +1,38 @@
+H1 CHƯƠNG 4. MỘT SỐ THỂ ĐẶC BIỆT VÀ ĐỊNH HƯỚNG NGHIÊN CỨU
+H2 4.1. Đột quỵ lấp mạch chưa rõ nguồn
+H3 4.1.1. Khái niệm, dịch tễ và cơ chế giả định
+P Đột quỵ lấp mạch chưa rõ nguồn (embolic stroke of undetermined source, ESUS), do Hart và cộng sự đề xuất năm 2014, gồm bốn tiêu chí loại trừ (Mục 2.4.2): ổ khuyết, hẹp từ 50% trở lên ở động mạch cấp máu, nguồn lấp mạch tim nguy cơ cao và nguyên nhân đặc hiệu khác [36,37]. ESUS chiếm khoảng 17% nhồi máu não (9–25%), tuổi trung bình 65, NIHSS trung vị 5, tái phát 4,5% mỗi năm dưới kháng kết tập tiểu cầu, không thấp hơn nhóm rõ căn nguyên [178].
+P Cơ chế giả định chồng lấp trên bốn nhóm — tim – nhĩ, động mạch, luồng thông – tĩnh mạch, hệ thống (Bảng 4.2) — nên một thuốc khó hiệu quả cho toàn nhóm [36,37,178].
+H3 4.1.2. Bằng chứng từ các thử nghiệm kháng đông
+P NAVIGATE-ESUS (2018): rivaroxaban 15 mg so với aspirin 100 mg mỗi ngày, 7.213 người bệnh, dừng vì vô ích ở trung vị 11 tháng; đột quỵ hoặc thuyên tắc hệ thống 5,1% so với 4,8% mỗi năm, HR 1,07 (KTC 95% 0,87–1,33); nhồi máu tái phát bằng nhau, 4,7% mỗi năm [102]. RE-SPECT ESUS (2019): dabigatran 150 mg hai lần mỗi ngày (110 mg nếu từ 75 tuổi hoặc thanh thải creatinin 30 đến dưới 50 mL/phút) so với aspirin 100 mg mỗi ngày, 5.390 người bệnh, 19 tháng; đột quỵ tái phát 6,6% so với 7,7%, HR 0,85 (0,69–1,03) [103].
+P ATTICUS (2024): apixaban 5 mg hai lần mỗi ngày so với aspirin 100 mg mỗi ngày, khởi trị 28 ngày, 352 người bệnh có yếu tố dự báo rung nhĩ hoặc lỗ bầu dục thông; nhồi máu mới trên cộng hưởng từ, 12 tháng: 13,6% so với 16,0%, OR 0,79 (KTC 95% 0,42–1,48) [104]. ARCADIA (2024): apixaban 5 mg hai lần mỗi ngày so với aspirin 81 mg mỗi ngày, 1.015 người bệnh có bệnh cơ nhĩ, 1,8 năm; đột quỵ tái phát 40 so với 40 ca, 4,4% so với 4,4% mỗi năm, HR 1,00 (0,64–1,55) [38]. Cả bốn đều trung tính (Bảng 4.1) [18,37].
+TABLE Bảng 4.1. Các thử nghiệm ngẫu nhiên so sánh thuốc kháng đông với aspirin trong đột quỵ lấp mạch chưa rõ nguồn [38,102-104].
+COLW 0.85,0.35,0.45,1.25,2.00,1.00
+ALIGN l,c,c,l,l,l
+FSIZE 10
+H Thử nghiệm|Năm|Cỡ mẫu|Can thiệp/chứng|Kết cục chính (can thiệp/chứng)|Kết luận
+R NAVIGATE-ESUS|2018|7.213|Rivaroxaban 15 mg/ngày; aspirin 100 mg/ngày|Đột quỵ/thuyên tắc hệ thống 5,1%/4,8% mỗi năm; HR 1,07 (0,87–1,33)|Dừng sớm; chảy máu nặng 1,8%/0,7% mỗi năm, HR 2,72
+R RE-SPECT ESUS|2019|5.390|Dabigatran 150 hoặc 110 mg hai lần/ngày; aspirin 100 mg/ngày|Đột quỵ tái phát 6,6%/7,7%; 4,1%/4,8% mỗi năm; HR 0,85 (0,69–1,03)|Không đạt ý nghĩa thống kê
+R ATTICUS|2024|352|Apixaban 5 mg hai lần/ngày; aspirin 100 mg/ngày|Nhồi máu mới trên MRI, 12 tháng: 13,6%/16,0%; OR 0,79 (0,42–1,48)|Dừng vì vô ích
+R ARCADIA|2024|1.015|Apixaban 5 mg hai lần/ngày; aspirin 81 mg/ngày; có bệnh cơ nhĩ|Đột quỵ tái phát 40/40 ca; 4,4%/4,4% mỗi năm; HR 1,00 (0,64–1,55)|Dừng vì vô ích; chảy máu nội sọ 0/7 ca
+ENDTABLE
+H3 4.1.3. Vì sao các thử nghiệm ESUS trung tính
+P Nhãn ESUS chọn lọc chưa đủ tốt: nếu một phần ba người bệnh có cơ chế lấp mạch từ tim và kháng đông giảm 60% nguy cơ ở nhóm ấy, hiệu quả toàn quần thể chỉ khoảng 20%. Tái phát trùng khít ở hai nhánh NAVIGATE-ESUS gợi ý biến cố phần lớn từ xơ vữa tại chỗ hoặc bệnh mạch máu nhỏ; mảng cùng bên chưa hẹp 50% nhưng loét hoặc vỏ xơ mỏng dễ bị bỏ sót [37].
+P ARCADIA định nghĩa bệnh cơ nhĩ bằng phép hợp ba tiêu chí: PTFV1 trên 5.000 µV·ms, NT-proBNP trên 250 pg/mL hoặc chỉ số đường kính nhĩ trái từ 3 cm/m^{2} trở lên. Trong 3.745 người sàng lọc, 254 người có rung nhĩ; nguy cơ tương đối mỗi độ lệch chuẩn PTFV1 chỉ 1,15 (KTC 95% 1,03–1,28), thấp hơn ln(NT-proBNP) 1,99 (1,85–2,13) và đường kính nhĩ trái 1,34 (1,20–1,50); PTFV1 rơi khỏi mô hình đa biến (chỉ số c 0,82; 0,79–0,85) [160].
+P ARCADIA-MRI (174/310 người chụp đủ hai lần: 79 apixaban, 95 aspirin; trung vị 811 ngày): nhồi máu im lặng mới 5,1% so với 17,9%, nguy cơ tương đối có trọng số 0,29 (KTC 95% 0,10–0,83) [159]. Tín hiệu này cần dè dặt vì cỡ mẫu nhỏ và ATTICUS trung tính; chưa đủ cơ sở kê kháng đông ngoài nghiên cứu [38,159].
+H3 4.1.4. Chiến lược định kiểu căn nguyên trong thực hành
+P Trọng tâm là định kiểu cơ chế, không phải gán nhãn: bốn nhóm với dấu hiệu, khảo sát và hệ quả điều trị riêng (Bảng 4.2) [13,36,37,178]. Khi chưa xác lập, nền tảng là kháng kết tập tiểu cầu đơn trị và phòng ngừa thứ phát chuẩn (Mục 3.2, Mục 3.5), không phải kháng đông thăm dò.
+P Xác suất trước xét nghiệm dẫn đường theo tuổi và kiểu tổn thương (Bảng 4.2): dưới 60 tuổi gợi luồng thông – tĩnh mạch, trên 75 tuổi gợi tim – nhĩ [13,36,37]. Với rung nhĩ dưới lâm sàng ngắn, ARTESiA và NOAH-AFNET 6 cho lợi ích khiêm tốn, bù trừ bởi chảy máu nặng [155-157]; khảo sát chưa xong thì chẩn đoán đúng là đột quỵ chưa rõ nguyên nhân [13,37].
+TABLE Bảng 4.2. Định kiểu căn nguyên trong đột quỵ lấp mạch chưa rõ nguồn theo bốn nhóm cơ chế [13,36,37,70,178].
+COLW 0.95,1.55,1.45,1.45
+ALIGN l,l,l,l
+FSIZE 10
+H Nhóm cơ chế|Dấu hiệu gợi ý|Khảo sát|Hệ quả điều trị
+R Tim – nhĩ: rung nhĩ kín đáo, bệnh cơ nhĩ, van tim|Tuổi cao, nhồi máu vỏ nhiều vùng, NT-proBNP tăng|Theo dõi nhịp kéo dài, siêu âm tim thành ngực/thực quản, NT-proBNP|Kháng đông đường uống; khi đó không còn là ESUS
+R Động mạch: mảng chưa hẹp, xơ vữa cung chủ, bóc tách|Nhồi máu một vùng cấp máu, mảng cùng bên dày/loét, đau cổ|Chụp mạch đầu cổ, hình ảnh thành mạch, siêu âm thực quản|Kháng tiểu cầu, statin cường độ cao, cân nhắc tái thông
+R Luồng thông – tĩnh mạch: lỗ bầu dục thông, huyết khối nguồn|Tuổi trẻ, ít nguy cơ, gắng sức/Valsalva, nhồi máu vỏ đơn ổ|Siêu âm tim cản âm, Doppler xuyên sọ, siêu âm tĩnh mạch|Đóng lỗ bầu dục thông ở nhóm chọn lọc (Mục 4.2)
+R Hệ thống: bệnh ác tính, kháng phospholipid, viêm mạch, bệnh huyết học|Sụt cân, D-dimer tăng, nhồi máu đa ổ, tiền sử huyết khối|D-dimer, tầm soát ung thư, kháng thể kháng phospholipid, xét nghiệm viêm|Điều trị bệnh nền; thuốc chống huyết khối theo bệnh cảnh
+ENDTABLE
+H3 4.1.5. Hướng đi mới: ức chế yếu tố XI và các thử nghiệm đang tiến hành
+P Ức chế yếu tố XI tách phòng ngừa huyết khối khỏi cầm máu sinh lý; pha 2 PACIFIC-Stroke và AXIOMATIC-SSP trung tính nhưng an toàn [152]. OCEANIC-STROKE tuyển 12.327 người bệnh trong 72 giờ sau nhồi máu não không do tim hoặc TIA nguy cơ cao (6.162 asundexian 50 mg mỗi ngày, 6.165 giả dược): nhồi máu não 6,2% so với 8,4%, HR 0,74 (KTC 95% 0,65–0,84; p < 0,001), chảy máu nặng 1,9% so với 1,7%, HR 1,10 (0,85–1,44) [151].
+P Đây không phải thử nghiệm ESUS: quần thể làm giàu theo hướng xơ vữa, không có phân nhóm ESUS; OCEANIC-AF dừng sớm vì thua kém apixaban. Tính đến tháng 8 năm 2026, LIBREXIA-STROKE (milvexian 25 mg hai lần mỗi ngày, 12.523 người bệnh) chưa có kết quả chính; chưa thử nghiệm pha 3 nào của nhóm này thiết kế riêng cho ESUS [151,152].

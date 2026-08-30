@@ -1,0 +1,51 @@
+H1 CHƯƠNG 3. ĐIỀU TRỊ CƠN THIẾU MÁU NÃO THOÁNG QUA VÀ ĐỘT QUỴ THIẾU MÁU NÃO NHẸ
+H2 3.1. Xử trí cấp cứu và đánh giá nhanh
+P Cơn thiếu máu não thoáng qua (TIA) và đột quỵ thiếu máu não nhẹ dồn biến cố vào ngày đầu: nguy cơ đột quỵ sau TIA 8,0% ở ngày thứ bảy, 11,5% ở tháng thứ nhất; sau đột quỵ nhẹ 11,5% và 15,0%, phần lớn trong 48 giờ đến 7 ngày đầu [76].
+H3 3.1.1. Phân loại ưu tiên và đánh giá ban đầu
+P Cấp cứu TIA dựa trên xác suất biến cố kế tiếp, không phải mức nặng triệu chứng [56]. Mười phút đầu: thời điểm cuối cùng còn bình thường, thang điểm đột quỵ của Viện Y tế Quốc gia Hoa Kỳ (NIHSS), tính chất gây tàn tật; ABCD2 không dùng đơn độc để hoãn hình ảnh hay cho ra viện [12,13].
+P Chiến lược nhanh nhất là cắt lớp vi tính không cản quang kèm chụp mạch cung chủ đến nội sọ; ở Việt Nam, đoạn nội sọ phải có ngay lần đầu (Mục 2.5.4). Bảng 3.1 nêu trình tự và mốc thời gian.
+TABLE Quy trình đánh giá và xử trí trong 24 giờ đầu [4,5,12,13,18,20].
+COLW 0.85,1.75,0.80
+ALIGN l,j,c
+FSIZE 10.5
+H Bước|Nội dung|Mốc thời gian
+R Phân loại|Giờ cuối còn bình thường; đường huyết; sinh hiệu; NIHSS|10 phút
+R Thiếu sót|Gây tàn tật hay không; thuốc chống huyết khối|15 phút
+R Hình ảnh|Cắt lớp không cản quang; chụp mạch đầu-cổ; khuếch tán|45 phút
+R Tiêu sợi huyết|Gây tàn tật; 4,5 giờ; không chống chỉ định|Kim tiêm 60 phút
+R Nội mạch|Hội chẩn: tắc mạch lớn gần kèm tàn tật|60 phút sau chụp mạch
+R Chống huyết khối|Kháng kết tập tiểu cầu; loại trừ chảy máu (Mục 3.2)|24 giờ
+R Xét nghiệm nền|Công thức máu, đông máu, điện giải, gan-thận, glucose, HbA1c, mỡ máu|2 giờ
+R Tim mạch|Điện tâm đồ 12 chuyển đạo; theo dõi nhịp; siêu âm tim|Điện tâm đồ 30 phút
+R Sinh lý|Huyết áp, đường huyết, thân nhiệt, bão hoà oxy; sàng lọc nuốt|Liên tục 24 giờ
+R Nơi chăm sóc|Nhập viện hoặc ngoại trú nhanh; theo dõi 72 giờ|24 giờ
+ENDTABLE
+H3 3.1.2. Chỉ định tiêu sợi huyết ở đột quỵ thiếu máu não nhẹ
+H4 3.1.2.1. Cửa sổ 4,5 giờ theo tính chất gây tàn tật
+P Trục quyết định là tính chất gây tàn tật chứ không phải NIHSS [135]: mất ngôn ngữ, bán manh đồng danh, liệt hoặc thất điều cản trở đi lại đều ngăn sinh hoạt cơ bản [136]. Trong cửa sổ 4,5 giờ, hướng dẫn 2026 khuyến cáo mức I tenecteplase 0,25 mg/kg (tối đa 25 mg) hoặc alteplase 0,9 mg/kg, không phụ thuộc NIHSS [5].
+P PRISMS (n = 313, NIHSS 0–5, dưới 3 giờ): alteplase 0,9 mg/kg so với aspirin, thang điểm Rankin sửa đổi (mRS) 0–1 ngày 90: 78,2% (122/156) và 81,5% (128/157), khác biệt hiệu chỉnh −1,1% (khoảng tin cậy 95%, KTC 95%, −9,4% đến 7,3%) [59]. ARAMIS (n = 760, NIHSS ≤ 5, dưới 4,5 giờ): clopidogrel 300 mg rồi 75 mg/ngày + aspirin 100 mg/ngày, 12 ngày, so với alteplase 0,9 mg/kg: mRS 0–1 93,8% (346/369) và 91,4% (320/350), khác biệt 2,3% (−1,5% đến 6,2%), không kém hơn [138,139].
+P TEMPO-2 (n = 886, NIHSS 0–5 kèm tắc nội sọ hoặc bất thường tưới máu, dưới 12 giờ): tenecteplase 0,25 mg/kg so với điều trị chuẩn: chức năng nền ngày 90 72% và 75%, nguy cơ tương đối (RR) 0,96 (KTC 95% 0,88–1,04) [60]. Phân tích gộp bốn thử nghiệm NIHSS ≤ 5 (n = 3.364): không cải thiện mRS 0–1, tỷ số chênh (OR) 0,85 (0,70–1,03), tăng xuất huyết nội sọ có triệu chứng, OR 5,22 (1,76–15,48) và tử vong, OR 2,40 (1,23–4,67) [141] (Bảng 3.2).
+TABLE Lựa chọn điều trị tái tưới máu theo tính chất gây tàn tật của thiếu sót [5,59,60,136,138,140-142].
+COLW 1.15,0.75,1.30,1.20
+ALIGN l,c,j,j
+FSIZE 10.5
+H Bệnh cảnh|Cửa sổ|Khuyến cáo|Bằng chứng
+R Gây tàn tật, không tắc lớn|< 4,5 giờ|Tiêu sợi huyết: tenecteplase 0,25 mg/kg hoặc alteplase 0,9 mg/kg|Mức I, hướng dẫn 2026 [5,136]
+R Gây tàn tật kèm tắc lớn gần|< 4,5 giờ|Tiêu sợi huyết + hội chẩn nội mạch|[5]; phân tích thứ cấp [140]
+R Không tàn tật, không tắc mạch|< 4,5 giờ|Kháng kết tập tiểu cầu kép; không tiêu sợi huyết|PRISMS [59]; ARAMIS [138]; mạng lưới [142]
+R Không tàn tật, tắc mạch nội sọ|< 12 giờ|Kháng kết tập tiểu cầu kép; tenecteplase không vượt trội|TEMPO-2 [60]
+R NIHSS ≤ 5, mọi tính chất thiếu sót|Trong cửa sổ tiêu sợi huyết|Không tiêu sợi huyết mặc định|Gộp bốn thử nghiệm [141]
+R Không rõ có gây tàn tật|< 4,5 giờ|Xử trí như có tàn tật|Chuyên gia [136]
+ENDTABLE
+P EAST (n = 1.022, NIHSS 0–5 đã tiêu sợi huyết; phân tích 995): clopidogrel kèm aspirin trong 6 giờ đầu so với giả dược: mRS 0–1 ngày 90 89,7% (451/503) và 89,6% (441/492), OR 1,00 (KTC 95% 0,67–1,51) [145]; TAPIS (NIHSS 4–10) thuận lợi cho ticagrelor kèm aspirin [146]. NIHSS 0–5: kháng kết tập tiểu cầu đơn trị sau 24 giờ (Mục 3.2).
+H4 3.1.2.2. Cửa sổ mở rộng 4,5–24 giờ
+P TRACE-III (n = 516, tắc cảnh trong hoặc M1, còn mô cứu được, không tiếp cận lấy huyết khối): tenecteplase 0,25 mg/kg so với điều trị chuẩn: mRS 0–1 ngày 90 33,0% và 24,2%, RR 1,37 (KTC 95% 1,04–1,81) [143]. OPTION (n = 570, không tắc mạch lớn, cùng cửa sổ): 43,6% (123/282) và 34,2% (97/284), RR 1,28 (1,04–1,57) [144].
+H3 3.1.3. Chỉ định can thiệp nội mạch
+P Hướng dẫn 2026 khuyến cáo mạnh nhất cho tắc cảnh trong đoạn cuối hoặc M1, NIHSS ≥ 6, cửa sổ 6 giờ, mở rộng đến 24 giờ nếu thoả tiêu chí hình ảnh; NIHSS < 6 phải cá thể hoá tại trung tâm đột quỵ [5]. NIHSS thấp kèm tắc mạch không tự động tạo chỉ định, phải cân nhắc nguy cơ thủ thuật [74].
+P DISTAL (n = 543, tắc mạch trung bình hoặc xa): lấy huyết khối so với nội khoa, phân bố mRS ngày 90 có OR chung hiệu chỉnh 0,90 (KTC 95% 0,67–1,22) [148]. ESCAPE-MeVO (n = 530, tắc mạch trung bình): mRS 0–1 41,6% và 43,1%, RR hiệu chỉnh 0,95 (0,79–1,15) [149]; DISCOUNT dừng sớm vì vô ích (n = 163) [150].
+H3 3.1.4. Xử trí huyết áp, đường huyết và các thông số sinh lý trong giai đoạn tối cấp
+P Khi dự kiến tiêu sợi huyết, huyết áp phải dưới 185/110 mmHg trước truyền, dưới 180/105 mmHg trong 24 giờ; nếu không tái tưới máu, chỉ hạ khi vượt 220/120 mmHg, không quá 15% trong 24 giờ đầu [4,5]. Nhồi máu ổ khuyết theo nguyên tắc này [134]; thời điểm dùng lại thuốc hạ áp còn là khoảng trống [18] (Mục 3.6).
+P Đích đường huyết 140–180 mg/dL (7,8–10,0 mmol/L), xử trí ngay khi dưới 60 mg/dL (3,3 mmol/L); thở oxy khi bão hoà oxy dưới 94%; hạ thân nhiệt trên 38 °C [5]. Sàng lọc nuốt trước khi ăn uống và dự phòng huyết khối tĩnh mạch hoàn tất gói 24 giờ đầu [4,5].
+H3 3.1.5. Quyết định nơi chăm sóc và theo dõi diễn biến sớm
+P Có quy trình chuyên khoa nhanh, ngoại trú và nội trú cho nguy cơ đột quỵ kế tiếp như nhau [75]; nhập viện khi triệu chứng dao động hoặc tái diễn, có tổn thương khuếch tán, hẹp động mạch có triệu chứng ≥ 50% hoặc rung nhĩ mới [12,13]. Khảo sát 66 bệnh viện: 70% có đơn vị đột quỵ, trung vị 630 ca cấp/năm (tứ phân vị 250–1.200) [185].
+P Tại Bệnh viện Bạch Mai (n = 839, NIHSS ≤ 5), suy giảm thần kinh sớm (tăng ≥ 2 điểm NIHSS trong 72 giờ) gặp ở 88 người bệnh (10,5%): 43,2% ở 24 giờ đầu, 35,2% ở 24–48 giờ, 21,6% ở 48–72 giờ; kết cục xấu (mRS 2–6) ngày 90 OR 21,74 (KTC 95% 12,63–37,43). Dự đoán độc lập: NIHSS nhập viện, huyết áp tâm thu > 150 mmHg (OR 1,70; 1,03–2,81), đường huyết (1,07/đơn vị; 1,01–1,14), kháng kết tập tiểu cầu đơn trị (3,69; 2,24–6,08) [183]; cần đánh giá lại NIHSS mỗi 8 giờ trong 72 giờ đầu, không cho ra viện sớm.

@@ -1,0 +1,113 @@
+PCB BỘ GIÁO DỤC VÀ ĐÀO TẠO
+PCB ĐẠI HỌC HUẾ
+PCB TRƯỜNG ĐẠI HỌC Y DƯỢC
+PC
+PC
+PC
+PCB LÊ VŨ HUỲNH
+PC
+PC
+PCB CHUYÊN ĐỀ 2
+PC
+PCB CHẨN ĐOÁN VÀ ĐIỀU TRỊ ĐỘT QUỴ NHẸ
+PCB VÀ CƠN THIẾU MÁU NÃO THOÁNG QUA
+PC
+PC
+PC
+PC Chuyên ngành: NỘI KHOA
+PC Mã số: 9720107
+PC
+PC
+PC
+PCB NĂM 2026
+PB
+PCB BỘ GIÁO DỤC VÀ ĐÀO TẠO
+PCB ĐẠI HỌC HUẾ
+PCB TRƯỜNG ĐẠI HỌC Y DƯỢC
+PC
+PC
+PCB LÊ VŨ HUỲNH
+PC
+PCB CHUYÊN ĐỀ 2
+PC
+PCB CHẨN ĐOÁN VÀ ĐIỀU TRỊ ĐỘT QUỴ NHẸ
+PCB VÀ CƠN THIẾU MÁU NÃO THOÁNG QUA
+PC
+PC TÊN ĐỀ TÀI LUẬN ÁN:
+PCB NGHIÊN CỨU KẾT QUẢ CAN THIỆP NỘI MẠCH ĐIỀU TRỊ NHỒI MÁU NÃO
+PCB DO TẮC ĐỘNG MẠCH LỚN NỘI SỌ TRÊN NỀN HẸP MẠN
+PC
+PC Chuyên ngành: NỘI KHOA
+PC Mã số: 9720107
+PC
+PC Người hướng dẫn khoa học:
+PCB PGS.TS. LÊ TRỌNG BỈNH – PGS.TS. NGUYỄN ĐÌNH TOÀN
+PC
+PCB HUẾ – 2026
+SECTION
+H1 MỤC LỤC
+TOC
+H1P DANH MỤC CHỮ VIẾT TẮT
+TABLEX
+COLW 1.0,1.6,2.6
+ALIGN l,l,l
+FSIZE 12
+H Viết tắt|Tiếng Anh / nguyên ngữ|Tiếng Việt
+R ABCD2|Age, Blood pressure, Clinical features, Duration, Diabetes|Thang điểm phân tầng nguy cơ sau cơn thiếu máu não thoáng qua
+R ABCD3-I|ABCD3 – Imaging|Thang điểm ABCD3 có bổ sung hình ảnh học
+R ADC|Apparent diffusion coefficient|Hệ số khuếch tán biểu kiến
+R AHA/ASA|American Heart Association / American Stroke Association|Hiệp hội Tim mạch Hoa Kỳ / Hiệp hội Đột quỵ Hoa Kỳ
+R AHI|Apnoea–hypopnoea index|Chỉ số ngừng thở – giảm thở
+R ApoB|Apolipoprotein B|Apolipoprotein B
+R ASCOD|Atherosclerosis, Small-vessel disease, Cardiac, Other, Dissection|Hệ thống phân loại nguyên nhân đột quỵ ASCOD
+R CCS|Causative Classification System|Hệ thống phân loại theo nguyên nhân
+R CHA2DS2-VASc|Congestive heart failure, Hypertension, Age, Diabetes, Stroke, Vascular disease, Sex category|Thang điểm nguy cơ huyết khối lấp mạch trong rung nhĩ
+R CHT|—|Cộng hưởng từ
+R CLVT|—|Cắt lớp vi tính
+R CTA|Computed tomography angiography|Chụp mạch cắt lớp vi tính
+R CYP2C19|Cytochrome P450 2C19|Enzym chuyển hoá thuốc CYP2C19
+R DOAC|Direct oral anticoagulant|Thuốc kháng đông đường uống trực tiếp
+R DSA|Digital subtraction angiography|Chụp mạch số hoá xoá nền
+R DWI|Diffusion-weighted imaging|Chuỗi xung cộng hưởng từ khuếch tán
+R ECST|European Carotid Surgery Trial|Thử nghiệm phẫu thuật động mạch cảnh châu Âu
+R eGFR|Estimated glomerular filtration rate|Mức lọc cầu thận ước tính
+R ESO|European Stroke Organisation|Tổ chức Đột quỵ châu Âu
+R ESUS|Embolic stroke of undetermined source|Đột quỵ lấp mạch chưa rõ nguồn
+R FLAIR|Fluid-attenuated inversion recovery|Chuỗi xung xoá tín hiệu dịch
+R GBD|Global Burden of Disease|Gánh nặng bệnh tật toàn cầu
+R GLP-1|Glucagon-like peptide-1|Peptide giống glucagon-1
+R HbA1c|Glycated haemoglobin|Hemoglobin gắn đường
+R HINTS|Head Impulse, Nystagmus, Test of Skew|Bộ ba khám tiền đình phân biệt trung ương – ngoại biên
+R HR|Hazard ratio|Tỷ số nguy cơ
+R hsCRP|High-sensitivity C-reactive protein|Protein phản ứng C độ nhạy cao
+R ICM|Insertable cardiac monitor|Máy ghi nhịp cấy dưới da
+R KTC|—|Khoảng tin cậy
+R LAA|Left atrial appendage|Tiểu nhĩ trái
+R LDL-C|Low-density lipoprotein cholesterol|Cholesterol lipoprotein tỷ trọng thấp
+R Lp(a)|Lipoprotein(a)|Lipoprotein(a)
+R MoCA|Montreal Cognitive Assessment|Thang đánh giá nhận thức Montreal
+R MRA|Magnetic resonance angiography|Chụp mạch cộng hưởng từ
+R NASCET|North American Symptomatic Carotid Endarterectomy Trial|Thử nghiệm bóc nội mạc động mạch cảnh có triệu chứng Bắc Mỹ
+R NIHSS|National Institutes of Health Stroke Scale|Thang điểm đột quỵ của Viện Y tế Quốc gia Hoa Kỳ
+R NNT|Number needed to treat|Số người cần điều trị để phòng một biến cố
+R NT-proBNP|N-terminal pro–B-type natriuretic peptide|Đoạn tận N của tiền peptide lợi niệu típ B
+R OR|Odds ratio|Tỷ số chênh
+R PASCAL|PFO-Associated Stroke Causal Likelihood|Phân loại xác suất nhân quả của lỗ bầu dục thông
+R PCSK9|Proprotein convertase subtilisin/kexin type 9|Proprotein convertase subtilisin/kexin típ 9
+R PFO|Patent foramen ovale|Lỗ bầu dục thông
+R PHQ-9|Patient Health Questionnaire-9|Bộ câu hỏi sàng lọc trầm cảm 9 mục
+R RES-Q|Registry of Stroke Care Quality|Sổ bộ chất lượng chăm sóc đột quỵ
+R RoPE|Risk of Paradoxical Embolism|Thang điểm nguy cơ lấp mạch nghịch thường
+R rt-PA|Recombinant tissue plasminogen activator|Chất hoạt hoá plasminogen mô tái tổ hợp
+R SGLT-2|Sodium–glucose cotransporter 2|Đồng vận chuyển natri – glucose típ 2
+R SSRI|Selective serotonin reuptake inhibitor|Thuốc ức chế tái hấp thu serotonin chọn lọc
+R SWI|Susceptibility-weighted imaging|Chuỗi xung nhạy từ
+R TIA|Transient ischaemic attack|Cơn thiếu máu não thoáng qua
+R TOAST|Trial of Org 10172 in Acute Stroke Treatment|Hệ thống phân loại nguyên nhân nhồi máu não TOAST
+R WASID|Warfarin–Aspirin Symptomatic Intracranial Disease|Thử nghiệm warfarin so với aspirin trong hẹp động mạch nội sọ có triệu chứng
+ENDTABLE
+H1P DANH MỤC BẢNG
+LISTTABLES
+H1P DANH MỤC HÌNH
+LISTFIGURES
+SECTION

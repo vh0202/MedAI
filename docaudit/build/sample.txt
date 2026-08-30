@@ -1,0 +1,30 @@
+PCB BỘ GIÁO DỤC VÀ ĐÀO TẠO
+H1 MỤC LỤC
+TOC
+H1P DANH MỤC BẢNG
+LISTTABLES
+H1P DANH MỤC HÌNH
+LISTFIGURES
+SECTION
+H1 ĐẶT VẤN ĐỀ
+P Đoạn mở đầu thử nghiệm.
+H1P CHƯƠNG 1. TỔNG QUAN
+H2 1.1. Định nghĩa
+H3 1.1.1. Lịch sử
+H4 1.1.1.1. Giai đoạn dựa trên thời gian
+P Đây là một đoạn văn thử nghiệm để kiểm tra phông chữ Times New Roman, giãn dòng 1,5 và thụt đầu dòng 1 cm. Chỉ số như CHA_{2}DS_{2}-VASc và đơn vị kg/m^{2} phải hiển thị đúng [1,2].
+TABLE So sánh định nghĩa dựa trên thời gian và dựa trên mô [6-8].
+COLW 1.1,1.5,1.5
+ALIGN l,j,j
+H Đặc điểm|Định nghĩa dựa trên thời gian (1975)|Định nghĩa dựa trên mô (2009)
+R Cơ sở phân loại|Thời gian triệu chứng dưới 24 giờ|Có hay không nhồi máu cấp trên hình ảnh
+R Vai trò cộng hưởng từ khuếch tán|Không yêu cầu|Trung tâm của chẩn đoán
+ENDTABLE
+P Đoạn văn sau bảng.
+FIG image1.jpg | 14.0 | So sánh giải phẫu – lâm sàng giữa TIA và hội chứng vành cấp [26].
+H1P CHƯƠNG 2. CHẨN ĐOÁN
+H2 2.1. Lâm sàng
+P Nội dung chương 2.
+FIG image3.jpg | 14.0 | Sơ đồ năm cấu phần thang điểm ABCD2 [9].
+H1P TÀI LIỆU THAM KHẢO
+REF 1. Johnston SC, Gress DR. Short-term prognosis after emergency department diagnosis of TIA. JAMA. 2000;284(22):2901-6.

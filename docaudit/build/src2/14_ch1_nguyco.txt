@@ -1,0 +1,32 @@
+H2 1.4. Yếu tố nguy cơ và phòng ngừa tiên phát
+H3 1.4.1. Yếu tố nguy cơ thay đổi được
+H4 1.4.1.1. Yếu tố kinh điển
+P INTERSTROKE (26.919 người): mười yếu tố thay đổi được chiếm 91,5% nguy cơ quy thuộc quần thể (PAR) nhồi máu não, 90,7% đột quỵ; đứng đầu: tăng huyết áp, tỷ số chênh (OR) 2,98, PAR 47,9% (Bảng 1.10) [40]. Rung nhĩ gây 15–20% nhồi máu não [18,41]. Hẹp cảnh không triệu chứng 0,5–1%, không sàng lọc thường quy [42]; hẹp ≥ 50% ở 7,5% nam, 5,0% nữ ≥ 80 tuổi (23.706 người) [167].
+TABLE Bảng 1.10. Yếu tố nguy cơ chính của cơn thiếu máu não thoáng qua và đột quỵ thiếu máu não: mức nguy cơ và mục tiêu kiểm soát [18,40,41,132].
+COLW 1.0,1.5,1.3,1.4
+ALIGN l,j,j,j
+FSIZE 10.5
+H Yếu tố|Mức nguy cơ|Mục tiêu|Can thiệp; khuyến cáo
+R Tăng huyết áp|OR 2,98; PAR 47,9% (INTERSTROKE)|Dưới 130/80 mmHg|Thuốc hạ áp; mức I
+R Hút thuốc|OR 1,67|Ngừng hẳn; tránh khói thuốc|Tư vấn, dược trị liệu; mức I
+R Rối loạn lipid|OR 1,84 (ApoB/ApoA1 cao)|LDL-C theo nguy cơ|Statin cường độ cao nếu ≥ 20%; mức I
+R Đái tháo đường típ 2|OR 1,16|HbA1c cá thể hoá|Ưu tiên chủ vận GLP-1
+R Rung nhĩ|15–20% nhồi máu não|Đánh giá nguy cơ tắc mạch|Kháng đông uống khi ≥ 2%/năm; mức I
+R Ít vận động|Bảo vệ độc lập|≥ 150 phút/tuần trung bình|Tư vấn vận động; mức I
+R Béo phì trung tâm|Vòng eo/hông cao|Giảm 5–10% cân nặng|Giảm cân đa thành phần
+R Chế độ ăn|Điểm nguy cơ cao|Địa Trung Hải/DASH; hạn chế natri|Dầu ô liu, hạt
+ENDTABLE
+H4 1.4.1.2. Yếu tố ít được chú ý nhưng có liên quan trực tiếp tới Việt Nam
+P Bệnh thận mạn bị bỏ sót: giảm mức lọc cầu thận và albumin niệu tăng nguy cơ đột quỵ theo liều, nay có trong PREVENT cùng giấc ngủ và ngừng thở khi ngủ do tắc nghẽn [41]. Ô nhiễm không khí xếp thứ tư trong nguy cơ quy thuộc tại Việt Nam, khoảng 33.000 ca tử vong [34], đang tăng (Gánh nặng bệnh tật toàn cầu 2021) [29]; nhóm chuyển hoá lớn nhất, 144,89/100.000 dân [181].
+H3 1.4.2. Yếu tố không thay đổi được và yếu tố di truyền
+P Nguy cơ đột quỵ tăng gấp đôi mỗi mười năm từ tuổi 55 [41]. Người Đông và Đông Nam Á ưu thế hẹp nội sọ hơn ngoài sọ: tổng quan 2025 (142 nghiên cứu châu Á) cho tỷ lệ hiện mắc 3%–89,4%, trung vị 13%; biến thể RNF213 liên quan moyamoya và bệnh cảnh này [186].
+P Tại Bệnh viện Bạch Mai, trong 1.191 người TIA hoặc nhồi máu não, hẹp cảnh ngoài sọ 50–99% cùng bên chỉ 62 ca (5,2%; KTC 95% 4,0–6,6) [182]; cần khảo sát toàn trục mạch, cả nội sọ (Mục 2.2). Di truyền chủ yếu đa gen qua tiền sử gia đình; thể đơn gen hiếm, giá trị ở người trẻ, điển hình NOTCH3 [41].
+H3 1.4.3. Khuyến cáo phòng ngừa tiên phát theo hướng dẫn năm 2024
+P Hướng dẫn phòng ngừa tiên phát 2024 dùng PREVENT; đích huyết áp dưới 130/80 mmHg mức I, tái khẳng định 2025 [41,132]. Đích này không từ SPRINT: so dưới 120 với dưới 140 mmHg, loại trừ tiền sử đột quỵ, không giảm đột quỵ [43]. HYVET (3.845 người ≥ 80 tuổi) không đạt kết cục chính: 12,4 và 17,7/1.000 người-năm, HR 0,70 (KTC 95% 0,49–1,01) [44].
+P ESPRIT (11.255 người, đích dưới 120 mmHg) [171]: đột quỵ 262 (4,7%) và 303 (5,4%), HR 0,86 (KTC 95% 0,73–1,02); xuất huyết não 23 (0,4%) và 45 (0,8%), HR 0,51 (KTC 95% 0,31–0,85) [172]. SOUL (9.650 người đái tháo đường típ 2, semaglutide 14 mg/ngày): kết cục gộp 579 (12,0%) và 668 (13,8%), HR 0,86 (KTC 95% 0,77–0,96) [173]; ức chế SGLT-2 không giảm đột quỵ [174]. PREDIMED (7.447 người nguy cơ cao): Địa Trung Hải thêm dầu ô liu (HR 0,69; KTC 95% 0,53–0,91) hoặc hạt (HR 0,72; KTC 95% 0,54–0,96) giảm kết cục này [45].
+H3 1.4.4. Vai trò của aspirin và statin trong phòng ngừa tiên phát
+P ASPREE (19.114 người cao tuổi, aspirin 100 mg/ngày): tim mạch 10,7 và 11,3/1.000 người-năm, HR 0,95 (KTC 95% 0,83–1,08); chảy máu nặng 8,6 và 6,2, HR 1,38 (KTC 95% 1,18–1,62) [46]. ARRIVE (12.546 người nguy cơ trung bình): kết cục gộp 4,29% và 4,48%, HR 0,96 (KTC 95% 0,81–1,13) [47]. Ngoại lệ ASCEND (15.480 người đái tháo đường): biến cố mạch máu 8,5% và 9,6%, nguy cơ tương đối (RR) 0,88 (KTC 95% 0,79–0,97); chảy máu 4,1% và 3,2%, RR 1,29 (KTC 95% 1,09–1,52) [48]. Khuyến cáo 2022: không khởi đầu aspirin từ 60 tuổi; cá thể hoá 40–59 tuổi nếu nguy cơ 10 năm ≥ 10% [49].
+P Statin: cường độ cao khi nguy cơ xơ vữa 10 năm ≥ 20%, trung bình khi 7,5–19,9% có yếu tố tăng cường, mặc định khi LDL-C ≥ 190 mg/dL (4,9 mmol/L) hoặc đái tháo đường típ 2 [41]. HOPE-3 (12.705 người không bệnh tim mạch, rosuvastatin 10 mg/ngày) giảm kết cục đồng chính: 235 (3,7%) và 304 (4,8%), HR 0,76 (KTC 95% 0,64–0,91) [50].
+H3 1.4.5. Sàng lọc rung nhĩ trong cộng đồng
+P Hướng dẫn 2024 không đặt mức I cho sàng lọc rung nhĩ theo tuổi, chỉ giữ mức I cho kháng đông khi nguy cơ đột quỵ hằng năm ≥ 2% [41]. Hướng dẫn rung nhĩ 2024 thay CHA_{2}DS_{2}-VASc bằng CHA_{2}DS_{2}-VA trung tính giới: 0 điểm không kháng đông, 1 điểm IIa, ≥ 2 điểm mức I, chung cho hai giới [131].
+P ARTESiA (4.012 người rung nhĩ dưới lâm sàng do thiết bị; apixaban 5 mg × 2/ngày và aspirin 81 mg/ngày): đột quỵ hoặc thuyên tắc hệ thống 0,78% và 1,24%/người-năm, HR 0,63 (KTC 95% 0,45–0,88); chảy máu nặng 1,71% và 0,94%, HR 1,80 (KTC 95% 1,26–2,57) [155]. NOAH-AFNET 6 (2.536 người cơn nhịp nhĩ nhanh; edoxaban và giả dược) dừng sớm: 3,2% và 4,0%/người-năm, HR 0,81 (KTC 95% 0,60–1,08); tử vong hoặc chảy máu nặng 5,9% và 4,5%, HR 1,31 (KTC 95% 1,02–1,67) [156].

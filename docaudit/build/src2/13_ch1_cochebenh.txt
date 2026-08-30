@@ -1,0 +1,61 @@
+H2 1.3. Cơ chế bệnh sinh và phân loại nguyên nhân
+H3 1.3.1. Cơ sở sinh lý bệnh của thiếu máu não hồi phục
+H4 1.3.1.1. Ngưỡng lưu lượng máu não và vùng tranh tối tranh sáng
+P TIA và đột quỵ thiếu máu não nhẹ chung một trục sinh lý bệnh: 18–20 mL/100 g/phút, tế bào ngừng hoạt động điện nhưng còn sống; dưới 10–12 mL/100 g/phút, suy bơm ion và chết không hồi phục; giữa là vùng tranh tối tranh sáng (Bảng 1.7). Tổn thương cũng là hàm thời gian: chịu 15 mL/100 g/phút nhiều giờ, 10 mL/100 g/phút một giờ, dưới 5 mL/100 g/phút vài phút, nên cơn ngắn vẫn để lại ổ nhồi máu [22,23]. Tái phát thường cùng lãnh thổ, cùng cơ chế [11].
+TABLE Ngưỡng lưu lượng máu não và hệ quả chức năng – mô học [22,35].
+COLW 0.9,1.5,1.4
+ALIGN c,j,j
+FSIZE 10.5
+H Lưu lượng (mL/100 g/phút)|Sinh lý bệnh|Hệ quả chức năng, mô học
+R Trên 50|Lưu lượng nền; đủ oxy, glucose|Thần kinh bình thường
+R 25–50|Giảm tưới máu nhẹ; tự điều hoà giãn mạch|Không triệu chứng; chỉ thấy trên hình ảnh tưới máu
+R 20–25|Cạn dự trữ giãn mạch; tưới máu khốn cùng|Không triệu chứng lúc nghỉ; có khi gắng sức
+R 18–20|Ngưỡng suy chức năng điện; điện não dẹt|Thiếu sót khu trú; mô còn sống
+R 12–18|Vùng tranh tối tranh sáng; khử cực lan toả|Mô tuỳ thời gian và tái tưới máu
+R Dưới 10–12|Suy bơm ion, phù độc tế bào|Lõi nhồi máu; hạn chế khuếch tán
+ENDTABLE
+H4 1.3.1.2. Tự điều hoà, tuần hoàn bàng hệ và dự trữ vận mạch
+P Lưu lượng não hằng định trong dải 60–150 mmHg, dịch phải khi tăng huyết áp mạn, nên hạ huyết áp tích cực ở người hẹp nặng thúc đẩy biến cố. Cạn dự trữ giãn mạch thì chỉ còn tăng chiết tách oxy — tưới máu khốn cùng, đo bằng nghiệm pháp acetazolamide; động mạch xuyên không bàng hệ nên tổn thương vùng sâu luôn hoàn tất (xem Mục 3.1.4, Mục 2.4.2) [22,23].
+H3 1.3.2. Phân loại TOAST và khái niệm đột quỵ lấp mạch chưa rõ nguồn
+P TOAST 1993 chia nhồi máu não thành năm phân nhóm, cần cả bằng chứng dương tính lẫn loại trừ [35], nên tỷ lệ tuỳ mức hoàn tất khảo sát: 39,4% chưa xác định ở Bắc Dublin (381 người bệnh) [179]. Năm 2014, Hart tách ra đột quỵ lấp mạch chưa rõ nguồn (ESUS): bốn tiêu chí loại trừ, chỉ giá trị sau bộ khảo sát tối thiểu của đồng thuận Hội Tim mạch châu Âu 2024 (Bảng 1.8) [36,37].
+TABLE Bốn tiêu chí đột quỵ lấp mạch chưa rõ nguồn và các khảo sát tối thiểu để xác lập [36,37,178].
+COLW 0.9,1.6,1.3
+ALIGN l,j,j
+FSIZE 10.5
+H Tiêu chí|Định nghĩa thao tác|Khảo sát tối thiểu
+R Nhồi máu không phải ổ khuyết|Dưới vỏ >1,5 cm (cắt lớp vi tính), >2,0 cm (khuếch tán); vỏ, tiểu não, thân não|Cộng hưởng từ khuếch tán hoặc cắt lớp vi tính sọ
+R Không hẹp ≥50% động mạch cấp máu|Không xơ vữa ≥50% ngoài sọ hoặc nội sọ cùng lãnh thổ|Chụp mạch toàn trục; hoặc Doppler cảnh và xuyên sọ
+R Không nguồn lấp mạch tim nguy cơ cao|Rung/cuồng nhĩ, huyết khối buồng tim, van nhân tạo, hẹp hai lá, u nhầy, sùi van, nhồi máu cơ tim <4 tuần, phân suất tống máu <30%|Điện tâm đồ 12 chuyển đạo; nhịp ≥24 giờ; siêu âm tim
+R Không nguyên nhân đặc hiệu khác|Không bóc tách, viêm mạch, loạn sản xơ cơ, co thắt mạch, thuốc, tăng đông|Xét nghiệm cơ bản; hình ảnh thành mạch khi nghi ngờ
+ENDTABLE
+P ESUS chiếm khoảng 17% nhồi máu não, dao động 9–25%, thiếu sót nhẹ hơn, tái phát khoảng 4,5% mỗi năm dù dùng kháng tiểu cầu [178]. Đây là trạng thái tri thức, không phải cơ chế: bên trong là rung nhĩ tiềm ẩn, bệnh cơ nhĩ, mảng xơ vữa dưới 50% có loét — nên thử nghiệm kháng đông trung tính (xem Mục 4.1.3).
+H3 1.3.3. Lấp mạch nguồn tim
+P Rung nhĩ giải thích khoảng 15–20% nhồi máu não, tới khoảng 25% ở nhóm rất cao tuổi; ứ trệ tiểu nhĩ trái tạo huyết khối giàu fibrin, ít đáp ứng kháng kết tập tiểu cầu. Cục nhỏ vào nhánh tận chỉ gây cơn thoáng qua, nên rung nhĩ bị bỏ sót nhiều nhất ở quần thể nhẹ [23,35].
+P Ở Việt Nam, van hai lá do thấp vẫn cần tìm ở người trẻ; kê kháng đông sau nhồi máu não có rung nhĩ còn nhiều khoảng trống [184]. Bệnh cơ nhĩ sinh huyết khối trước rung nhĩ: NT-proBNP trên 250 pg/mL, lực tận sóng P ở V1 trên 5.000 µV·ms, chỉ số đường kính nhĩ trái ≥3 cm/m^{2} [38]; ARCADIA: chỉ số c 0,82 (KTC 95% 0,79–0,85); chỉ ln(NT-proBNP) 1,88 (KTC 95% 1,67–2,11) và đường kính nhĩ trái 1,25 (KTC 95% 1,14–1,37) còn liên quan [160].
+H3 1.3.4. Xơ vữa động mạch lớn
+H4 1.3.4.1. Hẹp động mạch cảnh ngoài sọ
+P Hẹp xơ vữa động mạch cảnh trong ngoài sọ chiếm khoảng 8–15% nhồi máu não, biến cố chủ yếu từ mảng vỡ hoặc loét; tính bất ổn của mảng quan trọng hơn mức hẹp (xem Mục 2.4.4) [22,23]. Trong 1.191 người bệnh TIA hoặc nhồi máu não tại Bạch Mai, hẹp cùng bên 50–99% chỉ gặp 62 người, tức 5,2% (KTC 95% 4,0–6,6) [182].
+H4 1.3.4.2. Hẹp động mạch nội sọ và đặc thù quần thể châu Á
+P Hẹp động mạch lớn nội sọ ở châu Á có tỷ lệ rất khác nhau: tổng quan phạm vi 2025 trên 142 nghiên cứu cho 3–89,4%, trung vị 13% [186]; CICAS trên 2.864 người bệnh tại 22 bệnh viện Trung Quốc cho hẹp ≥50% ở 46,6% [19]. Cơ chế gồm xơ vữa nhánh, lấp mạch động mạch – động mạch, giảm tưới máu giáp ranh sâu; cơn giật chi dễ nhầm động kinh [13,19,186].
+P Trong 839 người bệnh NIHSS ≤5 nhập viện 24 giờ đầu tại Bạch Mai, suy giảm thần kinh sớm (NIHSS tăng ≥2 điểm trong 72 giờ) gặp ở 88 người (10,5%), 43,2% trong 24 giờ đầu; dự báo độc lập: tắc động mạch não giữa OR 3,06 (KTC 95% 1,29–7,30), tắc cảnh ngoài sọ cùng bên OR 4,84 (KTC 95% 1,26–18,65), nhồi máu bao trong OR 2,54 (KTC 95% 1,37–4,71), huyết áp tâm thu trên 150 mmHg OR 1,70 (KTC 95% 1,03–2,81); kết cục xấu ở 90 ngày OR 21,74 (KTC 95% 12,63–37,43) [183]. Hẹp nội sọ không triệu chứng cũng tăng nguy cơ [117,118] (xem Mục 4.3).
+H3 1.3.5. Bệnh mạch máu nhỏ
+P Động mạch xuyên là mạch tận không mạng nối; năm hội chứng ổ khuyết định khu nhờ tiêu chí âm tính [39]. Ổ khuyết dưới 15 mm chiếm khoảng một phần tư nhồi máu não nhưng không đồng nghĩa căn nguyên mạch máu nhỏ; khuyến cáo 2024 của Tổ chức Đột quỵ châu Âu là đơn trị kháng tiểu cầu dài hạn, không kép (xem Mục 3.2.5) [134].
+H4 1.3.5.1. Hội chứng cảnh báo bao trong và cầu não
+P Hội chứng cảnh báo bao trong: ba cơn trở lên trong 24 giờ, rập khuôn, thuần vận động hoặc cảm giác – vận động, không triệu chứng vỏ não; thành nhồi máu hoàn chỉnh ở 40–60% trong 72 giờ. Vùng đe doạ không có bàng hệ: không hạ huyết áp, đủ thể tích, theo dõi sát 72 giờ, không cho về từ cấp cứu [22,23].
+H4 1.3.5.2. Bệnh mạch máu não nhiễm bột và ý nghĩa cảnh báo
+P Bệnh mạch máu não nhiễm bột ưu thế thuỳ, chừa hạch nền; vi xuất huyết thuỳ và nhiễm sắt bề mặt vỏ chỉ thấy trên chuỗi xung nhạy từ, bắt buộc sau TIA (xem Mục 2.3.3). Cơn rập khuôn có triệu chứng dương tính lan dần bắt chước TIA, dễ nhầm tiền triệu đau nửa đầu (ít nhất 5 phút, kéo dài 5–60 phút) [137]; dán nhãn TIA rồi kê kháng tiểu cầu kép hoặc kháng đông làm tăng xuất huyết thuỳ (xem Mục 3.2.6) [18,23].
+H3 1.3.6. Bóc tách động mạch, đột quỵ ở người trẻ và các nguyên nhân ít gặp
+P Bóc tách động mạch vùng cổ gây biến cố do lấp mạch từ nội mạc sinh huyết khối, nền tảng là kháng huyết khối; gợi ý bởi đau đầu hoặc đau cổ một bên kèm Horner không hoàn toàn (xem Mục 3.5.5) [23]. Dưới 55 tuổi, nhóm xác định khác vượt xa mức 5% chung: bóc tách, lấp mạch nghịch thường qua lỗ bầu dục thông (PFO), co thắt mạch não hồi phục, NOTCH3, kháng phospholipid; Đông Á thêm moyamoya và RNF213 R4810K (xem Mục 2.6.4) [23,186].
+P Ở Việt Nam, hẹp cảnh ngoài sọ ít ý nghĩa hơn [182] còn hẹp nội sọ cao hơn [19,186], nên khung tỷ lệ ngoại nhập bỏ sót cơ chế nội sọ (Bảng 1.9). Cùng NIHSS 2, rung nhĩ cần kháng đông, hẹp nội sọ 70% cần kháng tiểu cầu kép ngắn hạn kèm statin cường độ cao; hình ảnh mạch máu phải toàn trục ngay lần đầu (xem Mục 4.3).
+TABLE Phân loại nguyên nhân theo cơ chế bệnh sinh [19,35,36,178,186].
+COLW 0.8,1.4,1.0,1.3
+ALIGN l,j,j,j
+FSIZE 10
+H Nhóm cơ chế|Tỷ lệ ước tính|Ví dụ|Hướng phòng ngừa (Mục 3.2–3.5)
+R Xơ vữa động mạch lớn|15–20% phương Tây; cảnh ngoài sọ 8–15%; nội sọ châu Á 3–89,4%, trung vị 13%|Hẹp cảnh trong, M1 não giữa, thân nền|Statin cường độ cao; kháng tiểu cầu; huyết áp thận trọng; tái thông
+R Lấp mạch nguồn tim|20–25%; rung nhĩ 15–20%, tới 25% ở người rất cao tuổi|Rung nhĩ, hẹp hai lá, van cơ học, huyết khối thất trái|Kháng đông trực tiếp; vitamin K nếu van cơ học/hẹp hai lá
+R Bệnh mạch máu nhỏ|Khoảng 25%; cao hơn ở người tăng huyết áp, cao tuổi|Năm hội chứng ổ khuyết; cảnh báo bao trong, cầu não|Đơn trị kháng tiểu cầu; kiểm soát huyết áp, đường huyết
+R Đột quỵ lấp mạch chưa rõ nguồn|Khoảng 17%, dao động 9–25%; dưới nhóm của nhóm chưa xác định|Nhồi máu vỏ não, không giải thích sau khảo sát tối thiểu|Kháng tiểu cầu đơn trị; truy tìm rung nhĩ, bệnh cơ nhĩ
+R Nguyên nhân xác định khác|Khoảng 5%; cao hơn nhiều ở người dưới 55 tuổi|Bóc tách vùng cổ, co thắt mạch, viêm mạch, tăng đông|Điều trị đặc hiệu theo từng nguyên nhân
+R Chưa xác định|Tuỳ mức hoàn tất khảo sát; 39,4% theo TOAST|Nhiều nguyên nhân cạnh tranh; khảo sát chưa đủ|Hoàn tất khảo sát trước khi chọn phòng ngừa
+ENDTABLE

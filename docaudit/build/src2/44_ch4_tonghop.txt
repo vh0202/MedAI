@@ -1,0 +1,38 @@
+H2 4.4. Tổng hợp bằng chứng và định hướng nghiên cứu
+P Mục này đặt bằng chứng ba chương trước vào một khung so sánh, xác định nơi bằng chứng dừng lại.
+H3 4.4.1. Bảng tổng hợp các thử nghiệm định hình thực hành
+P Các thử nghiệm ngẫu nhiên định hình thực hành được sắp theo mười sáu trục can thiệp, không theo năm công bố (Bảng 4.6).
+TABLE Các thử nghiệm ngẫu nhiên định hình thực hành chẩn đoán và điều trị cơn thiếu máu não thoáng qua và đột quỵ thiếu máu não nhẹ [14-17,20,24,25,30,53,60,66-68,86,87,97,101-104,112,119,124,127,128,138,148,151,153,155,164].
+COLW 1.00,0.90,0.35,2.75
+ALIGN l,l,c,j
+FSIZE 9.5
+H Trục can thiệp|Thử nghiệm|Năm|Phát hiện chính
+R Kháng kết tập tiểu cầu kép|CHANCE, POINT, THALES, CHANCE-2, INSPIRES|2013–2023|Lợi ích 21 ngày đầu, chảy máu tích luỹ; chọn theo CYP2C19
+R Tái tưới máu, lấy huyết khối|ARAMIS, TEMPO-2, DISTAL|2023–2025|Không vượt điều trị chuẩn; tắc mạch trung bình, xa trung tính
+R Statin và lipid|SPARCL, TST|2006–2020|Đích LDL-C <70 mg/dL (1,8 mmol/L) giảm biến cố; tăng xuất huyết
+R Kháng đông trong rung nhĩ|Phân tích gộp bốn thử nghiệm, CATALYST|2014–2025|Vượt warfarin, ít xuất huyết nội sọ; ủng hộ khởi trị sớm
+R Lấp mạch chưa rõ nguồn|NAVIGATE-ESUS, RE-SPECT ESUS, ATTICUS|2018–2024|Không vượt aspirin khi không chọn theo cơ chế; tăng chảy máu
+R Theo dõi nhịp, rung nhĩ do thiết bị|CRYSTAL-AF, EMBRACE, STROKE-AF, ARTESiA|2014–2024|Tăng phát hiện rung nhĩ; apixaban giảm đột quỵ, tăng chảy máu
+R Lỗ bầu dục thông|CLOSE, REDUCE, RESPECT|2017|Giảm tái phát ở người trẻ chọn lọc; tăng rung nhĩ mới
+R Động mạch cảnh|CREST, CREST-2|2010–2026|Bóc nội mạc tương đương stent; nội khoa bám sát tái thông
+R Hẹp nội sọ, yếu tố XI, chống viêm|BASIS, OCEANIC-STROKE, CONVINCE|2024–2026|Nong bóng vượt nội khoa; asundexian giảm tái phát; colchicine âm tính
+R Tổ chức quy trình|EXPRESS, SOS-TIA, TIAregistry.org|2007–2018|Đánh giá, khởi trị khẩn cấp giảm mạnh tái phát sớm
+ENDTABLE
+P Bảng bộc lộ ba đặc điểm: bằng chứng ngẫu nhiên dồn vào kháng kết tập tiểu cầu kép và kháng đông, còn tổ chức quy trình không có thử nghiệm nào; CHANCE, CHANCE-2, INSPIRES, ARAMIS, BASIS đều từ Trung Quốc; hiệu quả thu nhỏ dần khi nền nội khoa tốt lên.
+H3 4.4.2. Bốn nhận định xuyên suốt
+H4 4.4.2.1. Thời điểm và giới hạn của việc mở rộng chỉ định
+P Theo ngày: gộp CHANCE và POINT trên 10.051 người bệnh, điều trị kép chỉ lợi trong ba tuần đầu, 5,2% và 7,8% (HR 0,66; KTC 95% 0,56–0,77) [77,78]; EXPRESS rút liều đầu từ 20 xuống 1 ngày, đột quỵ 90 ngày giảm 10,3% xuống 2,1% [20,101,147,166]. Theo năm: số người cần điều trị của SPARCL là 258 (năm thứ nhất) và 45 (năm thứ năm) [86,170,172].
+P Mở rộng chỉ định máy móc thất bại: TEMPO-2 theo hình ảnh tắc mạch, ngày 90: 72% và 75%, nguy cơ tương đối 0,96 (KTC 95% 0,88–1,04), tử vong 5% và 1% [60]; NAVIGATE-ESUS theo nhãn hội chứng, 5,1% và 4,8%/năm, HR 1,07 (KTC 95% 0,87–1,33) [102]; ARCADIA theo bệnh cơ nhĩ, 4,4% và 4,4%, HR 1,00 (KTC 95% 0,64–1,55) [38]; CHANCE-3 theo hs-CRP ≥ 2 mg/L, 6,3% và 6,5%, HR 0,98 (KTC 95% 0,83–1,16) [129].
+H4 4.4.2.2. Cá thể hoá theo cơ chế và tổ chức quy trình
+P Thử nghiệm dương tính đều chọn trước theo cơ chế: CHANCE-2 theo kiểu gen CYP2C19, vào khuyến cáo 2026 [5,16]; INSPIRES theo căn nguyên xơ vữa, OCEANIC-STROKE theo nhồi máu không ổ khuyết, PASCAL theo xác suất quy thuộc [53,151,175]. Công cụ còn hạn chế: mô hình ARCADIA chỉ số C 0,82 (KTC 95% 0,79–0,85) [160]; xét nghiệm CYP2C19 phải kịp cửa sổ điều trị [82].
+P Tổ chức quy trình cho lợi ích lớn nhất: tái phát 90 ngày còn 1,24% (SOS-TIA) và 3,7% (TIAregistry.org) [20,24,25,30]. Trong nước, 839 người bệnh NIHSS ≤ 5 có 88 người (10,5%) xấu đi thần kinh sớm; đơn trị kháng kết tập tiểu cầu dự báo độc lập, tỷ số chênh 3,69 (KTC 95% 2,24–6,08) [183], nên tuyến đánh giá khẩn 24 giờ là ưu tiên [21,56].
+H3 4.4.3. Các câu hỏi còn bỏ ngỏ tính đến tháng 8 năm 2026
+H4 4.4.3.1. Chọn người bệnh, thời điểm và cường độ điều trị
+P Ức chế yếu tố XI chưa có pha 3 ở lấp mạch chưa rõ nguồn [151]. ARTESiA giảm biến cố (HR 0,63; KTC 95% 0,45–0,88) nhưng tăng chảy máu nặng (HR 1,80; KTC 95% 1,26–2,57), trái với NOAH-AFNET 6 [155-157]. Thiếu thử nghiệm cho lỗ bầu dục thông sau 60 tuổi, tái phát dưới kháng đông, đơn trị ổ khuyết [131,134,176]. INSPIRES ủng hộ cửa sổ 72 giờ, sổ bộ mất lợi ích từ 42 giờ [147]; thời lượng theo dõi nhịp, thời điểm hạ áp, ngưỡng LDL-C cũng vậy [18,66-69,168].
+H4 4.4.3.2. Tái tưới máu, can thiệp mạch máu và các thử nghiệm đang tiến hành
+P Cửa sổ 4,5–24 giờ: TRACE-III và OPTION dương tính ở quần thể không lấy huyết khối [143,144]; chưa rõ khi NIHSS ≤ 5 do hiệu ứng trần trong EAST [145]; tắc mạch trung bình và xa trung tính [148-150]. Động mạch cảnh không triệu chứng: nội khoa tối ưu bám sát tái thông [119,161-163]; hẹp nội sọ: BASIS trái ngược CASSISS [164,165]. LIBREXIA-STROKE, LIBREXIA-AF [152] và ORION-4 chưa có kết cục [91].
+H3 4.4.4. Trí tuệ nhân tạo, y tế số và y học cá thể hoá
+H4 4.4.4.1. Trí tuệ nhân tạo trong phát hiện rung nhĩ và phân tầng nguy cơ
+P Trí tuệ nhân tạo tác động ở khâu phát hiện: phân loại tự động và truyền dữ liệu từ xa khiến theo dõi nhịp kéo dài khả thi [69]. Kéo dài theo dõi có bằng chứng ngẫu nhiên [66-68], giá trị gia tăng của thuật toán và học máy trong phân tầng nguy cơ thì chưa [160].
+H4 4.4.4.2. Y tế số và thứ tự ưu tiên trong điều kiện Việt Nam
+P Y tế số mạnh ở khâu tổ chức: phòng khám TIA nhanh kèm khám từ xa khả thi nếu giữ hình ảnh trong ngày, kê đơn tại chỗ [51]; hội chẩn từ xa mở chuẩn 24 giờ ra ngoài trung tâm lớn [21,185]. Khảo sát mạch máu phải gồm đoạn nội sọ: hẹp cảnh ngoài sọ trong nước chỉ 5,2% (KTC 95% 4,0–6,6) [182,186]. Khoảng cách lớn nhất là quy trình và thuốc đã có bằng chứng [18,56,184].

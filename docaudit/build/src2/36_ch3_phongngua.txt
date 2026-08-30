@@ -1,0 +1,39 @@
+H2 3.6. Phòng ngừa thứ phát đa yếu tố và thay đổi lối sống
+H3 3.6.1. Nguyên tắc can thiệp đồng thời nhiều yếu tố
+P Các can thiệp nhân chứ không cộng: giảm 13–22% với kháng kết tập tiểu cầu, 16% với atorvastatin liều cao (SPARCL), 43% với perindopril–indapamide (PROGRESS) cho nguy cơ còn lại 0,80 × 0,84 × 0,57, tức 38% nguy cơ nền, giảm gộp trên 60% [18,85]. Ba nhánh khởi động cùng lúc, không tuần tự (Hình 3.3) [122].
+FIG image10.jpg | 13.5 | Lưu đồ lựa chọn thuốc trong phòng ngừa thứ phát sau đột quỵ thiếu máu não hoặc cơn thiếu máu não thoáng qua lần đầu [122].
+P EXPRESS, hai giai đoạn đoàn hệ OXVASC, 1.278 người cơn thiếu máu não thoáng qua (TIA) hoặc đột quỵ, 591 người được khám: khám trong ngày, phát thuốc tại chỗ, tái phát 90 ngày từ 10,3% xuống 2,1%, tỷ số nguy cơ (HR) hiệu chỉnh 0,20 (khoảng tin cậy 95%, KTC 95%, 0,08–0,49; p = 0,0001), trung vị kê đơn 20 xuống 1 ngày [20]; chênh lệch duy trì sau 10 năm [31]. Tổ chức quy trình quyết định lợi ích [24,25,30] (Bảng 3.14).
+TABLE Phòng ngừa thứ phát đa yếu tố sau cơn thiếu máu não thoáng qua và đột quỵ thiếu máu não nhẹ [18,20,31,85,122,132,133].
+COLW 1.0,1.5,1.9,1.6
+ALIGN l,j,j,j
+FSIZE 10
+H Yếu tố|Mục tiêu|Can thiệp chính|Mức khuyến cáo
+R Huyết áp|< 130/80 mmHg|Ức chế men chuyển/chẹn thụ thể, chẹn calci, thiazide|I B-R (có tăng huyết áp); IIa (không) [18,132]
+R LDL-C|< 70 mg/dL (1,8 mmol/L); rất cao: < 55 (1,4)|Statin cường độ cao, ezetimibe, ức chế PCSK9|I A [133]; đích < 70 mg/dL [18,85]
+R Đường huyết|HbA1c phần lớn < 7%|Metformin (mức lọc ≥ 45 mL/phút/1,73 m^{2}); GLP-1 khi xơ vữa|Không có mức riêng [18]
+R Kháng huyết khối|Theo cơ chế bệnh sinh|Kép 21 ngày rồi đơn trị; kháng đông khi rung nhĩ|I A [18,122]
+R Thuốc lá, rượu|Bỏ thuốc lá; rượu ≤ 2 khẩu phần/ngày (nam), 1 (nữ)|Tư vấn, thuốc cai; sàng lọc mức uống|I; I B-NR (rượu) [18]
+R Hoạt động thể lực|10 phút trung bình × 4/tuần; 20 phút mạnh × 2/tuần|Đi bộ, đạp xe, bơi; giảm tĩnh tại|I C-LD [18]
+R Chế độ ăn, cân nặng|Địa Trung Hải, giảm natri; giảm 5–10% cân nặng|Cá, rau quả, hạt, dầu thực vật; tư vấn dinh dưỡng|IIa B-R (ăn); I B-R (cân) [18]
+R Ngừng thở khi ngủ|Triệu chứng ban ngày, huyết áp|Đa ký giấc ngủ; thở áp lực dương liên tục|IIb [18]
+R Trầm cảm, tiêm chủng|Phát hiện sớm; tiêm theo lịch|PHQ-9, ức chế tái hấp thu serotonin; vắc-xin cúm, phế cầu|Không phân mức [18]
+R Tổ chức chăm sóc|Khởi trị đủ ngay lần đầu|Phòng khám nhanh, phát thuốc tại chỗ|Không phân mức [20,31]
+ENDTABLE
+H3 3.6.2. Kiểm soát huyết áp
+P PROGRESS trên 6.105 người sau đột quỵ hoặc TIA, perindopril ± indapamide so với giả dược: đột quỵ 307/3.051 (10%) so với 420/3.054 (14%), giảm 28% (KTC 95% 17–38); phối hợp hạ 12/5 mmHg giảm 43% (KTC 95% 30–54), đơn trị hạ 5/3 mmHg không giảm [120]. SPS3 trên 3.020 người nhồi máu ổ khuyết, đích tâm thu < 130 so với 130–149 mmHg: tái phát 2,25% so với 2,77%/năm, HR 0,81 (KTC 95% 0,64–1,03); xuất huyết não 0,29% so với 0,11%/năm, HR 0,37 (KTC 95% 0,15–0,95) [121].
+P ESPRIT trên 11.255 người nguy cơ tim mạch cao (3.022 tiền sử đột quỵ), đích tâm thu < 120 so với < 140 mmHg: đột quỵ 262 (4,7%) so với 303 (5,4%), HR 0,86 (KTC 95% 0,73–1,02); nhồi máu não 243 (4,3%) so với 261 (4,6%), HR 0,93 (KTC 95% 0,78–1,11); xuất huyết não 23 (0,4%) so với 45 (0,8%), HR 0,51 (KTC 95% 0,31–0,85) [171,172]. Đích < 130/80 mmHg cả ở nhồi máu ổ khuyết (Bảng 3.14) [18,132,134].
+H3 3.6.3. Kiểm soát đường huyết và cân nặng
+P Đích HbA1c dưới 7%, nới lỏng 7,5–8% ở người cao tuổi; không khuyến cáo nào gắn HbA1c với giảm tái phát, metformin khởi trị từ mức lọc cầu thận 45 mL/phút/1,73 m^{2} [18]. Giảm 5–10% cân nặng: mức I, B-R; chỉ số khối cơ thể người Đông Á 23 kg/m^{2} (thừa cân), 25 kg/m^{2} (béo phì) [18,41].
+P SOUL trên 9.650 người ≥ 50 tuổi, đái tháo đường típ 2, semaglutide uống ≤ 14 mg/ngày so với giả dược, trung vị 49,5 tháng: kết cục gộp tim mạch 579/4.825 (12,0%) so với 668/4.825 (13,8%), HR 0,86 (KTC 95% 0,77–0,96) [173]. Ức chế SGLT-2, dipeptidyl peptidase 4 và insulin không đổi tỷ lệ đột quỵ [174]; gộp năm thử nghiệm, 46.969 người, nguy cơ tương đối 0,95 (KTC 95% 0,79–1,13).
+H3 3.6.4. Thay đổi lối sống
+P Cai thuốc lá mức I; SPS3: nguy cơ đột quỵ 5 năm 22% (tiếp tục hút) so với 15,7% (đã bỏ), HR 0,71 (tái phát), 0,64 (nhồi máu não) [18,121]. Ăn Địa Trung Hải mức IIa, B-R, ngoại suy PREDIMED [18,45]; hoạt động thể lực mức I, C-LD, 10 phút trung bình × 4/tuần hoặc 20 phút mạnh × 2/tuần [18,41].
+H3 3.6.5. Ngừng thở khi ngủ, trầm cảm và tiêm chủng
+P Ngừng thở khi ngủ do tắc nghẽn mức IIb: thở áp lực dương liên tục chưa chứng minh giảm tái phát [18,41]. Gộp 61 thuần tập, 25.488 người bệnh: trầm cảm sau đột quỵ 31% (KTC 95% 28–35) [180]; sàng lọc PHQ-9 ngưỡng 10 điểm, mốc 3–6 tháng. Hướng dẫn 2021 không đề cập trầm cảm và tiêm chủng [18].
+H3 3.6.6. Điều trị chống viêm: vị trí hiện tại của colchicine
+P CHANCE-3 trên 8.343 người trong 24 giờ sau đột quỵ thiếu máu não nhẹ (NIHSS ≤ 5) hoặc TIA nguy cơ cao, protein phản ứng C độ nhạy cao (hs-CRP) ≥ 2 mg/L, colchicine 0,5 mg × 2/ngày ba ngày rồi 0,5 mg/ngày tới ngày 90 so với giả dược: đột quỵ mới 90 ngày 264/4.176 (6,3%) so với 270/4.167 (6,5%), HR 0,98 (KTC 95% 0,83–1,16) [129].
+P CONVINCE trên 3.154 người đột quỵ thiếu máu não không nặng hoặc TIA nguy cơ cao, colchicine 0,5 mg/ngày so với chăm sóc thường quy, trung vị 34 tháng: kết cục gộp mạch máu 84 (5,4%) so với 105 (6,7%), HR 0,84 (KTC 95% 0,63–1,11) [153]. Phân tích định trước CHANCE-3: đột quỵ 90 ngày cao hơn ở phân nhóm hẹp động mạch nội sọ có triệu chứng [154]; colchicine chưa vào phòng ngừa thường quy.
+H3 3.6.7. Giáo dục người bệnh, tư vấn lái xe và trở lại lao động
+P Giáo dục tối thiểu: quy tắc mặt – tay – lời nói – thời gian; triệu chứng khu trú mới, dù vài phút, phải gọi cấp cứu; biết ngày kết thúc điều trị kép (xem Mục 3.2). Suy giảm thần kinh sớm gặp ở 10,5% người NIHSS ≤ 5, 43,2% trong 24 giờ đầu [183]. Tạm ngừng lái xe khoảng một tháng; lượng giá nhận thức trước khi trở lại lao động.
+H3 3.6.8. Tuân thủ điều trị và theo dõi lâu dài
+P Sổ bộ trong nước: kháng đông dùng ít hơn nhiều so với chỉ định ở người nhồi máu não kèm rung nhĩ [184]. SECURE trên 2.499 người sau nhồi máu cơ tim, viên phối hợp aspirin–ramipril–atorvastatin so với chăm sóc thường quy: kết cục gộp tim mạch 118/1.237 (9,5%) so với 156/1.229 (12,7%), HR 0,76 (KTC 95% 0,60–0,96) [123]; viên này không chứa clopidogrel, không thay điều trị kép (xem Mục 3.2).
+P Tháng đầu: xác nhận đủ thuốc, ngừng điều trị kép đúng ngày; tháng ba: lipid máu, HbA1c, chức năng thận; tháng sáu và mười hai: đánh giá toàn diện. TIAregistry: đột quỵ tích luỹ 5 năm 9,5%, kết cục gộp mạch máu chính 12,9%, một nửa biến cố sau năm thứ nhất [30]. Mô hình khả thi tại Việt Nam: phòng khám đột quỵ tuyến tỉnh [21,185].

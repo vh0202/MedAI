@@ -1,0 +1,28 @@
+H2 4.3. Hẹp xơ vữa động mạch nội sọ ở quần thể châu Á và liên hệ với đề tài luận án
+H3 4.3.1. Đặc điểm dịch tễ và giải phẫu bệnh
+P Tổng quan phạm vi 142 nghiên cứu châu Á: hiện mắc 3–89,4%, trung vị 13% [186]. CICAS tuyển 2.864 người bệnh nhồi máu não hoặc cơn thiếu máu não thoáng qua (TIA) liên tiếp tại 22 bệnh viện: hẹp ≥ 50% trên cộng hưởng từ mạch ở 46,6% [19].
+P Tại Việt Nam, hẹp cảnh ngoài sọ cùng bên 50–99% gặp ở 62/1.191 người bệnh TIA hoặc nhồi máu não (5,2%; KTC 95% 4,0–6,6) [182]; ở 839 người bệnh NIHSS ≤ 5, tắc động mạch não giữa dự báo suy giảm thần kinh sớm, OR 3,06 (KTC 95% 1,29–7,30) [183]. Hình thái mảng quan trọng ngang mức hẹp, cần cộng hưởng từ thành mạch (xem Mục 2.3.3.4) [111]; hẹp không triệu chứng [117] và xơ vữa nhiều tầng [118] đều tăng nguy cơ.
+H3 4.3.2. Cơ chế gây biến cố trên nền hẹp mạn
+H4 4.3.2.1. Lấp mạch từ mảng xơ vữa và tắc nhánh xuyên
+P Lấp mạch động mạch – động mạch gặp nhiều nhất, cho nhiều ổ nhồi máu nhỏ trong một lãnh thổ; không suy cơ chế từ mức nặng lâm sàng (xem Mục 1.3.4.2). Nền điều trị là phác đồ nhánh chứng SAMMPRIS (xem Mục 3.5.4) [72]. Hướng dẫn 2026 thêm ticagrelor – aspirin 30 ngày khi hẹp cùng bên ≥ 50%, khuyến cáo 2b [5].
+P Bệnh xơ vữa nhánh giống ổ khuyết: mảng vi thể bịt nguyên uỷ nhánh xuyên [39]. Thoái hoá kính – mỡ chiếm nhánh <200 µm (kinh điển 40–200 µm); mảng vi thể chiếm nhánh 300–800 µm. Cùng nghiên cứu: nhồi máu bao trong dự báo suy giảm thần kinh sớm, OR 2,54 (KTC 95% 1,37–4,71); đơn trị kháng tiểu cầu, OR 3,69 (KTC 95% 2,24–6,08) [183]; khuyến cáo châu Âu chỉ ủng hộ đơn trị **dài hạn** [134].
+H4 4.3.2.2. Giảm tưới máu và suy giảm dự trữ vận mạch
+P Dự trữ giãn mạch cạn thì bù trừ còn lại là tăng phân suất chiết tách oxy — tưới máu khốn cùng (xem Mục 1.3.1.2) [22,23]; biểu hiện: nhồi máu giáp ranh, cơn ngắn rập khuôn theo tư thế hoặc sau thuốc hạ áp. Duy trì áp lực tưới máu, bù dịch, tránh hạ áp sớm; cơn giật chi đối bên không phải động kinh cục bộ (xem Mục 1.3.4.3).
+H3 4.3.3. Từ cơn thiếu máu não thoáng qua và đột quỵ thiếu máu não nhẹ đến tắc động mạch lớn trên nền hẹp mạn
+P SAMMPRIS tuyển người bệnh TIA hoặc đột quỵ nhẹ quy cho chỗ hẹp 70–99% trong 30 ngày trước [72]. Nhánh aspirin WASID: nhồi máu não năm đầu 18% với hẹp 70–99% so với 6% ở hẹp 50–69% [115]; CICAS cũng tăng dần theo mức hẹp [19]. Suy giảm thần kinh sớm gặp ở 88/839 (10,5%) người nhập viện trong 24 giờ, kéo theo kết cục xấu 90 ngày, OR 21,74 (KTC 95% 12,63–37,43) [183].
+P Tắc trên nền hẹp mạn là huyết khối tại chỗ; lấy huyết khối không giải quyết chỗ hẹp cố định nên dễ tái tắc sớm, tăng nhu cầu nong bóng, đặt stent hoặc ức chế glycoprotein IIb/IIIa, kèm chuyển dạng xuất huyết [74]. Bằng chứng ngẫu nhiên chỉ bao phủ hẹp mạn ổn định — CASSISS trung tính, BASIS dương tính, đều tại Trung Quốc (xem Mục 3.5.4) [116,164,165].
+H3 4.3.4. Ý nghĩa đối với thực hành và đối với đề tài luận án
+P Ở TIA và đột quỵ nhẹ, khảo sát mạch phải gồm đoạn nội sọ ngay lần đầu vì gánh nặng nội sọ châu Á cao hơn hẳn [19,186] (xem Mục 2.3.5). Nền điều trị là nội khoa tích cực, không phải can thiệp [72]. Kháng kết tập tiểu cầu kép phải khởi trị trong 24 giờ đầu, hết lợi ích ở cửa sổ 24–72 giờ (xem Mục 3.2) [147]; không dùng colchicine ngoài nghiên cứu [154]. Bảng 4.5 tổng hợp bằng chứng và hệ quả.
+TABLE Bảng 4.5. Hẹp xơ vữa động mạch nội sọ ở quần thể châu Á: bằng chứng dịch tễ và hệ quả thực hành [19,72,116,164,165,182,186].
+COLW 0.9,1.9,1.5,1.7
+ALIGN l,j,j,j
+FSIZE 10
+H Khía cạnh|Bằng chứng|Hạn chế|Hệ quả thực hành Việt Nam
+R Hiện mắc ở châu Á|Tổng quan phạm vi 142 nghiên cứu: 3–89,4%, trung vị 13% [186]|Khác quần thể, phương tiện, ngưỡng|Không trích tỷ lệ cố định; kèm phương tiện
+R Người bệnh đột quỵ nhập viện|CICAS: ≥50% trên cộng hưởng từ mạch 46,6%; n=2.864 [19]|Chỉ tại Trung Quốc, một hệ thống|Tham khảo, không phải chuẩn Việt Nam
+R Đối chiếu tổn thương ngoài sọ|Cảnh ngoài sọ cùng bên 50–99%: 62/1.191 (5,2%; KTC 95% 4,0–6,6) [182]|Một trung tâm; không đo nội sọ|Chụp mạch đầu tiên gồm đoạn nội sọ
+R Nội khoa tích cực (SAMMPRIS)|Kháng tiểu cầu kép 90 ngày, statin mạnh, HA <140 mmHg [72]|Chỉ hẹp 70–99% mới có triệu chứng|Bắt buộc mọi tuyến, trước can thiệp
+R Đặt stent nội sọ|CASSISS: 8,0% so với 7,2%, 1 năm; không lợi ích muộn [116,165]|Chọn tổn thương, thao tác viên chặt|Không đặt stent bước một
+R Nong bóng dưới mức tối đa|BASIS: 4,4% so với 13,5% ở 12 tháng [164]|Kết cục gồm tái thông mạch đích; Trung Quốc|Cứu vãn tại trung tâm kinh nghiệm
+ENDTABLE
+P Quần thể can thiệp là phần ngọn của quá trình bắt đầu từ giai đoạn nhẹ, nên tiền sử TIA hoặc đột quỵ nhẹ cùng bên là biến số bắt buộc; trong nước mới có số liệu ngoài sọ, chưa có ước lượng về hẹp nội sọ mức nhẹ [182,183]. Hướng tiếp là làm giàu quần thể theo cơ chế như OCEANIC-STROKE (xem Mục 4.1.5) [151]: chọn theo mảng thủ phạm và huyết động, không theo phần trăm hẹp.

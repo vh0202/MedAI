@@ -1,0 +1,31 @@
+H2 3.7. Một số tình huống thực hành đặc biệt
+H3 3.7.1. Quản lý thuốc kháng huyết khối quanh thủ thuật và phẫu thuật
+P Tái phát dồn vào 48 giờ đến 7 ngày đầu [76]; aspirin hiệu quả nhất trong 6 tuần đầu (xem Mục 3.2) [77]. Kế hoạch tuỳ nguy cơ chảy máu, phác đồ, chức năng thận, khả năng hoãn (Bảng 3.15) [5,18,131].
+TABLE Bảng 3.15. Quản lý thuốc kháng huyết khối quanh thủ thuật và phẫu thuật [5,18,131].
+COLW 1.7,1.0,1.0,1.0
+ALIGN l,l,c,l
+FSIZE 10.5
+H Tình huống|Thuốc|Ngưng trước thủ thuật|Khởi trị lại
+R Không đáng kể (nha khoa, thuỷ tinh thể, da)|Aspirin, clopidogrel, kháng đông trực tiếp|Không ngưng; hẹn lúc nồng độ đáy|Duy trì
+R Trong 21 ngày kháng kết tập kép|Aspirin + clopidogrel|Hoãn đến sau ngày 21|Không gián đoạn
+R Chảy máu cao (nội sọ, tuỷ sống, nhãn cầu)|Aspirin đơn trị|7 ngày|24 giờ sau cầm máu
+R Chảy máu trung bình–cao|Clopidogrel|5 ngày|24 giờ sau cầm máu
+R Chảy máu trung bình–cao|Ticagrelor|3–5 ngày|24 giờ sau cầm máu
+R Chảy máu thấp; ≥ 30 mL/phút|Apixaban, rivaroxaban, edoxaban|≥ 24 giờ (bỏ 1 liều)|Sau 24 giờ
+R Chảy máu cao; ≥ 30 mL/phút|Apixaban, rivaroxaban, edoxaban|≥ 48 giờ|Sau 48–72 giờ
+R Chảy máu thấp; ≥ 80/50–79/30–49 mL/phút|Dabigatran|24/36/48 giờ|Sau 24 giờ
+R Chảy máu cao; ≥ 80/50–79/30–49 mL/phút|Dabigatran|48/72/96 giờ|Sau 48–72 giờ
+R Rung nhĩ không do van tim|Heparin trọng lượng phân tử thấp|Không bắc cầu thường quy|Dùng lại kháng đông uống
+ENDTABLE
+P TIAregistry.org: đột quỵ tích luỹ 5,1% năm thứ nhất, 9,5% năm thứ năm (xem Mục 1.2) [25,30]. Hoãn mổ chương trình qua 21 ngày kháng kết tập kép, tốt nhất qua 3 tháng, hơn là đổi phác đồ [5,78]; trừ tái thông động mạch cảnh có triệu chứng (xem Mục 3.5).
+P Aspirin ngưng 7 ngày trước mổ nội sọ, tuỷ sống, nhãn cầu; clopidogrel 5 ngày, ticagrelor 3–5 ngày (Bảng 3.15). Kháng đông uống trực tiếp ngưng theo thanh thải creatinin (dabigatran thải thận khoảng 80%); không bắc cầu heparin vì khoảng trống chỉ 1–2 ngày [131].
+H3 3.7.2. Thai kỳ, thời kỳ hậu sản và liệu pháp hormone
+P Đột quỵ thai kỳ tập trung cuối quý ba và 6 tuần đầu sau sinh (phân biệt: xem Mục 2.5); biến cố bất lợi thai kỳ là yếu tố nguy cơ đặc hiệu theo giới [41].
+P Aspirin liều thấp từ tuần 12–28 khi nguy cơ cao tiền sản giật, dùng tiếp phòng ngừa thứ phát [41]; chống đông chọn heparin trọng lượng phân tử thấp thay kháng đông uống trực tiếp [131]. Ngừng tránh thai estrogen, nhất là kèm hút thuốc hoặc đau nửa đầu tiền triệu [41,137]; không dùng hormone mãn kinh phòng ngừa mạch máu [18,41].
+H3 3.7.3. Người cao tuổi, nguy cơ té ngã và đa thuốc
+P Lợi ích tuyệt đối của kháng đông rung nhĩ tăng theo tuổi nhưng người cao tuổi hay bị bỏ sót; sổ bộ Việt Nam ghi tỷ lệ kháng đông trước biến cố thấp [184]. Té ngã đơn thuần không phải lý do từ chối kháng đông mà là chỉ định rà soát thuốc an thần (xem Mục 3.4).
+P Rà soát thuốc ức chế mạnh glycoprotein P, cytochrome P450 3A4, thuốc cảm ứng enzym, chống viêm không steroid; giảm liều ngoài tiêu chí tuổi, cân nặng, creatinin làm mất hiệu quả phòng ngừa [131]. Người suy yếu: hạ huyết áp từ từ, đích lipid theo kỳ vọng sống (xem Mục 3.3, 3.6) [18].
+H3 3.7.4. Phục hồi chức năng nhận thức và mệt mỏi sau đột quỵ thiếu máu não nhẹ
+P Nhãn nhẹ (NIHSS hoặc Rankin sửa đổi 0–1) che khuất gánh nặng chức năng: ổ khuyết chiếm khoảng một phần tư nhồi máu não, gắn bệnh mạch máu nhỏ tiến triển [134]. Phòng ngừa khẩn cấp giảm tái phát lẫn tàn tật sau mười năm [31].
+P MoCA lúc xuất viện và sau 3–6 tháng tách phục hồi tự nhiên khỏi suy giảm dai dẳng; chưa có thuốc nào hiệu quả cho suy giảm nhận thức mạch máu [18]. Mệt mỏi là chẩn đoán loại trừ, trước hết trầm cảm: 61 đoàn hệ, 25.488 người bệnh, tỷ lệ 31% (KTC 95% 28–35) [180].
+P Khảo sát 66 bệnh viện Việt Nam: khoảng 70% có đơn vị đột quỵ, hơn 90% dùng phác đồ lâm sàng, chỉ một nửa có quy trình lượng giá phục hồi chức năng [185]; nên đánh giá nhận thức và mệt mỏi khi tái khám tháng thứ nhất và thứ ba [12].

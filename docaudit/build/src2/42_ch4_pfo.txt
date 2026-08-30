@@ -1,0 +1,52 @@
+H2 4.2. Đóng lỗ bầu dục thông trong đột quỵ chưa rõ nguyên nhân
+P Lỗ bầu dục thông (patent foramen ovale — PFO) gặp ở khoảng một phần tư người lớn, nên hiện diện sau nhồi máu não không đồng nghĩa nhân quả; vấn đề là quy thuộc và lợi ích của bịt lỗ. Khác với ESUS, cơ chế ở đây can thiệp được (xem Mục 4.1).
+H3 4.2.1. Cơ sở giải phẫu và cơ chế lấp mạch nghịch thường
+P Giải phẫu bệnh 965 quả tim bình thường: PFO 27,3%, giảm theo tuổi trong khi đường kính tăng, 1–19 mm, trung bình 4,9 mm [177]. Huyết khối tĩnh mạch vượt bộ lọc phổi khi áp lực nhĩ phải vượt nhĩ trái (Valsalva, ho, rặn).
+P Luồng thông lớn, phình vách liên nhĩ di động ≥ 10 mm, đường hầm dài, van Eustachi, lưới Chiari làm tăng xác suất gây bệnh, tạo trục giải phẫu của PASCAL. Siêu âm tim qua thực quản có bọt khí mô tả luồng thông, loại trừ nguồn lấp mạch khác (Hình 4.1).
+FIG image11.jpg | 12.0 | Siêu âm tim qua thực quản với nghiệm pháp bọt khí xác định luồng thông phải – trái qua lỗ bầu dục thông [126].
+H3 4.2.2. Ba thử nghiệm then chốt năm 2017
+H4 4.2.2.1. Thiết kế và kết quả
+P Ba thử nghiệm so sánh đóng qua da và nội khoa ở nhồi máu não không ổ khuyết chưa rõ nguyên nhân (Bảng 4.3). CLOSE chỉ nhận luồng thông lớn trên 30 vi bọt khí hoặc phình vách liên nhĩ: tỷ số nguy cơ (HR) 0,03, khoảng tin cậy 95% (KTC 95%) 0,00–0,26; nhánh kháng đông (n = 187) thiếu lực thống kê [127]. Kết cục thứ hai của REDUCE gộp nhồi máu im lặng: 5,7% so với 11,3% (RR 0,51; KTC 95% 0,29–0,91), riêng nhồi máu im lặng p = 0,97 [128]. RESPECT đạt HR 0,55 (KTC 95% 0,31–0,999), rõ hơn ở phân nhóm phình vách hoặc luồng thông lớn [124]. Rung nhĩ mới ở nhánh can thiệp: 4,6% so với 0,9% và 6,6% so với 0,4% [127,128].
+H4 4.2.2.2. Hiệu quả tuyệt đối
+P Hiệu quả phân tầng theo độ chặt tiêu chí tuyển, từ 0,03 qua 0,23 đến 0,55 (Bảng 4.3): can thiệp cơ học chỉ hiệu quả khi cơ chế cơ học vận hành. Nhánh chứng tái phát 1,0–1,7% mỗi năm, số người cần điều trị khoảng 17 (CLOSE, 5,3 năm), 25 (REDUCE, 3,2 năm), 45 (RESPECT, 5,9 năm).
+TABLE Ba thử nghiệm ngẫu nhiên về đóng lỗ bầu dục thông công bố năm 2017 [124,127,128].
+COLW 0.75,1.55,1.75,0.95,1.75,0.85
+ALIGN l,j,j,c,j,c
+FSIZE 9.5
+H Thử nghiệm|Cỡ mẫu/thiết kế|Tuyển chọn|Theo dõi|Tái phát: can thiệp/chứng|HR (KTC 95%)
+R CLOSE|663; 3 nhánh: đóng, kháng kết tập, kháng đông|16–60 tuổi; luồng thông lớn/phình vách liên nhĩ|Trung bình 5,3 ± 2,0 năm|0/238 (0%) so với 14/235 (5,9%)|0,03 (0,00–0,26)
+R REDUCE|664; 2 nhánh 2:1; GORE HELEX/CARDIOFORM|18–59 tuổi; không đòi hỏi luồng thông lớn|Trung vị 3,2 năm|Lâm sàng: 6/441 (1,4%) so với 12/223 (5,4%)|0,23 (0,09–0,62)
+R RESPECT|980; 2 nhánh; Amplatzer PFO Occluder|18–60 tuổi; tiêu chí giải phẫu rộng|Trung vị 5,9 năm|18/499 (3,6%) so với 28/481 (5,8%)|0,55 (0,31–0,999)
+ENDTABLE
+H3 4.2.3. Thang điểm RoPE và phân loại PASCAL
+H4 4.2.3.1. Thang điểm RoPE
+P Thang điểm RoPE (Risk of Paradoxical Embolism — nguy cơ lấp mạch nghịch thường) xây dựng trên 3.023 người bệnh, cộng điểm cho yếu tố lâm sàng thuận lợi và tuổi trẻ (Bảng 4.4); không dùng đơn độc để chỉ định [125].
+TABLE Thang điểm RoPE và diễn giải xác suất quy thuộc [125,175].
+COLW 1.35,0.40,2.25
+ALIGN l,c,j
+FSIZE 10
+H Đặc điểm|Điểm|Diễn giải: hiện mắc, quy thuộc
+R Không tăng huyết áp|1|Tổng điểm 0–10
+R Không đái tháo đường|1|0–3 điểm: 23%, 0%
+R Không tiền sử đột quỵ/TIA|1|4 điểm: 35%, 38%
+R Không hút thuốc lá|1|5 điểm: 34%, 34%
+R Nhồi máu vỏ não|1|6 điểm: 47%, 62%
+R Tuổi 18–29|5|7 điểm: 54%, 72%
+R Tuổi 30–39|4|8 điểm: 67%, 84%
+R Tuổi 40–49|3|9–10 điểm: 73%, 88%
+R Tuổi 50–59|2|Tái phát 2 năm: 20% (0–3), 2% (9–10)
+R Tuổi 60–69|1|Điểm cao: nhân quả chắc, nguy cơ nền thấp
+R Tuổi ≥ 70|0|Trục nguy cơ của PASCAL
+ENDTABLE
+H4 4.2.3.2. Phân loại PASCAL
+P PASCAL kết hợp RoPE ngưỡng 7 điểm với phình vách liên nhĩ hoặc luồng thông lớn thành ba mức liên quan: khó, có thể, nhiều khả năng. Gộp dữ liệu cá thể sáu thử nghiệm (3.740 người bệnh): 1.382 (37,0%) nhiều khả năng, 1.811 (48,4%) có thể, 547 (14,6%) khó có khả năng [175].
+P Ở mốc 5 năm, giảm đột quỵ và tăng rung nhĩ muộn sau ngày 45 (điểm phần trăm, KTC 95%): nhiều khả năng −2,5 (−4,2 đến −1,3) và +1,3 (0,0–2,5); có thể −3,4 (−5,4 đến −1,3) và +1,1 (−0,5 đến 2,6); khó có khả năng +0,4 (−4,0 đến 4,8) và +4,6 (0,3–8,9) [175].
+H3 4.2.4. Khuyến cáo hiện hành và quy trình đa chuyên khoa
+P Hướng dẫn 2021 của Hiệp hội Tim mạch/Đột quỵ Hoa Kỳ đặt đóng PFO kèm kháng kết tập tiểu cầu dài hạn ở mức IIa (bằng chứng B-R) cho người 18–60 tuổi có giải phẫu nguy cơ cao, IIb khi thiếu đặc điểm này [18]. Tổ chức Đột quỵ châu Âu 2024 dùng PASCAL: ủng hộ đóng ở mức nhiều khả năng và có thể, không ở mức khó [70,175].
+P Quy trình: xác nhận nhồi máu hình thái lấp mạch; loại trừ nguyên nhân cạnh tranh, nhất là rung nhĩ, theo dõi nhịp đủ dài (xem Mục 2.5, 4.1); siêu âm tim qua thực quản, tính RoPE để xếp PASCAL; hội chẩn thần kinh – tim mạch và quyết định chung [18,37,70].
+H3 4.2.5. Điều trị kháng huyết khối sau đóng và theo dõi
+P RESPECT: aspirin kèm clopidogrel 1 tháng, rồi aspirin đến tháng thứ 6 [124]; CLOSE: kháng kết tập kép 3 tháng rồi đơn trị dài hạn [127]; REDUCE: clopidogrel 3 ngày quanh thủ thuật [128]. Chưa có so sánh trực tiếp; hướng dẫn châu Âu khuyên theo phác đồ ứng với dụng cụ [70].
+P Theo dõi luồng thông tồn lưu (siêu âm cản âm) và rung nhĩ mới: phần lớn sớm và tự hết; phần dư muộn nhiều nhất ở mức khó có khả năng [175], khi xác nhận thì cân nhắc kháng đông theo CHA_{2}DS_{2}-VASc (xem Mục 3.4). Can thiệp không thay thế phòng ngừa thứ phát [70].
+H3 4.2.6. Người bệnh trên 60 tuổi và các câu hỏi còn lại
+P Giới hạn 60 tuổi mang tính hành chính: phân tích gộp 2026 ở nhóm trên 60 tuổi ghi nhận tái phát thấp, biến chứng chấp nhận được, nhưng dữ liệu quan sát không so được với nội khoa [176]. Tuổi cao giảm quy thuộc, tăng rung nhĩ tiềm ẩn. Chỉ định sau TIA đơn thuần [70] và so sánh với kháng đông còn bỏ ngỏ vì nhánh kháng đông CLOSE quá nhỏ [127] (xem Mục 4.4).
+P Tại Việt Nam, nhãn chưa rõ nguyên nhân chỉ hợp lệ khi khảo sát đủ, nhất là theo dõi nhịp; nếu không, có thể đóng PFO trong khi cơ chế thật là rung nhĩ (xem Mục 2.5). Mở rộng chỉ định ngoài hai mức này chỉ làm tăng rung nhĩ muộn [175].
