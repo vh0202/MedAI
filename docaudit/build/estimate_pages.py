@@ -8,7 +8,7 @@ from PIL import Image
 
 TEXT_W_CM, TEXT_H_CM = 15.5, 23.7
 BODY_LINE_CM = 13 * 1.5 / 28.35          # 13pt at 1.5 spacing, pt -> cm
-TABLE_LINE_CM = 11.5 * 1.05 / 28.35
+TABLE_LINE_CM = 10.5 * 1.05 / 28.35
 WORDS_PER_LINE = 12.0                    # Vietnamese, 13pt, 15.5 cm measure
 PARA_GAP_CM = 6 / 28.35
 
@@ -21,11 +21,15 @@ def main(src, media="media2"):
         line = lines[i].rstrip()
         i += 1
         tag, _, rest = line.partition(" ")
-        if tag in ("P", "PN", "PC", "PCB", "PI", "BUL", "REF"):
+        if tag == "REF":
+            # 12pt, 1.15 spacing, 3pt after
+            n = max(1, -(-len(rest.split()) // 13))
+            cm += n * (12 * 1.15 / 28.35) + 3 / 28.35
+        elif tag in ("P", "PN", "PC", "PCB", "PI", "BUL"):
             n = max(1, -(-len(rest.split()) // int(WORDS_PER_LINE)))
             cm += n * BODY_LINE_CM + PARA_GAP_CM
         elif tag in ("H1", "H1P", "H2", "H3", "H4"):
-            cm += 1.6 * BODY_LINE_CM + PARA_GAP_CM * 2
+            cm += 1.6 * BODY_LINE_CM + 9 / 28.35
             if tag == "H1P":
                 cm = (int(cm / TEXT_H_CM) + 1) * TEXT_H_CM   # page break
         elif tag == "PB" or tag == "SECTION":

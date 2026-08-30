@@ -189,8 +189,15 @@ def main(path):
     print("  reference bookmarks:", len(marks))
     print("  dangling links:", dangling or "none")
     linked_nums = {int(a.split("_")[-1]) for a in ref_anchors}
-    unlinked = sorted(cited - linked_nums) if maxref else []
-    print("  cited but never linked:", unlinked or "none")
+    # only numbers rendered as digits can carry a link; interior members of a
+    # range such as 94 and 95 in [93-96] are never displayed
+    literal = set()
+    for m in re.finditer(r"\[([0-9][0-9,–-]*)\]", body[:idx] if idx > 0 else body):
+        for part in m.group(1).split(","):
+            for n in re.findall(r"\d+", part):
+                literal.add(int(n))
+    unlinked = sorted(literal - linked_nums)
+    print("  literal citation numbers not linked:", unlinked or "none")
 
     # in-text citation punctuation must be [5] / [5-7,9] / [5,9]
     body_only = body[:idx] if idx > 0 else body

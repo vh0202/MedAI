@@ -28,7 +28,7 @@ from docx.shared import Cm, Pt, RGBColor
 
 FONT = "Times New Roman"
 BODY_PT = 13
-TABLE_PT = 11.5
+TABLE_PT = 10.5
 TEXT_WIDTH_CM = 15.5  # 21.0 - 3.5 - 2.0
 BLACK = RGBColor(0, 0, 0)
 
@@ -244,14 +244,14 @@ def new_document():
     h1.font.color.rgb = BLACK
     h1.paragraph_format.alignment = WD_ALIGN_PARAGRAPH.CENTER
     h1.paragraph_format.space_before = Pt(0)
-    h1.paragraph_format.space_after = Pt(14)
+    h1.paragraph_format.space_after = Pt(10)
     h1.paragraph_format.line_spacing = 1.5
     h1.paragraph_format.keep_with_next = True
 
     for name, size, bold, italic, sb, sa in (
-        ("Heading 2", 13, True, False, 12, 6),
-        ("Heading 3", 13, True, False, 10, 6),
-        ("Heading 4", 13, True, True, 8, 6),
+        ("Heading 2", 13, True, False, 8, 4),
+        ("Heading 3", 13, True, False, 6, 3),
+        ("Heading 4", 13, True, True, 5, 3),
     ):
         s = doc.styles[name]
         s.font.size, s.font.bold, s.font.italic = Pt(size), bold, italic
@@ -363,9 +363,9 @@ class Builder:
         pf.alignment = WD_ALIGN_PARAGRAPH.JUSTIFY
         pf.left_indent = Cm(1.0)
         pf.first_line_indent = Cm(-1.0)
-        pf.line_spacing = 1.2
-        pf.space_after = Pt(6)
-        add_rich(p, text, size=BODY_PT, link_citations=False)
+        pf.line_spacing = 1.15
+        pf.space_after = Pt(3)
+        add_rich(p, text, size=12, link_citations=False)
         m = re.match(r"^\s*(\d+)\.", text)
         if m:
             bookmark(p, REF_ANCHOR % m.group(1), self._next_bid())

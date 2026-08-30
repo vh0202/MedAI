@@ -8,11 +8,11 @@ COLW 0.85,1.45,1.15,0.95,1.6
 ALIGN l,j,j,c,j
 FSIZE 10
 H Thuốc|Cơ chế|Liều|Khởi phát|Lưu ý
-R Aspirin|Ức chế không hồi phục cyclooxygenase-1|Nạp 160–325 mg; duy trì 75–100 mg/ngày|30–60 phút|Tăng liều duy trì chỉ tăng chảy máu tiêu hoá
+R Aspirin|Ức chế không hồi phục cyclooxygenase-1|Nạp 160–325 mg; duy trì 75–100 mg/ngày|30–60 phút|Tăng liều chỉ tăng chảy máu tiêu hoá
 R Clopidogrel|Tiền chất; gắn P2Y12 không hồi phục|Nạp 300 hoặc 600 mg; duy trì 75 mg/ngày|4–6 giờ (300 mg); 2 giờ (600 mg)|Phụ thuộc CYP2C19; tránh omeprazol, esomeprazol
 R Ticagrelor|Gắn hồi phục P2Y12; không cần hoạt hoá|Nạp 180 mg; duy trì 90 mg hai lần/ngày|30 phút – 2 giờ|Khó thở, chậm nhịp do adenosin; qua CYP3A4
-R Dipyridamole giải phóng kéo dài phối hợp aspirin|Ức chế phosphodiesterase và tái hấp thu adenosin|200 mg hai lần/ngày + aspirin 25 mg|Vài giờ; ổn định sau vài ngày|Đau đầu do giãn mạch; tăng liều dần
-R Cilostazol|Ức chế chọn lọc phosphodiesterase-3; giãn mạch|100 mg hai lần/ngày|Vài giờ|Chống chỉ định suy tim; dữ liệu Đông Á
+R Dipyridamole giải phóng kéo dài phối hợp aspirin|Ức chế phosphodiesterase, tái hấp thu adenosin|200 mg hai lần/ngày + aspirin 25 mg|Vài giờ; ổn định sau vài ngày|Đau đầu do giãn mạch; tăng liều dần
+R Cilostazol|Ức chế phosphodiesterase-3; giãn mạch|100 mg hai lần/ngày|Vài giờ|Chống chỉ định suy tim; dữ liệu Đông Á
 ENDTABLE
 H3 3.2.2. Bằng chứng từ CHANCE và POINT
 P CHANCE ngẫu nhiên hoá 5.170 người bệnh Trung Quốc, NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4 trong 24 giờ, clopidogrel 300 mg phối hợp aspirin 21 ngày: đột quỵ 90 ngày 8,2% so với 11,7%, HR 0,68 (KTC 95% 0,57–0,81) [14]. POINT tuyển 4.881 người bệnh đa quốc gia trong 12 giờ, clopidogrel 600 mg, kép 90 ngày: biến cố thiếu máu chính 5,0% so với 6,5%, HR 0,75 (KTC 95% 0,59–0,95) [15].
@@ -34,12 +34,12 @@ COLW 0.72,0.95,1.5,1.3,1.65,1.0
 ALIGN l,j,j,j,j,j
 FSIZE 9.5
 H Thử nghiệm (năm)|Cỡ mẫu, quần thể|Tiêu chuẩn chọn|Phác đồ, thời lượng|Kết cục chính (hai nhánh)|Chảy máu
-R CHANCE (2013)|5.170; Trung Quốc|NIHSS ≤ 3/TIA ABCD2 ≥ 4; 24 giờ|Aspirin + clopidogrel 300 mg; kép 21 ngày|Đột quỵ 90 ngày: 8,2% so với 11,7%; HR 0,68 (0,57–0,81)|Nặng/trung bình 0,3% so với 0,3%
-R POINT (2018)|4.881; đa quốc gia|NIHSS ≤ 3/TIA ABCD2 ≥ 4; 12 giờ|Aspirin + clopidogrel 600 mg; kép 90 ngày|Thiếu máu chính 90 ngày: 5,0% so với 6,5%; HR 0,75 (0,59–0,95)|Nặng 0,9% so với 0,4%; HR 2,32 (1,10–4,87)
+R CHANCE (2013)|5.170; Trung Quốc|NIHSS ≤ 3/TIA ABCD2 ≥ 4; 24 giờ|Aspirin + clopidogrel 300 mg; 21 ngày|Đột quỵ 90 ngày: 8,2% so với 11,7%; HR 0,68 (0,57–0,81)|Nặng/trung bình 0,3% so với 0,3%
+R POINT (2018)|4.881; đa quốc gia|NIHSS ≤ 3/TIA ABCD2 ≥ 4; 12 giờ|Aspirin + clopidogrel 600 mg; 90 ngày|Thiếu máu chính 90 ngày: 5,0% so với 6,5%; HR 0,75 (0,59–0,95)|Nặng 0,9% so với 0,4%; HR 2,32 (1,10–4,87)
 R CHANCE-2 (2021)|6.412; Trung Quốc; alen CYP2C19 mất chức năng|NIHSS ≤ 3/TIA ABCD2 ≥ 4; ≥ 40 tuổi; 24 giờ|Ticagrelor so với clopidogrel 90 ngày; aspirin 21 ngày|Đột quỵ 90 ngày: 6,0% so với 7,6%; HR 0,77 (0,64–0,94)|Nặng/trung bình 0,3% so với 0,3%; bất kỳ 5,3% so với 2,5%
 R THALES (2020)|11.016; đa quốc gia|NIHSS ≤ 5/TIA ABCD2 ≥ 6/hẹp cùng bên ≥ 50%; 24 giờ|Aspirin + ticagrelor 30 ngày|Đột quỵ/tử vong 30 ngày: 5,5% so với 6,6%; HR 0,83 (0,71–0,96)|Nặng 0,5% so với 0,1%; HR 3,99 (1,74–9,14)
 R SOCRATES (2016)|13.199; đa quốc gia|NIHSS ≤ 5/TIA ABCD2 ≥ 4; 24 giờ|Ticagrelor so với aspirin; 90 ngày|Gộp mạch máu 90 ngày: 6,7% so với 7,5%; HR 0,89 (0,78–1,01)|Nặng 0,5% so với 0,6%
-R INSPIRES (2023)|6.100; Trung Quốc|NIHSS ≤ 5/TIA nguy cơ cao; xơ vữa; 72 giờ|Aspirin + clopidogrel; kép 21 ngày|Đột quỵ mới 90 ngày: 7,3% so với 9,2%; HR 0,79 (0,66–0,94)|Vừa–nặng 0,9% so với 0,4%; HR 2,08 (1,07–4,04)
+R INSPIRES (2023)|6.100; Trung Quốc|NIHSS ≤ 5/TIA nguy cơ cao; xơ vữa; 72 giờ|Aspirin + clopidogrel; 21 ngày|Đột quỵ mới 90 ngày: 7,3% so với 9,2%; HR 0,79 (0,66–0,94)|Vừa–nặng 0,9% so với 0,4%; HR 2,08 (1,07–4,04)
 ENDTABLE
 H3 3.2.5. Thời điểm khởi trị và cửa sổ mở rộng
 P INSPIRES chỉ mở cửa sổ 72 giờ cho căn nguyên xơ vữa [53]. Sổ bộ Hàn Quốc gồm 41.530 người bệnh NIHSS ≤ 5 hoặc TIA nguy cơ cao trong 7 ngày, 25.112 (60,5%) điều trị kép: gộp 90 ngày 10,7% so với 11,6%, HR 0,82 (KTC 95% 0,77–0,87) [147].
@@ -55,16 +55,16 @@ COLW 0.95,1.75,1.8
 ALIGN l,j,j
 FSIZE 10
 H Mục kiểm|Nội dung|Xử trí
-R Loại trừ xuất huyết|Hình ảnh não trước liều đầu; chuyển dạng chảy máu|Ngừng điều trị kép; hội chẩn thần kinh
-R Chỉ định kháng đông|Rung nhĩ, huyết khối buồng tim, van cơ học|Chuyển lộ trình kháng đông; không phối hợp thường quy
-R Tiêu sợi huyết|Đã dùng tiêu sợi huyết tĩnh mạch|Hoãn đến sau phim kiểm tra giờ thứ 24
-R Tiền sử chảy máu|Xuất huyết nội sọ, tiêu hoá; loét đang hoạt động|Cân nhắc đơn trị; thêm ức chế bơm proton
-R Xét nghiệm nền|Tiểu cầu, hemoglobin, chức năng gan thận|Giảm tiểu cầu, thiếu máu tiến triển: hoãn, tìm nguyên nhân
-R Thuốc dùng kèm|Chống viêm không steroid, corticoid, ức chế tái hấp thu serotonin|Ngừng hoặc thay trước khởi trị
+R Loại trừ xuất huyết|Hình ảnh não trước liều đầu|Ngừng kép; hội chẩn thần kinh
+R Chỉ định kháng đông|Rung nhĩ, huyết khối buồng tim, van cơ học|Lộ trình kháng đông; không phối hợp
+R Tiêu sợi huyết|Đã dùng tiêu sợi huyết tĩnh mạch|Hoãn đến phim kiểm tra giờ 24
+R Tiền sử chảy máu|Xuất huyết nội sọ, tiêu hoá; loét hoạt động|Đơn trị; thêm ức chế bơm proton
+R Xét nghiệm nền|Tiểu cầu, hemoglobin, chức năng gan thận|Giảm tiểu cầu, thiếu máu: hoãn, tìm nguyên nhân
+R Thuốc dùng kèm|Chống viêm không steroid, corticoid, ức chế tái hấp thu serotonin|Ngừng hoặc thay thế
 R Tương tác clopidogrel|Omeprazol, esomeprazol; kiểu gen CYP2C19|Đổi pantoprazol hoặc rabeprazol; cân nhắc ticagrelor
-R Thủ thuật dự kiến|Nội soi, nhổ răng, phẫu thuật trong 21 ngày|Dời lịch hoặc hội chẩn thời điểm ngừng
-R Ngày kết thúc điều trị kép|Ghi trên đơn, giấy ra viện, hệ thống nhắc|Hẹn tái khám trước ngày thứ 21
-R Giáo dục người bệnh|Dấu hiệu chảy máu; không tự ngừng hay thêm thuốc|Bản hướng dẫn viết kèm số điện thoại
+R Thủ thuật dự kiến|Nội soi, nhổ răng, phẫu thuật trong 21 ngày|Dời lịch hoặc hội chẩn
+R Ngày kết thúc kép|Ghi trên đơn, giấy ra viện|Hẹn khám trước ngày 21
+R Giáo dục người bệnh|Dấu hiệu chảy máu; không tự ngừng thuốc|Bản hướng dẫn, số điện thoại
 ENDTABLE
 H3 3.2.8. Biến cố tái phát khi đang dùng kháng kết tập tiểu cầu
 P Trước khi đổi thuốc phải trả lời bốn câu hỏi: có thực sự thiếu máu não (xem Mục 2.6); cơ chế đã đúng chưa (xem Mục 2.4); người bệnh có uống thuốc không; có tương tác hay alen CYP2C19 mất chức năng không [81,82].

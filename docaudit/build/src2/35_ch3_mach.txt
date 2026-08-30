@@ -1,47 +1,47 @@
 H2 3.5. Điều trị theo nguyên nhân mạch máu
-P Ngoài nền điều trị nội khoa chung (xem Mục 3.2, Mục 3.3 và Mục 3.6), quyết định kế tiếp phụ thuộc vào chính tổn thương đã gây biến cố: hẹp xơ vữa động mạch cảnh ngoài sọ, hẹp xơ vữa động mạch nội sọ hoặc bóc tách động mạch vùng cổ. Cả ba đều tái phát dồn dày trong những ngày đầu nên thời điểm can thiệp quyết định lợi ích, và cán cân lợi ích – nguy cơ đảo chiều giữa ba bệnh cảnh.
+P Ngoài nền nội khoa chung (xem Mục 3.2, 3.3 và 3.6), quyết định kế tiếp tuỳ tổn thương gây biến cố: xơ vữa động mạch cảnh ngoài sọ, xơ vữa động mạch nội sọ hoặc bóc tách động mạch vùng cổ. Cả ba tái phát dồn dày ngày đầu nên thời điểm can thiệp quyết định lợi ích.
 H3 3.5.1. Hẹp động mạch cảnh ngoài sọ có triệu chứng
-P Hẹp động mạch cảnh trong đoạn ngoài sọ gây 8–15% nhồi máu não ở phương Tây [114], nhưng trong 1.191 người bệnh cơn thiếu máu não thoáng qua (TIA) hoặc nhồi máu não ở một trung tâm đột quỵ miền Bắc, chỉ 62 người bệnh — 5,2% (khoảng tin cậy 95%, KTC 95%, 4,0–6,6) — có hẹp 50–99% cùng bên [182], nên khảo sát cần bao phủ cả hai tầng mạch (xem Mục 2.3). Mức hẹp phải ghi rõ quy ước đo vì cùng một tổn thương cho trị số ECST cao hơn NASCET [110,111] (Hình 3.2).
+P Hẹp động mạch cảnh trong ngoài sọ gây 8–15% nhồi máu não ở phương Tây [114]; tại một trung tâm miền Bắc, chỉ 62/1.191 người bệnh thiếu máu não thoáng qua (TIA) hoặc nhồi máu não — 5,2%, khoảng tin cậy 95% (KTC 95%) 4,0–6,6 — có hẹp 50–99% cùng bên [182], nên khảo sát phải phủ hai tầng mạch (xem Mục 2.3). Mức hẹp phải kèm quy ước đo vì ECST cho trị số cao hơn NASCET [110,111] (Hình 3.2).
 FIG image9.png | 7.5 | So sánh phương pháp đo mức hẹp động mạch cảnh theo NASCET và theo ECST [110,111].
 H4 3.5.1.1. Chỉ định theo mức hẹp
-P NASCET ngẫu nhiên hoá 659 người bệnh hẹp 70–99% cùng bên có biến cố trong 120 ngày vào bóc nội mạc so với nội khoa đơn thuần: nhồi máu não cùng bên ở 2 năm 9% so với 26%, giảm tuyệt đối 17 điểm phần trăm, đổi lại 5,8% biến cố chu phẫu [107]; ECST cùng chiều [108]. Phân tích gộp dữ liệu cá thể cho mức giảm nguy cơ tuyệt đối 5 năm −2,2% ở hẹp dưới 30%, 3,2% ở 30–49%, 4,6% ở 50–69%, 16,0% ở 70–99% chưa gần tắc và −1,7% ở gần tắc [109].
+P NASCET ngẫu nhiên hoá 659 người hẹp 70–99% cùng bên, biến cố trong 120 ngày, vào bóc nội mạc hoặc nội khoa: nhồi máu não cùng bên 2 năm 9% so với 26%, giảm tuyệt đối 17 điểm phần trăm, đổi lại 5,8% biến cố chu phẫu [107]; ECST cùng chiều [108]. Gộp dữ liệu cá thể: giảm tuyệt đối 5 năm −2,2% (dưới 30%), 3,2% (30–49%), 4,6% (50–69%), 16,0% (70–99% chưa gần tắc), −1,7% (gần tắc) [109].
 H4 3.5.1.2. Thời điểm can thiệp
-P Ở hẹp từ 50% trở lên, số người cần điều trị để phòng một nhồi máu não cùng bên trong 5 năm là 5 khi mổ trong hai tuần và 125 khi mổ sau hơn 12 tuần [166]. Hướng dẫn khuyến cáo bóc nội mạc cho hẹp 70–99% có triệu chứng khi nguy cơ chu phẫu của cơ sở dưới 6%, cá thể hoá ở 50–69%, không can thiệp khi hẹp dưới 50% [18,114]; năm 2026 bổ sung khuyến cáo không mổ cấp cứu trong vòng 48 giờ khi thiếu sót thần kinh đang tiến triển [5].
+P Ở hẹp từ 50% trở lên, số người cần điều trị phòng một nhồi máu cùng bên 5 năm là 5 nếu mổ trong hai tuần, 125 nếu sau 12 tuần [166]. Khuyến cáo mổ khi hẹp 70–99% có triệu chứng và nguy cơ chu phẫu dưới 6%, cá thể hoá ở 50–69%, không can thiệp dưới 50% [18,114]; năm 2026 thêm mục không mổ cấp cứu trong 48 giờ khi thiếu sót tiến triển [5].
 H3 3.5.2. Bóc nội mạc so với đặt stent
-P CREST so sánh hai kỹ thuật trên 2.502 người bệnh, hẹp từ 50% trở lên nếu có triệu chứng và từ 60% trở lên nếu không. Kết cục chính gộp — đột quỵ mọi loại, nhồi máu cơ tim hoặc tử vong chu thủ thuật cộng nhồi máu não cùng bên trong 4 năm — tương đương, nhưng đột quỵ 30 ngày cao hơn ở nhánh đặt stent còn nhồi máu cơ tim cao hơn ở nhánh bóc nội mạc; kết luận giữ nguyên ở 10 năm, với tương tác tuổi giao cắt quanh 70 [112,113] (Bảng 3.12).
+P CREST so sánh hai kỹ thuật trên 2.502 người bệnh, hẹp từ 50% trở lên nếu có triệu chứng và từ 60% trở lên nếu không; kết luận giữ nguyên ở 10 năm, với tương tác tuổi giao cắt quanh 70 [112,113] (Bảng 3.12).
 TABLE So sánh bóc nội mạc động mạch cảnh với đặt stent động mạch cảnh theo thử nghiệm CREST [112,113].
 COLW 1.7,1.0,1.0,1.6
 ALIGN l,c,c,j
 FSIZE 10
 H Kết cục|Bóc nội mạc|Đặt stent|Nhận xét
-R Kết cục chính gộp ở 4 năm|6,8%|7,2%|HR 1,11 (KTC 95% 0,81–1,51); p = 0,51
-R Đột quỵ mọi loại trong 30 ngày|2,3%|4,1%|p = 0,01; nghiêng về bóc nội mạc
-R Nhồi máu cơ tim trong 30 ngày|2,3%|1,1%|p = 0,03; nghiêng về đặt stent
-R Tử vong trong 30 ngày|0,3%|0,7%|p = 0,18; không khác biệt
-R Kết cục chính ở phân nhóm có triệu chứng, 4 năm|6,4%|8,0%|HR 1,37 (KTC 95% 0,90–2,09)
-R Kết cục chính ở 10 năm|9,9%|11,8%|HR 1,10 (KTC 95% 0,83–1,44)
-R Nhồi máu não cùng bên sau chu thủ thuật đến 10 năm|5,6%|6,9%|HR 0,99 (KTC 95% 0,64–1,52)
-R Tương tác giữa tuổi và phương pháp|Ưu thế từ khoảng 70 tuổi trở lên|Ưu thế dưới khoảng 70 tuổi|p = 0,02 cho kiểm định tương tác
+R Chính gộp, 4 năm|6,8%|7,2%|HR 1,11 (KTC 95% 0,81–1,51); p = 0,51
+R Đột quỵ, 30 ngày|2,3%|4,1%|p = 0,01
+R Nhồi máu cơ tim, 30 ngày|2,3%|1,1%|p = 0,03
+R Tử vong, 30 ngày|0,3%|0,7%|p = 0,18
+R Chính gộp, có triệu chứng, 4 năm|6,4%|8,0%|HR 1,37 (KTC 95% 0,90–2,09)
+R Chính gộp, 10 năm|9,9%|11,8%|HR 1,10 (KTC 95% 0,83–1,44)
+R Nhồi máu cùng bên, 10 năm|5,6%|6,9%|HR 0,99 (KTC 95% 0,64–1,52)
+R Tương tác tuổi|Ưu thế ≥ 70 tuổi|Ưu thế < 70 tuổi|p = 0,02
 ENDTABLE
-P Bóc nội mạc mặc định ở người từ 70 tuổi trở lên; đặt stent ưu tiên khi vùng cổ đã xạ trị hoặc phẫu thuật, hẹp tái phát sau bóc nội mạc, hoặc nguy cơ gây mê nổi trội [114]. Sau bóc nội mạc dùng đơn trị kháng kết tập tiểu cầu; sau đặt stent dùng kháng kết tập tiểu cầu kép 1–3 tháng rồi chuyển đơn trị, khác phác đồ kép 21 ngày sau đột quỵ thiếu máu não nhẹ (xem Mục 3.2) [18,114].
+P Bóc nội mạc mặc định từ 70 tuổi; đặt stent ưu tiên khi cổ đã xạ trị hoặc mổ, hẹp tái phát sau mổ, nguy cơ gây mê cao [114]. Sau bóc nội mạc: đơn trị kháng kết tập tiểu cầu; sau đặt stent: kép 1–3 tháng rồi đơn trị, khác phác đồ kép 21 ngày ở đột quỵ nhẹ (xem Mục 3.2) [18,114].
 H3 3.5.3. Hẹp động mạch cảnh không triệu chứng
-P Ở nhóm không triệu chứng, mọi biến cố chu thủ thuật là thiệt hại thuần, trong khi tỷ lệ hiện mắc chỉ 0,5–1% [42] và 7,5% ở nam, 5,0% ở nữ từ 80 tuổi trở lên trong 23.706 người [167]. CREST-2 gồm hai thử nghiệm song song trên người hẹp từ 70% trở lên, kết cục chính là đột quỵ hoặc tử vong trong 44 ngày cộng nhồi máu não cùng bên đến 4 năm: đặt stent 2,8% (KTC 95% 1,5–4,3) so với nội khoa tăng cường 6,0% (KTC 95% 3,8–8,3), n = 1.245; bóc nội mạc 3,7% (KTC 95% 2,1–5,5) so với 5,3% (KTC 95% 3,3–7,4), n = 1.240 [119].
-P Trong 2.485 người bệnh theo dõi 4 năm chỉ có 104 biến cố chính, 70 (67%) là đột quỵ nhẹ [119]; ECST-2 (hơn 400 người bệnh) không thấy khác biệt ở 2 năm [161]. Phân tích gộp CREST-2, ECST-2 và SPACE-2 (3.426 người bệnh) cho kết cục gộp ở 88/1.847 người tái thông (4,76%) so với 101/1.579 người điều trị nội khoa (6,40%), nguy cơ tương đối 0,91 (KTC 95% 0,47–1,74; I^{2} = 74%) [162]; can thiệp chỉ hợp lý ở nhóm nguy cơ cao dưới nội khoa [42,163].
+P Không triệu chứng, biến cố chu thủ thuật là thiệt hại thuần; tỷ lệ hiện mắc 0,5–1% [42], 7,5% ở nam và 5,0% ở nữ từ 80 tuổi trong 23.706 người [167]. CREST-2 (hai thử nghiệm song song, hẹp từ 70% trở lên) cho kết cục chính 44 ngày cộng nhồi máu cùng bên 4 năm: đặt stent 2,8% (KTC 95% 1,5–4,3) so với nội khoa tăng cường 6,0% (KTC 95% 3,8–8,3), n = 1.245; bóc nội mạc 3,7% (KTC 95% 2,1–5,5) so với 5,3% (KTC 95% 3,3–7,4), n = 1.240 [119].
+P Trong 2.485 người theo dõi 4 năm chỉ có 104 biến cố chính, 70 (67%) là đột quỵ nhẹ [119]; ECST-2 (hơn 400 người) không khác biệt ở 2 năm [161]. Gộp CREST-2, ECST-2 và SPACE-2 (3.426 người): 88/1.847 tái thông (4,76%) so với 101/1.579 nội khoa (6,40%), nguy cơ tương đối 0,91 (KTC 95% 0,47–1,74; I^{2} = 74%) [162]; can thiệp chỉ hợp lý ở nhóm nguy cơ cao [42,163].
 H3 3.5.4. Hẹp động mạch nội sọ có triệu chứng
-P Hẹp nội sọ ở châu Á có tỷ lệ hiện mắc 3%–89,4%, trung vị 13% qua 142 nghiên cứu [186]; CICAS (2.864 người bệnh nhồi máu não hoặc TIA, 22 bệnh viện Trung Quốc) ghi nhận 46,6% hẹp từ 50% trở lên [19]; xơ vữa đa tầng dự báo tiên lượng xấu ở 5 năm [117,118]. WASID (569 người bệnh hẹp 50–99% nội sọ) cho kết cục gộp tương đương giữa warfarin và aspirin 1.300 mg mỗi ngày (HR 1,04; KTC 95% 0,73–1,48) nhưng dừng sớm vì tử vong 9,7% so với 4,3% và chảy máu nặng 8,3% so với 3,2% ở nhánh warfarin [115].
-P SAMMPRIS dừng sớm vì biến cố cao hơn ở nhánh đặt stent (xuất huyết nội sọ có triệu chứng 4,9% so với 0,4%); phác đồ nhánh chứng nay là chuẩn: aspirin 325 mg mỗi ngày phối hợp clopidogrel 75 mg mỗi ngày trong 90 ngày (xem Mục 3.2), statin cường độ cao đích LDL-C dưới 70 mg/dL (1,8 mmol/L) và huyết áp tâm thu dưới 140 mmHg [72]. Hướng dẫn năm 2026 bổ sung ticagrelor phối hợp aspirin trong 30 ngày cho hẹp từ 50% trở lên, mức khuyến cáo 2b [5].
-P CASSISS (358 người bệnh hẹp 70–99%, can thiệp sau ít nhất ba tuần) không cho thấy lợi ích của đặt stent (HR 1,10; KTC 95% 0,52–2,35), kể cả khi theo dõi kéo dài [116,165]. BASIS (501 người bệnh tại 31 trung tâm Trung Quốc) so sánh nong bóng dưới mức tối đa kèm nội khoa tích cực (n = 249) với nội khoa tích cực đơn thuần (n = 252): HR 0,32 (KTC 95% 0,16–0,63), đột quỵ hoặc tử vong 30 ngày 3,2% so với 1,6% [164]. Colchicine liều thấp làm tăng đột quỵ 90 ngày ở phân nhóm hẹp nội sọ có triệu chứng nên cần tránh (xem Mục 3.6.6) [154] (Bảng 3.13).
+P Tỷ lệ hẹp nội sọ ở châu Á 3%–89,4%, trung vị 13% qua 142 nghiên cứu [186]; CICAS (2.864 người nhồi máu não hoặc TIA, 22 bệnh viện Trung Quốc): 46,6% hẹp từ 50% trở lên [19]; xơ vữa đa tầng báo tiên lượng xấu 5 năm [117,118]. WASID (569 người hẹp 50–99% nội sọ) cho kết cục gộp tương đương giữa warfarin và aspirin 1.300 mg/ngày (HR 1,04; KTC 95% 0,73–1,48) nhưng dừng sớm vì warfarin làm tử vong 9,7% so với 4,3%, chảy máu nặng 8,3% so với 3,2% [115].
+P SAMMPRIS dừng sớm vì biến cố cao ở nhánh stent (xuất huyết nội sọ có triệu chứng 4,9% so với 0,4%); nhánh chứng nay là chuẩn: aspirin 325 mg/ngày kèm clopidogrel 75 mg/ngày trong 90 ngày (xem Mục 3.2), statin cường độ cao, LDL-C dưới 70 mg/dL (1,8 mmol/L), huyết áp tâm thu dưới 140 mmHg [72]. Hướng dẫn 2026 thêm ticagrelor kèm aspirin 30 ngày cho hẹp từ 50% trở lên, mức 2b [5].
+P CASSISS (358 người hẹp 70–99%, can thiệp sau ba tuần) không lợi ích với đặt stent (HR 1,10; KTC 95% 0,52–2,35), kể cả theo dõi kéo dài [116,165]. BASIS (501 người, 31 trung tâm Trung Quốc): nong bóng dưới mức tối đa (n = 249) so với nội khoa (n = 252), HR 0,32 (KTC 95% 0,16–0,63), đột quỵ hoặc tử vong 30 ngày 3,2% so với 1,6% [164]. Colchicine liều thấp tăng đột quỵ 90 ngày ở hẹp nội sọ có triệu chứng nên tránh (Mục 3.6.6) [154] (Bảng 3.13).
 TABLE Bằng chứng điều trị hẹp động mạch nội sọ có triệu chứng [72,115,116,164,165].
 COLW 1.1,1.5,0.6,2.2,1.5
 ALIGN l,j,c,j,j
 FSIZE 10
-H Thử nghiệm và năm|Can thiệp|Cỡ mẫu|Kết cục chính|Kết luận thực hành
-R WASID, 2005|Warfarin (INR 2–3) so với aspirin 1.300 mg mỗi ngày|569|Nhồi máu não, xuất huyết não hoặc tử vong do nguyên nhân mạch máu khác: 21,8% so với 22,1%|Loại bỏ kháng đông; aspirin là nền tảng
-R SAMMPRIS, 2011|Nong bóng và đặt stent kèm nội khoa tích cực so với nội khoa tích cực|451|Đột quỵ hoặc tử vong 30 ngày, hoặc đột quỵ vùng đích sau đó: 14,7% so với 5,8% ở 30 ngày và 20,0% so với 12,2% ở 1 năm|Không đặt stent bước một; xác lập phác đồ nội khoa tích cực
-R CASSISS, 2022|Đặt stent kèm nội khoa so với nội khoa, can thiệp sau ít nhất ba tuần|358|Đột quỵ hoặc tử vong 30 ngày, hoặc đột quỵ vùng đích trong 1 năm: 8,0% so với 7,2%; ở 3 năm 11,3% so với 11,2%|Chọn lọc người bệnh và thao tác viên vẫn không tạo ra lợi ích
-R CASSISS theo dõi dài hạn, 2025|Như trên, kéo dài thời gian theo dõi|358|Đột quỵ vùng đích và tử vong: tương đương giữa hai nhánh|Không xuất hiện lợi ích muộn của đặt stent
-R BASIS, 2024|Nong bóng dưới mức tối đa kèm nội khoa tích cực so với nội khoa tích cực|501|Đột quỵ hoặc tử vong 30 ngày, hoặc nhồi máu vùng đích hay tái thông từ 30 ngày đến 12 tháng: 4,4% so với 13,5%|Thử nghiệm nội mạch dương tính đầu tiên; cần xác nhận ngoài Trung Quốc
+H Thử nghiệm, năm|Can thiệp|Cỡ mẫu|Kết cục chính|Kết luận
+R WASID, 2005|Warfarin (INR 2–3) so với aspirin 1.300 mg/ngày|569|21,8% / 22,1%|Bỏ kháng đông; aspirin nền tảng
+R SAMMPRIS, 2011|Nong bóng, stent / nội khoa|451|30 ngày 14,7% / 5,8%; 1 năm 20,0% / 12,2%|Không stent bước một
+R CASSISS, 2022|Stent / nội khoa, sau ba tuần|358|1 năm 8,0% / 7,2%; 3 năm 11,3% / 11,2%|Không lợi ích dù chọn lọc
+R CASSISS dài hạn, 2025|Như trên, theo dõi dài|358|Tương đương hai nhánh|Không lợi ích muộn
+R BASIS, 2024|Nong bóng dưới mức tối đa / nội khoa|501|12 tháng 4,4% / 13,5%|Dương tính đầu tiên, cần xác nhận
 ENDTABLE
 H3 3.5.5. Bóc tách động mạch vùng cổ
-P Bóc tách động mạch cảnh trong hoặc động mạch đốt sống đoạn ngoài sọ là nguyên nhân hàng đầu của nhồi máu não ở người trẻ và là bệnh cảnh duy nhất không do xơ vữa ở đây. Phần lớn biến cố theo cơ chế lấp mạch động mạch – động mạch từ chỗ rách nội mạc, nên trọng tâm điều trị là ức chế huyết khối chứ không phải tái lập lòng mạch (xem Mục 1.3.6 và Mục 2.3).
-P Thử nghiệm ngẫu nhiên hoá 250 người bệnh bóc tách trong 7 ngày đầu ghi nhận đột quỵ cùng bên hoặc tử vong ở 3 tháng tại 2/126 (1,6%) dùng kháng kết tập tiểu cầu so với 1/124 (0,8%) dùng kháng đông; chỉ ba biến cố nên không loại trừ được khác biệt thật, và khuyến cáo đặt hai lựa chọn ngang nhau trong 3–6 tháng rồi chuyển đơn trị dài hạn [18]. Đặt stent chỉ dành cho tái phát dù dùng thuốc đúng mức, ở mức khuyến cáo yếu, và cần tránh xoa nắn cột sống cổ [5,18].
+P Bóc tách động mạch cảnh trong hoặc đốt sống ngoài sọ là nguyên nhân hàng đầu của nhồi máu não người trẻ. Biến cố chủ yếu do lấp mạch động mạch – động mạch từ chỗ rách nội mạc, nên trọng tâm là ức chế huyết khối, không phải tái thông (xem Mục 1.3.6 và Mục 2.3).
+P Thử nghiệm ngẫu nhiên hoá 250 người bóc tách trong 7 ngày đầu: đột quỵ cùng bên hoặc tử vong 3 tháng 2/126 (1,6%) với kháng kết tập tiểu cầu, 1/124 (0,8%) với kháng đông; chỉ ba biến cố nên khuyến cáo đặt hai lựa chọn ngang nhau 3–6 tháng rồi đơn trị [18]. Đặt stent chỉ khi tái phát dù điều trị đúng, khuyến cáo yếu; tránh xoa nắn cột sống cổ [5,18].
