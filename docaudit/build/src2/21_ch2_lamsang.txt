@@ -1,0 +1,76 @@
+H1 CHƯƠNG 2. CHẨN ĐOÁN CƠN THIẾU MÁU NÃO THOÁNG QUA VÀ ĐỘT QUỴ THIẾU MÁU NÃO NHẸ
+H2 2.1. Đánh giá lâm sàng
+H3 2.1.1. Khai thác bệnh sử có cấu trúc
+P Chẩn đoán cơn thiếu máu não thoáng qua (TIA) là suy luận xác suất dựng từ lời kể, vì người bệnh thường đã hết triệu chứng khi được khám và chuỗi xung khuếch tán chỉ dương tính ở một phần trường hợp (xem Mục 2.3); TIA vẫn là cấp cứu vì nguy cơ tái phát dồn vào những ngày đầu [6,22,56]. Số cơn trong bảy ngày và tính rập khuôn giữa các cơn dễ bỏ sót nếu không dùng bảng kiểm (Bảng 2.1) [6,9,22,23].
+TABLE Bảng 2.1. Bảng kiểm khai thác bệnh sử và khám lâm sàng ở người bệnh nghi cơn thiếu máu não thoáng qua [6,9,22,23].
+COLW 1.0,1.7,1.6
+ALIGN l,j,j
+FSIZE 10.5
+H Nhóm thông tin|Nội dung cần xác định|Ý nghĩa quyết định
+R Mốc thời gian|Thời điểm cuối cùng còn bình thường, thời điểm khởi phát, thời lượng từng cơn|Xác định cửa sổ can thiệp và phân định cơn thoáng qua với thiếu sót đã xác lập
+R Cách khởi phát|Đột ngột và tối đa ngay từ đầu, hay lan dần trong nhiều phút|Lan dần từ 5 phút trở lên gợi ý tiền triệu đau nửa đầu (xem Mục 2.8)
+R Tính chất triệu chứng|Triệu chứng âm tính là mất chức năng; triệu chứng dương tính là giật cơ, dị cảm lan, ám điểm nhấp nháy|Triệu chứng dương tính làm giảm mạnh xác suất thiếu máu não
+R Tính phù hợp giải phẫu|Các triệu chứng có quy về một vùng cấp máu duy nhất hay rải rác|Phù hợp giải phẫu là điều kiện cần của chẩn đoán TIA
+R Số cơn và tính rập khuôn|Số cơn trong 7 ngày, mức độ giống nhau giữa các cơn|Chuỗi cơn rập khuôn gợi hội chứng cảnh báo hoặc cơ chế huyết động
+R Yếu tố khởi phát|Đứng dậy, gắng sức, ăn no, sau uống thuốc hạ huyết áp, xoay hoặc ngửa cổ, chấn thương cổ|Định hướng cơ chế huyết động hoặc bóc tách động mạch vùng cổ
+R Triệu chứng kèm theo|Đau đầu, đau cổ hoặc đau mặt cùng bên, đau ngực, hồi hộp trống ngực, ngất, sốt|Định hướng bóc tách, nguồn lấp mạch từ tim hoặc bệnh cảnh giả
+R Tiền sử mạch máu|TIA hoặc nhồi máu não cũ, rung nhĩ, bệnh mạch vành, tăng huyết áp, đái tháo đường, hút thuốc|Xác lập xác suất tiền nghiệm và làm nền cho phân tầng nguy cơ (xem Mục 2.2)
+R Thuốc đang dùng|Kháng kết tập tiểu cầu, kháng đông, thuốc hạ huyết áp, nội tiết tố, thuốc co mạch|Chi phối chẩn đoán cơ chế và mọi quyết định điều trị tiếp theo (xem Mục 3.2)
+R Khám tim mạch|Mạch không đều, tiếng thổi tại tim và tại động mạch cảnh, huyết áp hai tay, huyết áp tư thế|Chênh huyết áp tâm thu hai tay trên 20 mmHg gợi bệnh động mạch dưới đòn hoặc bóc tách
+R Khám thần kinh khu trú|Thang điểm NIHSS đầy đủ, soi đáy mắt, thị trường đối chiếu, dáng đi, thất điều|Cơ sở xác định thiếu sót gây tàn tật (xem Mục 2.1.4)
+R Chức năng nền|Điểm Rankin sửa đổi trước biến cố, tay thuận, nghề nghiệp, vai trò xã hội|Mốc so sánh bắt buộc để lượng giá mức độ gây tàn tật
+ENDTABLE
+P Các từ như "choáng váng", "xây xẩm" bao trùm nhiều thực thể nên phải chuyển thành mô tả hiện tượng học cụ thể; đến muộn buộc hỏi tách bạch từng cơn (xem Mục 2.8) [13,22,23]. Khám thực thể phải lặp lại vì nguy cơ diễn tiến thần kinh sớm: trong 839 người bệnh nhồi máu não có NIHSS từ 5 điểm trở xuống nhập viện trong 24 giờ tại Bệnh viện Bạch Mai, diễn tiến xấu sớm xảy ra ở 88 người, tương ứng 10,5%, trong đó 43,2% xuất hiện trong 24 giờ đầu [183].
+H3 2.1.2. Khám thần kinh và thang điểm NIHSS
+P Thang điểm đột quỵ của Viện Y tế Quốc gia Hoa Kỳ (NIHSS) gồm 11 mục khám, ba mục tách riêng thành 15 hạng mục, tổng điểm 0–42, chấm theo hành vi quan sát được nên tin cậy khi so sánh giữa các cơ sở [5,54]. Phân bố dồn về đầu thấp gây hiệu ứng sàn ở đột quỵ thiếu máu não nhẹ; vận động chi chiếm 16 trong 42 điểm, thị giác và ngôn ngữ mỗi lĩnh vực 3 điểm, nên thang kém nhạy với tuần hoàn sau (Bảng 2.2) [5,54,136].
+TABLE Bảng 2.2. Các mục của thang điểm NIHSS và mức độ phản ánh tàn tật thực tế [5,54,136].
+COLW 0.8,1.5,0.5,1.7
+ALIGN l,j,c,j
+FSIZE 10.5
+H Mục|Nội dung đánh giá|Điểm tối đa|Ghi chú về nguy cơ đánh giá thấp mức tàn tật
+R 1a–1c|Mức độ ý thức, câu hỏi định hướng, thực hiện mệnh lệnh|7|Hầu như luôn bằng 0 ở đột quỵ nhẹ; không ghi nhận mệt mỏi và giảm chú ý sau biến cố
+R 2|Vận nhãn ngang|2|Không ghi nhận song thị đơn thuần và liệt vận nhãn dọc, vốn cản trở đọc và lái xe
+R 3|Thị trường|3|Bán manh góc tư chỉ 1 điểm nhưng đủ để mất quyền lái xe và nhiều nghề nghiệp
+R 4|Liệt mặt|3|Liệt mặt trung ương nhẹ 1 điểm nhưng ảnh hưởng phát âm, ăn uống và giao tiếp xã hội
+R 5a–5b|Vận động hai tay ở tư thế giữ|8|Chỉ đo lệch tay khi giữ; mất khéo léo bàn tay ưu thế có thể được cho 0 điểm
+R 6a–6b|Vận động hai chân ở tư thế giữ|8|Điểm 0 vẫn tương thích với mất thăng bằng dáng đi và không tự đi lại an toàn
+R 7|Thất điều chi|2|Bị cho 0 điểm khi chi đã yếu; thất điều thân mình và thất điều dáng đi không được đo
+R 8|Cảm giác|2|Giảm cảm giác nửa người chỉ 1 điểm dù mất cảm giác bàn tay làm mất chức năng cầm nắm tinh tế
+R 9|Ngôn ngữ|3|Mất ngôn ngữ nhẹ hoặc khó gọi tên chỉ 1 điểm nhưng có thể chấm dứt nghề nghiệp dùng lời nói
+R 10|Loạn vận ngôn|2|Loạn vận ngôn nhẹ 1 điểm nhưng gây trở ngại lớn với nghề giảng dạy, bán hàng, tổng đài
+R 11|Lơ là nửa không gian|2|Lơ là mức nhẹ 1 điểm nhưng ảnh hưởng trực tiếp đến an toàn khi đi lại và lái xe
+ENDTABLE
+P Thang điểm không có nuốt khó, mất thị lực một mắt, chóng mặt và nhận thức, nên "nhẹ theo NIHSS" không đồng nhất với "không gây tàn tật" (xem Mục 1.1.2.2 và Mục 3.1.2) [5,136]. Đo lặp lại theo giờ phát hiện sớm diễn tiến xấu; ở người bệnh NIHSS từ 5 điểm trở xuống, điểm lúc nhập viện dự báo diễn tiến này với tỷ số chênh (OR) 1,24 (khoảng tin cậy 95%, viết tắt KTC 95%: 1,03–1,49), huyết áp tâm thu trên 150 mmHg có OR 1,70 (KTC 95% 1,03–2,81), glucose máu có OR 1,07 (KTC 95% 1,01–1,14); diễn tiến xấu sớm liên quan kết cục xấu ở 90 ngày với OR 21,74 (KTC 95% 12,63–37,43) [183].
+H3 2.1.3. Hội chứng lâm sàng theo vùng cấp máu
+H4 2.1.3.1. Tuần hoàn trước
+P Trong hệ động mạch cảnh trong, dấu hiệu vỏ não kèm liệt ưu thế mặt – tay chống lại cơ chế bệnh mạch máu nhỏ; ngược lại, liệt nửa người thuần vận động cân đối mặt – tay – chân định hướng hội chứng ổ khuyết, nhóm hay diễn tiến từng nấc (xem Mục 1.3.5) [6,22]. Nhồi máu ổ khuyết chiếm khoảng một phần tư tổng số nhồi máu não và thường nhẹ về thần kinh, trong khi bằng chứng trực tiếp còn ít [134].
+H4 2.1.3.2. Tuần hoàn sau và các hội chứng thân não
+P Tuần hoàn sau dễ bỏ sót vì NIHSS ít nhạy; chóng mặt kèm song thị, nuốt khó, khàn tiếng hoặc thất điều gợi nguồn gốc thân não, còn các hội chứng bắt chéo Wallenberg, Weber, Millard-Gubler định khu nhờ liệt dây thần kinh sọ một bên kèm thiếu sót nửa người đối bên (Bảng 2.3) [6,22]. Trong 1.191 người bệnh TIA hoặc nhồi máu não tại Bệnh viện Bạch Mai, hẹp động mạch cảnh ngoài sọ 50–99% cùng bên chỉ gặp ở 62 người, tương ứng 5,2% (KTC 95% 4,0–6,6), nên cần khảo sát cả đoạn nội sọ ngay lần chụp đầu (xem Mục 2.4) [182].
+TABLE Bảng 2.3. Hội chứng lâm sàng theo vùng cấp máu và định hướng khảo sát [6,22].
+COLW 1.0,1.7,1.6
+ALIGN l,j,j
+FSIZE 10.5
+H Vùng cấp máu|Biểu hiện đặc trưng|Định hướng khảo sát tiếp theo
+R Động mạch mắt|Mù thoáng qua một mắt kiểu màn che; tắc động mạch trung tâm võng mạc|Soi đáy mắt khẩn, khảo sát động mạch cảnh trong cùng bên, tốc độ máu lắng và protein phản ứng C
+R Động mạch não giữa, nhánh nông|Liệt và giảm cảm giác ưu thế mặt – tay; mất ngôn ngữ hoặc lơ là nửa không gian|Chuỗi xung khuếch tán và khảo sát toàn trục mạch từ cung động mạch chủ đến nội sọ
+R Động mạch não giữa, nhánh xuyên|Liệt nửa người thuần vận động cân đối mặt – tay – chân, không dấu hiệu vỏ não|Chuỗi xung khuếch tán, chụp lại khi âm tính sớm; đánh giá yếu tố nguy cơ bệnh mạch máu nhỏ
+R Động mạch não trước|Liệt ưu thế chân, thờ ơ, phản xạ nắm, tiểu không tự chủ|Khảo sát đoạn A1–A2 và tầm soát nguồn lấp mạch từ tim
+R Động mạch não sau|Bán manh đồng danh, mất đọc không mất viết, rối loạn nhận biết thị giác|Đo thị trường đối chiếu tại giường; khảo sát hệ đốt sống – thân nền
+R Động mạch đốt sống, hành tuỷ bên|Hội chứng Wallenberg: chóng mặt, nuốt khó, khàn tiếng, hội chứng Horner, mất cảm giác đau bắt chéo|Bộ ba khám HINTS, đánh giá nuốt, khảo sát động mạch đốt sống hai bên
+R Động mạch thân nền và nhánh xuyên|Hội chứng bắt chéo kiểu Weber hoặc Millard-Gubler, song thị, loạn vận ngôn, thất điều nửa người|Chụp mạch khẩn hệ đốt sống – thân nền; theo dõi sát vì nguy cơ diễn tiến cao
+R Động mạch tiểu não|Chóng mặt, thất điều thân mình, không đứng đi được, rung giật nhãn cầu đổi hướng|Bộ ba khám HINTS; hình ảnh hố sau và cân nhắc chụp lại nếu âm tính trong 48 giờ đầu
+ENDTABLE
+H3 2.1.4. Đánh giá thiếu sót gây tàn tật
+P Thiếu sót gây tàn tật được định nghĩa theo chức năng: nếu tồn tại vĩnh viễn sẽ ngăn cản sinh hoạt cơ bản hoặc trở lại nghề nghiệp và vai trò xã hội của chính người bệnh. Định nghĩa cá thể hoá theo tay thuận và nghề nghiệp, đánh giá trên tình trạng lúc khám, không theo dự đoán tự hồi phục [5,136]. Không có ngưỡng NIHSS tương đương; PRISMS và các thử nghiệm tiêu sợi huyết ở đột quỵ nhẹ phải xây dựng tiêu chí thao tác riêng (xem Mục 3.1.2) [59].
+P Cần rà soát riêng các lĩnh vực NIHSS bỏ sót: thị trường, khéo léo bàn tay thuận, thăng bằng và dáng đi, nuốt, lơ là nửa không gian. Hồ sơ phải ghi điểm NIHSS từng mục, kết luận về tính chất gây tàn tật kèm lý do, điểm Rankin sửa đổi trước biến cố; đây là mốc chuẩn phát hiện diễn tiến xấu sớm và là cơ sở hội chẩn từ xa [5,136].
+H3 2.1.5. Các thể lâm sàng đặc biệt
+H4 2.1.5.1. Thiếu máu võng mạc thoáng qua và tắc động mạch trung tâm võng mạc
+P Thiếu máu võng mạc thoáng qua là mất thị lực một mắt đột ngột kiểu màn che; phân biệt với bán manh đồng danh bằng cách hỏi người bệnh có che thử từng mắt. Tắc động mạch trung tâm võng mạc phải vào quy trình cấp cứu đột quỵ, không khám nhãn khoa thường quy, và điểm NIHSS có thể bằng 0 vì thang điểm không đo thị lực một mắt [5,6,23]. Từ 50 tuổi trở lên phải loại trừ viêm động mạch tế bào khổng lồ: xét nghiệm tốc độ máu lắng và protein phản ứng C ngay, corticosteroid liều cao khi nghi ngờ cao, không chờ sinh thiết [6,23].
+H4 2.1.5.2. Cơ chế huyết động, cơn giật chi và hội chứng cảnh báo
+P Cơ chế huyết động gây các cơn rập khuôn ngắn, gắn với đứng dậy nhanh, gắng sức hoặc sau uống thuốc hạ huyết áp, trên nền hẹp nặng hoặc tắc động mạch nuôi kèm bàng hệ không đủ (xem Mục 1.3.7). Thể dễ nhầm nhất là cơn giật chi: giật thô ở tay và chân đối bên khi đứng dậy, hết khi nằm, khác động kinh cục bộ vì không lan theo trình tự cơ thể và không lú lẫn sau cơn; nhầm lẫn dẫn tới thuốc chống động kinh vô ích và hạ huyết áp làm nặng giảm tưới máu (xem Mục 2.4) [22,23].
+P Hội chứng cảnh báo bao trong là chuỗi cơn liệt nửa người thuần vận động rập khuôn, dồn dập trong vài giờ đến vài ngày, thể cầu não kèm loạn vận ngôn, do rối loạn tưới máu ở một nhánh xuyên đơn độc (xem Mục 1.3.5) [22,39]. Nhóm này hay tiến triển thành nhồi máu ổ khuyết hoàn tất nên phải nhập viện theo dõi, và chuỗi xung khuếch tán âm tính lần đầu không loại trừ chẩn đoán (xem Mục 2.3). Nhồi máu vùng bao trong dự báo độc lập diễn tiến xấu sớm ở người bệnh NIHSS từ 5 điểm trở xuống, với OR 2,54 (KTC 95% 1,37–4,71) [183].
+H4 2.1.5.3. Hội chứng tiền đình cấp và bộ ba khám HINTS
+P Hội chứng tiền đình cấp là chóng mặt cấp tính kéo dài trên 24 giờ kèm rung giật nhãn cầu. Bộ ba khám HINTS chỉ áp dụng cho bệnh cảnh này: xung đầu bình thường, rung giật đổi hướng theo hướng nhìn hoặc lệch trục dọc khi che mắt đều hướng tới nguyên nhân trung ương. GRACE-3 khuyến cáo không dùng cắt lớp vi tính không cản quang để loại trừ đột quỵ và không dùng thang phân tầng nguy cơ của TIA bán cầu cho chóng mặt; chuỗi xung khuếch tán có thể âm tính giả trong 48 giờ đầu với ổ nhỏ ở hố sau (xem Mục 2.3) [73].
+H3 2.1.6. Sàng lọc nhận thức và khí sắc tại thời điểm chẩn đoán
+P Nhận thức và khí sắc không có trong NIHSS nhưng quyết định phần lớn chất lượng sống, khả năng trở lại lao động và mức tuân thủ điều trị lâu dài. Phải sàng lọc ngay tại thời điểm chẩn đoán để có mốc chuẩn; mệt mỏi và lo âu giai đoạn cấp làm điểm số thấp giả tạo nên kết quả bất thường cần kiểm chứng lại sau khoảng ba tháng.
+P Công cụ phải nhạy với suy giảm nhận thức mạch máu, ưu thế ở chức năng điều hành và tốc độ xử lý hơn trí nhớ tình tiết; kết quả giúp phân biệt với quên toàn bộ thoáng qua và sảng (xem Mục 2.8) và là căn cứ tư vấn lái xe (xem Mục 3.7.4). Phân tích gộp 61 thuần tập với 25.488 người bệnh ước lượng tỷ lệ trầm cảm sau đột quỵ khoảng 31% (KTC 95% 28–35), tuy quần thể TIA và đột quỵ thiếu máu não nhẹ thấp hơn [180]; khí sắc trầm và mệt mỏi kéo dài dự báo bỏ thuốc phòng ngừa thứ phát (xem Mục 3.7.5).
