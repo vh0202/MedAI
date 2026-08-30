@@ -27,7 +27,7 @@ TABLE Ngưỡng điểm NIHSS xác định đột quỵ thiếu máu não nhẹ 
 COLW 1.1,0.6,1.5,1.3
 ALIGN l,c,j,j
 FSIZE 10.5
-H Nguồn|Ngưỡng NIHSS|Tiêu chí kèm theo|Hệ quả thực hành
+H Văn bản|Ngưỡng NIHSS|Tiêu chí kèm theo|Hệ quả thực hành
 R Bộ Y tế 2024|≤ 5|Không kèm tiêu chí bắt buộc nào khác|Ngưỡng quy chiếu cho hồ sơ bệnh án và thống kê trong nước
 R AHA/ASA 2026, khuyến cáo mức I|≤ 3|Không do lấp mạch từ tim; hoặc TIA nguy cơ cao với ABCD2 ≥ 4|Nhóm có nền bằng chứng mạnh nhất
 R AHA/ASA 2026, khuyến cáo mức IIa–IIb|≤ 5|Hoặc ABCD2 ≥ 6, hoặc hẹp cùng bên ≥ 50% có triệu chứng, hoặc căn nguyên xơ vữa trong 24–72 giờ|Nới ngưỡng kèm hạ mức khuyến cáo

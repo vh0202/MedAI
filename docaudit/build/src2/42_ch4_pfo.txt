@@ -1,0 +1,52 @@
+H2 4.2. Đóng lỗ bầu dục thông trong đột quỵ chưa rõ nguyên nhân
+P Lỗ bầu dục thông (patent foramen ovale — PFO) có ở khoảng một phần tư người lớn, nên bắt gặp nó sau nhồi máu não không chứng minh quan hệ nhân quả; vấn đề là xác suất quy thuộc và lợi ích của việc bịt lại. Khác đột quỵ lấp mạch chưa rõ nguồn (ESUS), cơ chế ở đây can thiệp được (xem Mục 4.1).
+H3 4.2.1. Cơ sở giải phẫu và cơ chế lấp mạch nghịch thường
+P Nghiên cứu giải phẫu bệnh trên 965 quả tim bình thường ghi nhận tỷ lệ lỗ bầu dục thông 27,3%, giảm dần theo tuổi trong khi đường kính lỗ tăng dần, 1–19 mm với trung bình 4,9 mm [177]. Huyết khối tĩnh mạch vượt bộ lọc phổi khi áp lực nhĩ phải vượt nhĩ trái (Valsalva, ho, rặn).
+P Luồng thông lớn, phình vách liên nhĩ di động từ 10 mm trở lên, đường hầm dài, van Eustachi nổi rõ và lưới Chiari làm tăng xác suất gây bệnh và trở thành trục giải phẫu của PASCAL. Siêu âm tim qua thực quản kèm bọt khí mô tả giải phẫu và loại trừ nguồn lấp mạch khác (Hình 4.1).
+FIG image11.jpg | 12.0 | Siêu âm tim qua thực quản với nghiệm pháp bọt khí xác định luồng thông phải – trái qua lỗ bầu dục thông [126].
+H3 4.2.2. Ba thử nghiệm then chốt năm 2017
+H4 4.2.2.1. Thiết kế và kết quả
+P Ba thử nghiệm so sánh đóng lỗ bầu dục qua da với nội khoa ở người bệnh trẻ nhồi máu não không ổ khuyết chưa rõ nguyên nhân (Bảng 4.3). CLOSE bắt buộc luồng thông lớn trên 30 vi bọt khí hoặc phình vách liên nhĩ, đạt tỷ số nguy cơ (HR) 0,03, khoảng tin cậy 95% (KTC 95%) 0,00–0,26; nhánh kháng đông (n = 187) không đủ lực thống kê [127]. Kết cục chính thứ hai của REDUCE gộp thêm nhồi máu im lặng: 5,7% so với 11,3% (RR 0,51; KTC 95% 0,29–0,91), riêng nhồi máu im lặng không khác biệt (p = 0,97) [128]. RESPECT tuyển rộng nhất, đạt HR 0,55 (KTC 95% 0,31–0,999), rõ hơn ở phân nhóm phình vách liên nhĩ hoặc luồng thông lớn [124]. Rung nhĩ mới tăng ở nhánh can thiệp: 4,6% so với 0,9% và 6,6% so với 0,4% [127,128].
+H4 4.2.2.2. Hiệu quả tuyệt đối
+P Hiệu quả phân tầng theo độ chặt của tiêu chí tuyển, từ 0,03 qua 0,23 đến 0,55 (Bảng 4.3): can thiệp cơ học chỉ có tác dụng khi cơ chế cơ học đang vận hành. Tái phát ở nhánh chứng chỉ 1,0–1,7% mỗi năm nên số người cần điều trị khoảng 17 (CLOSE, 5,3 năm), 25 (REDUCE, 3,2 năm) và 45 (RESPECT, 5,9 năm).
+TABLE Ba thử nghiệm ngẫu nhiên về đóng lỗ bầu dục thông công bố năm 2017 [124,127,128].
+COLW 0.75,1.55,1.75,0.95,1.75,0.85
+ALIGN l,j,j,c,j,c
+FSIZE 9.5
+H Thử nghiệm|Cỡ mẫu và thiết kế|Tiêu chí chọn|Thời gian theo dõi|Tái phát đột quỵ: can thiệp so với chứng|HR (KTC 95%)
+R CLOSE|663 người bệnh; ba nhánh: đóng cộng kháng kết tập tiểu cầu, kháng kết tập tiểu cầu, kháng đông; Pháp và Đức|16–60 tuổi; nhồi máu não chưa rõ nguyên nhân; bắt buộc luồng thông lớn hoặc phình vách liên nhĩ|Trung bình 5,3 ± 2,0 năm|Đột quỵ: 0/238 (0%) so với 14/235 (5,9%)|0,03 (0,00–0,26)
+R REDUCE|664 người bệnh; hai nhánh, tỷ lệ 2:1; dụng cụ GORE HELEX hoặc GORE CARDIOFORM|18–59 tuổi; nhồi máu não chưa rõ nguyên nhân; không đòi hỏi luồng thông lớn|Trung vị 3,2 năm|Đột quỵ thiếu máu não lâm sàng: 6/441 (1,4%) so với 12/223 (5,4%)|0,23 (0,09–0,62)
+R RESPECT|980 người bệnh; hai nhánh; dụng cụ Amplatzer PFO Occluder|18–60 tuổi; nhồi máu não chưa rõ nguyên nhân; tiêu chí giải phẫu rộng|Trung vị 5,9 năm|Kết cục chính: 18/499 (3,6%) so với 28/481 (5,8%)|0,55 (0,31–0,999)
+ENDTABLE
+H3 4.2.3. Thang điểm RoPE và phân loại PASCAL
+H4 4.2.3.1. Thang điểm RoPE
+P Thang điểm RoPE (Risk of Paradoxical Embolism — nguy cơ lấp mạch nghịch thường), xây dựng trên 3.023 người bệnh đột quỵ chưa rõ nguyên nhân, cộng điểm cho yếu tố lâm sàng thuận lợi và tuổi trẻ (Bảng 4.4). Điểm càng cao thì phân suất quy thuộc càng lớn nhưng nguy cơ tái phát nền càng thấp, nên thang điểm lâm sàng đơn độc không đủ để chỉ định [125].
+TABLE Thang điểm RoPE và diễn giải xác suất quy thuộc [125,175].
+COLW 1.35,0.40,2.25
+ALIGN l,c,j
+FSIZE 10
+H Đặc điểm|Điểm|Diễn giải tổng điểm
+R Không tăng huyết áp|1|Tổng điểm dao động 0–10; điểm càng cao, xác suất lỗ bầu dục thông là nguyên nhân càng lớn
+R Không đái tháo đường|1|Tổng 0–3 điểm: tỷ lệ hiện mắc lỗ bầu dục thông 23%, phân suất quy thuộc ước tính 0%
+R Không tiền sử đột quỵ hoặc TIA|1|Tổng 4 điểm: hai giá trị tương ứng là 35% và 38%
+R Không hút thuốc lá|1|Tổng 5 điểm: 34% và 34%
+R Có nhồi máu vỏ não trên hình ảnh|1|Tổng 6 điểm: 47% và 62%
+R Tuổi 18–29|5|Tổng 7 điểm: 54% và 72%
+R Tuổi 30–39|4|Tổng 8 điểm: 67% và 84%
+R Tuổi 40–49|3|Tổng 9–10 điểm: 73% và 88%
+R Tuổi 50–59|2|Nguy cơ tái phát trong 2 năm đi ngược chiều: 20% ở nhóm 0–3 điểm và 2% ở nhóm 9–10 điểm
+R Tuổi 60–69|1|Điểm cao báo hiệu quan hệ nhân quả chắc hơn nhưng nguy cơ nền thấp hơn
+R Tuổi từ 70 trở lên|0|RoPE là trục yếu tố nguy cơ của phân loại PASCAL, không dùng đơn độc để chỉ định can thiệp
+ENDTABLE
+H4 4.2.3.2. Phân loại PASCAL
+P PASCAL kết hợp RoPE ngưỡng 7 điểm với giải phẫu nguy cơ cao là phình vách liên nhĩ hoặc luồng thông lớn, cho ba mức khó có khả năng, có thể và nhiều khả năng liên quan. Dữ liệu cá thể gộp sáu thử nghiệm trên 3.740 người bệnh xếp 1.382 (37,0%) mức nhiều khả năng, 1.811 (48,4%) mức có thể và 547 (14,6%) mức khó có khả năng [175].
+P Ở mốc 5 năm, mức giảm đột quỵ so với mức tăng rung nhĩ muộn sau ngày thứ 45 (điểm phần trăm, KTC 95%) là −2,5 (−4,2 đến −1,3) so với +1,3 (0,0–2,5) ở mức nhiều khả năng; −3,4 (−5,4 đến −1,3) so với +1,1 (−0,5 đến 2,6) ở mức có thể; +0,4 (−4,0 đến 4,8) so với +4,6 (0,3–8,9) ở mức khó có khả năng [175].
+H3 4.2.4. Khuyến cáo hiện hành và quy trình đa chuyên khoa
+P Hướng dẫn năm 2021 của Hiệp hội Tim mạch và Hiệp hội Đột quỵ Hoa Kỳ xem đóng lỗ bầu dục thông cộng kháng kết tập tiểu cầu dài hạn là hợp lý ở mức IIa (bằng chứng B-R) cho người bệnh 18–60 tuổi nhồi máu não không ổ khuyết chưa rõ nguyên nhân kèm giải phẫu nguy cơ cao, hạ xuống mức IIb khi thiếu đặc điểm đó [18]. Tổ chức Đột quỵ châu Âu năm 2024 dùng PASCAL làm khung: ủng hộ đóng ở mức nhiều khả năng hoặc có thể liên quan, không ủng hộ ở mức khó có khả năng [70,175].
+P Quy trình bắt buộc: xác nhận nhồi máu não hình thái lấp mạch; loại trừ nguyên nhân cạnh tranh, đặc biệt rung nhĩ với theo dõi nhịp đủ dài (xem Mục 2.5 và Mục 4.1); mô tả luồng thông bằng siêu âm tim qua thực quản và tính RoPE để xếp loại PASCAL; hội chẩn thần kinh – tim mạch rồi quyết định chung với người bệnh [18,37,70].
+H3 4.2.5. Điều trị kháng huyết khối sau đóng và theo dõi
+P RESPECT dùng aspirin phối hợp clopidogrel 1 tháng rồi aspirin đơn trị đến hết tháng thứ 6 [124]; CLOSE dùng kháng kết tập tiểu cầu kép 3 tháng rồi đơn trị dài hạn [127]; REDUCE chỉ thêm clopidogrel 3 ngày quanh thủ thuật [128]. Chưa có so sánh trực tiếp, nên hướng dẫn châu Âu gợi ý theo phác đồ của thử nghiệm tương ứng với dụng cụ [70].
+P Theo dõi tập trung vào luồng thông tồn lưu trên siêu âm tim có cản âm và vào rung nhĩ mới: phần lớn xuất hiện sớm rồi tự hết, nhưng phần dư rung nhĩ muộn lớn nhất ở nhóm khó có khả năng liên quan [175], khi xác nhận thì cân nhắc kháng đông theo thang CHA_{2}DS_{2}-VASc (xem Mục 3.4). Can thiệp không thay thế phòng ngừa thứ phát [70].
+H3 4.2.6. Người bệnh trên 60 tuổi và các câu hỏi còn lại
+P Giới hạn tuổi 60 là ranh giới hành chính: tổng quan hệ thống kèm phân tích gộp năm 2026 ở nhóm trên 60 tuổi ghi nhận tái phát thấp và biến chứng chấp nhận được, nhưng dữ liệu thuần quan sát không cho phép so sánh với nội khoa [176]. Tuổi cao làm giảm phân suất quy thuộc và tăng xác suất rung nhĩ tiềm ẩn; chỉ định sau cơn thiếu máu não thoáng qua (TIA) đơn thuần [70] và so sánh trực tiếp với kháng đông vẫn bỏ ngỏ vì nhánh kháng đông của CLOSE quá nhỏ [127] (xem Mục 4.4).
+P Tại Việt Nam, nhãn chưa rõ nguyên nhân chỉ hợp lệ khi khảo sát đủ, nhất là thời lượng theo dõi nhịp, nếu không người bệnh có thể được đóng lỗ bầu dục thông trong khi cơ chế thật là rung nhĩ (xem Mục 2.5). Mở rộng chỉ định ngoài nhóm PASCAL nhiều khả năng hoặc có thể liên quan chỉ làm tăng rung nhĩ muộn [175].
