@@ -1,0 +1,31 @@
+H2 2.5. Phân loại nguyên nhân
+H3 2.5.1. Năm phân nhóm TOAST và phân bố trong quần thể
+P TOAST xếp nhồi máu não vào năm phân nhóm: xơ vữa động mạch lớn, lấp mạch nguồn tim, tắc động mạch nhỏ (ổ khuyết), nguyên nhân xác định khác và chưa xác định. Mỗi phân nhóm cần bằng chứng dương tính kèm loại trừ các cơ chế khác, ghi “nhiều khả năng” hay “có thể” tuỳ mức hoàn tất khảo sát [35]. Ở cơn thiếu máu não thoáng qua (TIA) âm tính trên chuỗi xung khuếch tán, tiêu chuẩn ổ nhồi máu dưới vỏ dưới 1,5 cm không dùng được, nhãn bệnh mạch máu nhỏ chỉ dựa vào lâm sàng (xem Mục 2.3.1).
+P Phân bố (Bảng 1.9): xơ vữa động mạch lớn 15–20%, lấp mạch nguồn tim 20–25%, bệnh mạch máu nhỏ khoảng 25%, nguyên nhân xác định khác khoảng 5%, còn lại chưa xác định. Trong quần thể Bắc Dublin (381 người bệnh nhồi máu não), nhóm chưa xác định chiếm 39,4% [179]; đột quỵ lấp mạch chưa rõ nguồn (ESUS) chiếm khoảng 17%, dao động 9–25% [178].
+H3 2.5.2. Từ đột quỵ chưa rõ nguyên nhân đến đột quỵ lấp mạch chưa rõ nguồn
+P Bốn tiêu chí ESUS (Mục 1.3.2 và Bảng 1.8): nhồi máu không phải dạng ổ khuyết, không hẹp từ 50% trở lên ở động mạch cấp máu cho vùng nhồi máu, không có nguồn lấp mạch tim nguy cơ cao và không có nguyên nhân đặc hiệu khác [36]. ESUS nằm trong nhóm chưa xác định của TOAST, gồm toàn mệnh đề phủ định, nên chỉ mang thông tin khi kèm khảo sát đã hoàn tất (Bảng 2.11).
+TABLE So sánh phân loại TOAST với tiêu chí đột quỵ lấp mạch chưa rõ nguồn [35,36,178,179].
+COLW 0.85,1.35,1.35
+ALIGN l,j,j
+FSIZE 10.5
+H Đặc điểm|TOAST|Đột quỵ lấp mạch chưa rõ nguồn
+R Mục đích ban đầu|Định kiểu căn nguyên phục vụ một thử nghiệm lâm sàng|Tách một cấu trúc đồng nhất hơn khỏi nhóm chưa xác định
+R Vị trí trong hệ thống|Năm phân nhóm loại trừ lẫn nhau, bao phủ toàn bộ nhồi máu não|Một dưới nhóm nằm bên trong nhóm chưa xác định của TOAST
+R Lôgic xác lập|Bằng chứng dương tính cho một cơ chế kèm loại trừ các cơ chế còn lại|Bốn tiêu chí đều mang tính loại trừ, không có tiêu chí dương tính
+R Hình thái ổ nhồi máu|Chỉ bắt buộc với phân nhóm ổ khuyết|Bắt buộc: phải là nhồi máu không phải dạng ổ khuyết
+R Ngưỡng hẹp động mạch|Hẹp từ 50% trở lên cùng bên xác lập phân nhóm xơ vữa động mạch lớn|Hẹp từ 50% trở lên ở động mạch cấp máu là tiêu chí loại trừ
+R Nguồn lấp mạch từ tim|Phân tầng thành nhóm nguy cơ cao và nhóm nguy cơ trung bình – thấp|Chỉ loại trừ khi có nguồn thuộc nhóm nguy cơ cao
+R Vai trò của mức hoàn tất khảo sát|Phân biệt mức “nhiều khả năng” với mức “có thể”|Điều kiện tiên quyết: chỉ xác lập sau bộ khảo sát tối thiểu
+R Tỷ lệ ước tính|Nhóm chưa xác định 39,4% trong nghiên cứu quần thể Bắc Dublin|Khoảng 17% tổng số nhồi máu não, dao động 9–25%
+R Hệ quả điều trị|Định hướng phòng ngừa thứ phát theo cơ chế đã xác định|Không đồng nghĩa chỉ định kháng đông (xem Mục 4.1)
+ENDTABLE
+P Ba tình huống cùng mang nhãn chưa rõ nguyên nhân (Hình 2.5): khảo sát chưa đủ; hai cơ chế cạnh tranh trở lên (rung nhĩ kèm hẹp động mạch cảnh trong cùng bên 60%); và khảo sát đủ mà vẫn không rõ nguyên nhân — chỉ tình huống thứ ba, kèm hình thái gợi lấp mạch, mới là ESUS [36,37]. Tương ứng: hoàn tất khảo sát thiếu; xếp hạng cơ chế cạnh tranh thay vì chuyển sang kháng đông; theo dõi nhịp kéo dài (xem Mục 2.4) trên nền kháng kết tập tiểu cầu đơn trị (xem Mục 4.1.2).
+FIG image7.jpg | 14.5 | Ba tình huống trong nhóm đột quỵ chưa rõ nguyên nhân và vị trí của đột quỵ lấp mạch chưa rõ nguồn [36,37].
+H3 2.5.3. Hệ thống phân loại theo nguyên nhân CCS và ASCOD
+H4 2.5.3.1. Hệ thống CCS và bằng chứng so sánh trực tiếp với TOAST
+P Hệ thống phân loại theo nguyên nhân của đột quỵ (CCS) giảm dao động giữa người phân loại nhờ dữ liệu chuẩn hoá: giữ khung cơ chế TOAST nhưng mở rộng lấp mạch nguồn tim thành nguồn tim và cung động mạch chủ, gán mỗi cơ chế ba mức rõ ràng, nhiều khả năng hoặc có thể, và tách nhóm chưa xác định thành hình thái lấp mạch không rõ nguồn, khảo sát chưa đủ, nhiều cơ chế cùng thoả [71]. Trên cùng 381 người bệnh, chưa xác định 39,4% theo TOAST so với 26,2% theo CCS [179] — chỉ tái phân phối thông tin đã có.
+H4 2.5.3.2. Hệ thống ASCOD và lôgic đa trục
+P ASCOD mô tả song song năm trục: xơ vữa động mạch (A), bệnh mạch máu nhỏ (S), bệnh lý tim (C), nguyên nhân khác (O) và bóc tách động mạch (D); mỗi trục nhận mức 1–3 tuỳ khả năng gây bệnh, 0 khi không có bệnh, 9 khi khảo sát chưa đủ. Phiên bản bốn trục A-S-C-O đã được đối chiếu với TOAST và CCS trên đoàn hệ này [179]. Đa trục giữ thông tin mà một nhãn duy nhất phải bỏ, nhưng mã 9 lan tràn nếu khảo sát không chuẩn hoá.
+H3 2.5.4. Đặc thù quần thể châu Á và Việt Nam
+P Tỷ lệ hẹp xơ vữa động mạch nội sọ ở châu Á không có hằng số: tổng quan phạm vi năm 2025 trên 142 nghiên cứu ghi nhận 3–89,4%, trung vị 13%; biên độ phản ánh khác biệt phương pháp hơn là sinh học [186]. Con số 46,6% hay được trích lại đến từ CICAS: 2.864 người bệnh nhồi máu não tại 22 bệnh viện Trung Quốc, hẹp từ 50% trở lên trên chụp mạch cộng hưởng từ [19] — không phải mức nền khu vực (xem Mục 4.3).
+P Tại Bệnh viện Bạch Mai, trên 1.191 người bệnh TIA hoặc nhồi máu não, hẹp 50–99% động mạch cảnh trong đoạn ngoài sọ cùng bên chỉ gặp ở 62 người, tức 5,2% (KTC 95% 4,0–6,6) [182], thấp hơn phương Tây (xem Mục 1.2.5.2). Xơ vữa động mạch lớn ở người Việt chủ yếu là tổn thương nội sọ, nên quy trình lấy siêu âm động mạch cảnh làm trung tâm bỏ sót thủ phạm và làm tiêu chí hẹp của ESUS thoả giả tạo (xem Mục 3.5.3). Bộ dữ liệu tối thiểu vì vậy phải gồm hình ảnh mạch máu toàn trục, kèm ghi rõ phân nhóm, mức chắc chắn và khảo sát còn thiếu.

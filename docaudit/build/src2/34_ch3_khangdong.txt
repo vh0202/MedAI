@@ -1,0 +1,80 @@
+H2 3.4. Thuốc kháng đông trong rung nhĩ
+H3 3.4.1. Chỉ định và thang điểm phân tầng
+P Rung nhĩ gây khoảng 15–20% tổng số ca nhồi máu não. Sau cơn thiếu máu não thoáng qua (TIA) hoặc đột quỵ thiếu máu não nhẹ, thuốc kháng đông **thay thế** chứ không bổ sung cho thuốc kháng kết tập tiểu cầu; cấu phần S_{2} đã cho 2 điểm nên mọi người bệnh đều vượt ngưỡng chỉ định [18].
+P Khuyến cáo châu Âu 2024 thay CHA_{2}DS_{2}-VASc bằng thang trung tính về giới CHA_{2}DS_{2}-VA: điểm 0 không kháng đông, điểm 1 kháng đông đường uống mức khuyến cáo IIa, từ 2 điểm trở lên mức khuyến cáo I. Giới nữ vốn được tính 1 điểm **không điều kiện** nên tổng tối đa là 9, thang mới tối đa 8 (Bảng 3.8) [18,131].
+TABLE Bảng 3.8. Thang điểm CHA_{2}DS_{2}-VASc và thang điểm CHA_{2}DS_{2}-VA [18,131].
+COLW 0.6,2.3,1.1,1.1
+ALIGN l,j,c,c
+FSIZE 10
+H Yếu tố|Mô tả|Điểm CHA_{2}DS_{2}-VASc|Điểm CHA_{2}DS_{2}-VA
+R C|Suy tim sung huyết hoặc rối loạn chức năng thất trái|1|1
+R H|Tăng huyết áp|1|1
+R A_{2}|Tuổi từ 75 trở lên|2|2
+R D|Đái tháo đường|1|1
+R S_{2}|Tiền sử đột quỵ, TIA hoặc thuyên tắc hệ thống|2|2
+R V|Bệnh mạch máu: nhồi máu cơ tim cũ, bệnh động mạch ngoại biên hoặc mảng xơ vữa cung động mạch chủ|1|1
+R A|Tuổi 65–74|1|1
+R Sc|Giới nữ|1|Không còn là tiêu chí
+R Tổng|Điểm tối đa của thang|9|8
+ENDTABLE
+H3 3.4.2. Bằng chứng từ bốn thử nghiệm nền tảng và phân tích gộp
+H4 3.4.2.1. Bốn thử nghiệm ngẫu nhiên so sánh với warfarin
+P Bốn thử nghiệm giai đoạn ba so sánh thuốc kháng đông đường uống trực tiếp với warfarin trong rung nhĩ không do van tim, kết cục chính là đột quỵ mọi loại hoặc thuyên tắc hệ thống: RE-LY (18.113 người bệnh, dabigatran nhãn mở), ROCKET-AF (14.264 người bệnh nguy cơ cao nhất, CHADS_{2} trung bình 3,5), ARISTOTLE (18.201 người bệnh, apixaban) và ENGAGE AF-TIMI 48 (21.105 người bệnh, edoxaban); cả bốn loại trừ đột quỵ trong cửa sổ 7–30 ngày (Bảng 3.9) [93-96].
+H4 3.4.2.2. Phân tích gộp và cách đọc đúng hiệu quả của nhóm thuốc
+P Phân tích gộp của Ruff trên 71.683 người bệnh, gồm 42.411 người dùng liều cao và 29.272 người dùng warfarin, cho thấy giảm đột quỵ hoặc thuyên tắc hệ thống (RR 0,81; KTC 95% 0,73–0,91), xuất huyết nội sọ (RR 0,48; KTC 95% 0,39–0,59) và tử vong (RR 0,90; KTC 95% 0,85–0,95), phần lớn nhờ giảm đột quỵ *xuất huyết* (RR 0,49; 0,38–0,64); chảy máu nặng giảm ranh giới (RR 0,86; KTC 95% 0,73–1,00), chảy máu tiêu hoá **tăng** (RR 1,25; KTC 95% 1,01–1,55) [97].
+TABLE Bảng 3.9. Các thử nghiệm so sánh thuốc kháng đông đường uống trực tiếp với warfarin trong rung nhĩ không do van tim [93-97].
+COLW 0.9,1.3,0.6,1.9,1.5,1.3
+ALIGN l,j,c,j,j,j
+FSIZE 9
+H Thử nghiệm|Thuốc và liều|Cỡ mẫu|Đột quỵ hoặc thuyên tắc hệ thống|Chảy máu nặng|Xuất huyết nội sọ
+R RE-LY (2009)|Dabigatran 150 mg hai lần mỗi ngày so với warfarin|18.113|1,11% so với 1,69% mỗi năm; RR 0,66 (0,53–0,82); vượt trội|3,11% so với 3,36% mỗi năm; không khác biệt|0,30% so với 0,74% mỗi năm
+R RE-LY (2009)|Dabigatran 110 mg hai lần mỗi ngày so với warfarin|18.113|1,53% so với 1,69% mỗi năm; RR 0,91 (0,74–1,11); không thua kém|2,71% so với 3,36% mỗi năm; giảm có ý nghĩa|0,23% so với 0,74% mỗi năm
+R ROCKET-AF (2011)|Rivaroxaban 20 mg mỗi ngày so với warfarin|14.264|Theo đề cương, trong điều trị: 1,7% so với 2,2% mỗi năm; HR 0,79 (0,66–0,96). Theo ý định điều trị: HR 0,88 (0,74–1,03)|3,6% so với 3,4% mỗi năm; không khác biệt|0,5% so với 0,7% mỗi năm
+R ARISTOTLE (2011)|Apixaban 5 mg hai lần mỗi ngày so với warfarin|18.201|1,27% so với 1,60% mỗi năm; HR 0,79 (0,66–0,95); vượt trội|2,13% so với 3,09% mỗi năm; HR 0,69 (0,60–0,80)|0,33% so với 0,80% mỗi năm
+R ENGAGE AF-TIMI 48 (2013)|Edoxaban 60 mg mỗi ngày so với warfarin|21.105|Ý định điều trị hiệu chỉnh, trong điều trị: 1,18% so với 1,50% mỗi năm; HR 0,79 (KTC 97,5% 0,63–0,99). Toàn thời gian: HR 0,87|2,75% so với 3,43% mỗi năm; HR 0,80 (0,71–0,91)|0,39% so với 0,85% mỗi năm
+R Phân tích gộp Ruff (2014)|Gộp bốn thử nghiệm, liều cao so với warfarin|71.683|RR 0,81 (0,73–0,91); chủ yếu do giảm đột quỵ xuất huyết|RR 0,86 (0,73–1,00); chảy máu tiêu hoá tăng RR 1,25|RR 0,48 (0,39–0,59)
+ENDTABLE
+H3 3.4.3. Liều và hiệu chỉnh liều
+P Mỗi mức liều thấp chỉ giữ được hiệu quả trong nhóm được định nghĩa bằng tiêu chí cụ thể, nên giảm liều là quyết định theo **tiêu chí**; chức năng thận phải tính bằng độ thanh thải creatinin theo Cockcroft–Gault như các thử nghiệm đã dùng (Bảng 3.10) [18,131].
+TABLE Bảng 3.10. Liều thuốc kháng đông đường uống trực tiếp và tiêu chí giảm liều [18,93-97,131].
+COLW 0.8,1.2,1.9,1.2,1.4
+ALIGN l,j,j,j,j
+FSIZE 9
+H Hoạt chất|Liều chuẩn|Tiêu chí giảm liều|Ngưỡng chống chỉ định theo chức năng thận|Tương tác chính
+R Dabigatran|150 mg hai lần mỗi ngày|Giảm còn 110 mg hai lần mỗi ngày khi tuổi từ 80 trở lên, dùng kèm verapamil, độ thanh thải creatinin 30–50 mL/phút hoặc nguy cơ chảy máu cao|Không dùng khi độ thanh thải creatinin dưới 30 mL/phút|Thuốc ức chế P-glycoprotein: verapamil, dronedarone, amiodarone, ketoconazole; thuốc cảm ứng: rifampicin
+R Rivaroxaban|20 mg mỗi ngày, uống cùng bữa ăn|Giảm còn 15 mg mỗi ngày khi độ thanh thải creatinin 15–49 mL/phút|Không dùng khi độ thanh thải creatinin dưới 15 mL/phút|Thuốc ức chế đồng thời mạnh CYP3A4 và P-glycoprotein: kháng nấm nhóm azole, thuốc ức chế protease HIV
+R Apixaban|5 mg hai lần mỗi ngày|Giảm còn 2,5 mg hai lần mỗi ngày khi có ít nhất hai trong ba tiêu chí: tuổi từ 80 trở lên, cân nặng không quá 60 kg, creatinin huyết thanh từ 1,5 mg/dL (133 µmol/L) trở lên|Không khuyến cáo khi độ thanh thải creatinin dưới 15 mL/phút|Thuốc ức chế đồng thời mạnh CYP3A4 và P-glycoprotein; thuốc cảm ứng: rifampicin, carbamazepine, phenytoin
+R Edoxaban|60 mg mỗi ngày|Giảm còn 30 mg mỗi ngày khi có một trong ba tiêu chí: độ thanh thải creatinin 30–50 mL/phút, cân nặng không quá 60 kg, dùng kèm thuốc ức chế P-glycoprotein mạnh|Không khuyến cáo khi độ thanh thải creatinin dưới 15 mL/phút; hiệu quả giảm khi độ thanh thải trên 95 mL/phút|Thuốc ức chế P-glycoprotein: ciclosporin, dronedarone, erythromycin, ketoconazole
+ENDTABLE
+P Apixaban đòi hỏi **đồng thời hai trong ba** tiêu chí nên giảm liều chỉ vì tuổi trên 80 hoặc chỉ vì nhẹ cân là sai chỉ định; edoxaban giảm hiệu quả khi độ thanh thải creatinin trên 95 mL/phút; rivaroxaban phải uống cùng bữa ăn [93-97,131]. Ở Việt Nam, tiêu chí "cân nặng không quá 60 kg" thường được đáp ứng thật sự, trong khi sổ bộ trong nước cho thấy khoảng cách giữa chỉ định và thực hành kê đơn [184].
+H3 3.4.4. Thời điểm khởi trị sau đột quỵ
+H4 3.4.4.1. Quy tắc 1–3–6–12 và cơ sở lung lay của nó
+P Quy tắc 1–3–6–12 — khởi trị ngày thứ nhất với TIA, ngày thứ ba với nhồi máu nhỏ, ngày thứ sáu với nhồi máu vừa, ngày thứ mười hai với nhồi máu lớn — chỉ là đồng thuận chuyên gia, chưa từng được kiểm chứng bằng thử nghiệm ngẫu nhiên [98-100].
+H4 3.4.4.2. Bốn thử nghiệm ngẫu nhiên và phân tích gộp dữ liệu cá thể
+P ELAN ngẫu nhiên hoá 2.013 người bệnh nhồi máu não cấp có rung nhĩ, phân tầng theo kích thước ổ nhồi máu: kết cục gộp 30 ngày về thiếu máu, chảy máu và tử vong mạch máu là 2,9% ở nhánh sớm so với 4,1% ở nhánh muộn, chênh lệch −1,18 điểm phần trăm (KTC 95% −2,84 đến 0,47) [98]. OPTIMAS tuyển 3.648 người bệnh, khởi trị trong vòng 4 ngày (n = 1.814) so với ngày 7 đến 14 (n = 1.834), không giới hạn kích thước ổ: kết cục gộp 90 ngày 3,3% so với 3,2%, chênh lệch hiệu chỉnh 0,14 điểm phần trăm (KTC 95% −1,07 đến 1,36), biên không thua kém 2 điểm phần trăm [99].
+P TIMING dừng sớm khi mới tuyển 888 trong số 3.000 người bệnh dự kiến: kết cục gộp 90 ngày 6,89% ở nhánh trong vòng 4 ngày so với 8,68% ở nhánh ngày 5 đến 10, chênh lệch −1,79 điểm phần trăm (KTC 95% −5,31 đến 1,74), biên 3 điểm phần trăm [100]. CATALYST gộp dữ liệu cá thể của 5.441 người bệnh: kết cục gộp 30 ngày 2,12% so với 3,02% (OR 0,70; KTC 95% 0,50–0,98), xuất huyết nội sọ có triệu chứng 0,4% ở hai nhánh; hướng dẫn năm 2026 xếp khởi trị sớm ở mức khuyến cáo 2a, bằng chứng mức A (Bảng 3.11) [5,101].
+TABLE Bảng 3.11. Thời điểm khởi đầu kháng đông sau nhồi máu não do rung nhĩ [98-101].
+COLW 1.0,0.8,1.9,1.5
+ALIGN l,c,j,j
+FSIZE 10
+H Mức độ nhồi máu|Quy tắc cũ|Khuyến cáo cập nhật|Cơ sở bằng chứng
+R TIA, không có ổ nhồi máu trên hình ảnh|Ngày 1|Khởi trị ngay sau khi loại trừ xuất huyết và chống chỉ định|Ngoại suy từ nhánh sớm của ELAN và OPTIMAS [98,99]
+R Nhồi máu nhỏ, đã ổn định về thần kinh|Ngày 3|Trong vòng 48 giờ; không cần chờ chụp lại nếu diễn biến ổn định|ELAN, CATALYST [98,101]
+R Nhồi máu vừa|Ngày 6|Trong vòng 4 ngày là hợp lý ở người bệnh được chọn lọc|OPTIMAS, TIMING, CATALYST [99-101]
+R Nhồi máu lớn hoặc có chuyển dạng xuất huyết|Ngày 12|Cá thể hoá; khởi trị sớm không cho thấy tín hiệu gây hại nhưng số biến cố còn ít|OPTIMAS không giới hạn kích thước ổ; CATALYST không thấy tương tác theo kích thước [99,101]
+ENDTABLE
+H3 3.4.5. Bảng kiểm trước khi khởi trị và các lưu ý thực hành
+P Bảng kiểm trước khi kê đơn gồm bảy nội dung: xác nhận rung nhĩ trên bản ghi thẩm định được; kích thước và vị trí ổ nhồi máu; chuyển dạng xuất huyết; huyết áp đã về ngưỡng; creatinin và độ thanh thải theo Cockcroft–Gault, công thức máu, chức năng gan, cân nặng; tương tác với P-glycoprotein và CYP3A4; khả năng nuốt và tuân thủ [5,18,131].
+P Bốn lưu ý thường bị vi phạm: không dùng heparin trọng lượng phân tử thấp để bắc cầu; ngừng thuốc kháng kết tập tiểu cầu khi bắt đầu kháng đông nếu không có chỉ định độc lập như stent mạch vành gần đây (xem Mục 3.2); ở người đột quỵ khi đang dùng kháng đông đúng liều, khuyến cáo châu Âu 2024 xếp mức khuyến cáo III việc đổi thuốc hoặc thêm kháng kết tập tiểu cầu; và mọi trì hoãn phải kèm mốc đánh giá lại [18,131].
+H3 3.4.6. Xử trí chảy máu và thuốc trung hoà
+P Chảy máu nhẹ chỉ cần bỏ một liều và xử lý tại chỗ; mức trung bình cần bù dịch, truyền máu và cầm máu cơ học hoặc nội soi; chỉ chảy máu nặng hoặc ở vị trí nguy hiểm mới cần trung hoà khẩn cấp. Thời gian bán thải chỉ 9–17 giờ nên ngừng thuốc đã giảm đáng kể tác dụng sau 24 giờ; than hoạt được cân nhắc nếu liều cuối uống trong 2–4 giờ [131].
+P Idarucizumab 5 g tiêm tĩnh mạch chia hai lọ 2,5 g trung hoà dabigatran gần như tức thì; andexanet alfa dùng theo phác đồ tiêm nhanh rồi truyền duy trì 120 phút; phức hợp prothrombin cô đặc bốn yếu tố 25–50 IU/kg là phương án khả thi duy nhất ở phần lớn cơ sở trong nước. Sau chảy máu tiêu hoá đã cầm, khởi trị lại trong vài ngày đến vài tuần kèm thuốc ức chế bơm proton; sau xuất huyết nội sọ, thời gian chờ tính bằng tuần và nếu không dùng được lâu dài thì bàn đến bít tiểu nhĩ trái (xem Mục 3.4.8) [18,131].
+H3 3.4.7. Rung nhĩ phát hiện bằng thiết bị: có kháng đông hay không
+P ARTESiA ngẫu nhiên hoá 4.012 người bệnh có rung nhĩ dưới lâm sàng kéo dài từ 6 phút đến 24 giờ, tuổi trung bình 76,8, vào apixaban 5 mg hai lần mỗi ngày so với aspirin 81 mg mỗi ngày, theo dõi 3,5 năm: đột quỵ hoặc thuyên tắc hệ thống 0,78% so với 1,24% mỗi người-năm, HR 0,63 (KTC 95% 0,45–0,88); chảy máu nặng 1,71% so với 0,94% mỗi người-năm, HR 1,80 (KTC 95% 1,26–2,57) [155]. NOAH-AFNET 6 so sánh edoxaban với giả dược ở 2.536 người bệnh có cơn nhịp nhĩ nhanh từ 6 phút trở lên, dừng sớm ở 21 tháng: kết cục gộp tử vong tim mạch, đột quỵ hoặc thuyên tắc hệ thống 3,2% so với 4,0% mỗi người-năm, HR 0,81 (KTC 95% 0,60–1,08); kết cục an toàn 5,9% so với 4,5%, HR 1,31 (KTC 95% 1,02–1,67) [156].
+P Nguy cơ đột quỵ ở rung nhĩ dưới lâm sàng chỉ khoảng 1% mỗi năm nên lợi ích tuyệt đối nhỏ và kháng đông thường quy không được biện minh trong phòng ngừa tiên phát. Cả hai thử nghiệm lại tuyển rất ít người có tiền sử đột quỵ, nơi nguy cơ tuyệt đối cao hơn nhiều lần [157], nên quyết định là một phổ liên tục theo gánh nặng rung nhĩ (xem Mục 2.4.3) và nguy cơ chảy máu [155-157].
+H3 3.4.8. Khi không dùng được kháng đông: bít tiểu nhĩ trái
+H4 3.4.8.1. Bằng chứng ở người bệnh có chống chỉ định kháng đông
+P Khoảng 90% huyết khối trong rung nhĩ không do van tim hình thành trong tiểu nhĩ trái. Theo dõi 5 năm gộp từ PROTECT-AF và PREVAIL cho thấy kết cục gộp chính của dụng cụ Watchman không khác biệt so với warfarin, dù dụng cụ giảm đột quỵ xuất huyết, chảy máu nặng và tử vong, còn nhồi máu não do lấp mạch có xu hướng nhiều hơn [105]. PRAGUE-17 so sánh bít tiểu nhĩ trái với thuốc kháng đông đường uống trực tiếp trên 402 người bệnh nguy cơ cao: sau trung vị 20 tháng, kết cục gộp chính không thua kém, tỷ số nguy cơ dưới phân phối 0,84 (KTC 95% 0,53–1,31) [106].
+H4 3.4.8.2. Bằng chứng mới ở người bệnh đủ điều kiện dùng kháng đông
+P CHAMPION-AF ngẫu nhiên hoá 3.000 người bệnh rung nhĩ **đủ điều kiện** dùng kháng đông lâu dài, tuổi trung bình 71,7 và CHA_{2}DS_{2}-VASc trung bình 3,5, vào bít tiểu nhĩ trái bằng Watchman FLX (n = 1.499) so với tiếp tục thuốc kháng đông đường uống trực tiếp (n = 1.501): kết cục gộp 3 năm gồm tử vong tim mạch, đột quỵ hoặc thuyên tắc hệ thống 5,7% so với 4,8%, chênh lệch 0,9 điểm phần trăm (KTC 95% −0,8 đến 2,6), biên không thua kém 4,8 điểm phần trăm; chảy máu không liên quan thủ thuật 10,9% so với 19,0%, HR 0,55 (KTC 95% 0,45–0,67), vượt trội [158].
+P Biên 4,8 điểm phần trăm lớn hơn cả tần suất biến cố ở nhánh chứng nên kết luận về hiệu quả là yếu, và thủ thuật không thể đảo ngược; chỉ định vững chắc sau TIA hoặc đột quỵ thiếu máu não nhẹ vẫn là khi thực sự không thể dùng kháng đông lâu dài [105,106,158].
