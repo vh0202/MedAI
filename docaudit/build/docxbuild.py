@@ -72,11 +72,47 @@ def add_run(par, text, size=BODY_PT, bold=None, italic=None):
     return set_run_font(par.add_run(text), size, bold, italic)
 
 
-_TOKEN = re.compile(r"(\*\*[^*]+\*\*|\*[^*]+\*|\^\{[^}]*\}|_\{[^}]*\})")
+_TOKEN = re.compile(
+    r"(\*\*[^*]+\*\*|\*[^*]+\*|\^\{[^}]*\}|_\{[^}]*\}|\[\d[\d,\s\u2013\-]*\])")
+
+REF_ANCHOR = "_Ref_%s"
 
 
-def add_rich(par, text, size=BODY_PT, bold=None, italic=None):
-    """Inline markers: **bold**, *italic*, ^{superscript}, _{subscript}."""
+def add_internal_link(par, text, anchor, size=BODY_PT, bold=None, italic=None):
+    """A run wrapped in a hyperlink to an in-document bookmark."""
+    run = par.add_run(text)
+    set_run_font(run, size, bold, italic)
+    el = run._element
+    par._p.remove(el)
+    h = OxmlElement("w:hyperlink")
+    h.set(qn("w:anchor"), anchor)
+    h.set(qn("w:history"), "1")
+    h.append(el)
+    par._p.append(h)
+    return run
+
+
+def _emit_citation(par, body, size, bold, italic):
+    """Render [5], [5-7,9], [5,9] with each number linked to its entry."""
+    add_run(par, "[", size, bold, italic)
+    parts = [x.strip() for x in body.split(",")]
+    for i, part in enumerate(parts):
+        if i:
+            add_run(par, ",", size, bold, italic)
+        rng = re.match(r"^(\d+)\s*[\u2013-]\s*(\d+)$", part)
+        if rng:
+            add_internal_link(par, rng.group(1), REF_ANCHOR % rng.group(1), size, bold, italic)
+            add_run(par, "-", size, bold, italic)
+            add_internal_link(par, rng.group(2), REF_ANCHOR % rng.group(2), size, bold, italic)
+        elif part.isdigit():
+            add_internal_link(par, part, REF_ANCHOR % part, size, bold, italic)
+        else:
+            add_run(par, part, size, bold, italic)
+    add_run(par, "]", size, bold, italic)
+
+
+def add_rich(par, text, size=BODY_PT, bold=None, italic=None, link_citations=True):
+    """Inline markers: **bold**, *italic*, ^{superscript}, _{subscript}, [refs]."""
     pos = 0
     for m in _TOKEN.finditer(text):
         if m.start() > pos:
@@ -88,8 +124,13 @@ def add_rich(par, text, size=BODY_PT, bold=None, italic=None):
             add_run(par, tok[1:-1], size, bold, True)
         elif tok.startswith("^"):
             set_run_font(par.add_run(tok[2:-1]), size, bold, italic).font.superscript = True
-        else:
+        elif tok.startswith("_"):
             set_run_font(par.add_run(tok[2:-1]), size, bold, italic).font.subscript = True
+        elif tok.startswith("["):
+            if link_citations:
+                _emit_citation(par, tok[1:-1], size, bold, italic)
+            else:
+                add_run(par, tok, size, bold, italic)
         pos = m.end()
     if pos < len(text):
         add_run(par, text[pos:], size, bold, italic)
@@ -324,7 +365,10 @@ class Builder:
         pf.first_line_indent = Cm(-1.0)
         pf.line_spacing = 1.2
         pf.space_after = Pt(6)
-        add_rich(p, text, size=BODY_PT)
+        add_rich(p, text, size=BODY_PT, link_citations=False)
+        m = re.match(r"^\s*(\d+)\.", text)
+        if m:
+            bookmark(p, REF_ANCHOR % m.group(1), self._next_bid())
         return p
 
     # -- captions ----------------------------------------------------------

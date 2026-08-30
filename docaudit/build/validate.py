@@ -176,6 +176,28 @@ def main(path):
         print("  NEVER cited:", missing or "none")
         print("  cited but out of range:", over or "none")
 
+    # ---- citation hyperlinks ---------------------------------------------
+    H = W + "hyperlink"
+    anchors = [h.get(W + "anchor") for h in doc.iter(H) if h.get(W + "anchor")]
+    ref_anchors = [a for a in anchors if a.startswith("_Ref_")]
+    marks = {b.get(W + "name") for b in doc.iter(W + "bookmarkStart")
+             if (b.get(W + "name") or "").startswith("_Ref_")}
+    dangling = sorted({a for a in ref_anchors if a not in marks},
+                      key=lambda x: int(x.split("_")[-1]))
+    print("== citation links ==")
+    print("  citation hyperlinks:", len(ref_anchors))
+    print("  reference bookmarks:", len(marks))
+    print("  dangling links:", dangling or "none")
+    linked_nums = {int(a.split("_")[-1]) for a in ref_anchors}
+    unlinked = sorted(cited - linked_nums) if maxref else []
+    print("  cited but never linked:", unlinked or "none")
+
+    # in-text citation punctuation must be [5] / [5-7,9] / [5,9]
+    body_only = body[:idx] if idx > 0 else body
+    malformed = sorted({m.group(0) for m in re.finditer(r"\[[0-9][^\]]*\]", body_only)
+                        if not re.fullmatch(r"\[\d+(-\d+)?(,\d+(-\d+)?)*\]", m.group(0))})
+    print("  malformed citation brackets:", malformed[:10] or "none")
+
     # ---- fields ----------------------------------------------------------
     instrs = [i.text for i in doc.iter(W + "instrText") if i.text]
     print("== fields ==", Counter(t.strip().split()[0] for t in instrs if t.strip()))
