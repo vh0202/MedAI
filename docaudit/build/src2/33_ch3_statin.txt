@@ -1,49 +1,45 @@
 H2 3.3. Statin và điều trị rối loạn lipid máu
 H3 3.3.1. Bằng chứng nền tảng
-P SPARCL ngẫu nhiên hoá 4.731 người bệnh nhồi máu não hoặc cơn thiếu máu não thoáng qua (TIA) trong 1–6 tháng, LDL-C nền 100–190 mg/dL (2,6–4,9 mmol/L), vào atorvastatin 80 mg mỗi ngày so với giả dược, trung vị 4,9 năm. Kết cục chính là đột quỵ mọi loại: 265/2.365 (11,2%) so với 311/2.366 (13,1%), tỷ số nguy cơ (HR) 0,84 (khoảng tin cậy 95% — KTC 95% — 0,71–0,99; p = 0,03), riêng nhồi máu não 9,2% so với 11,6% và biến cố mạch máu chính 14,1% so với 17,2% (HR 0,80; KTC 95% 0,69–0,92) [86].
-P Đột quỵ xuất huyết tăng có ý nghĩa: 2,3% so với 1,4% (HR 1,66; KTC 95% 1,08–2,55); tử vong không giảm, gồm tử vong tim mạch 3,3% so với 4,1% (p = 0,11), tử vong mọi nguyên nhân 9,1% so với 8,9% [86].
-P TST ngẫu nhiên hoá 2.860 người bệnh nhồi máu não trong ba tháng hoặc TIA trong mười lăm ngày kèm xơ vữa động mạch, theo đích LDL-C dưới 70 mg/dL (1,8 mmol/L) so với 90–110 mg/dL (2,3–2,8 mmol/L); sau trung vị 3,5 năm, LDL-C đạt 65 so với 96 mg/dL (1,7 so với 2,5 mmol/L). Kết cục chính gộp tim mạch có bao gồm nhồi máu não: 8,5% so với 10,9% (HR 0,78; KTC 95% 0,61–0,98; p = 0,04); xuất huyết nội sọ 18 so với 13 ca [87].
+P SPARCL: 4.731 người nhồi máu não/cơn thiếu máu não thoáng qua (TIA) trong 1–6 tháng, LDL-C nền 100–190 mg/dL (2,6–4,9 mmol/L), atorvastatin 80 mg/ngày so với giả dược, trung vị 4,9 năm. Đột quỵ mọi loại 265/2.365 (11,2%) so với 311/2.366 (13,1%), tỷ số nguy cơ (HR) 0,84 (khoảng tin cậy 95% [KTC 95%] 0,71–0,99; p = 0,03); nhồi máu não 9,2% và 11,6%; biến cố mạch máu chính 14,1% và 17,2% (HR 0,80; KTC 95% 0,69–0,92); xuất huyết não 2,3% và 1,4% (HR 1,66; KTC 95% 1,08–2,55); tử vong không giảm: tim mạch 3,3% và 4,1% (p = 0,11), mọi nguyên nhân 9,1% và 8,9% [86].
+P TST: 2.860 người nhồi máu não ≤ 3 tháng/TIA ≤ 15 ngày kèm xơ vữa, đích LDL-C < 70 mg/dL (1,8 mmol/L) so với 90–110 mg/dL (2,3–2,8 mmol/L); trung vị 3,5 năm, LDL-C đạt 65 và 96 mg/dL (1,7 và 2,5 mmol/L). Kết cục chính 8,5% so với 10,9% (HR 0,78; KTC 95% 0,61–0,98; p = 0,04); xuất huyết nội sọ 18 và 13 ca [87].
 H3 3.3.2. Mục tiêu LDL-C theo nhóm nguy cơ
-P Nhồi máu não hoặc TIA do xơ vữa xếp vào nhóm nguy cơ rất cao: giảm ít nhất 50% LDL-C so với nền và đạt dưới 55 mg/dL (1,4 mmol/L), mức I bằng chứng A [133]. Hướng dẫn Hoa Kỳ [18] và Tổ chức Đột quỵ châu Âu [85] đặt đích dưới 70 mg/dL (1,8 mmol/L) theo TST [87]: lấy 70 mg/dL làm ngưỡng bắt buộc, 55 mg/dL làm đích theo đuổi (Bảng 3.6).
-P LDL-C ở dải rất thấp vẫn giảm thêm biến cố, không tăng xuất huyết nội sọ [168]. Các đích này chỉ cho nhồi máu não do xơ vữa; với nhồi máu ổ khuyết, đột quỵ do rung nhĩ hoặc đột quỵ lấp mạch chưa rõ nguồn (ESUS), statin chỉ định theo nguy cơ tim mạch toàn thể.
+P Nhồi máu não/TIA do xơ vữa thuộc nguy cơ rất cao: giảm ≥ 50% LDL-C và < 55 mg/dL (1,4 mmol/L), mức I/A [133]; Hoa Kỳ [18] và châu Âu [85] đặt đích < 70 mg/dL (1,8 mmol/L) theo TST [87]. Ngưỡng bắt buộc 70 mg/dL, đích theo đuổi 55 mg/dL (Bảng 3.6).
+P LDL-C rất thấp vẫn giảm thêm biến cố, không tăng xuất huyết nội sọ [168]. Các đích này chỉ cho nhồi máu não xơ vữa; với nhồi máu ổ khuyết, đột quỵ do rung nhĩ hay lấp mạch chưa rõ nguồn (ESUS), statin theo nguy cơ tim mạch chung.
 TABLE Bảng 3.6. Mục tiêu LDL-C theo nhóm nguy cơ trong phòng ngừa thứ phát [18,85,87,133,168].
 COLW 1.0,1.9,1.3,1.5
 ALIGN l,j,c,j
 FSIZE 10
-H Nhóm nguy cơ|Đặc điểm|Mục tiêu LDL-C|Mức khuyến cáo
-R Rất cao|Nhồi máu não hoặc TIA do xơ vữa động mạch, tức bệnh tim mạch xơ vữa đã xác lập|Dưới 55 mg/dL (1,4 mmol/L) và giảm ít nhất 50% so với nền|Mức I, bằng chứng A [133]
-R Rất cao, tái diễn sớm|Biến cố mạch máu thứ hai trong vòng 2 năm dù dùng statin liều dung nạp tối đa|Dưới 40 mg/dL (1,0 mmol/L)|Mức IIb, bằng chứng B [133]
-R Có bệnh xơ vữa kèm theo|Xơ vữa động mạch nội sọ, động mạch cảnh, cung động mạch chủ hoặc động mạch vành|Dưới 70 mg/dL (1,8 mmol/L)|Mức I [18]; khuyến cáo mạnh [85]; bằng chứng ngẫu nhiên trực tiếp [87]
-R Đã đạt đích, còn dư nguy cơ|Tiền sử nhồi máu não, LDL-C đạt được nằm ở dải rất thấp|Chưa xác định ngưỡng dưới mà lợi ích mất đi|Bằng chứng phân tích trong thử nghiệm, chưa thành mức khuyến cáo riêng [168]
-R Mọi trường hợp do xơ vữa|Yêu cầu đáp ứng tối thiểu, độc lập với đích tuyệt đối|Giảm ít nhất 50% LDL-C so với nền chưa điều trị|Mức I, bằng chứng A [133]
+H Nhóm|Đặc điểm|Đích LDL-C|Khuyến cáo
+R Rất cao|Nhồi máu não/TIA do xơ vữa|< 55 mg/dL (1,4 mmol/L); giảm ≥ 50%|I/A [133]
+R Tái diễn sớm|Biến cố thứ hai < 2 năm, statin tối đa|< 40 mg/dL (1,0 mmol/L)|IIb/B [133]
+R Xơ vữa mạch lớn|Nội sọ, cảnh, cung chủ, vành|< 70 mg/dL (1,8 mmol/L)|I [18,85]; ngẫu nhiên [87]
+R Đạt đích, dư nguy cơ|LDL-C đạt rất thấp|Chưa rõ ngưỡng dưới|Chưa khuyến cáo [168]
+R Mọi ca xơ vữa|Độc lập đích|Giảm ≥ 50% LDL-C|I/A [133]
 ENDTABLE
 H3 3.3.3. Thời điểm khởi trị statin
-P INSPIRES ngẫu nhiên hoá 6.100 người bệnh đột quỵ thiếu máu não nhẹ (NIHSS ≤ 5) hoặc TIA nguy cơ cao do xơ vữa, nhập viện trong 72 giờ, vào khởi trị statin cường độ cao ngay so với trì hoãn ba ngày: đột quỵ mới trong 90 ngày 8,1% so với 8,4%, HR 0,95 (KTC 95% 0,80–1,13) [170].
-P Kết cục chức năng kém 9,8% so với 11,4%, tỷ số chênh (OR) 0,83 (KTC 95% 0,71–0,98); chảy máu trung bình đến nặng 0,8% so với 0,6% [170]. Khởi trị ngay an toàn và cải thiện chức năng, còn giảm tái phát sớm thuộc về kháng kết tập tiểu cầu (xem Mục 3.2).
+P INSPIRES: 6.100 người nhồi máu não nhẹ (NIHSS ≤ 5) hoặc TIA nguy cơ cao do xơ vữa trong 72 giờ, statin cường độ cao ngay so với trì hoãn 3 ngày; đột quỵ mới trong 90 ngày 8,1% so với 8,4% (HR 0,95; KTC 95% 0,80–1,13), kết cục chức năng kém 9,8% và 11,4%, tỷ số chênh (OR) 0,83 (KTC 95% 0,71–0,98), chảy máu vừa–nặng 0,8% và 0,6% [170]. Khởi trị ngay an toàn, cải thiện chức năng; giảm tái phát sớm thuộc kháng kết tập tiểu cầu (Mục 3.2).
 H3 3.3.4. Điều trị hạ lipid bậc thang
-P Khi statin liều dung nạp tối đa chưa đạt đích, cộng dồn các cơ chế hạ LDL-C theo bậc thang, đánh giá lại mỗi 4–8 tuần; mức giảm biến cố tỷ lệ thuận với mức giảm tuyệt đối LDL-C, bất kể cơ chế (Bảng 3.7).
+P Khi statin liều tối đa chưa đạt đích, cộng dồn cơ chế hạ LDL-C theo bậc thang, đánh giá lại mỗi 4–8 tuần; hiệu quả tỷ lệ thuận mức giảm tuyệt đối LDL-C (Bảng 3.7).
 TABLE Bảng 3.7. Chiến lược hạ lipid bậc thang [18,88-92,133,169].
 COLW 0.9,1.2,1.7,0.9,1.9
 ALIGN l,l,j,c,j
 FSIZE 10
-H Bậc|Thuốc|Liều|Mức hạ LDL-C kỳ vọng|Bằng chứng kết cục lâm sàng
-R Bậc 1|Statin cường độ cao|Atorvastatin 40–80 mg mỗi ngày hoặc rosuvastatin 20–40 mg mỗi ngày|Ít nhất 50%|Đã có ở chính quần thể sau đột quỵ và TIA (xem Mục 3.3.1) [18,133]
-R Bậc 2|Ezetimibe phối hợp statin|10 mg mỗi ngày, đường uống|Thêm 18–25%|Đã có: IMPROVE-IT giảm biến cố gộp và giảm nhồi máu não [88]
-R Bậc 3|Kháng thể đơn dòng kháng PCSK9|Evolocumab 140 mg mỗi 2 tuần hoặc 420 mg mỗi tháng; alirocumab 75–150 mg mỗi 2 tuần|Thêm 50–60%|Đã có: FOURIER và ODYSSEY OUTCOMES; riêng phân nhóm tiền sử nhồi máu não chưa đạt ý nghĩa [89,90,169]
-R Bậc 3 thay thế|Inclisiran|284 mg ngày 0, ngày 90, sau đó mỗi 6 tháng|Khoảng 50%|**Chưa có** thử nghiệm kết cục tim mạch nào công bố; chỉ có dữ liệu hạ LDL-C [91]
-R Bậc thay thế khi không dung nạp statin|Acid bempedoic|180 mg mỗi ngày, đường uống|Khoảng 21%|Đã có: CLEAR Outcomes giảm biến cố gộp, nhưng đột quỵ không giảm có ý nghĩa [92]
+H Bậc|Thuốc|Liều|Hạ LDL-C|Kết cục
+R 1|Statin cường độ cao|Atorvastatin 40–80 mg/ngày; rosuvastatin 20–40 mg/ngày|≥ 50%|Sau đột quỵ/TIA (Mục 3.3.1) [18,133]
+R 2|Ezetimibe kèm statin|10 mg/ngày|Thêm 18–25%|IMPROVE-IT: biến cố gộp, nhồi máu não [88]
+R 3|Kháng PCSK9|Evolocumab 140 mg/2 tuần, 420 mg/tháng; alirocumab 75–150 mg/2 tuần|Thêm 50–60%|FOURIER, ODYSSEY OUTCOMES; đột quỵ nền chưa ý nghĩa [89,90,169]
+R 3 thay thế|Inclisiran|284 mg ngày 0, 90, mỗi 6 tháng|Khoảng 50%|**Chưa có** kết cục lâm sàng [91]
+R Không dung nạp statin|Acid bempedoic|180 mg/ngày|Khoảng 21%|CLEAR Outcomes: giảm biến cố gộp; đột quỵ không giảm [92]
 ENDTABLE
-H4 3.3.4.1. Ezetimibe
-P IMPROVE-IT ngẫu nhiên hoá 18.144 người bệnh trong mười ngày sau hội chứng vành cấp vào simvastatin 40 mg phối hợp ezetimibe 10 mg so với simvastatin đơn thuần, trung vị sáu năm. Kết cục chính gộp tim mạch (có đột quỵ không tử vong): 32,7% so với 34,7% ở bảy năm (HR 0,94; KTC 95% 0,89–0,99; p = 0,016); nhồi máu não 3,4% so với 4,1% (HR 0,79; KTC 95% 0,67–0,94) [88].
-H4 3.3.4.2. Kháng thể đơn dòng kháng PCSK9
-P FOURIER: 27.564 người bệnh xơ vữa đang dùng statin, evolocumab 140 mg mỗi 2 tuần so với giả dược, trung vị 2,2 năm; kết cục chính gộp tim mạch 9,8% so với 11,3% (HR 0,85; KTC 95% 0,79–0,92; p < 0,001). Đột quỵ 1,5% so với 1,9% (HR 0,79; KTC 95% 0,66–0,95), nhưng phân nhóm 5.337 người có tiền sử nhồi máu não chỉ đạt HR 0,90 (KTC 95% 0,68–1,19) [89,169].
-P ODYSSEY OUTCOMES: 18.924 người bệnh 1–12 tháng sau hội chứng vành cấp còn LDL-C từ 70 mg/dL (1,8 mmol/L) trở lên, alirocumab 75–150 mg mỗi 2 tuần so với giả dược, trung vị 2,8 năm; kết cục chính gộp 9,5% so với 11,1% (HR 0,85; KTC 95% 0,78–0,93; p < 0,001), nhồi máu não 1,2% so với 1,6% (HR 0,73; KTC 95% 0,57–0,93) [90].
-H4 3.3.4.3. Inclisiran và acid bempedoic
-P Inclisiran hạ LDL-C khoảng 50% ở ngày 510 trong ORION-10 và ORION-11, nhưng chưa có thử nghiệm kết cục tim mạch nào công bố nên chưa ngang hàng kháng thể đơn dòng kháng PCSK9 [91]. CLEAR Outcomes: acid bempedoic 180 mg mỗi ngày so với giả dược trên 13.970 người bệnh không dung nạp statin, trung vị 40,6 tháng, kết cục chính gộp 11,7% so với 13,3% (HR 0,87; KTC 95% 0,79–0,96; p = 0,004), riêng đột quỵ không giảm [92].
+H4 3.3.4.1. Ezetimibe và kháng thể đơn dòng kháng PCSK9
+P IMPROVE-IT: 18.144 người trong 10 ngày sau hội chứng vành cấp, simvastatin 40 mg kèm ezetimibe 10 mg so với simvastatin, trung vị 6 năm; kết cục chính ở 7 năm 32,7% so với 34,7% (HR 0,94; KTC 95% 0,89–0,99; p = 0,016), nhồi máu não 3,4% và 4,1% (HR 0,79; KTC 95% 0,67–0,94) [88].
+P FOURIER: 27.564 người xơ vữa dùng statin, evolocumab 140 mg/2 tuần so với giả dược, trung vị 2,2 năm; kết cục chính 9,8% so với 11,3% (HR 0,85; KTC 95% 0,79–0,92; p < 0,001), đột quỵ 1,5% và 1,9% (HR 0,79; KTC 95% 0,66–0,95); phân nhóm 5.337 người tiền sử nhồi máu não HR 0,90 (KTC 95% 0,68–1,19) [89,169].
+P ODYSSEY OUTCOMES: 18.924 người 1–12 tháng sau hội chứng vành cấp còn LDL-C ≥ 70 mg/dL (1,8 mmol/L), alirocumab 75–150 mg/2 tuần so với giả dược, trung vị 2,8 năm; kết cục chính 9,5% so với 11,1% (HR 0,85; KTC 95% 0,78–0,93; p < 0,001), nhồi máu não 1,2% và 1,6% (HR 0,73; KTC 95% 0,57–0,93) [90].
+H4 3.3.4.2. Inclisiran và acid bempedoic
+P Inclisiran hạ LDL-C khoảng 50% ở ngày 510 (ORION-10, ORION-11) nhưng chưa có thử nghiệm kết cục, chưa ngang hàng kháng thể kháng PCSK9 [91]. CLEAR Outcomes: acid bempedoic 180 mg/ngày so với giả dược, 13.970 người không dung nạp statin, trung vị 40,6 tháng; kết cục chính 11,7% và 13,3% (HR 0,87; KTC 95% 0,79–0,96; p = 0,004), đột quỵ không giảm [92].
 H3 3.3.5. Lipoprotein(a) và các đích điều trị đang phát triển
-P Lipoprotein(a) — Lp(a) — do di truyền quyết định, không đổi theo statin và có vai trò nhân quả trong xơ vữa động mạch. Lp(a) cao đáng theo đuổi khi đột quỵ ở người trẻ hoặc tái phát không giải thích được; khuyến cáo châu Âu đề nghị định lượng ít nhất một lần trong đời [133].
-P Chưa thử nghiệm kết cục nào chứng minh hạ Lp(a) làm giảm biến cố mạch máu, nên Lp(a) chỉ là dấu ấn phân tầng nguy cơ. Các thuốc nhắm apolipoprotein(a) hạ Lp(a) trên 80% ở giai đoạn hai; Lp(a)HORIZON, ORION-4 và VICTORION-2P chưa công bố (xem Mục 3.3.4).
+P Lp(a) — lipoprotein(a) — do di truyền, không đổi theo statin, có vai trò nhân quả xơ vữa; nên định lượng ít nhất một lần trong đời [133], nhất là khi đột quỵ người trẻ hoặc tái phát không rõ nguyên nhân. Chưa thử nghiệm nào cho thấy hạ Lp(a) giảm biến cố nên Lp(a) chỉ là dấu ấn phân tầng; thuốc nhắm apolipoprotein(a) hạ Lp(a) trên 80% ở pha hai, còn Lp(a)HORIZON, ORION-4 và VICTORION-2P chưa công bố (Mục 3.3.4).
 H3 3.3.6. An toàn, tác dụng đa hướng và theo dõi đáp ứng
-P Tín hiệu xuất huyết nội sọ của SPARCL (HR 1,66; KTC 95% 1,08–2,55) không liên hệ với LDL-C đạt được [86] và không lặp lại ở TST [87], FOURIER [169] hay phân tích theo mức LDL-C đạt được [168]. Biện pháp giảm xuất huyết là kiểm soát huyết áp, không phải bỏ statin.
-P Triệu chứng cơ phần lớn mang bản chất nocebo; khi không dung nạp thì giảm liều, đổi phân tử, phối hợp ezetimibe, rồi acid bempedoic hoặc kháng thể đơn dòng kháng PCSK9 (xem Mục 3.3.4). Không có quy tắc giới hạn rosuvastatin ở 20 mg cho mọi người bệnh Đông Á; liều cá thể hoá theo chức năng thận [18,85].
-P Tác dụng đa hướng không tách được khỏi tác dụng hạ LDL-C, và lợi ích tích luỹ dần: số người bệnh cần điều trị để tránh một đột quỵ trong SPARCL giảm từ 258 ở năm thứ nhất xuống 45 ở năm thứ năm [86]. Theo dõi bộ mỡ máu sau 4–12 tuần kể từ khởi trị hoặc đổi liều, rồi mỗi 3–12 tháng, kèm kiểm tra tuân thủ [133].
+P Tín hiệu xuất huyết nội sọ ở SPARCL (HR 1,66; KTC 95% 1,08–2,55) không liên hệ LDL-C [86], không lặp lại ở TST [87], FOURIER [169] hay phân tích theo LDL-C [168]; giảm xuất huyết bằng kiểm soát huyết áp, không phải bỏ statin.
+P Triệu chứng cơ chủ yếu là nocebo; không dung nạp thì giảm liều, đổi phân tử, thêm ezetimibe, rồi acid bempedoic hoặc kháng thể kháng PCSK9 (Mục 3.3.4). Không có quy tắc giới hạn rosuvastatin 20 mg cho người Đông Á; liều theo chức năng thận [18,85].
+P Tác dụng đa hướng không tách khỏi hạ LDL-C; lợi ích tích luỹ dần: số cần điều trị tránh một đột quỵ trong SPARCL giảm từ 258 (năm 1) còn 45 (năm 5) [86]. Theo dõi bộ mỡ máu 4–12 tuần sau khởi trị/đổi liều, rồi mỗi 3–12 tháng, kèm tuân thủ [133].

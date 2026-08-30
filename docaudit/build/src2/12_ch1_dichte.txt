@@ -1,66 +1,65 @@
 H2 1.2. Dịch tễ học và gánh nặng bệnh tật
 H3 1.2.1. Tỷ suất mắc trên thế giới
-P Nghiên cứu Greater Cincinnati – Bắc Kentucky ghi nhận tỷ suất mắc cơn thiếu máu não thoáng qua (TIA) 83 trên 100.000 dân mỗi năm [27]; đoàn hệ Framingham trên 14.059 người cho tỷ suất mắc thô 1,19 trên 1.000 người-năm [28]; tại Hoa Kỳ ước tính 200.000–500.000 ca mỗi năm [1]. Phân tích Gánh nặng Bệnh tật Toàn cầu (Global Burden of Disease, GBD) 2021 xếp đột quỵ hàng thứ ba về tử vong (7,3 triệu ca, 10,7%) và hàng thứ tư về số năm sống hiệu chỉnh theo mức độ bệnh tật (disability-adjusted life years, DALY) với 160,5 triệu DALY (5,6%) [29].
-P Tỷ trọng đột quỵ thiếu máu não nhẹ phụ thuộc ngưỡng NIHSS: ngưỡng 0–5 cho 57,7% trong 179.710 ca của sổ bộ Get With The Guidelines – Stroke, ngưỡng NIHSS ≤ 3 (CHANCE, POINT) cho khoảng một phần ba, nên khoảng cần nêu là 30–58% [5,136]. Định nghĩa dựa trên mô (2002, 2009, 2013) đã đổi đơn vị đếm dịch tễ học [6-8]: tổn thương cấp trên chuỗi xung khuếch tán gặp ở khoảng một phần ba trường hợp TIA, dao động 16–67% [33], và nhóm này được xếp lại thành đột quỵ thiếu máu não nhẹ dù không có thay đổi sinh học, nên mọi so sánh dịch tễ phải nêu rõ định nghĩa (xem Mục 1.1.1) [12,13].
+P Tỷ suất mắc cơn thiếu máu não thoáng qua (TIA) là 83/100.000 dân/năm ở Greater Cincinnati – Bắc Kentucky [27], 1,19/1.000 người-năm ở Framingham (14.059 người) [28]; Hoa Kỳ ước tính 200.000–500.000 ca/năm [1]. Gánh nặng Bệnh tật Toàn cầu (Global Burden of Disease, GBD) 2021 xếp đột quỵ thứ ba về tử vong (7,3 triệu ca, 10,7%) và thứ tư về số năm sống hiệu chỉnh theo mức độ bệnh tật (disability-adjusted life years, DALY): 160,5 triệu DALY (5,6%) [29].
+P Tỷ trọng đột quỵ thiếu máu não nhẹ phụ thuộc ngưỡng NIHSS: 0–5 cho 57,7% trong 179.710 ca Get With The Guidelines – Stroke, ≤ 3 (CHANCE, POINT) cho khoảng một phần ba, tức 30–58% [5,136]. Định nghĩa dựa trên mô (2002, 2009, 2013) đổi đơn vị đếm dịch tễ [6-8]: một phần ba ca TIA có tổn thương cấp trên chuỗi xung khuếch tán (16–67%) [33], nay xếp thành đột quỵ nhẹ dù sinh học không đổi; mọi so sánh phải nêu rõ định nghĩa (xem Mục 1.1.1) [12,13].
 H3 1.2.2. Nguy cơ tái phát theo thời gian
 H4 1.2.2.1. Giai đoạn cấp
-P Đoàn hệ Johnston trên 1.707 người bệnh TIA ghi nhận 10,5% đột quỵ trong 90 ngày, hơn một nửa trong 2 ngày đầu [1]; phân tích gộp Wu (11 nghiên cứu, 7.238 người bệnh) và Giles – Rothwell cho các mốc trong Bảng 1.4, với nguy cơ 7 ngày 5,2% (KTC 95% 3,9–6,5) [2,3]. Trong nghiên cứu Oxford trước thời kỳ chăm sóc khẩn, nguy cơ 7 ngày và 1 tháng sau TIA là 8,0% và 11,5%, sau đột quỵ thiếu máu não nhẹ là 11,5% và 15,0% [76]; so với đối chứng ghép cặp, HR 4,37 (KTC 95% 3,30–5,71) [28].
+P Đoàn hệ Johnston (1.707 người bệnh TIA): 10,5% đột quỵ trong 90 ngày, hơn một nửa trong 2 ngày đầu [1]; phân tích gộp Wu (11 nghiên cứu, 7.238 người bệnh) và Giles – Rothwell cho các mốc sớm (Bảng 1.4) [2,3]. Nghiên cứu Oxford trước thời kỳ chăm sóc khẩn: nguy cơ 7 ngày và 1 tháng sau TIA là 8,0% và 11,5%, sau đột quỵ nhẹ là 11,5% và 15,0% [76]; HR 4,37 (KTC 95% 3,30–5,71) so đối chứng ghép cặp [28].
 TABLE Nguy cơ đột quỵ tái phát sau cơn thiếu máu não thoáng qua và đột quỵ thiếu máu não nhẹ theo mốc thời gian [1-3,20,25,30].
 COLW 0.8,1.6,1.3,1.6
 ALIGN l,j,j,j
 FSIZE 10.5
-H Mốc thời gian|Nguy cơ trong các đoàn hệ trước can thiệp khẩn|Nguy cơ trong mô hình chăm sóc hiện đại|Nguồn số liệu
-R 2 ngày|3,5%|1,5%|Phân tích gộp Wu 2007 [2]; TIAregistry.org [25]
-R 7 ngày|5,2% (KTC 95% 3,9–6,5)|2,1%|Phân tích gộp Giles và Rothwell 2007 [3]; TIAregistry.org [25]
-R 30 ngày|8,0%|2,8%|Phân tích gộp Wu 2007 [2]; TIAregistry.org [25]
-R 90 ngày|9,2% (phân tích gộp); 10,5% (đoàn hệ cấp cứu); 10,3% (EXPRESS giai đoạn 1)|3,7%; 2,1% (EXPRESS giai đoạn 2)|Wu 2007 [2]; Johnston 2000 [1]; EXPRESS [20]; TIAregistry.org [25]
-R 1 năm|16,7% ở giai đoạn 1948–1985 của đoàn hệ Framingham|Đột quỵ 5,1%; biến cố mạch máu chính gộp 6,2%|Framingham [28]; TIAregistry.org [25]
-R 5 năm|Chưa có ước lượng đoàn hệ đối chứng tương ứng|Đột quỵ 9,5%; biến cố mạch máu chính gộp 12,9%|TIAregistry.org theo dõi 5 năm [30]
+H Mốc|Đoàn hệ trước can thiệp khẩn|Chăm sóc hiện đại|Nghiên cứu
+R 2 ngày|3,5%|1,5%|Wu 2007 [2]; TIAregistry [25]
+R 7 ngày|5,2% (KTC 95% 3,9–6,5)|2,1%|Giles – Rothwell 2007 [3]; TIAregistry [25]
+R 30 ngày|8,0%|2,8%|Wu 2007 [2]; TIAregistry [25]
+R 90 ngày|9,2% (gộp); 10,5% (cấp cứu); 10,3% (EXPRESS 1)|3,7%; 2,1% (EXPRESS 2)|Wu [2]; Johnston [1]; EXPRESS [20]; TIAregistry [25]
+R 1 năm|16,7% (Framingham 1948–1985)|Đột quỵ 5,1%; mạch chính 6,2%|Framingham [28]; TIAregistry [25]
+R 5 năm|Chưa có|Đột quỵ 9,5%; mạch chính 12,9%|TIAregistry 5 năm [30]
 ENDTABLE
 H4 1.2.2.2. Nguy cơ trung hạn, dài hạn và hiệu ứng thời đại điều trị
-P TIAregistry.org trên 4.789 người bệnh tại 21 quốc gia cho bộ mốc nguy cơ hiện đại (Bảng 1.4), với kết cục gộp đột quỵ, hội chứng vành cấp và tử vong tim mạch 6,2% ở 1 năm [25]; theo dõi 5 năm bổ sung tử vong tim mạch 2,7%, tử vong mọi nguyên nhân 10,6%, xuất huyết nội sọ 1,1% và chảy máu nặng 1,5% [30]. Trung vị từ TIA đến đột quỵ trong Framingham là 1,6 năm [28] và nguy cơ tồn dư tập trung ở nhóm xơ vữa động mạch [118], nên phòng ngừa thứ phát phải duy trì nhiều năm (xem Mục 3.6).
-P Nguy cơ nền giảm mạnh theo thời đại điều trị: trong Framingham, nguy cơ đột quỵ một năm sau TIA giảm từ 16,7% (1948–1985) xuống 11,1% (1986–1999) và 5,9% (2000–2017), HR 0,32 (KTC 95% 0,14–0,75) [28]; EXPRESS giảm nguy cơ 90 ngày từ 10,3% xuống 2,1% nhờ đánh giá và khởi trị trong ngày, còn SOS-TIA báo cáo 1,24% so với 5,96% dự kiến theo ABCD2 (xem Mục 1.5.2) [20,24]. Mức 12–20% chỉ thuộc các đoàn hệ lịch sử; mốc đối chứng hiện nay là 3,7–6,7% ở 90 ngày [2,25,130].
+P TIAregistry.org (4.789 người bệnh, 21 quốc gia) cho bộ mốc hiện đại ở Bảng 1.4 [25]; theo dõi 5 năm thêm tử vong tim mạch 2,7%, tử vong mọi nguyên nhân 10,6%, xuất huyết nội sọ 1,1%, chảy máu nặng 1,5% [30]. Trung vị từ TIA đến đột quỵ ở Framingham là 1,6 năm [28], nguy cơ tồn dư tập trung ở nhóm xơ vữa [118], nên phòng ngừa thứ phát phải duy trì nhiều năm (xem Mục 3.6).
+P Nguy cơ nền giảm theo thời đại điều trị: ở Framingham, đột quỵ một năm sau TIA giảm từ 16,7% (1948–1985) xuống 11,1% (1986–1999) và 5,9% (2000–2017), HR 0,32 (KTC 95% 0,14–0,75) [28]; EXPRESS đưa nguy cơ 90 ngày từ 10,3% xuống 2,1% nhờ khởi trị trong ngày, SOS-TIA đạt 1,24% so với 5,96% dự kiến theo ABCD2 (xem Mục 1.5.2) [20,24]. Mức 12–20% thuộc đoàn hệ lịch sử; mốc hiện nay 3,7–6,7% ở 90 ngày [2,25,130].
 H3 1.2.3. Yếu tố tiên lượng nguy cơ tái phát cao
-P Thang ABCD2 phân tầng nguy cơ đột quỵ 90 ngày thành 3,1% với 0–3 điểm, 9,8% với 4–5 điểm và 17,8% với 6–7 điểm [9]; nhưng ngay ở nhóm 0–3 điểm, tỷ lệ biến cố một năm trong TIAregistry.org vẫn đáng kể, nên điểm thấp không được dùng để loại trừ khảo sát căn nguyên hay trì hoãn điều trị (xem Mục 2.2.4) [25]. Các yếu tố tiên lượng và hệ quả xử trí được tổng hợp trong Bảng 1.5.
+P Thang ABCD2 phân tầng nguy cơ đột quỵ 90 ngày: 3,1% (0–3 điểm), 9,8% (4–5 điểm), 17,8% (6–7 điểm) [9]; nhưng ngay ở nhóm 0–3 điểm, tỷ lệ biến cố một năm trong TIAregistry.org vẫn đáng kể, nên điểm thấp không dùng để loại trừ khảo sát căn nguyên hay trì hoãn điều trị (xem Mục 2.2.4) [25]; Bảng 1.5 tổng hợp các yếu tố tiên lượng.
 TABLE Yếu tố tiên lượng nguy cơ đột quỵ tái phát cao [1,3,22,25,32,33].
 COLW 1.3,0.7,1.7,1.4
 ALIGN l,c,j,j
 FSIZE 10.5
 H Yếu tố|Loại|Mức nguy cơ|Hệ quả xử trí
-R Điểm ABCD2 từ 4 trở lên|Lâm sàng|Nguy cơ 90 ngày 9,8% với 4–5 điểm và 17,8% với 6–7 điểm, so với 3,1% với 0–3 điểm|Đánh giá chuyên khoa trong 24 giờ; không dùng điểm thấp để loại trừ
-R Tổn thương cấp trên chuỗi xung khuếch tán|Hình ảnh nhu mô|Tăng nguy cơ tái phát khoảng 2–4 lần so với chuỗi xung âm tính|Xếp lại thành đột quỵ thiếu máu não nhẹ; khởi trị phòng ngừa thứ phát ngay
-R Nhiều ổ nhồi máu hoặc tổn thương nhiều thời điểm|Hình ảnh nhu mô|Yếu tố dự báo độc lập của tái phát trong các đoàn hệ tiến cứu|Gợi ý cơ chế lấp mạch đang hoạt động; truy tìm nguồn lấp mạch tích cực
-R Hẹp từ 50% trở lên ở động mạch lớn cùng bên|Hình ảnh mạch máu|Tăng khoảng 2–3,5 lần; xơ vữa động mạch lớn có HR 2,01 (KTC 95% 1,29–3,13)|Khảo sát mạch máu trong 24 giờ; cân nhắc tái thông sớm
-R Rung nhĩ mới phát hiện|Tim mạch|Nguồn lấp mạch nguy cơ cao, làm thay đổi hoàn toàn nhóm thuốc phòng ngừa|Chuyển sang thuốc kháng đông đường uống thay cho kháng kết tập tiểu cầu
-R TIA tái diễn, từ hai đợt trở lên trong 7 ngày|Lâm sàng|Nguy cơ tức thì rất cao, tập trung trong 48 giờ đầu|Nhập viện theo dõi; khởi trị kháng kết tập tiểu cầu kép ngay
-R Yếu vận động hoặc rối loạn ngôn ngữ|Lâm sàng|Nguy cơ 7 ngày cao hơn rõ rệt so với triệu chứng cảm giác hoặc thị giác đơn thuần|Phân loại ưu tiên khẩn tại khoa cấp cứu
-R Thời gian triệu chứng từ 60 phút trở lên|Lâm sàng|Cấu phần được tính 2 điểm trong thang ABCD2|Xử trí theo nhóm nguy cơ cao dù các cấu phần khác âm tính
+R ABCD2 ≥ 4 điểm|Lâm sàng|90 ngày: 9,8% (4–5); 17,8% (6–7); 3,1% (0–3)|Khám chuyên khoa ≤ 24 giờ
+R Tổn thương cấp khuếch tán|Nhu mô|Tái phát tăng 2–4 lần|Xếp lại đột quỵ nhẹ; điều trị ngay
+R Nhiều ổ nhồi máu, nhiều thời điểm|Nhu mô|Dự báo độc lập tái phát|Truy tìm ổ lấp mạch
+R Hẹp ≥ 50% động mạch lớn cùng bên|Mạch máu|Tăng 2–3,5 lần; HR 2,01 (KTC 95% 1,29–3,13)|Khảo sát mạch ≤ 24 giờ; tái thông sớm
+R Rung nhĩ mới phát hiện|Tim mạch|Lấp mạch từ tim, rất cao|Kháng đông uống thay kháng kết tập tiểu cầu
+R TIA tái diễn ≥ 2 đợt/7 ngày|Lâm sàng|Rất cao, tập trung 48 giờ|Nhập viện; kháng kết tập tiểu cầu kép
+R Yếu vận động, rối loạn ngôn ngữ|Lâm sàng|7 ngày cao hơn cảm giác, thị giác|Ưu tiên khẩn tại cấp cứu
+R Triệu chứng ≥ 60 phút|Lâm sàng|2 điểm trong ABCD2|Xử trí như nguy cơ cao
 ENDTABLE
-P Tổn thương cấp trên chuỗi xung khuếch tán và hẹp động mạch lớn cùng bên là hai biến số bổ sung nhiều nhất cho thang điểm lâm sàng: đưa chúng vào mô hình cải thiện rõ tiên đoán so với ABCD2, với xơ vữa động mạch lớn có tỷ số nguy cơ khoảng 3,4 [32]; TIAregistry.org cho HR 2,01 (KTC 95% 1,29–3,13) [25]. Tỷ lệ dương tính chuỗi xung khuếch tán tương quan chặt với các biến số đó [33], nên hình ảnh nhu mô và khảo sát mạch máu là cấu phần bắt buộc (xem Mục 2.3 và Mục 2.4).
+P Tổn thương cấp trên chuỗi xung khuếch tán và hẹp động mạch lớn cùng bên bổ sung nhiều nhất cho ABCD2 và tương quan chặt với nhau [33]: xơ vữa động mạch lớn có tỷ số nguy cơ khoảng 3,4 [32] và HR 2,01 (KTC 95% 1,29–3,13) [25]. Hình ảnh nhu mô và khảo sát mạch máu vì vậy là cấu phần bắt buộc (xem Mục 2.3, Mục 2.4).
 H3 1.2.4. Gánh nặng chức năng, nhận thức và kinh tế sau một biến cố “nhẹ”
-P Tính từ “nhẹ” mô tả điểm NIHSS chứ không mô tả hệ quả đời sống: tuỳ ngưỡng NIHSS và tuỳ kết cục là điểm Rankin sửa đổi (modified Rankin Scale, mRS) 0–1 hay 0–2, 20–40% người bệnh NIHSS ≤ 5 không đạt độc lập chức năng ở 90 ngày [59,136,141]. Trong các thử nghiệm chỉ tuyển khiếm khuyết không gây tàn tật vẫn còn khoảng một phần mười không trở về mRS 0–1, vì bán manh, mất ngôn ngữ hay lơ là nửa người đều được cho điểm thấp (xem Mục 1.1.2).
-P Gánh nặng thứ hai là suy giảm nhận thức mạch máu trên nền bệnh mạch máu nhỏ: nhồi máu ổ khuyết, khoảng một phần tư số ca nhồi máu não, có nguy cơ suy giảm nhận thức cao nhất [134]; kèm theo là mệt mỏi sau đột quỵ (xem Mục 3.7.5) và trầm cảm, tỷ lệ hiện mắc gộp 31% (KTC 95% 28–35) trong 61 đoàn hệ gồm 25.488 người bệnh [180]. Theo dõi mười năm của EXPRESS cho thấy tổ chức lại quy trình giảm tàn tật, ngày nằm viện và chi phí [31], cùng chiều với mô hình chi phí – hiệu quả (xem Mục 2.3.4) [130].
+P “Nhẹ” mô tả điểm NIHSS, không mô tả hệ quả đời sống: tuỳ ngưỡng NIHSS và kết cục điểm Rankin sửa đổi (modified Rankin Scale, mRS) 0–1 hay 0–2, 20–40% người bệnh NIHSS ≤ 5 không độc lập chức năng ở 90 ngày [59,136,141]. Ngay trong thử nghiệm chỉ tuyển khiếm khuyết không gây tàn tật, một phần mười không trở về mRS 0–1: bán manh, mất ngôn ngữ, lơ là nửa người đều cho điểm thấp (xem Mục 1.1.2).
+P Gánh nặng thứ hai là suy giảm nhận thức mạch máu: nhồi máu ổ khuyết, một phần tư số ca nhồi máu não, nguy cơ cao nhất [134]; kèm mệt mỏi sau đột quỵ (xem Mục 3.7.5) và trầm cảm, hiện mắc gộp 31% (KTC 95% 28–35) trong 61 đoàn hệ, 25.488 người bệnh [180]. Theo dõi mười năm của EXPRESS: tổ chức lại quy trình giảm tàn tật, ngày nằm viện, chi phí [31], cùng chiều mô hình chi phí – hiệu quả (xem Mục 2.3.4) [130].
 H3 1.2.5. Thực trạng tại Việt Nam
 H4 1.2.5.1. Số liệu GBD 2021 và sổ bộ RES-Q
-P Phân tích GBD 2021 cho Việt Nam ghi nhận 166.954 ca tử vong năm 2021 và tỷ suất mắc mới chuẩn hoá theo tuổi 203,36 trên 100.000 dân (KTC 95% 190,51–271,81); xu hướng 1990–2021 theo phần trăm thay đổi trung bình hằng năm (average annual percentage change, AAPC) giảm nhẹ, riêng hiện mắc tăng ở nam [181]. Sổ bộ RES-Q 2017–2023 ghi nhận 95.696 ca nhồi máu não (77%), 23.203 ca chảy máu não (18%) và 2.816 ca chảy máu dưới nhện (2%) [34]; phần gánh nặng trong công bố này dựa trên chu kỳ GBD 2019, không thể đặt cạnh GBD 2021 (Bảng 1.6).
+P GBD 2021 cho Việt Nam và sổ bộ RES-Q 2017–2023 cho các chỉ số ở Bảng 1.6 [34,181]: xu hướng 1990–2021 theo phần trăm thay đổi trung bình hằng năm (average annual percentage change, AAPC) giảm nhẹ, riêng hiện mắc tăng ở nam. Phần gánh nặng của công bố RES-Q dựa trên chu kỳ GBD 2019, không thể đặt cạnh GBD 2021.
 TABLE Một số chỉ số dịch tễ và tổ chức chăm sóc đột quỵ tại Việt Nam [21,34,181-185].
 COLW 1.2,1.7,1.2
 ALIGN l,j,j
 FSIZE 10.5
-H Chỉ số|Giá trị|Nguồn số liệu và năm
-R Tỷ suất mắc mới đột quỵ chuẩn hoá theo tuổi|203,36 trên 100.000 (KTC 95% 190,51–271,81), cao hơn Đông Nam Á (187,98) và toàn cầu (141,55)|Phân tích GBD 2021 cho Việt Nam, công bố 2025 [181]
-R Số ca tử vong do đột quỵ năm 2021|166.954 ca, gồm 96.764 nam và 70.190 nữ|Phân tích GBD 2021 cho Việt Nam, công bố 2025 [181]
-R Xu hướng 1990–2021 theo AAPC|Mắc mới −0,34%; tử vong −0,49%; DALY −0,61%; hiện mắc tăng ở nam (+0,26%)|Phân tích GBD 2021 cho Việt Nam, công bố 2025 [181]
-R Phân bố thể đột quỵ trong sổ bộ RES-Q 2017–2023|Nhồi máu não 95.696 ca (77%); chảy máu não 23.203 ca (18%); chảy máu dưới nhện 2.816 ca (2%)|Sổ bộ RES-Q Việt Nam 2017–2023, công bố 2025 [34]
-R Tỷ suất mắc mới theo thành phố|Hà Nội 168,9 trên 100.000; Thành phố Hồ Chí Minh 207,1 trên 100.000|Sổ bộ RES-Q Việt Nam 2017–2023, công bố 2025 [34]
-R Hẹp 50–99% động mạch cảnh ngoài sọ cùng bên sau TIA hoặc nhồi máu não|62 trong 1.191 người bệnh, tức 5,2% (KTC 95% 4,0–6,6)|Nghiên cứu tại Bệnh viện Bạch Mai, công bố 2025 [182]
-R Suy giảm thần kinh sớm ở người bệnh NIHSS ≤ 5|88 trong 839 người bệnh, tức 10,5%; 43,2% số ca xảy ra trong 24 giờ đầu|Trung tâm Đột quỵ Bệnh viện Bạch Mai, 2023–2024 [183]
-R Dùng thuốc kháng đông trước biến cố ở người bệnh nhồi máu não kèm rung nhĩ|Phần lớn chưa được kháng đông trước khi xảy ra đột quỵ|Sổ bộ đột quỵ Việt Nam, công bố 2025 [184]
-R Bệnh viện có đơn vị đột quỵ trong 66 bệnh viện trả lời khảo sát|Khoảng 70%; trung vị 630 ca đột quỵ cấp mỗi bệnh viện mỗi năm (khoảng tứ phân vị 250–1.200)|Khảo sát tổ chức chăm sóc đột quỵ toàn quốc, 2020 [185]
-R Quy trình lượng giá phục hồi chức năng chuẩn hoá|Chỉ 50% số bệnh viện có; thiếu tiếp cận nhà tâm lý, hoạt động trị liệu và âm ngữ trị liệu|Khảo sát tổ chức chăm sóc đột quỵ toàn quốc, 2020 [185]
-R Khung chính sách tổ chức mạng lưới|Thông tư 47 năm 2016 của Bộ Y tế yêu cầu thiết lập đơn vị đột quỵ; chương trình ANGELS triển khai tại 18 bệnh viện năm 2017|Tổng quan hiện trạng chăm sóc đột quỵ Việt Nam, 2022 [21]
+H Chỉ số|Giá trị|Nghiên cứu, năm
+R Mắc mới chuẩn hoá tuổi|203,36/100.000 (KTC 95% 190,51–271,81); Đông Nam Á 187,98; toàn cầu 141,55|GBD 2021, 2025 [181]
+R Tử vong 2021|166.954 ca; nam 96.764, nữ 70.190|GBD 2021, 2025 [181]
+R AAPC 1990–2021|Mắc mới −0,34%; tử vong −0,49%; DALY −0,61%; hiện mắc nam +0,26%|GBD 2021, 2025 [181]
+R Phân bố thể|Nhồi máu 95.696 (77%); chảy máu 23.203 (18%); dưới nhện 2.816 (2%)|RES-Q 2017–2023 [34]
+R Mắc mới theo thành phố|Hà Nội 168,9/100.000; TP. Hồ Chí Minh 207,1/100.000|RES-Q 2017–2023 [34]
+R Hẹp 50–99% cảnh ngoài sọ cùng bên|62/1.191 (5,2%; KTC 95% 4,0–6,6)|Bạch Mai, 2025 [182]
+R Suy giảm thần kinh sớm, NIHSS ≤ 5|88/839 (10,5%); 43,2% trong 24 giờ đầu|Bạch Mai, 2023–2024 [183]
+R Đơn vị đột quỵ (66 bệnh viện)|Khoảng 70%; trung vị 630 ca/năm (250–1.200)|Khảo sát toàn quốc, 2020 [185]
+R Lượng giá phục hồi chức năng|50%; thiếu tâm lý, hoạt động, âm ngữ trị liệu|Khảo sát toàn quốc, 2020 [185]
+R Khung chính sách|Thông tư 47/2016: đơn vị đột quỵ; ANGELS 18 bệnh viện (2017)|Tổng quan, 2022 [21]
 ENDTABLE
 H4 1.2.5.2. Đặc điểm mạch máu và khoảng trống của hệ thống chăm sóc
-P Chỉ 5,2% (KTC 95% 4,0–6,6) người bệnh TIA hoặc nhồi máu não tại Bệnh viện Bạch Mai có hẹp 50–99% động mạch cảnh ngoài sọ cùng bên [182], thấp hơn tỷ trọng 8–15% ở phương Tây, nên quy trình lấy siêu âm Doppler động mạch cảnh làm trung tâm sẽ bỏ sót phần lớn tổn thương. Ngược lại, hẹp xơ vữa động mạch nội sọ có tỷ lệ hiện mắc 3–89,4%, trung vị 13%, trong tổng quan 142 nghiên cứu châu Á [186]; con số 46,6% thường trích dẫn là của CICAS tại Trung Quốc (xem Mục 4.3) [19], nên khảo sát mạch máu nội sọ thuộc tầng đầu quy trình chẩn đoán (xem Mục 2.4.5).
-P Khảo sát toàn quốc năm 2020 (66/91 bệnh viện) cho thấy khoảng 70% có đơn vị đột quỵ nhưng chỉ 50% có quy trình lượng giá phục hồi chức năng [185], trong khi nguồn lực tập trung cho tiêu sợi huyết và can thiệp nội mạch [21]. Trên 839 người bệnh NIHSS ≤ 5 tại Bệnh viện Bạch Mai (12/2023–8/2024), suy giảm thần kinh sớm gặp ở 88 người bệnh (10,5%), làm tăng nguy cơ mRS 2–6 ở 90 ngày với OR 21,74 (KTC 95% 12,63–37,43), còn đơn trị kháng kết tập tiểu cầu dự báo biến cố này với OR 3,69 (KTC 95% 2,24–6,08) (xem Mục 3.2.2) [183].
-P Ba khoảng trống còn lại là chưa có mô hình phòng khám TIA tiếp cận nhanh được vận hành và báo cáo có hệ thống (xem Mục 1.5.4), sổ bộ RES-Q chưa có cấu phần riêng cho TIA và đột quỵ thiếu máu não nhẹ nên nhóm đông nhất lại thiếu số liệu theo dõi, và mức dùng thuốc kháng đông trước biến cố ở người bệnh rung nhĩ còn thấp [184]; cả ba khắc phục được bằng tổ chức quy trình và đào tạo.
+P Hẹp 50–99% động mạch cảnh ngoài sọ cùng bên chỉ gặp ở 5,2% người bệnh tại Bạch Mai (Bảng 1.6) [182], thấp hơn mức 8–15% phương Tây. Ngược lại, hẹp xơ vữa nội sọ có hiện mắc 3–89,4% (trung vị 13%) trong 142 nghiên cứu châu Á [186], con số 46,6% hay trích là của CICAS Trung Quốc (xem Mục 4.3) [19]. Quy trình lấy siêu âm Doppler cảnh làm trung tâm vì vậy bỏ sót phần lớn tổn thương; khảo sát mạch nội sọ thuộc tầng đầu chẩn đoán (xem Mục 2.4.5).
+P Khảo sát toàn quốc 2020 (66/91 bệnh viện) cho thấy hạ tầng chưa đồng bộ (Bảng 1.6) [185], nguồn lực dồn cho tiêu sợi huyết và can thiệp nội mạch [21]. Trên 839 người bệnh NIHSS ≤ 5 tại Bạch Mai (12/2023–8/2024), suy giảm thần kinh sớm (10,5%) làm tăng nguy cơ mRS 2–6 ở 90 ngày, OR 21,74 (KTC 95% 12,63–37,43); đơn trị kháng kết tập tiểu cầu dự báo biến cố này, OR 3,69 (KTC 95% 2,24–6,08) (xem Mục 3.2.2) [183].
+P Ba khoảng trống còn lại: chưa có phòng khám TIA tiếp cận nhanh được vận hành và báo cáo hệ thống (xem Mục 1.5.4); sổ bộ RES-Q chưa có cấu phần riêng cho TIA và đột quỵ nhẹ nên nhóm đông nhất thiếu số liệu theo dõi; kháng đông trước biến cố ở rung nhĩ còn thấp [184]. Cả ba khắc phục được bằng tổ chức quy trình và đào tạo.

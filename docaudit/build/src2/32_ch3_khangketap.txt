@@ -1,78 +1,74 @@
 H2 3.2. Thuốc kháng kết tập tiểu cầu
-P Kháng kết tập tiểu cầu là nền tảng phòng ngừa thứ phát sau cơn thiếu máu não thoáng qua (TIA) và đột quỵ thiếu máu não nhẹ: nguy cơ tái phát dồn vào những ngày đầu, chảy máu tích luỹ theo thời gian (xem Mục 1.2.2). Aspirin dùng ngay giảm khoảng 60% nhồi máu não tái phát trong 6 tuần đầu, HR 0,42 (KTC 95% 0,32–0,55), và giảm khoảng 70% tái phát gây tàn tật hoặc tử vong, HR 0,29 (KTC 95% 0,20–0,42) [77].
+P Kháng kết tập tiểu cầu là nền tảng phòng ngừa thứ phát sau cơn thiếu máu não thoáng qua (TIA) và đột quỵ thiếu máu não nhẹ: nguy cơ tái phát dồn vào ngày đầu, chảy máu tích luỹ dần (xem Mục 1.2.2). Aspirin dùng ngay giảm khoảng 60% tái phát trong 6 tuần đầu, HR 0,42 (KTC 95% 0,32–0,55), giảm 70% tái phát tàn tật hoặc tử vong, HR 0,29 (KTC 95% 0,20–0,42) [77].
 H3 3.2.1. Cơ sở dược lý của các thuốc kháng kết tập tiểu cầu
-P Aspirin ức chế không hồi phục cyclooxygenase-1 suốt đời sống tiểu cầu 7–10 ngày [18,85]. Clopidogrel là tiền chất hoạt hoá qua CYP2C19, khởi phát chậm nếu không dùng liều nạp [82]. Ticagrelor gắn hồi phục vào thụ thể P2Y12, khởi phát nhanh, không phụ thuộc kiểu gen, nhưng gây khó thở và mất tác dụng nhanh khi bỏ liều [17,52].
-P Dipyridamole giải phóng kéo dài phối hợp aspirin liều rất thấp gây đau đầu do giãn mạch; cilostazol ức chế phosphodiesterase-3, chống chỉ định ở suy tim (Bảng 3.3) [85]. Cần đổi omeprazol sang pantoprazol khi dùng clopidogrel [81,82], tránh thuốc tác động mạnh lên CYP3A4 khi dùng ticagrelor [17], ngừng thuốc chống viêm không steroid, corticoid và thuốc ức chế tái hấp thu serotonin chọn lọc [18,85].
+P Aspirin ức chế không hồi phục cyclooxygenase-1 suốt đời sống tiểu cầu 7–10 ngày [18,85]; clopidogrel hoạt hoá qua CYP2C19, khởi phát chậm nếu không có liều nạp [82]; ticagrelor gắn hồi phục P2Y12, không phụ thuộc kiểu gen, nhưng gây khó thở và mất tác dụng khi bỏ liều [17,52].
+P Dipyridamole giải phóng kéo dài phối hợp aspirin gây đau đầu; cilostazol chống chỉ định ở suy tim (Bảng 3.3) [85]. Đổi omeprazol sang pantoprazol khi dùng clopidogrel [81,82], tránh thuốc mạnh trên CYP3A4 khi dùng ticagrelor [17], ngừng thuốc chống viêm không steroid, corticoid, ức chế tái hấp thu serotonin [18,85].
 TABLE Đặc điểm dược lý của các thuốc kháng kết tập tiểu cầu dùng sau cơn thiếu máu não thoáng qua và đột quỵ thiếu máu não nhẹ [79-82,84,85].
 COLW 0.85,1.45,1.15,0.95,1.6
 ALIGN l,j,j,c,j
 FSIZE 10
-H Thuốc|Cơ chế|Liều|Khởi phát tác dụng|Lưu ý
-R Aspirin|Acetyl hoá không hồi phục cyclooxygenase-1, chặn tổng hợp thromboxan A2|Nạp 160–325 mg; duy trì 75–100 mg mỗi ngày|30–60 phút|Tác dụng kéo dài hết đời sống tiểu cầu; tăng liều duy trì chỉ làm tăng chảy máu tiêu hoá
-R Clopidogrel|Tiền chất; chất chuyển hoá hoạt tính gắn không hồi phục vào thụ thể P2Y12|Nạp 300 mg hoặc 600 mg; duy trì 75 mg mỗi ngày|4–6 giờ sau liều nạp 300 mg; khoảng 2 giờ sau liều 600 mg|Hoạt hoá phụ thuộc CYP2C19; tránh dùng cùng omeprazol hoặc esomeprazol
-R Ticagrelor|Gắn hồi phục, không cạnh tranh vào thụ thể P2Y12; không cần hoạt hoá sinh học|Nạp 180 mg; duy trì 90 mg hai lần mỗi ngày|30 phút – 2 giờ|Khó thở và chậm nhịp do tăng adenosin; chuyển hoá qua CYP3A4; mất tác dụng nhanh khi bỏ liều
-R Dipyridamole giải phóng kéo dài phối hợp aspirin|Ức chế phosphodiesterase và ức chế tái hấp thu adenosin|200 mg hai lần mỗi ngày cùng aspirin 25 mg|Vài giờ; ổn định sau vài ngày|Đau đầu do giãn mạch là lý do bỏ thuốc thường gặp; khắc phục bằng tăng liều dần
-R Cilostazol|Ức chế chọn lọc phosphodiesterase-3, kèm giãn mạch và ức chế tăng sinh cơ trơn|100 mg hai lần mỗi ngày|Vài giờ; ổn định sau vài ngày|Chống chỉ định ở suy tim; hồi hộp, đau đầu, tiêu chảy; dữ liệu chủ yếu ở quần thể Đông Á
+H Thuốc|Cơ chế|Liều|Khởi phát|Lưu ý
+R Aspirin|Ức chế không hồi phục cyclooxygenase-1|Nạp 160–325 mg; duy trì 75–100 mg/ngày|30–60 phút|Tăng liều duy trì chỉ tăng chảy máu tiêu hoá
+R Clopidogrel|Tiền chất; gắn P2Y12 không hồi phục|Nạp 300 hoặc 600 mg; duy trì 75 mg/ngày|4–6 giờ (300 mg); 2 giờ (600 mg)|Phụ thuộc CYP2C19; tránh omeprazol, esomeprazol
+R Ticagrelor|Gắn hồi phục P2Y12; không cần hoạt hoá|Nạp 180 mg; duy trì 90 mg hai lần/ngày|30 phút – 2 giờ|Khó thở, chậm nhịp do adenosin; qua CYP3A4
+R Dipyridamole giải phóng kéo dài phối hợp aspirin|Ức chế phosphodiesterase và tái hấp thu adenosin|200 mg hai lần/ngày + aspirin 25 mg|Vài giờ; ổn định sau vài ngày|Đau đầu do giãn mạch; tăng liều dần
+R Cilostazol|Ức chế chọn lọc phosphodiesterase-3; giãn mạch|100 mg hai lần/ngày|Vài giờ|Chống chỉ định suy tim; dữ liệu Đông Á
 ENDTABLE
 H3 3.2.2. Bằng chứng từ CHANCE và POINT
-H4 3.2.2.1. Thử nghiệm CHANCE
-P CHANCE ngẫu nhiên hoá 5.170 người bệnh tại Trung Quốc có NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4 trong 24 giờ: clopidogrel nạp 300 mg rồi 75 mg mỗi ngày đến ngày 90 phối hợp aspirin 21 ngày, so với aspirin đơn trị. Kết cục chính là đột quỵ mọi loại trong 90 ngày, 8,2% so với 11,7%, HR 0,68 (KTC 95% 0,57–0,81); chảy máu nặng hoặc trung bình 0,3% mỗi nhánh [14].
-H4 3.2.2.2. Thử nghiệm POINT
-P POINT tuyển 4.881 người bệnh đa quốc gia, cửa sổ 12 giờ, clopidogrel nạp 600 mg, phối hợp 90 ngày. Kết cục hiệu quả chính gộp các biến cố thiếu máu chính trong 90 ngày là 5,0% so với 6,5%, HR 0,75 (KTC 95% 0,59–0,95); chảy máu nặng 0,9% so với 0,4%, HR 2,32 (KTC 95% 1,10–4,87) [15].
-H4 3.2.2.3. Phân tích gộp và thời lượng tối ưu
-P Phân tích gộp dữ liệu cá thể hai thử nghiệm trên 10.051 người bệnh: biến cố thiếu máu chính trong 90 ngày là 6,5% so với 9,1%, HR 0,70 (KTC 95% 0,61–0,81); lợi ích chỉ có ở ngày 0 đến ngày 21, 5,2% so với 7,8%, HR 0,66 (KTC 95% 0,56–0,77), trong khi chảy máu nặng tăng đều [78]. Hướng dẫn năm 2026 khuyến cáo mức I, bằng chứng A cho phác đồ kép khởi trị trong 24 giờ, đủ 21 ngày [5].
+P CHANCE ngẫu nhiên hoá 5.170 người bệnh Trung Quốc, NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4 trong 24 giờ, clopidogrel 300 mg phối hợp aspirin 21 ngày: đột quỵ 90 ngày 8,2% so với 11,7%, HR 0,68 (KTC 95% 0,57–0,81) [14]. POINT tuyển 4.881 người bệnh đa quốc gia trong 12 giờ, clopidogrel 600 mg, kép 90 ngày: biến cố thiếu máu chính 5,0% so với 6,5%, HR 0,75 (KTC 95% 0,59–0,95) [15].
+P Phân tích gộp cá thể hai thử nghiệm trên 10.051 người bệnh: biến cố thiếu máu chính 90 ngày 6,5% so với 9,1%, HR 0,70 (KTC 95% 0,61–0,81); lợi ích chỉ ở ngày 0–21, 5,2% so với 7,8%, HR 0,66 (KTC 95% 0,56–0,77), trong khi chảy máu nặng tăng đều [78]. Hướng dẫn năm 2026 xếp mức I, bằng chứng A cho phác đồ kép khởi trị trong 24 giờ, đủ 21 ngày [5].
 H3 3.2.3. Dược lý gen CYP2C19 và thử nghiệm CHANCE-2
 H4 3.2.3.1. Alen mất chức năng và hệ quả điều trị
-P Alen mất chức năng CYP2C19 gặp ở hơn một nửa người Đông Á; người mang alen tăng biến cố tim mạch chính, HR 1,57 (KTC 95% 1,13–2,16), và huyết khối trong stent, HR 2,81 (KTC 95% 1,81–4,37) [80-82]. Trong CHANCE, người không mang alen giảm đột quỵ 6,7% so với 12,4%, HR 0,51 (KTC 95% 0,35–0,75); người mang alen mất hiệu quả, 9,4% so với 10,8%, HR 0,93 (KTC 95% 0,69–1,26) [79].
+P Alen mất chức năng CYP2C19 gặp ở hơn một nửa người Đông Á, làm tăng biến cố tim mạch chính, HR 1,57 (KTC 95% 1,13–2,16), và huyết khối stent, HR 2,81 (KTC 95% 1,81–4,37) [80-82]. Trong CHANCE, người không mang alen giảm đột quỵ 6,7% so với 12,4%, HR 0,51 (KTC 95% 0,35–0,75); người mang alen không giảm, 9,4% so với 10,8%, HR 0,93 (KTC 95% 0,69–1,26) [79].
 H4 3.2.3.2. Thiết kế và kết quả của CHANCE-2
-P CHANCE-2 tuyển 6.412 người bệnh tại Trung Quốc mang alen mất chức năng CYP2C19, NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4, trong 24 giờ (Hình 3.1): ticagrelor nạp 180 mg rồi 90 mg hai lần mỗi ngày so với clopidogrel nạp 300 mg rồi 75 mg mỗi ngày đến ngày 90, aspirin nhãn mở 21 ngày [16,83]. Đột quỵ mọi loại 90 ngày: 6,0% so với 7,6%, HR 0,77 (KTC 95% 0,64–0,94); chảy máu nặng hoặc trung bình 0,3% cả hai nhánh, chảy máu bất kỳ mức độ 5,3% so với 2,5% [16]. Hướng dẫn năm 2026 xếp phác đồ ticagrelor ở mức IIb, bằng chứng B-R [5].
+P CHANCE-2 tuyển 6.412 người bệnh Trung Quốc mang alen mất chức năng CYP2C19, NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4 trong 24 giờ (Hình 3.1), ticagrelor so với clopidogrel trên nền aspirin 21 ngày [16,83]. Đột quỵ 90 ngày 6,0% so với 7,6%, HR 0,77 (KTC 95% 0,64–0,94) [16]. Hướng dẫn năm 2026 xếp mức IIb, bằng chứng B-R [5].
 FIG image8.jpg | 11.5 | Tiêu chuẩn chọn và tiêu chuẩn loại trừ của thử nghiệm CHANCE-2 [83].
 H3 3.2.4. THALES, SOCRATES và INSPIRES
 H4 3.2.4.1. THALES và SOCRATES
-P THALES tuyển 11.016 người bệnh đa quốc gia trong 24 giờ, tiêu chuẩn rộng hơn: NIHSS ≤ 5, TIA với ABCD2 ≥ 6, hoặc hẹp có triệu chứng ≥ 50% cùng bên, dùng ticagrelor phối hợp aspirin 30 ngày. Đột quỵ hoặc tử vong 30 ngày: 5,5% so với 6,6%, HR 0,83 (KTC 95% 0,71–0,96); chảy máu nặng 0,5% so với 0,1%, HR 3,99 (KTC 95% 1,74–9,14) [17]. Phác đồ này ở mức IIb [5].
-P SOCRATES so sánh ticagrelor với aspirin trên 13.199 người bệnh có NIHSS ≤ 5 hoặc TIA với ABCD2 ≥ 4: đột quỵ, nhồi máu cơ tim hoặc tử vong trong 90 ngày là 6,7% so với 7,5%, HR 0,89 (KTC 95% 0,78–1,01); chảy máu nặng 0,5% so với 0,6% [52]. Ticagrelor đơn trị thay aspirin vì vậy ở mức III [5].
+P THALES tuyển 11.016 người bệnh đa quốc gia trong 24 giờ, tiêu chuẩn rộng hơn (NIHSS ≤ 5, TIA ABCD2 ≥ 6, hoặc hẹp cùng bên ≥ 50%), ticagrelor phối hợp aspirin 30 ngày: đột quỵ hoặc tử vong 5,5% so với 6,6%, HR 0,83 (KTC 95% 0,71–0,96), chảy máu nặng HR 3,99 (KTC 95% 1,74–9,14) [17]; phác đồ ở mức IIb [5].
+P SOCRATES so sánh ticagrelor với aspirin trên 13.199 người bệnh NIHSS ≤ 5 hoặc TIA với ABCD2 ≥ 4: gộp 90 ngày 6,7% so với 7,5%, HR 0,89 (KTC 95% 0,78–1,01) [52]; đơn trị ticagrelor thay aspirin ở mức III [5].
 H4 3.2.4.2. INSPIRES và tiêu chuẩn chọn theo căn nguyên xơ vữa
-P INSPIRES tuyển 6.100 người bệnh tại Trung Quốc, NIHSS ≤ 5 hoặc TIA nguy cơ cao trong 72 giờ, chọn theo căn nguyên xơ vữa giả định. Đột quỵ mới 90 ngày: 7,3% so với 9,2%, HR 0,79 (KTC 95% 0,66–0,94); chảy máu vừa đến nặng 0,9% so với 0,4%, HR 2,08 (KTC 95% 1,07–4,04) [53]. Các thử nghiệm không tuyển cùng quần thể (Bảng 3.4), nên phác đồ kép cho cửa sổ 24–72 giờ do xơ vữa chỉ ở mức IIa [5].
+P INSPIRES tuyển 6.100 người bệnh Trung Quốc, NIHSS ≤ 5 hoặc TIA nguy cơ cao trong 72 giờ, căn nguyên xơ vữa: đột quỵ mới 90 ngày 7,3% so với 9,2%, HR 0,79 (KTC 95% 0,66–0,94) [53]. Các thử nghiệm khác quần thể (Bảng 3.4); phác đồ kép cho cửa sổ 24–72 giờ do xơ vữa ở mức IIa [5].
 TABLE Các thử nghiệm ngẫu nhiên then chốt về kháng kết tập tiểu cầu kép sau cơn thiếu máu não thoáng qua và đột quỵ thiếu máu não nhẹ [14-17,52,53].
 COLW 0.72,0.95,1.5,1.3,1.65,1.0
 ALIGN l,j,j,j,j,j
 FSIZE 9.5
-H Thử nghiệm (năm)|Cỡ mẫu và quần thể|Tiêu chuẩn chọn|Phác đồ và thời lượng|Kết cục chính (hai nhánh)|Chảy máu
-R CHANCE (2013)|5.170; Trung Quốc|NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4; trong 24 giờ|Aspirin + clopidogrel nạp 300 mg; kép 21 ngày, clopidogrel đến ngày 90|Đột quỵ mọi loại trong 90 ngày: 8,2% so với 11,7%; HR 0,68 (0,57–0,81)|Nặng hoặc trung bình 0,3% so với 0,3%
-R POINT (2018)|4.881; đa quốc gia|NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4; trong 12 giờ|Aspirin + clopidogrel nạp 600 mg; kép 90 ngày|Biến cố thiếu máu chính trong 90 ngày: 5,0% so với 6,5%; HR 0,75 (0,59–0,95)|Nặng 0,9% so với 0,4%; HR 2,32 (1,10–4,87)
-R CHANCE-2 (2021)|6.412; Trung Quốc, mang alen mất chức năng CYP2C19|NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4; từ 40 tuổi; trong 24 giờ|Ticagrelor so với clopidogrel, cả hai đến ngày 90; aspirin nhãn mở 21 ngày|Đột quỵ mọi loại trong 90 ngày: 6,0% so với 7,6%; HR 0,77 (0,64–0,94)|Nặng hoặc trung bình 0,3% so với 0,3%; chảy máu bất kỳ 5,3% so với 2,5%
-R THALES (2020)|11.016; đa quốc gia|NIHSS ≤ 5, hoặc TIA với ABCD2 ≥ 6, hoặc hẹp cùng bên có triệu chứng ≥ 50%; trong 24 giờ|Aspirin + ticagrelor 30 ngày|Đột quỵ hoặc tử vong trong 30 ngày: 5,5% so với 6,6%; HR 0,83 (0,71–0,96)|Nặng 0,5% so với 0,1%; HR 3,99 (1,74–9,14)
-R SOCRATES (2016)|13.199; đa quốc gia|NIHSS ≤ 5 hoặc TIA với ABCD2 ≥ 4; trong 24 giờ|Ticagrelor đơn trị so với aspirin đơn trị, 90 ngày|Đột quỵ, nhồi máu cơ tim hoặc tử vong trong 90 ngày: 6,7% so với 7,5%; HR 0,89 (0,78–1,01)|Nặng 0,5% so với 0,6%
-R INSPIRES (2023)|6.100; Trung Quốc|NIHSS ≤ 5 hoặc TIA nguy cơ cao, căn nguyên xơ vữa giả định; trong 72 giờ|Aspirin + clopidogrel; kép 21 ngày, clopidogrel đến ngày 90|Đột quỵ mới trong 90 ngày: 7,3% so với 9,2%; HR 0,79 (0,66–0,94)|Vừa đến nặng 0,9% so với 0,4%; HR 2,08 (1,07–4,04)
+H Thử nghiệm (năm)|Cỡ mẫu, quần thể|Tiêu chuẩn chọn|Phác đồ, thời lượng|Kết cục chính (hai nhánh)|Chảy máu
+R CHANCE (2013)|5.170; Trung Quốc|NIHSS ≤ 3/TIA ABCD2 ≥ 4; 24 giờ|Aspirin + clopidogrel 300 mg; kép 21 ngày|Đột quỵ 90 ngày: 8,2% so với 11,7%; HR 0,68 (0,57–0,81)|Nặng/trung bình 0,3% so với 0,3%
+R POINT (2018)|4.881; đa quốc gia|NIHSS ≤ 3/TIA ABCD2 ≥ 4; 12 giờ|Aspirin + clopidogrel 600 mg; kép 90 ngày|Thiếu máu chính 90 ngày: 5,0% so với 6,5%; HR 0,75 (0,59–0,95)|Nặng 0,9% so với 0,4%; HR 2,32 (1,10–4,87)
+R CHANCE-2 (2021)|6.412; Trung Quốc; alen CYP2C19 mất chức năng|NIHSS ≤ 3/TIA ABCD2 ≥ 4; ≥ 40 tuổi; 24 giờ|Ticagrelor so với clopidogrel 90 ngày; aspirin 21 ngày|Đột quỵ 90 ngày: 6,0% so với 7,6%; HR 0,77 (0,64–0,94)|Nặng/trung bình 0,3% so với 0,3%; bất kỳ 5,3% so với 2,5%
+R THALES (2020)|11.016; đa quốc gia|NIHSS ≤ 5/TIA ABCD2 ≥ 6/hẹp cùng bên ≥ 50%; 24 giờ|Aspirin + ticagrelor 30 ngày|Đột quỵ/tử vong 30 ngày: 5,5% so với 6,6%; HR 0,83 (0,71–0,96)|Nặng 0,5% so với 0,1%; HR 3,99 (1,74–9,14)
+R SOCRATES (2016)|13.199; đa quốc gia|NIHSS ≤ 5/TIA ABCD2 ≥ 4; 24 giờ|Ticagrelor so với aspirin; 90 ngày|Gộp mạch máu 90 ngày: 6,7% so với 7,5%; HR 0,89 (0,78–1,01)|Nặng 0,5% so với 0,6%
+R INSPIRES (2023)|6.100; Trung Quốc|NIHSS ≤ 5/TIA nguy cơ cao; xơ vữa; 72 giờ|Aspirin + clopidogrel; kép 21 ngày|Đột quỵ mới 90 ngày: 7,3% so với 9,2%; HR 0,79 (0,66–0,94)|Vừa–nặng 0,9% so với 0,4%; HR 2,08 (1,07–4,04)
 ENDTABLE
 H3 3.2.5. Thời điểm khởi trị và cửa sổ mở rộng
-P INSPIRES mở cửa sổ đến 72 giờ nhưng chỉ ở người có căn nguyên xơ vữa [53]. Phân tích thứ cấp sổ bộ tại Hàn Quốc gồm 41.530 người bệnh có NIHSS ≤ 5 hoặc TIA nguy cơ cao đến trong 7 ngày, 25.112 người bệnh (60,5%) điều trị kép, cho kết cục gộp 90 ngày 10,7% so với 11,6%, HR 0,82 (KTC 95% 0,77–0,87) [147].
-P Lợi ích chỉ còn ở nhóm khởi trị trong 24 giờ đầu, HR 0,74 (KTC 95% 0,69–0,79), biến mất ở nhóm 24–72 giờ, HR 1,00 (KTC 95% 0,88–1,15), và có tín hiệu gây hại sau 72 giờ, HR 1,25 (KTC 95% 1,01–1,55), ngưỡng vô hiệu ở khoảng giờ thứ 42 [147]. Trong nước, đơn trị là yếu tố dự báo độc lập của suy giảm thần kinh sớm, OR gần bằng 4 [183]. Mốc 72 giờ là giới hạn cứu vãn, không phải khoảng trì hoãn.
+P INSPIRES chỉ mở cửa sổ 72 giờ cho căn nguyên xơ vữa [53]. Sổ bộ Hàn Quốc gồm 41.530 người bệnh NIHSS ≤ 5 hoặc TIA nguy cơ cao trong 7 ngày, 25.112 (60,5%) điều trị kép: gộp 90 ngày 10,7% so với 11,6%, HR 0,82 (KTC 95% 0,77–0,87) [147].
+P Lợi ích chỉ còn khi khởi trị trong 24 giờ đầu, HR 0,74 (KTC 95% 0,69–0,79), mất ở 24–72 giờ, HR 1,00 (KTC 95% 0,88–1,15), gây hại sau 72 giờ, HR 1,25 (KTC 95% 1,01–1,55); ngưỡng vô hiệu khoảng giờ thứ 42 [147]. Trong nước, đơn trị dự báo độc lập suy giảm thần kinh sớm, OR gần 4 [183]. Mốc 72 giờ là giới hạn cứu vãn, không phải trì hoãn.
 H3 3.2.6. Đơn trị dài hạn sau giai đoạn điều trị kép
-P CAPRIE so sánh clopidogrel 75 mg mỗi ngày với aspirin 325 mg mỗi ngày trên 19.185 người bệnh có nhồi máu não hoặc nhồi máu cơ tim gần đây hoặc bệnh động mạch chi dưới có triệu chứng: biến cố hằng năm 5,32% so với 5,83%, giảm nguy cơ tương đối 8,7% (KTC 95% 0,3–16,5); riêng phân nhóm nhồi máu não, clopidogrel không vượt trội [84].
-P Aspirin, clopidogrel hoặc aspirin phối hợp dipyridamole đều hợp lý; cilostazol thay thế khi nguy cơ xuất huyết nội sọ cao [85]. Với nhồi máu ổ khuyết, hướng dẫn của Tổ chức Đột quỵ châu Âu về bệnh mạch máu nhỏ khuyến cáo đơn trị dài hạn [134]. Cũng không kéo dài điều trị kép ở người có chỉ định kháng đông (xem Mục 3.4), hẹp động mạch nội sọ có triệu chứng với thời lượng riêng 90 ngày, hoặc tiền sử xuất huyết nội sọ (xem Mục 3.5.3).
+P CAPRIE so sánh clopidogrel 75 mg với aspirin 325 mg mỗi ngày trên 19.185 người bệnh nhồi máu não, nhồi máu cơ tim gần đây hoặc bệnh động mạch chi dưới: biến cố hằng năm 5,32% so với 5,83%, giảm nguy cơ tương đối 8,7% (KTC 95% 0,3–16,5), riêng nhồi máu não không vượt trội [84].
+P Aspirin, clopidogrel hoặc aspirin phối hợp dipyridamole đều hợp lý; cilostazol khi nguy cơ xuất huyết nội sọ cao [85]; nhồi máu ổ khuyết dùng đơn trị dài hạn [134]. Không kéo dài kép khi có chỉ định kháng đông (xem Mục 3.4), hẹp nội sọ có triệu chứng (riêng 90 ngày) hoặc tiền sử xuất huyết nội sọ (xem Mục 3.5.3).
 H3 3.2.7. Thuật toán thực hành và bảng kiểm an toàn
-P Ba câu hỏi loại trừ đi trước mọi lựa chọn thuốc: đã loại trừ xuất huyết trên hình ảnh não chưa; có chỉ định kháng đông không; đã dùng thuốc tiêu sợi huyết chưa, vì khi đó phải hoãn đến sau phim kiểm tra ở giờ thứ 24. Ở người có NIHSS 0–5 đã tiêu sợi huyết, thêm điều trị kép không cải thiện kết cục chức năng ngày 90 (xem Mục 3.1.2.4) [145].
-P Nhánh mặc định cho người đến trong 24 giờ có NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4 là aspirin nạp 160–325 mg cùng clopidogrel nạp 300 mg hoặc 600 mg rồi duy trì đủ 21 ngày; nhánh thứ hai cho cửa sổ 24–72 giờ do xơ vữa; nhánh thứ ba dùng ticagrelor phối hợp aspirin ở nhóm THALES [5]. Sau khi rà soát bảng kiểm an toàn (Bảng 3.5), phải ghi ngày dừng trên đơn thuốc và giấy ra viện vì lợi ích đã cạn từ ngày thứ 22 [78].
+P Ba câu hỏi loại trừ đi trước mọi lựa chọn thuốc: xuất huyết trên hình ảnh, chỉ định kháng đông, tiêu sợi huyết trong 24 giờ. Ở người NIHSS 0–5 đã tiêu sợi huyết, thêm kép không cải thiện kết cục chức năng ngày 90 (xem Mục 3.1.2.4) [145].
+P Nhánh mặc định (24 giờ, NIHSS ≤ 3 hoặc TIA với ABCD2 ≥ 4): aspirin nạp 160–325 mg cùng clopidogrel nạp 300 mg hoặc 600 mg, đủ 21 ngày; nhánh hai: 24–72 giờ do xơ vữa; nhánh ba: ticagrelor kèm aspirin ở nhóm THALES [5]. Sau bảng kiểm (Bảng 3.5), ghi ngày dừng trên đơn và giấy ra viện vì lợi ích cạn từ ngày thứ 22 [78].
 TABLE Bảng kiểm an toàn trước khi kê kháng kết tập tiểu cầu kép [5,18,82,85].
 COLW 0.95,1.75,1.8
 ALIGN l,j,j
 FSIZE 10
-H Mục kiểm|Nội dung|Xử trí nếu bất thường
-R Loại trừ xuất huyết|Hình ảnh não trước liều đầu; xem lại chuyển dạng chảy máu trên phim kiểm tra|Ngừng kế hoạch điều trị kép; hội chẩn chuyên khoa thần kinh
-R Chỉ định kháng đông|Rung nhĩ, huyết khối buồng tim, van tim cơ học|Chuyển sang lộ trình kháng đông; không phối hợp thường quy
-R Tiêu sợi huyết trong 24 giờ|Đã dùng thuốc tiêu sợi huyết đường tĩnh mạch|Hoãn kháng kết tập tiểu cầu đến sau phim kiểm tra ở giờ thứ 24
-R Tiền sử chảy máu|Xuất huyết nội sọ, xuất huyết tiêu hoá, loét dạ dày tá tràng đang hoạt động|Cân nhắc đơn trị; bổ sung thuốc ức chế bơm proton ít tương tác
-R Xét nghiệm nền|Số lượng tiểu cầu, hemoglobin, chức năng gan và thận|Giảm tiểu cầu nặng hoặc thiếu máu tiến triển: tạm hoãn và truy tìm nguyên nhân
-R Thuốc dùng kèm|Thuốc chống viêm không steroid, corticoid, thuốc ức chế tái hấp thu serotonin chọn lọc|Ngừng hoặc thay thế trước khi khởi trị; hướng dẫn không tự mua thuốc giảm đau
-R Tương tác với clopidogrel|Omeprazol hoặc esomeprazol đang dùng; kiểu gen CYP2C19 nếu có điều kiện xét nghiệm|Đổi sang pantoprazol hoặc rabeprazol; cân nhắc phác đồ dựa trên ticagrelor
-R Thủ thuật dự kiến|Nội soi, nhổ răng, phẫu thuật chương trình trong 21 ngày tới|Dời lịch thủ thuật hoặc hội chẩn về thời điểm ngừng thuốc
-R Ngày kết thúc điều trị kép|Ghi ngày dừng trên đơn thuốc, giấy ra viện và hệ thống nhắc việc|Nếu chưa xác định được ngày dừng: hẹn tái khám trước ngày thứ 21
-R Giáo dục người bệnh|Dấu hiệu chảy máu cần báo; không tự ngừng và không tự thêm thuốc|Cấp bản hướng dẫn viết kèm số điện thoại liên hệ
+H Mục kiểm|Nội dung|Xử trí
+R Loại trừ xuất huyết|Hình ảnh não trước liều đầu; chuyển dạng chảy máu|Ngừng điều trị kép; hội chẩn thần kinh
+R Chỉ định kháng đông|Rung nhĩ, huyết khối buồng tim, van cơ học|Chuyển lộ trình kháng đông; không phối hợp thường quy
+R Tiêu sợi huyết|Đã dùng tiêu sợi huyết tĩnh mạch|Hoãn đến sau phim kiểm tra giờ thứ 24
+R Tiền sử chảy máu|Xuất huyết nội sọ, tiêu hoá; loét đang hoạt động|Cân nhắc đơn trị; thêm ức chế bơm proton
+R Xét nghiệm nền|Tiểu cầu, hemoglobin, chức năng gan thận|Giảm tiểu cầu, thiếu máu tiến triển: hoãn, tìm nguyên nhân
+R Thuốc dùng kèm|Chống viêm không steroid, corticoid, ức chế tái hấp thu serotonin|Ngừng hoặc thay trước khởi trị
+R Tương tác clopidogrel|Omeprazol, esomeprazol; kiểu gen CYP2C19|Đổi pantoprazol hoặc rabeprazol; cân nhắc ticagrelor
+R Thủ thuật dự kiến|Nội soi, nhổ răng, phẫu thuật trong 21 ngày|Dời lịch hoặc hội chẩn thời điểm ngừng
+R Ngày kết thúc điều trị kép|Ghi trên đơn, giấy ra viện, hệ thống nhắc|Hẹn tái khám trước ngày thứ 21
+R Giáo dục người bệnh|Dấu hiệu chảy máu; không tự ngừng hay thêm thuốc|Bản hướng dẫn viết kèm số điện thoại
 ENDTABLE
 H3 3.2.8. Biến cố tái phát khi đang dùng kháng kết tập tiểu cầu
-P Trước khi đổi thuốc phải trả lời bốn câu hỏi: biến cố mới có thực sự là thiếu máu não hay bệnh cảnh giả (xem Mục 2.6); cơ chế đã xác định đúng chưa (xem Mục 2.4); người bệnh có uống thuốc không; có tương tác hay kiểu gen CYP2C19 mất chức năng làm giảm hiệu lực không [81,82].
-P Kháng aspirin và kháng clopidogrel không dùng được như một chỉ định: xét nghiệm chức năng tiểu cầu không thống nhất và chưa thử nghiệm ngẫu nhiên nào cho thấy đổi thuốc theo xét nghiệm cải thiện kết cục. Hướng dẫn rung nhĩ năm 2024 cũng khuyến cáo mức III với việc đổi thuốc kháng đông đường uống trực tiếp hoặc thêm kháng kết tập tiểu cầu sau đột quỵ khi đang dùng kháng đông đúng liều [131].
+P Trước khi đổi thuốc phải trả lời bốn câu hỏi: có thực sự thiếu máu não (xem Mục 2.6); cơ chế đã đúng chưa (xem Mục 2.4); người bệnh có uống thuốc không; có tương tác hay alen CYP2C19 mất chức năng không [81,82].
+P Kháng aspirin và kháng clopidogrel không phải là chỉ định: xét nghiệm chức năng tiểu cầu không thống nhất, chưa thử nghiệm nào cho thấy đổi thuốc theo xét nghiệm cải thiện kết cục. Hướng dẫn rung nhĩ năm 2024 xếp mức III cho việc đổi kháng đông đường uống trực tiếp hoặc thêm kháng kết tập tiểu cầu khi đang dùng đúng liều [131].
 H3 3.2.9. Triển vọng ức chế yếu tố XI
-P OCEANIC-STROKE ngẫu nhiên hoá 12.327 người bệnh trong 72 giờ sau nhồi máu não không do nguồn tim hoặc TIA nguy cơ cao có cơ chế xơ vữa, nhận asundexian 50 mg một lần mỗi ngày (6.162 người bệnh) hoặc giả dược (6.165 người bệnh) trên nền kháng kết tập tiểu cầu: nhồi máu não 6,2% so với 8,4%, HR đặc hiệu theo nguyên nhân 0,74 (KTC 95% 0,65–0,84); chảy máu nặng 1,9% so với 1,7%, HR 1,10 (KTC 95% 0,85–1,44) [151].
-P Hiệu quả này là bổ sung trên nền kháng kết tập tiểu cầu, không thay thế nó và không áp dụng cho đột quỵ lấp mạch chưa rõ nguồn (xem Mục 4.1). Khi so với apixaban trong rung nhĩ, asundexian phải dừng vì kém hiệu quả hơn, đột quỵ hoặc thuyên tắc hệ thống 1,3% so với 0,4%, HR 3,79 (KTC 95% 2,46–5,83); milvexian trong LIBREXIA-STROKE đến tháng 8 năm 2026 chưa có kết quả chính [152].
+P OCEANIC-STROKE tuyển 12.327 người bệnh trong 72 giờ sau nhồi máu não không do nguồn tim hoặc TIA nguy cơ cao do xơ vữa, asundexian 50 mg mỗi ngày so với giả dược trên nền kháng kết tập tiểu cầu: nhồi máu não 6,2% so với 8,4%, HR 0,74 (KTC 95% 0,65–0,84); chảy máu nặng 1,9% so với 1,7%, HR 1,10 (KTC 95% 0,85–1,44) [151].
+P Asundexian bổ sung chứ không thay thế kháng kết tập tiểu cầu, không dùng cho đột quỵ lấp mạch chưa rõ nguồn (xem Mục 4.1). So với apixaban trong rung nhĩ, asundexian dừng vì kém hiệu quả, đột quỵ hoặc thuyên tắc hệ thống 1,3% so với 0,4%, HR 3,79 (KTC 95% 2,46–5,83); milvexian (LIBREXIA-STROKE) đến tháng 8 năm 2026 chưa có kết quả chính [152].

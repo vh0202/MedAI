@@ -1,39 +1,37 @@
 H2 1.5. Vai trò của cơn thiếu máu não thoáng qua và đột quỵ nhẹ trong tổ chức chăm sóc và nghiên cứu phòng ngừa
 H3 1.5.1. Mô hình phòng khám chuyên biệt và các cấu phần cốt lõi
-P Nguy cơ tái phát dồn vào những giờ đầu (xem Mục 1.2.2) biến cơn thiếu máu não thoáng qua (TIA) thành tình huống cấp cứu; nén thời gian được dự báo giảm 80–90% nguy cơ tái phát sớm [20,56]. Tổ chức Đột quỵ châu Âu (2021) khuyến cáo đánh giá chuyên khoa trong 24 giờ tại phòng khám TIA chuyên biệt, không dùng riêng thang điểm dự báo để phân loại ưu tiên [12]; Hiệp hội Tim mạch Hoa Kỳ (2023) nhấn mạnh hình ảnh não và mạch máu cấp [13].
-P Sáu cấu phần cốt lõi là tiếp nhận trực tiếp, phân loại bởi điều dưỡng, đánh giá chuyên khoa trong 24 giờ, khảo sát trọn gói, khởi trị tại chỗ và theo dõi có cấu trúc, kể cả khi khám từ xa (Hình 1.2) [12,13,20,24,51]. Phần lớn hiệu quả đến từ quyền kê đơn tại chỗ, nhờ đó trung vị thời gian đến liều đầu tiên trong EXPRESS rút từ 20 ngày xuống 1 ngày, và từ truyền thông tới 15.000 bác sĩ như trong SOS-TIA [20,24].
+P Nguy cơ tái phát dồn vào giờ đầu (Mục 1.2.2) khiến TIA thành cấp cứu; nén thời gian giảm 80–90% tái phát sớm [20,56]. Tổ chức Đột quỵ châu Âu (2021) khuyến cáo khám chuyên khoa trong 24 giờ tại phòng khám TIA chuyên biệt, không phân loại ưu tiên chỉ bằng thang điểm [12]; Hiệp hội Tim mạch Hoa Kỳ (2023) nhấn mạnh hình ảnh não – mạch cấp [13].
+P Sáu cấu phần cốt lõi (Hình 1.2): tiếp nhận trực tiếp, điều dưỡng phân loại, khám chuyên khoa 24 giờ, khảo sát trọn gói, khởi trị tại chỗ, theo dõi có cấu trúc, kể cả khám từ xa [12,13,20,24,51]. Hiệu quả chủ yếu từ quyền kê đơn tại chỗ (trung vị đến liều đầu trong EXPRESS: 20 ngày xuống 1 ngày) và truyền thông tới 15.000 bác sĩ trong SOS-TIA [20,24].
 FIG image2.jpg | 12.5 | Lưu đồ vận hành của một phòng khám nhanh cơn thiếu máu não thoáng qua có tích hợp khám từ xa [51].
 H3 1.5.2. Bằng chứng từ các nghiên cứu then chốt
-H4 1.5.2.1. Nghiên cứu EXPRESS
-P EXPRESS lồng trong Oxford Vascular Study trên 1.278 người bệnh. Đột quỵ 90 ngày là 10,3% ở giai đoạn 1 so với 2,1% ở giai đoạn 2, tỷ số nguy cơ hiệu chỉnh 0,20 (KTC 95% 0,08–0,49), không tăng xuất huyết nội sọ [20]. Ở 10 năm, đột quỵ ở giai đoạn 2 là 23,3% so với 31,6%, tỷ số nguy cơ 0,68 (KTC 95% 0,48–0,95); đột quỵ gây tàn tật hoặc tử vong là 7,7% so với 13,1%, tỷ số nguy cơ 0,54 (KTC 95% 0,30–0,97) [31].
-H4 1.5.2.2. Nghiên cứu SOS-TIA
-P SOS-TIA là phòng khám mở liên tục suốt ngày đêm, hoàn tất khảo sát trong 4 giờ; trong 1.085 người bệnh nghi TIA, 574 người (53%) được khám trong 24 giờ đầu và 808 người (74%) về nhà trong ngày. Đột quỵ 90 ngày là 1,24% (KTC 95% 0,72–2,12) so với 5,96% dự báo từ điểm ABCD2 của đoàn hệ; không có nhánh chứng đồng thời nên nghiên cứu chỉ chứng minh tính khả thi [24].
-H4 1.5.2.3. Đoàn hệ TIAregistry.org
-P TIAregistry.org tuyển 4.789 người bệnh TIA hoặc đột quỵ thiếu máu não nhẹ, với 78,4% được đánh giá chuyên khoa trong 24 giờ. Kết cục chính gộp tim mạch là 6,2% ở 1 năm (KTC 95% 5,5–7,0), riêng đột quỵ 3,7% ở 90 ngày [25]. Ở 3.847 người bệnh theo dõi 5 năm, kết cục gộp là 12,9% (KTC 95% 11,8–14,1) và đột quỵ 9,5% (KTC 95% 8,5–10,5), với 50,1% số biến cố xuất hiện từ năm thứ hai [30]; xơ vữa động mạch lớn cùng bên làm tăng nguy cơ, tỷ số nguy cơ 2,01 (KTC 95% 1,29–3,13) [25,118].
+H4 1.5.2.1. Tổ chức lại dịch vụ: EXPRESS và SOS-TIA
+P EXPRESS (Oxford Vascular Study, 1.278 ca): đột quỵ 90 ngày 10,3% (giai đoạn 1) so với 2,1% (giai đoạn 2), tỷ số nguy cơ hiệu chỉnh 0,20 (KTC 95% 0,08–0,49), không tăng xuất huyết nội sọ [20]. Ở 10 năm, giai đoạn 2 so với 1: đột quỵ 23,3% so với 31,6%, tỷ số nguy cơ 0,68 (KTC 95% 0,48–0,95); đột quỵ tàn tật/tử vong 7,7% so với 13,1%, tỷ số nguy cơ 0,54 (KTC 95% 0,30–0,97) [31].
+P SOS-TIA mở suốt ngày đêm, khảo sát trong 4 giờ: 1.085 ca nghi TIA, 574 (53%) khám trong 24 giờ đầu, 808 (74%) về nhà trong ngày; đột quỵ 90 ngày 1,24% (KTC 95% 0,72–2,12) so với 5,96% dự báo theo ABCD2, không có nhánh chứng nên chỉ chứng minh khả thi [24].
+H4 1.5.2.2. Đoàn hệ TIAregistry.org
+P TIAregistry.org tuyển 4.789 ca TIA hoặc đột quỵ nhẹ, 78,4% khám chuyên khoa trong 24 giờ; kết cục gộp tim mạch 6,2% ở 1 năm (KTC 95% 5,5–7,0), đột quỵ 3,7% ở 90 ngày [25]. Ở 3.847 ca theo dõi 5 năm, kết cục gộp 12,9% (KTC 95% 11,8–14,1), đột quỵ 9,5% (KTC 95% 8,5–10,5), 50,1% biến cố từ năm thứ hai [30]; xơ vữa động mạch lớn cùng bên: tỷ số nguy cơ 2,01 (KTC 95% 1,29–3,13) [25,118].
 H3 1.5.3. Chi phí – hiệu quả của mô hình
-P Phân tích kinh tế 10 năm của EXPRESS cho thấy chênh lệch chi phí 1.022 USD (KTC 95% từ −3.865 đến 5.907), kỳ vọng sống không tàn tật tăng 0,59 năm (KTC 95% 0,03–1,15), kỳ vọng sống hiệu chỉnh theo chất lượng tăng 0,49 năm (KTC 95% 0,03–0,95) và tỷ số chi phí – hiệu quả tăng thêm là 2.103 USD mỗi năm sống hiệu chỉnh theo chất lượng (QALY) [31].
-P Mô hình quyết định 20 năm cho thấy chiến lược hiệu quả nhất về chi phí là đánh giá chuyên khoa nhanh kèm cắt lớp vi tính sọ não, còn cộng hưởng từ khuếch tán đắt hơn mà không hiệu quả hơn [130]. Chi phí tăng thêm chủ yếu là chi phí tổ chức, đối trọng là 166.954 ca tử vong do đột quỵ năm 2021 và tỷ suất mắc mới hiệu chỉnh theo tuổi 203,36 trên 100.000 dân [181].
+P Phân tích kinh tế 10 năm EXPRESS: chênh lệch chi phí 1.022 USD (KTC 95% từ −3.865 đến 5.907), kỳ vọng sống không tàn tật tăng 0,59 năm (KTC 95% 0,03–1,15), kỳ vọng sống hiệu chỉnh chất lượng (QALY) tăng 0,49 năm (KTC 95% 0,03–0,95), chi phí – hiệu quả tăng thêm 2.103 USD mỗi QALY [31].
+P Mô hình quyết định 20 năm: chiến lược tối ưu là khám nhanh kèm cắt lớp vi tính sọ não; cộng hưởng từ khuếch tán đắt hơn, không hiệu quả hơn [130]. Phần tăng chủ yếu là chi phí tổ chức, đối trọng với 166.954 ca tử vong do đột quỵ năm 2021 và tỷ suất mắc mới hiệu chỉnh tuổi 203,36 trên 100.000 dân [181].
 H3 1.5.4. Chỉ số chất lượng của một dịch vụ TIA
-P Đột quỵ tái phát 90 ngày vừa hiếm vừa phụ thuộc quần thể tiếp nhận, nên ở quy mô vài trăm ca mỗi năm biến thiên ngẫu nhiên đủ che lấp khác biệt thật; bộ chỉ số lấy chỉ số quy trình làm trục chính (Bảng 1.11) [12,13,20,24,25,51].
+P Đột quỵ tái phát 90 ngày hiếm và phụ thuộc quần thể, nên bộ chỉ số lấy chỉ số quy trình làm trục chính (Bảng 1.11) [12,13,20,24,25,51].
 TABLE Bộ chỉ số chất lượng đề xuất cho phòng khám cơn thiếu máu não thoáng qua [12,13,20,24,25,51].
 COLW 1.15,1.75,0.95,1.05
 ALIGN l,j,c,j
 FSIZE 10
-H Chỉ số|Định nghĩa tử số – mẫu số|Ngưỡng mục tiêu đề xuất|Nguồn dữ liệu
-R Thời gian đến đánh giá chuyên khoa|Số người bệnh được bác sĩ chuyên khoa đánh giá trong 24 giờ kể từ khi tìm đến y tế – tổng số người bệnh được tiếp nhận|≥ 80%|Sổ tiếp nhận phòng khám; bệnh án điện tử
-R Thời gian đến liều thuốc phòng ngừa đầu tiên|Số người bệnh được kê và dùng thuốc kháng huyết khối ngay trong ngày đánh giá – tổng số người bệnh có chỉ định|≥ 90%|Đơn thuốc điện tử; sổ cấp phát thuốc
-R Hoàn tất hình ảnh nhu mô não|Số người bệnh có hình ảnh nhu mô não trong 24 giờ – tổng số người bệnh được tiếp nhận|≥ 90%|Hệ thống lưu trữ và truyền hình ảnh
-R Hoàn tất khảo sát mạch máu|Số người bệnh có khảo sát mạch máu cổ và nội sọ trong 48 giờ – tổng số người bệnh được tiếp nhận|≥ 85%|Hệ thống lưu trữ và truyền hình ảnh
-R Khảo sát nhịp tim tối thiểu|Số người bệnh được ghi điện tâm đồ 12 chuyển đạo và theo dõi nhịp ít nhất 24 giờ – tổng số người bệnh chưa rõ căn nguyên|≥ 90%|Hồ sơ theo dõi nhịp; bệnh án điện tử
-R Kích hoạt hội chẩn mạch máu|Số ca hẹp động mạch cảnh có triệu chứng từ 50% trở lên được hội chẩn trong 24 giờ kể từ khi có kết quả – tổng số ca được phát hiện|≥ 90%|Biên bản hội chẩn đa chuyên khoa
-R Tỷ lệ xử trí ngoại trú|Số người bệnh hoàn tất đánh giá và về nhà trong ngày – tổng số người bệnh được tiếp nhận|≥ 70%|Sổ tiếp nhận; hồ sơ khoa cấp cứu
-R Quay lại cấp cứu ngoài kế hoạch trong 7 ngày|Số người bệnh đã xử trí ngoại trú quay lại cấp cứu vì triệu chứng thần kinh trong 7 ngày – tổng số người bệnh xử trí ngoại trú|< 5%|Hồ sơ khoa cấp cứu; liên thông bệnh án
-R Tỷ lệ bệnh cảnh giả trong số ca tiếp nhận|Số ca có chẩn đoán cuối cùng không phải TIA hoặc đột quỵ – tổng số ca được tiếp nhận|Theo dõi xu hướng, không đặt ngưỡng cố định|Sổ chẩn đoán ra viện của phòng khám
-R Đột quỵ tái phát trong 90 ngày|Số người bệnh có đột quỵ trong 90 ngày kể từ lần khám đầu – tổng số người bệnh được theo dõi đủ 90 ngày|≤ 4%|Theo dõi có cấu trúc tại thời điểm 90 ngày
-R Duy trì phác đồ phòng ngừa ở 90 ngày|Số người bệnh còn dùng đủ các thành phần phòng ngừa thứ phát đã chỉ định – tổng số người bệnh được theo dõi đủ 90 ngày|≥ 80%|Tái khám 2–4 tuần và 90 ngày
+H Chỉ số|Tử số/mẫu số|Ngưỡng|Nguồn dữ liệu
+R Thời gian đến khám chuyên khoa|Khám chuyên khoa ≤ 24 h/tổng tiếp nhận|≥ 80%|Sổ tiếp nhận; bệnh án
+R Thời gian đến liều phòng ngừa đầu|Dùng kháng huyết khối ngày khám/tổng có chỉ định|≥ 90%|Đơn thuốc điện tử
+R Hoàn tất hình ảnh não – mạch|Nhu mô ≤ 24 h; mạch cổ+nội sọ ≤ 48 h|≥ 90%; ≥ 85%|Lưu trữ, truyền hình ảnh
+R Khảo sát nhịp, ca chưa rõ căn nguyên|Điện tâm đồ 12 chuyển đạo + theo dõi ≥ 24 h|≥ 90%|Hồ sơ nhịp; bệnh án
+R Kích hoạt hội chẩn mạch máu|Hẹp cảnh có triệu chứng ≥ 50%: hội chẩn ≤ 24 h|≥ 90%|Biên bản hội chẩn
+R Tỷ lệ xử trí ngoại trú|Về nhà trong ngày/tổng tiếp nhận|≥ 70%|Sổ tiếp nhận; hồ sơ cấp cứu
+R Quay lại cấp cứu ≤ 7 ngày|Quay lại vì triệu chứng thần kinh/tổng xử trí ngoại trú|< 5%|Hồ sơ cấp cứu; bệnh án
+R Tỷ lệ bệnh cảnh giả|Chẩn đoán cuối không TIA/đột quỵ trên tổng tiếp nhận|Theo dõi xu hướng|Sổ chẩn đoán ra viện
+R Đột quỵ tái phát 90 ngày|Đột quỵ ≤ 90 ngày/tổng theo dõi đủ|≤ 4%|Theo dõi có cấu trúc 90 ngày
+R Duy trì phác đồ ở 90 ngày|Còn đủ phòng ngừa thứ phát/tổng theo dõi|≥ 80%|Tái khám 2–4 tuần; 90 ngày
 ENDTABLE
-P Ngưỡng 80% cho đánh giá trong 24 giờ lấy từ TIAregistry.org, nơi 78,4% được đánh giá trong 24 giờ và đột quỵ 90 ngày là 3,7% [25]; ngưỡng 70% cho xử trí ngoại trú lấy từ SOS-TIA với 74% về nhà trong ngày [24]; ngưỡng 4% bao trùm cả ba dịch vụ tham chiếu [20,24,25]. Tỷ lệ quay lại cấp cứu 7 ngày là đối trọng an toàn bắt buộc (xem Mục 2.8).
+P Ngưỡng 80% khám trong 24 giờ theo TIAregistry.org (78,4%; đột quỵ 90 ngày 3,7%) [25]; ngưỡng 70% ngoại trú từ SOS-TIA (74% về nhà trong ngày) [24]; ngưỡng 4% bao trùm ba dịch vụ tham chiếu [20,24,25]. Quay lại cấp cứu 7 ngày là đối trọng an toàn (Mục 2.8).
 H3 1.5.5. Quần thể nghiên cứu lý tưởng và định hướng triển khai tại Việt Nam
-P TIA và đột quỵ thiếu máu não nhẹ là quần thể thử nghiệm phòng ngừa lý tưởng vì biến cố nhiều, dồn trong thời gian ngắn và cho phép làm giàu [14-17,52,53]. INSPIRES giới hạn cửa sổ 72 giờ ở người bệnh xơ vữa [53]; thử nghiệm ức chế yếu tố XI giai đoạn ba ngẫu nhiên hoá 12.327 người bệnh trong vòng 72 giờ sau đột quỵ thiếu máu não không do lấp mạch từ tim hoặc TIA nguy cơ cao [151].
-P Khoảng 70% bệnh viện được khảo sát đã có đơn vị đột quỵ với trung vị 630 ca cấp mỗi năm, nhưng mạng lưới vẫn lệch về đô thị lớn [21,185]; khám từ xa là cơ chế phân phối năng lực chuyên khoa [51]. Trong 1.191 người bệnh tại Bệnh viện Bạch Mai, hẹp động mạch cảnh ngoài sọ 50–99% cùng bên chỉ gặp 62 ca, tức 5,2% (KTC 95% 4,0–6,6), nên khảo sát mạch nội sọ mới là ưu tiên (xem Mục 2.4) [182].
-P Lộ trình phân theo ba mức năng lực, từ cấu hình cơ bản có cắt lớp vi tính sọ não và khởi trị ngay [130] đến mức chuyên sâu có cộng hưởng từ khuếch tán trong 24 giờ, nhưng ngưỡng thời gian giữ giống nhau ở cả ba mức [12,13]. Cần song song đào tạo tuyến đầu và truyền thông về triệu chứng thoáng qua, vì trong SOS-TIA chỉ 53% người bệnh đến trong 24 giờ đầu [24], và gắn dịch vụ với hướng dẫn quốc gia [4].
+P TIA và đột quỵ nhẹ là quần thể thử nghiệm phòng ngừa lý tưởng: biến cố nhiều, dồn sớm, cho phép làm giàu [14-17,52,53]. INSPIRES giới hạn cửa sổ 72 giờ ở người xơ vữa [53]; thử nghiệm giai đoạn ba ức chế yếu tố XI ngẫu nhiên hoá 12.327 ca trong 72 giờ sau đột quỵ không do lấp mạch từ tim hoặc TIA nguy cơ cao [151].
+P Khoảng 70% bệnh viện khảo sát có đơn vị đột quỵ, trung vị 630 ca cấp/năm, nhưng mạng lưới lệch về đô thị lớn [21,185]; khám từ xa phân phối năng lực chuyên khoa [51]. Trong 1.191 ca tại Bệnh viện Bạch Mai, hẹp động mạch cảnh ngoài sọ 50–99% cùng bên chỉ gặp 62 ca (5,2%; KTC 95% 4,0–6,6), nên ưu tiên khảo sát mạch nội sọ (Mục 2.4) [182].
+P Lộ trình ba mức năng lực: cơ bản có cắt lớp vi tính sọ não, khởi trị ngay [130], chuyên sâu thêm cộng hưởng từ khuếch tán trong 24 giờ; ngưỡng thời gian như nhau [12,13]. Cần đào tạo tuyến đầu, truyền thông triệu chứng thoáng qua — SOS-TIA chỉ 53% đến trong 24 giờ đầu [24] — và gắn với hướng dẫn quốc gia [4].

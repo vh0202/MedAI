@@ -1,41 +1,41 @@
 H2 2.6. Chẩn đoán phân biệt với các bệnh cảnh giả
-P Chẩn đoán TIA tựa lên lời kể về một sự kiện đã kết thúc: thiếu sót thần kinh không còn để quan sát, và chuỗi xung khuếch tán chỉ dương tính ở khoảng một phần ba đến một nửa số ca (xem Mục 2.3.1). Đây là khâu dễ sai nhất của chẩn đoán.
+P Chẩn đoán TIA tựa lên lời kể về sự kiện đã kết thúc: thiếu sót không còn quan sát được, khuếch tán chỉ dương tính ở một phần ba đến một nửa số ca (xem Mục 2.3.1). Đây là khâu dễ sai nhất.
 H3 2.6.1. Dịch tễ, độ tin cậy của chẩn đoán và hệ quả của chẩn đoán nhầm
-P Tỷ lệ bệnh cảnh giả là 10–48,5% tại khoa cấp cứu và tới khoảng 60% ở phòng khám TIA chuyên khoa [13,22,23]: ngưỡng chuyển tuyến rộng pha loãng xác suất tiền nghiệm. Thang điểm ABCD2 chỉ kiểm định trên người đã xác lập TIA nên cho điểm cao ở người liệt Todd (xem Mục 2.2.4.1); phải chẩn đoán trước, phân tầng sau.
-P Đồng thuận giữa những người khám chỉ ở mức trung bình; bảng kiểm có cấu trúc (xem Mục 2.1.1.2) và đánh giá sớm bởi chuyên khoa làm giảm dao động [12,22]. Nên ghi ba mức — xác định, nhiều khả năng, có thể — và hẹn đánh giá lại nhóm cuối [12,13]. Bỏ sót làm mất cửa sổ nguy cơ những giờ đầu (xem Mục 1.2.2) [13,56]; nhãn sai lại kéo dài chống huyết khối vô ích và bỏ mặc bệnh thật.
+P Bệnh cảnh giả chiếm 10–48,5% tại khoa cấp cứu, tới 60% ở phòng khám TIA chuyên khoa [13,22,23] do ngưỡng chuyển tuyến rộng. ABCD2 chỉ kiểm định trên người đã xác lập TIA nên cho điểm cao ở liệt Todd (xem Mục 2.2.4.1); chẩn đoán trước, phân tầng sau.
+P Bảng kiểm có cấu trúc (xem Mục 2.1.1.2) và khám chuyên khoa sớm giảm dao động [12,22]. Nên ghi ba mức (xác định, nhiều khả năng, có thể), hẹn khám lại nhóm cuối [12,13]. Bỏ sót mất cửa sổ nguy cơ giờ đầu (xem Mục 1.2.2) [13,56]; nhãn sai kéo dài chống huyết khối vô ích, bỏ mặc bệnh thật.
 H3 2.6.2. Đau nửa đầu có tiền triệu
-P Đau nửa đầu có tiền triệu là bệnh cảnh giả đơn lẻ thường gặp nhất, chiếm 12–20% số ca giả tại khoa cấp cứu [22,23]. ICHD-3 đòi hỏi hai cơn tiền triệu hồi phục hoàn toàn kèm ba trong sáu đặc điểm; ba mốc phân biệt là lan dần từ 5 phút trở lên, mỗi triệu chứng 5–60 phút, đau đầu 4–72 giờ [137].
-P Tiêu chuẩn mất hiệu lực khi tiền triệu không kèm đau đầu ở người trên 50 tuổi và khi cơn đầu tiên xuất hiện sau tuổi 60 — lúc đó phải khảo sát như một TIA. Đau nửa đầu vẫn gây được triệu chứng âm tính, còn thiếu máu não gây được triệu chứng dương tính: cơn giật chi (xem Mục 2.1.5.2), ảo thị võng mạc (xem Mục 2.1.5.1). Hai chẩn đoán không loại trừ nhau.
+P Đau nửa đầu có tiền triệu là bệnh cảnh giả thường gặp nhất, 12–20% số ca giả tại khoa cấp cứu [22,23]. ICHD-3 đòi hỏi hai cơn tiền triệu hồi phục hoàn toàn, ba trong sáu đặc điểm; ba mốc: lan dần ≥ 5 phút, mỗi triệu chứng 5–60 phút, đau đầu 4–72 giờ [137].
+P Tiêu chuẩn mất hiệu lực khi tiền triệu không kèm đau đầu ở người trên 50 tuổi hoặc cơn đầu sau tuổi 60: khảo sát như TIA. Đau nửa đầu cũng gây triệu chứng âm tính, thiếu máu não cũng gây dương tính: cơn giật chi (xem Mục 2.1.5.2), ảo thị võng mạc (xem Mục 2.1.5.1); không loại trừ nhau.
 H3 2.6.3. Cơn thần kinh khu trú thoáng qua trong bệnh mạch máu não nhiễm bột
 H4 2.6.3.1. Hình thái cơn và phân biệt tại giường
-P Cơn gặp ở người trên 60 tuổi: dị cảm từ một điểm nhỏ lan như vệt loang trong vài chục giây đến một hai phút — chậm hơn động kinh khu trú, nhanh hơn tiền triệu đau nửa đầu — kéo dài vài phút, hiếm khi quá 30 phút. Các cơn rập khuôn dồn trong vài ngày đến vài tuần, dễ lẫn hội chứng cảnh báo bao trong (xem Mục 2.1.5.3).
+P Cơn gặp ở người trên 60 tuổi: dị cảm lan như vệt loang trong vài chục giây đến một hai phút, kéo dài vài phút, hiếm khi quá 30 phút. Cơn rập khuôn dồn vài ngày đến vài tuần, dễ lẫn hội chứng cảnh báo bao trong (xem Mục 2.1.5.3).
 H4 2.6.3.2. Hình ảnh, tiêu chuẩn Boston và nguy cơ của nhãn chẩn đoán sai
-P Chẩn đoán dựa vào chuỗi xung nhạy từ (xem Mục 2.3.2.2): vi xuất huyết thuỳ dưới 10 mm, xuất huyết dưới nhện vỏ khu trú, nhiễm sắt bề mặt vỏ não — khu trú khi không quá ba rãnh, lan toả từ bốn rãnh trở lên [18,23]. Boston 2.0 xếp mức “nhiều khả năng” khi tuổi từ 50 trở lên, bệnh cảnh phù hợp, có hai tổn thương xuất huyết thuỳ hoặc một tổn thương kèm dấu hiệu chất trắng. Nhãn TIA sai dẫn tới kháng kết tập tiểu cầu kép rồi kháng đông, làm tăng nguy cơ xuất huyết thuỳ [18], trong khi lợi ích của điều trị kép chỉ có ở TIA nguy cơ cao và đột quỵ thiếu máu não nhẹ (xem Mục 3.2.2) [5,78].
+P Chẩn đoán dựa vào nhạy từ (xem Mục 2.3.2.2): vi xuất huyết thuỳ dưới 10 mm, xuất huyết dưới nhện vỏ khu trú, nhiễm sắt vỏ (khu trú ≤ ba rãnh, lan toả ≥ bốn rãnh) [18,23]. Boston 2.0 xếp “nhiều khả năng” khi tuổi ≥ 50, có hai tổn thương xuất huyết thuỳ hoặc một tổn thương kèm dấu hiệu chất trắng. Nhãn TIA sai dẫn tới kháng kết tập kép rồi kháng đông, tăng nguy cơ xuất huyết thuỳ [18]; điều trị kép chỉ lợi ở TIA nguy cơ cao và đột quỵ nhẹ (xem Mục 3.2.2) [5,78].
 H3 2.6.4. Cơn động kinh khu trú và liệt Todd
-P Cơn động kinh khu trú khác TIA ở triệu chứng dương tính lan theo bản đồ vỏ não trong vài giây và ở pha sau cơn với lú lẫn cùng liệt Todd kéo dài vài phút đến 24–48 giờ. Cơn đầu tiên ở người cao tuổi thường phản ánh tổn thương cấu trúc nên bắt buộc hình ảnh nhu mô; ngược lại, cơn giật chi trong TIA huyết động khởi phát khi đứng dậy hoặc gắng sức, không có pha sau cơn (xem Mục 2.1.5.2).
-P Điện não đồ khẳng định chứ không loại trừ: bản ghi ngoài cơn bình thường không loại trừ động kinh khu trú, còn sóng dạng động kinh cũng không giải thích trọn bệnh cảnh — lôgic trùng với chuỗi xung khuếch tán (xem Mục 2.3.1.1). Bốn bệnh cảnh trên đối chiếu theo tám trục, ba trục đầu mang phần lớn khả năng phân biệt (Bảng 2.12).
+P Cơn động kinh khu trú khác TIA ở pha sau cơn: lú lẫn, liệt Todd tới 24–48 giờ. Cơn đầu ở người cao tuổi thường do tổn thương cấu trúc, buộc chụp nhu mô; cơn giật chi trong TIA huyết động khởi phát khi đứng dậy hay gắng sức, không có pha sau cơn (xem Mục 2.1.5.2).
+P Điện não đồ khẳng định chứ không loại trừ, cùng lôgic với khuếch tán (xem Mục 2.3.1.1): bản ghi ngoài cơn bình thường không loại trừ động kinh, sóng dạng động kinh không giải thích trọn bệnh cảnh. Bảng 2.12 đối chiếu bốn bệnh cảnh theo tám trục.
 TABLE Bảng 2.12. Phân biệt cơn thiếu máu não thoáng qua với các bệnh cảnh giả thường gặp [6,22,23,73,137].
 COLW 0.9,1.1,1.05,1.15,1.05
 ALIGN l,j,j,j,j
 FSIZE 10
-H Đặc điểm|TIA và đột quỵ thiếu máu não nhẹ|Đau nửa đầu có tiền triệu|Cơn khu trú do bệnh mạch máu não nhiễm bột|Động kinh khu trú và liệt Todd
-R Tốc độ khởi phát và kiểu lan|Đạt mức tối đa gần như tức thì, không lan dần|Lan dần từ 5 phút trở lên|Lan kiểu vệt trong vài chục giây đến vài phút|Lan theo bản đồ vỏ não trong vài giây
-R Tính chất triệu chứng|Âm tính, mất chức năng|Dương tính trước, âm tính sau|Thường dương tính, có thể kèm mất chức năng|Dương tính trong cơn, âm tính sau cơn
-R Phân bố giải phẫu|Theo một lãnh thổ cấp máu|Không theo lãnh thổ cấp máu|Theo vùng vỏ não tổn thương, không theo lãnh thổ cấp máu|Theo vùng vỏ não khởi phát cơn
-R Thời gian kéo dài|Vài phút đến vài giờ|Mỗi triệu chứng tiền triệu 5–60 phút|Vài phút, hiếm khi quá 30 phút|Cơn dưới vài phút; liệt Todd tới 24–48 giờ
-R Kiểu tái diễn|Thường đơn độc hoặc vài cơn khác hình thái|Nhiều cơn rập khuôn trải qua nhiều năm|Nhiều cơn rập khuôn dồn trong vài ngày đến vài tuần|Rập khuôn, tần suất thay đổi
-R Triệu chứng đi kèm|Hiếm khi có đau đầu nổi bật|Đau đầu 4–72 giờ, sợ ánh sáng và sợ tiếng động|Than phiền trí nhớ, tiền sử xuất huyết não thuỳ|Cắn lưỡi, tiểu không tự chủ, lú lẫn sau cơn
-R Chuỗi xung khuếch tán|Dương tính khoảng một phần ba đến một nửa số ca TIA|Âm tính|Thường âm tính, có thể có ổ nhồi máu vỏ nhỏ|Thường âm tính
-R Chuỗi xung nhạy từ|Không có dấu ấn đặc hiệu|Không có dấu ấn đặc hiệu|Vi xuất huyết thuỳ, nhiễm sắt vỏ não, xuất huyết dưới nhện vỏ khu trú|Có thể thấy tổn thương cấu trúc gây cơn
+H Đặc điểm|TIA, đột quỵ nhẹ|Đau nửa đầu tiền triệu|Mạch máu não nhiễm bột|Động kinh, liệt Todd
+R Khởi phát, kiểu lan|Tức thì|Lan dần ≥ 5 phút|Vệt loang, vài chục giây|Bản đồ vỏ, vài giây
+R Tính chất|Âm tính|Dương rồi âm|Thường dương tính|Dương trong cơn, âm sau
+R Phân bố|Một lãnh thổ cấp máu|Ngoài lãnh thổ cấp máu|Vùng vỏ tổn thương|Vùng vỏ khởi phát
+R Thời gian|Phút đến giờ|Tiền triệu 5–60 phút|Vài phút, hiếm quá 30 phút|Cơn vài phút; Todd 24–48 giờ
+R Tái diễn|Đơn độc, khác hình thái|Rập khuôn, nhiều năm|Rập khuôn, dồn vài ngày–vài tuần|Rập khuôn, tần suất thay đổi
+R Kèm theo|Hiếm đau đầu|Đau đầu 4–72 giờ, sợ sáng/tiếng|Giảm trí nhớ, xuất huyết thuỳ cũ|Cắn lưỡi, mất tự chủ, lú lẫn
+R Khuếch tán|Dương tính 1/3–1/2 số ca|Âm tính|Thường âm, có thể nhồi máu nhỏ|Thường âm tính
+R Nhạy từ|Không đặc hiệu|Không đặc hiệu|Vi xuất huyết thuỳ, nhiễm sắt vỏ, xuất huyết dưới nhện|Có thể tổn thương cấu trúc
 ENDTABLE
 H3 2.6.5. Nguyên nhân chuyển hoá, tim mạch, tiền đình và tâm lý
-P Hạ đường huyết là bệnh cảnh giả chuyển hoá quan trọng nhất: gây được thiếu sót khu trú thật, hồi phục hoàn toàn sau khi điều chỉnh, để lại tổn thương vĩnh viễn nếu bị bỏ qua. Đo glucose mao mạch là bắt buộc ở mọi triệu chứng thần kinh thoáng qua (xem Mục 2.4.6.1); các rối loạn chuyển hoá khác chỉ tạo bệnh cảnh lú lẫn cấp.
-P Ngất do rối loạn nhịp, hẹp van động mạch chủ hay hạ huyết áp tư thế gây triệu chứng lan toả chứ không gây thiếu sót khu trú; ngất đơn thuần không phải TIA, song vẫn cần điện tâm đồ mười hai chuyển đạo và theo dõi nhịp (xem Mục 2.4.1) [6,23]. HINTS chỉ kiểm định cho hội chứng tiền đình cấp (xem Mục 2.1.5.4); cắt lớp vi tính không cản quang không dùng để loại trừ đột quỵ [73].
+P Hạ đường huyết là bệnh cảnh giả chuyển hoá quan trọng nhất: thiếu sót khu trú thật, hồi phục sau điều chỉnh, tổn thương vĩnh viễn nếu bỏ qua. Đo glucose mao mạch bắt buộc ở mọi triệu chứng thoáng qua (xem Mục 2.4.6.1); rối loạn chuyển hoá khác chỉ gây lú lẫn cấp.
+P Ngất (rối loạn nhịp, hẹp van động mạch chủ, hạ huyết áp tư thế) gây triệu chứng lan toả, không khu trú: không phải TIA, song vẫn cần điện tâm đồ mười hai chuyển đạo và theo dõi nhịp (xem Mục 2.4.1) [6,23]. HINTS chỉ kiểm định trong hội chứng tiền đình cấp (xem Mục 2.1.5.4); cắt lớp không cản quang không loại trừ đột quỵ [73].
 H3 2.6.6. Quên toàn bộ thoáng qua
-P Tiêu chuẩn gồm cơn được chứng kiến, rối loạn trí nhớ thuận chiều nổi bật với việc hỏi đi hỏi lại, không rối loạn ý thức, không dấu hiệu thần kinh khu trú, hồi phục hoàn toàn trong vòng 24 giờ. Tuổi thường gặp 50–70; cơn hay khởi phát sau kích thích thể chất hoặc cảm xúc mạnh hoặc nghiệm pháp Valsalva [23].
-P Ổ tăng tín hiệu vài milimét ở vùng CA1 hồi hải mã trên chuỗi xung khuếch tán thường chỉ rõ sau 24–72 giờ và không dùng để đổi chẩn đoán sang đột quỵ. Tiên lượng lành tính, không kéo theo nguy cơ đột quỵ sớm như sau một TIA thật [23]; cần chủ động loại trừ quên do động kinh và nhồi máu tuần hoàn sau.
+P Tiêu chuẩn: cơn được chứng kiến, rối loạn trí nhớ thuận chiều với hỏi đi hỏi lại, không rối loạn ý thức, không dấu hiệu khu trú, hồi phục trong 24 giờ. Tuổi thường gặp 50–70; khởi phát sau kích thích thể chất, cảm xúc mạnh hoặc Valsalva [23].
+P Ổ tăng tín hiệu vài milimét ở CA1 hồi hải mã trên khuếch tán chỉ rõ sau 24–72 giờ, không đổi chẩn đoán sang đột quỵ. Tiên lượng lành tính, không kèm nguy cơ đột quỵ sớm như TIA thật [23]; cần loại trừ quên do động kinh và nhồi máu tuần hoàn sau.
 H3 2.6.7. Nguyên tắc phân biệt và bệnh cảnh đột quỵ bị bỏ sót
 H4 2.6.7.1. Năm trục phân biệt và bộ khảo sát tối thiểu
-P Năm trục hỏi bệnh: tốc độ khởi phát và kiểu lan; tính dương hay âm của triệu chứng; mức phù hợp với một lãnh thổ cấp máu; kiểu tái diễn — đơn độc, dồn vài ngày hay lặp lại nhiều năm; và bối cảnh mạch máu [6,22,23]. Quy tắc là cộng dồn chứ không loại trừ. Bộ khảo sát tối thiểu gồm khám thần kinh, glucose mao mạch, điện tâm đồ mười hai chuyển đạo và cộng hưởng từ đủ chuỗi khuếch tán, FLAIR và nhạy từ (xem Mục 2.3.2.2).
+P Năm trục hỏi bệnh: tốc độ và kiểu lan; dương hay âm; lãnh thổ cấp máu; kiểu tái diễn; bối cảnh mạch máu [6,22,23]. Cộng dồn, không loại trừ. Bộ khảo sát tối thiểu: khám thần kinh, glucose mao mạch, điện tâm đồ mười hai chuyển đạo, cộng hưởng từ đủ khuếch tán, FLAIR, nhạy từ (xem Mục 2.3.2.2).
 H4 2.6.7.2. Bệnh cảnh đột quỵ bị bỏ sót và hệ quả tổ chức
-P Chiều sai ngược lại tập trung ở tuần hoàn sau (chóng mặt đơn độc, nhìn đôi, nuốt khó), nơi cộng hưởng từ chụp rất sớm dễ âm tính giả (xem Mục 2.3.1.1); ở bán manh đơn độc; và ở người bệnh trẻ có bóc tách động mạch [22,23,73]. Bỏ sót phần lớn do không đặt câu hỏi; một tỷ lệ đáng kể đột quỵ thiếu máu não nhẹ vẫn diễn tiến xấu trong 72 giờ đầu (xem Mục 1.2.4) [183]. Rút ngắn thời gian được chuyên khoa đánh giá [12,20], chuẩn hoá bảng kiểm và ghi rõ chẩn đoán thay thế làm giảm cả hai chiều sai, như ở phòng khám một cửa (xem Mục 1.5.2) [24,56].
+P Chiều ngược lại: tuần hoàn sau (chóng mặt đơn độc, nhìn đôi, nuốt khó), nơi cộng hưởng từ rất sớm dễ âm tính giả (xem Mục 2.3.1.1); bán manh đơn độc; người trẻ bóc tách động mạch [22,23,73]. Bỏ sót do không đặt câu hỏi; nhiều ca đột quỵ nhẹ diễn tiến xấu trong 72 giờ đầu (xem Mục 1.2.4) [183]. Rút ngắn chờ chuyên khoa [12,20], chuẩn hoá bảng kiểm và ghi rõ chẩn đoán thay thế giảm cả hai chiều sai (xem Mục 1.5.2) [24,56].

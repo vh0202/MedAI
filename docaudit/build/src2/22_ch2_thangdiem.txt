@@ -1,54 +1,54 @@
 H2 2.2. Thang điểm phân tầng nguy cơ
-P Thang điểm phân tầng nguy cơ trả lời câu hỏi tiên lượng: sau cơn thiếu máu não thoáng qua (TIA), ai có nguy cơ đột quỵ cao nhất trong vài ngày tới. Chúng ước lượng xác suất trên quần thể, không xác lập chẩn đoán và không thay thế phán đoán về cơ chế [9,12]. Qua ba thế hệ, mỗi lần thang điểm thêm thông tin về cơ chế thì khả năng phân biệt tăng nhưng phạm vi sử dụng thu hẹp lại [9,10,58].
+P Thang điểm phân tầng ước lượng xác suất đột quỵ những ngày sau cơn thiếu máu não thoáng qua (TIA) trên quần thể, không chẩn đoán và không thay phán đoán cơ chế [9,12]. Qua ba thế hệ, thêm thông tin cơ chế thì phân biệt tốt hơn nhưng phạm vi dùng hẹp hơn [9,10,58].
 H3 2.2.1. Thang điểm ABCD2
-P ABCD2 hợp nhất thang điểm California [1] và ABCD của Rothwell [55]. Johnston và cộng sự thẩm định hai thang điểm trên 2.893 người bệnh (chỉ số c 0,60–0,81), rồi hồi quy từ 1.916 người của hai thuần tập gốc ra thang điểm hợp nhất tối ưu cho mốc 2 ngày (chỉ số c 0,62–0,83) [9]. Năm biến số cho tổng điểm 0–7, thu thập tại giường; liệt một bên và thời gian từ 60 phút trở lên mang trọng số gấp đôi (Bảng 2.4 và Hình 2.1) [9,55].
+P ABCD2 hợp nhất thang điểm California [1] và ABCD của Rothwell [55]. Johnston thẩm định hai thang trên 2.893 người bệnh (chỉ số c 0,60–0,81), rồi hồi quy 1.916 người ra thang tối ưu cho mốc 2 ngày (chỉ số c 0,62–0,83) [9]. Năm biến tại giường, tổng 0–7; liệt một bên và ≥ 60 phút có trọng số đôi (Bảng 2.4, Hình 2.1) [9,55].
 TABLE Bảng 2.4. Cấu phần thang điểm ABCD2 [9,55].
 COLW 1.1,2.0,0.6
 ALIGN l,j,c
-FSIZE 11
+FSIZE 10.5
 H Thành phần|Tiêu chí|Điểm
-R A — Tuổi|Từ 60 tuổi trở lên / dưới 60 tuổi|1 / 0
-R B — Huyết áp|Tâm thu từ 140 mmHg trở lên hoặc tâm trương từ 90 mmHg trở lên lúc đánh giá / dưới ngưỡng đó|1 / 0
-R C — Biểu hiện lâm sàng|Liệt một bên / rối loạn ngôn ngữ không kèm liệt / mọi biểu hiện khác|2 / 1 / 0
-R D — Thời gian triệu chứng|Từ 60 phút trở lên / 10–59 phút / dưới 10 phút|2 / 1 / 0
-R D — Đái tháo đường|Có / không|1 / 0
-R Tổng điểm|Khoảng giá trị của thang điểm|0–7
+R A — Tuổi|≥ 60 / < 60|1/0
+R B — Huyết áp|≥ 140/90 mmHg / dưới|1/0
+R C — Lâm sàng|Liệt một bên / rối loạn ngôn ngữ / khác|2/1/0
+R D — Thời gian|≥ 60 / 10–59 / < 10 phút|2/1/0
+R D — Đái tháo đường|Có/không|1/0
+R Tổng điểm|—|0–7
 ENDTABLE
 FIG image3.jpg | 14.5 | Hình 2.1. Năm cấu phần của thang điểm ABCD2 và số điểm tương ứng [9].
-P Trên 4.809 người bệnh, 1.628 người (34%) có 0–3 điểm, 2.169 người (45%) có 4–5 điểm và 1.012 người (21%) có 6–7 điểm, nguy cơ đột quỵ 2 ngày lần lượt 1,0%, 4,1% và 8,1%, phải đọc kèm nhãn thời gian đúng (Bảng 2.5) [9]. Thẩm định độc lập trên 148 người bệnh nhập viện cho chỉ số c 0,72 (KTC 95% 0,57–0,88) ở 7 ngày và 0,75 (KTC 95% 0,65–0,86) ở 90 ngày [57]; còn ở dòng người bệnh chưa chọn lọc tại khoa cấp cứu, chỉ số c chỉ còn 0,60 [58] — kém nhất đúng ở bối cảnh nó phục vụ.
+P Trên 4.809 người bệnh: 1.628 (34%) 0–3 điểm, 2.169 (45%) 4–5 điểm, 1.012 (21%) 6–7 điểm; nguy cơ 2 ngày 1,0%, 4,1% và 8,1% (Bảng 2.5) [9]. Thẩm định độc lập 148 người bệnh nội trú: chỉ số c 0,72 (KTC 95% 0,57–0,88) ở 7 ngày, 0,75 (KTC 95% 0,65–0,86) ở 90 ngày [57]; ở người bệnh chưa chọn lọc tại khoa cấp cứu chỉ còn 0,60 [58].
 TABLE Bảng 2.5. Nguy cơ đột quỵ theo phân tầng ABCD2 ở các mốc 2 ngày, 7 ngày và 90 ngày [9].
 COLW 1.4,0.9,0.9,0.9
 ALIGN l,c,c,c
-FSIZE 11
-H Phân tầng theo tổng điểm|Nguy cơ 2 ngày|Nguy cơ 7 ngày|Nguy cơ 90 ngày
-R Nguy cơ thấp (0–3 điểm)|1,0%|1,2%|3,1%
-R Nguy cơ trung bình (4–5 điểm)|4,1%|5,9%|9,8%
-R Nguy cơ cao (6–7 điểm)|8,1%|11,7%|17,8%
+FSIZE 10.5
+H Tầng điểm|2 ngày|7 ngày|90 ngày
+R Thấp 0–3|1,0%|1,2%|3,1%
+R Trung bình 4–5|4,1%|5,9%|9,8%
+R Cao 6–7|8,1%|11,7%|17,8%
 ENDTABLE
 H3 2.2.2. Thang điểm ABCD3 và ABCD3-I
-P Merwick và cộng sự bổ sung những biến số ABCD2 bỏ trống, trên 3.886 người bệnh TIA tại tuyến chuyên khoa (2.654 dẫn xuất, 1.232 thẩm định). Cơn TIA kép — ít nhất một cơn khác trong 7 ngày trước biến cố chỉ điểm — được 2 điểm, tạo thành ABCD3 khoảng 0–9; cộng thêm hẹp động mạch cảnh trong cùng bên từ 50% trở lên và tổn thương cấp trên chuỗi xung khuếch tán, mỗi biến số 2 điểm, thành ABCD3-I khoảng 0–13 (Bảng 2.6) [10].
+P Merwick bổ sung biến ABCD2 bỏ trống trên 3.886 người bệnh TIA chuyên khoa (2.654 dẫn xuất, 1.232 thẩm định): cơn TIA kép — thêm cơn trong 7 ngày trước biến cố chỉ điểm — 2 điểm, thành ABCD3 0–9; cộng hẹp cảnh trong cùng bên ≥ 50% và tổn thương cấp trên xung khuếch tán, mỗi biến 2 điểm, thành ABCD3-I 0–13 (Bảng 2.6) [10].
 TABLE Bảng 2.6. Thang điểm ABCD3-I và hai trục bổ sung so với ABCD2 [10].
 COLW 1.2,2.0,0.6
 ALIGN l,j,c
 FSIZE 10.5
 H Thành phần|Tiêu chí|Điểm
-R A — Tuổi|Từ 60 tuổi trở lên / dưới 60 tuổi|1 / 0
-R B — Huyết áp|Từ 140/90 mmHg trở lên / dưới ngưỡng đó|1 / 0
-R C — Biểu hiện lâm sàng|Liệt một bên / rối loạn ngôn ngữ không kèm liệt / biểu hiện khác|2 / 1 / 0
-R D — Thời gian triệu chứng|Từ 60 phút trở lên / 10–59 phút / dưới 10 phút|2 / 1 / 0
-R D — Đái tháo đường|Có / không|1 / 0
-R Trục bổ sung 1 — Cơn TIA kép|Có ít nhất một cơn TIA khác trong 7 ngày trước biến cố chỉ điểm / không có|2 / 0
-R Trục bổ sung 2 — Hình ảnh mạch máu|Hẹp động mạch cảnh trong cùng bên từ 50% trở lên trên hình ảnh động mạch cảnh / không|2 / 0
-R Trục bổ sung 2 — Hình ảnh não|Có tổn thương cấp trên chuỗi xung khuếch tán / không có|2 / 0
-R Tổng điểm ABCD3|Năm cấu phần ABCD2 cộng trục cơn TIA kép|0–9
-R Tổng điểm ABCD3-I|ABCD3 cộng hai biến số hình ảnh|0–13
+R A — Tuổi|≥ 60 / < 60|1/0
+R B — Huyết áp|≥ 140/90 mmHg / dưới|1/0
+R C — Lâm sàng|Liệt một bên / rối loạn ngôn ngữ / khác|2/1/0
+R D — Thời gian|≥ 60 / 10–59 / < 10 phút|2/1/0
+R D — Đái tháo đường|Có/không|1/0
+R Cơn TIA kép|Cơn khác trong 7 ngày trước|2/0
+R Hình ảnh mạch|Hẹp cảnh trong cùng bên ≥ 50%|2/0
+R Hình ảnh não|Tổn thương cấp trên xung khuếch tán|2/0
+R Tổng ABCD3|ABCD2 + TIA kép|0–9
+R Tổng ABCD3-I|ABCD3 + hai biến hình ảnh|0–13
 ENDTABLE
-P Trong mẫu dẫn xuất, chỉ số c của ABCD3 là 0,78; 0,80; 0,79 và 0,77 ở các mốc 2, 7, 28 và 90 ngày, so với 0,71; 0,71; 0,71 và 0,69 của ABCD2, còn ABCD3-I đạt 0,90; 0,92; 0,85 và 0,79; cải thiện tái phân loại thuần ở mốc 90 ngày là 29,1% và 39,4% [10]. Trong mẫu thẩm định độc lập, riêng ABCD3 không hơn ABCD2; ưu thế nằm ở hai biến số hình ảnh, vốn tự chúng đã đủ đổi hướng xử trí (xem Mục 2.3.1).
+P Mẫu dẫn xuất: chỉ số c ABCD3 0,78; 0,80; 0,79 và 0,77 ở 2, 7, 28 và 90 ngày, so với 0,71; 0,71; 0,71 và 0,69 của ABCD2; ABCD3-I đạt 0,90; 0,92; 0,85 và 0,79, tái phân loại thuần cải thiện 29,1% và 39,4% ở 90 ngày [10]. Mẫu thẩm định: ABCD3 không hơn ABCD2; ưu thế ở hai biến hình ảnh, vốn đủ đổi hướng xử trí (xem Mục 2.3.1).
 H3 2.2.3. Thang điểm TIA Canada
-P Thang điểm TIA Canada tổng hợp 13 biến số từ bệnh sử, khám thực thể và cận lâm sàng hoàn tất tại khoa cấp cứu, cho phép giá trị âm với khoảng −3 đến 23; ba tầng nguy cơ là −3 đến 3, 4 đến 8 và từ 9 điểm trở lên. Vì đòi hỏi điện tâm đồ và xét nghiệm, đây là công cụ của thời điểm kết thúc khảo sát chứ không phải công cụ phân loại tại cửa tiếp nhận [58].
-P Thẩm định tiến cứu tuyển liên tiếp 7.607 người bệnh TIA hoặc đột quỵ thiếu máu não nhẹ tại 13 khoa cấp cứu ở Canada, từ tháng 10 năm 2012 đến tháng 5 năm 2017. Kết cục chính gộp gồm đột quỵ hoặc tái thông động mạch cảnh trong 7 ngày xảy ra ở 183 người bệnh (2,4%); khả năng phân biệt đạt 0,70 (KTC 95% 0,66–0,73), so với 0,60 (KTC 95% 0,55–0,64) của ABCD2 và 0,64 (KTC 95% 0,59–0,68) của ABCD2i, nguy cơ quan sát 0,5% ở 1.242 người tầng thấp, 2,3% ở 5.484 người tầng trung bình và 5,9% ở 881 người tầng cao [58].
+P Thang điểm TIA Canada gộp 13 biến bệnh sử, khám và cận lâm sàng tại khoa cấp cứu; thang −3 đến 23, ba tầng −3 đến 3, 4 đến 8, ≥ 9 điểm. Vì cần điện tâm đồ và xét nghiệm, đây là công cụ cuối khảo sát, không phải để phân loại ở cửa tiếp nhận [58].
+P Thẩm định tiến cứu 7.607 người bệnh TIA hoặc đột quỵ thiếu máu não nhẹ tại 13 khoa cấp cứu Canada, từ tháng 10 năm 2012 đến tháng 5 năm 2017. Kết cục chính (đột quỵ hoặc tái thông cảnh trong 7 ngày) gặp ở 183 người (2,4%); chỉ số c 0,70 (KTC 95% 0,66–0,73) so với 0,60 (KTC 95% 0,55–0,64) của ABCD2 và 0,64 (KTC 95% 0,59–0,68) của ABCD2i; nguy cơ 0,5% ở 1.242 tầng thấp, 2,3% ở 5.484 tầng trung bình, 5,9% ở 881 tầng cao [58].
 H3 2.2.4. Giới hạn của thang điểm phân tầng
 H4 2.2.4.1. Không dùng đơn độc để phân luồng
-P Tổ chức Đột quỵ châu Âu năm 2021 khuyến cáo không dùng ABCD2 đơn độc để phân luồng người nghi TIA vì độ nhạy hạn chế: nhóm từ 3 điểm trở xuống vẫn có nhiều người cần điều trị sớm [12]; Hiệp hội Tim mạch Hoa Kỳ năm 2023 chỉ xem nó là một thành phần của quy trình toàn diện [13]. Người 58 tuổi, huyết áp 130/80 mmHg, rối loạn ngôn ngữ 20 phút vẫn đúng 2 điểm dù hẹp 90% động mạch cảnh cùng bên hay rung nhĩ (xem Mục 2.4). Ngưỡng từ 4 điểm trở lên chỉ là nhãn tuyển chọn [5].
+P Tổ chức Đột quỵ châu Âu 2021 khuyến cáo không dùng ABCD2 đơn độc để phân luồng vì độ nhạy thấp: nhóm ≤ 3 điểm vẫn nhiều người cần điều trị sớm [12]; Hiệp hội Tim mạch Hoa Kỳ 2023 chỉ xem đây là một phần của quy trình toàn diện [13]. Người 58 tuổi, huyết áp 130/80 mmHg, rối loạn ngôn ngữ 20 phút vẫn 2 điểm dù hẹp 90% cảnh cùng bên hay rung nhĩ (Mục 2.4); ngưỡng ≥ 4 điểm chỉ là nhãn tuyển chọn [5].
 H4 2.2.4.2. Điểm mù ở tuần hoàn sau
-P Mục biểu hiện lâm sàng chỉ cho điểm liệt một bên (2 điểm) và rối loạn ngôn ngữ không kèm liệt (1 điểm) [9], nên phổ triệu chứng hệ đốt sống – thân nền rơi hết vào ô 0 điểm: người 55 tuổi chóng mặt 30 phút kèm thất điều và song thị chỉ được 1 điểm, tức “nguy cơ thấp”. Hướng dẫn GRACE-3 cũng bỏ thang điểm cho hội chứng tiền đình từng đợt tự phát, chỉ chụp mạch cắt lớp vi tính hoặc cộng hưởng từ khi nghi TIA [73]; với hội chứng thoáng qua không cho điểm được, ABCD2 không mang thông tin.
+P Mục lâm sàng chỉ cho điểm liệt một bên (2 điểm) và rối loạn ngôn ngữ đơn thuần (1 điểm) [9], nên triệu chứng hệ đốt sống – thân nền rơi vào ô 0 điểm: người 55 tuổi chóng mặt 30 phút kèm thất điều, song thị chỉ 1 điểm — “nguy cơ thấp”. GRACE-3 bỏ thang điểm với hội chứng tiền đình từng đợt tự phát, chỉ chụp mạch cắt lớp vi tính hoặc cộng hưởng từ khi nghi TIA [73]; ABCD2 không mang thông tin ở nhóm này.

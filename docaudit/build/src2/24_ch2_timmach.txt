@@ -1,69 +1,66 @@
 H2 2.4. Đánh giá tim mạch và xét nghiệm truy tìm nguyên nhân
-P Đánh giá tim mạch sau cơn thiếu máu não thoáng qua (TIA) hoặc đột quỵ thiếu máu não nhẹ là chuỗi khảo sát tuần tự nhằm tìm rung nhĩ chưa được biết, nguồn lấp mạch cấu trúc và bệnh lý hệ thống, qua đó định hướng xếp loại căn nguyên và phòng ngừa thứ phát (xem Mục 2.5 và Mục 3.4) [13,18,37]. Rung nhĩ chiếm khoảng 15–20% nhồi máu não nhưng thường kịch phát và không triệu chứng: theo dõi liên tục 36 tháng trong CRYSTAL-AF cũng chỉ đạt 30% [36,66].
+P Sau cơn thiếu máu não thoáng qua (TIA) hoặc đột quỵ nhẹ, đánh giá tim mạch tuần tự tìm rung nhĩ chưa biết, nguồn lấp mạch cấu trúc và bệnh hệ thống, phục vụ xếp loại căn nguyên và phòng ngừa (Mục 2.5, 3.4) [13,18,37]. Rung nhĩ chiếm 15–20% nhồi máu não nhưng thường kịch phát, không triệu chứng: CRYSTAL-AF 36 tháng cũng chỉ đạt 30% [36,66].
 H3 2.4.1. Điện tâm đồ và theo dõi nhịp ngắn hạn
 H4 2.4.1.1. Điện tâm đồ mười hai chuyển đạo tại thời điểm tiếp nhận
-P Điện tâm đồ mười hai chuyển đạo là khảo sát bắt buộc ngay khi tiếp nhận: ước lượng gộp cho thấy rung nhĩ chưa được biết trước đó xuất hiện ngay ở bản ghi đầu tiên trong 7,7% trường hợp (KTC 95% 5,0–10,8) [18,37]. Bản ghi này còn cho thấy bất thường sóng P và giúp loại trừ bệnh cảnh giả TIA do rối loạn nhịp (xem Mục 2.6).
+P Điện tâm đồ mười hai chuyển đạo bắt buộc ngay khi tiếp nhận; ước lượng gộp cho thấy rung nhĩ chưa biết ở bản ghi đầu trong 7,7% trường hợp (KTC 95% 5,0–10,8) [18,37], đồng thời bộc lộ bất thường sóng P và loại trừ giả TIA do rối loạn nhịp (Mục 2.6).
 H4 2.4.1.2. Theo dõi nhịp trong viện và Holter lưu động
-P Khi điện tâm đồ ban đầu âm tính, theo dõi nhịp trong viện hoặc Holter 24–72 giờ phát hiện thêm rung nhĩ ở 5,1% (KTC 95% 3,8–6,5), Holter lưu động sau ra viện đạt 10,7% (KTC 95% 5,6–17,2) [18,37]; các tỷ lệ này không cộng dồn và tăng theo thời lượng theo dõi (Bảng 2.9). Nhánh chứng cũng tăng theo thời gian, từ 1,4% ở 6 tháng lên 3,0% ở 36 tháng, nên hiệu quả thiết bị phải đọc theo chênh lệch hai nhánh.
+P Khi điện tâm đồ ban đầu âm tính, theo dõi nhịp trong viện hoặc Holter 24–72 giờ phát hiện thêm 5,1% (KTC 95% 3,8–6,5), Holter sau ra viện 10,7% (KTC 95% 5,6–17,2) [18,37]; nhánh chứng cũng tăng từ 1,4% (6 tháng) lên 3,0% (36 tháng), nên phải đọc theo chênh lệch hai nhánh (Bảng 2.9).
 TABLE Tỷ lệ phát hiện rung nhĩ theo phương thức và thời lượng theo dõi nhịp [66-69].
 COLW 1.7,0.9,1.2,1.0,0.8
 ALIGN l,c,c,c,c
 FSIZE 10.5
-H Phương thức theo dõi|Thời lượng|Tỷ lệ phát hiện|Tỷ lệ ở nhóm chứng|Nguồn
-R Điện tâm đồ mười hai chuyển đạo lúc tiếp nhận|Một thời điểm|7,7% (KTC 95% 5,0–10,8)|Không có nhóm chứng|Ước lượng gộp
-R Theo dõi nhịp liên tục trong viện|24–72 giờ|5,1% (KTC 95% 3,8–6,5)|Không có nhóm chứng|Ước lượng gộp
-R Holter lưu động sau ra viện|24 giờ – 7 ngày|10,7% (KTC 95% 5,6–17,2)|Không có nhóm chứng|Ước lượng gộp
-R Máy ghi biến cố ngoài cơ thể, ngưỡng ≥ 30 giây|30 ngày|16,1%|3,2%|EMBRACE
-R Máy ghi biến cố ngoài cơ thể, ngưỡng ≥ 2,5 phút|30 ngày|9,9%|2,5%|EMBRACE
-R Máy ghi nhịp cấy dưới da|6 tháng|8,9%|1,4%|CRYSTAL-AF
-R Máy ghi nhịp cấy dưới da|12 tháng|12,4%|2,0%|CRYSTAL-AF
-R Máy ghi nhịp cấy dưới da|36 tháng|30,0%|3,0%|CRYSTAL-AF
-R Máy ghi nhịp cấy dưới da sau nhồi máu do xơ vữa lớn hoặc mạch nhỏ|12 tháng|12,1%|1,8%|STROKE-AF
+H Phương thức|Thời lượng|Phát hiện|Nhóm chứng|Nguồn
+R Điện tâm đồ 12 chuyển đạo|Một thời điểm|7,7% (KTC 95% 5,0–10,8)|Không có|Gộp
+R Theo dõi trong viện|24–72 giờ|5,1% (KTC 95% 3,8–6,5)|Không có|Gộp
+R Holter sau ra viện|24 giờ – 7 ngày|10,7% (KTC 95% 5,6–17,2)|Không có|Gộp
+R Máy ghi biến cố, ≥ 30 giây|30 ngày|16,1%|3,2%|EMBRACE
+R Máy ghi biến cố, ≥ 2,5 phút|30 ngày|9,9%|2,5%|EMBRACE
+R Máy cấy dưới da|6 tháng|8,9%|1,4%|CRYSTAL-AF
+R Máy cấy dưới da|12 tháng|12,4%|2,0%|CRYSTAL-AF
+R Máy cấy dưới da|36 tháng|30,0%|3,0%|CRYSTAL-AF
+R Máy cấy, xơ vữa lớn/mạch nhỏ|12 tháng|12,1%|1,8%|STROKE-AF
 ENDTABLE
 H3 2.4.2. Theo dõi nhịp kéo dài
 H4 2.4.2.1. Máy ghi biến cố ngoài cơ thể
-P EMBRACE tuyển 572 người bệnh từ 55 tuổi trở lên, đột quỵ thiếu máu não hoặc TIA chưa rõ nguyên nhân, ngẫu nhiên vào máy ghi biến cố ngoài cơ thể 30 ngày so với Holter 24 giờ; kết cục chính là rung nhĩ từ 30 giây trở lên trong 90 ngày: 16,1% (45/280) so với 3,2% (9/277), chênh lệch 12,9 điểm phần trăm (KTC 95% 8,0–17,6), p < 0,001; không có biến cố nặng liên quan thiết bị [67]. Thời lượng theo dõi nên chọn theo xác suất trước xét nghiệm, theo chiến lược bậc thang [37,131].
+P EMBRACE ngẫu nhiên hoá 572 người bệnh ≥ 55 tuổi, đột quỵ hoặc TIA chưa rõ nguyên nhân, vào máy ghi biến cố ngoài cơ thể 30 ngày hoặc Holter 24 giờ: rung nhĩ ≥ 30 giây trong 90 ngày 16,1% (45/280) so với 3,2% (9/277), chênh lệch 12,9 điểm phần trăm (KTC 95% 8,0–17,6), p < 0,001 [67]; thời lượng chọn bậc thang theo xác suất trước xét nghiệm [37,131].
 H4 2.4.2.2. Máy ghi nhịp cấy dưới da
-P CRYSTAL-AF tuyển 441 người bệnh có đột quỵ chưa rõ nguyên nhân, từ 40 tuổi trở lên, ngẫu nhiên vào máy ghi nhịp cấy dưới da so với theo dõi thường quy; kết cục chính là rung nhĩ trên 30 giây: 8,9% so với 1,4% ở 6 tháng, HR 6,4 (KTC 95% 1,9–21,7), p < 0,001; 12,4% so với 2,0% ở 12 tháng, HR 7,3 (KTC 95% 2,6–20,8); 30,0% so với 3,0% ở 36 tháng, HR 8,8 (KTC 95% 3,5–22,2), biến cố chỉ nhẹ tại chỗ cấy [66]. STROKE-AF ngẫu nhiên hoá 492 người bệnh nhồi máu do xơ vữa lớn hoặc mạch nhỏ: rung nhĩ trên 30 giây trong 12 tháng 12,1% so với 1,8%, HR 7,4 (KTC 95% 2,6–21,3), p < 0,001 [68], nên rung nhĩ có thể đồng tồn tại với căn nguyên khác (xem Mục 2.5). Máy cấy đặt dưới da thành ngực trái (Hình 2.4) [69].
+P CRYSTAL-AF ngẫu nhiên hoá 441 người bệnh ≥ 40 tuổi, đột quỵ chưa rõ nguyên nhân, vào máy cấy dưới da hoặc theo dõi thường quy: rung nhĩ trên 30 giây 8,9% so với 1,4% (6 tháng; HR 6,4; KTC 95% 1,9–21,7; p < 0,001), 12,4% so với 2,0% (12 tháng; HR 7,3; KTC 95% 2,6–20,8), 30,0% so với 3,0% (36 tháng; HR 8,8; KTC 95% 3,5–22,2) [66]. STROKE-AF trên 492 người nhồi máu xơ vữa lớn hoặc mạch nhỏ: rung nhĩ trên 30 giây 12,1% so với 1,8% ở 12 tháng (HR 7,4; KTC 95% 2,6–21,3; p < 0,001) [68], rung nhĩ có thể đồng tồn tại với căn nguyên khác (Mục 2.5); vị trí cấy xem Hình 2.4 [69].
 FIG image6.jpg | 11.0 | Vị trí cấy máy ghi nhịp dưới da ở thành ngực trái, hướng chếch trên vùng liên sườn bốn (A) và hướng dọc cạnh bờ trái xương ức (B) [66,69].
 H3 2.4.3. Rung nhĩ phát hiện bằng thiết bị và ngưỡng gánh nặng rung nhĩ
 H4 2.4.3.1. Hai thử nghiệm ngẫu nhiên xác định ý nghĩa của rung nhĩ dưới lâm sàng
-P Rung nhĩ phát hiện bằng thiết bị là các cơn ngắn, không triệu chứng, gánh nặng thấp hơn rung nhĩ lâm sàng. ARTESiA tuyển 4.012 người bệnh có rung nhĩ dưới lâm sàng 6 phút đến 24 giờ, ngẫu nhiên vào apixaban 5 mg hai lần mỗi ngày so với aspirin 81 mg mỗi ngày, theo dõi trung bình 3,5 năm: đột quỵ hoặc thuyên tắc hệ thống 0,78% so với 1,24% mỗi người-năm, HR 0,63 (KTC 95% 0,45–0,88), p = 0,007; chảy máu nặng 1,71% so với 0,94% mỗi người-năm, HR 1,80 (KTC 95% 1,26–2,57), p = 0,001 [155].
-P NOAH-AFNET 6 ngẫu nhiên hoá 2.536 người bệnh có cơn nhịp nhĩ nhanh từ 6 phút trở lên vào edoxaban hoặc giả dược, theo dõi trung vị 21 tháng: kết cục chính gộp tử vong tim mạch, đột quỵ hoặc thuyên tắc hệ thống 3,2% so với 4,0% mỗi người-năm, HR 0,81 (KTC 95% 0,60–1,08), p = 0,15; kết cục an toàn gộp tử vong hoặc chảy máu nặng 5,9% so với 4,5% mỗi người-năm, HR 1,31 (KTC 95% 1,02–1,67), p = 0,03 [156]. Vì nguy cơ nền thấp, Hội Tim mạch châu Âu năm 2024 tách riêng thực thể này trong khung CHA_{2}DS_{2}-VA [131].
+P ARTESiA ngẫu nhiên hoá 4.012 người bệnh rung nhĩ dưới lâm sàng 6 phút đến 24 giờ vào apixaban 5 mg hai lần/ngày so với aspirin 81 mg/ngày, theo dõi 3,5 năm: đột quỵ hoặc thuyên tắc hệ thống 0,78% so với 1,24% mỗi người-năm (HR 0,63; KTC 95% 0,45–0,88; p = 0,007), chảy máu nặng 1,71% so với 0,94% (HR 1,80; KTC 95% 1,26–2,57; p = 0,001) [155].
+P NOAH-AFNET 6 ngẫu nhiên hoá 2.536 người bệnh có cơn nhịp nhĩ nhanh ≥ 6 phút vào edoxaban hoặc giả dược, trung vị 21 tháng: tử vong tim mạch, đột quỵ hoặc thuyên tắc hệ thống 3,2% so với 4,0% mỗi người-năm (HR 0,81; KTC 95% 0,60–1,08; p = 0,15), tử vong hoặc chảy máu nặng 5,9% so với 4,5% (HR 1,31; KTC 95% 1,02–1,67; p = 0,03) [156]. Nguy cơ nền thấp khiến Hội Tim mạch châu Âu 2024 xếp riêng thực thể này trong khung CHA_{2}DS_{2}-VA [131].
 H4 2.4.3.2. Phân nhóm có tiền sử đột quỵ hoặc cơn thiếu máu não thoáng qua
-P Phân tích gộp riêng cho người có tiền sử đột quỵ hoặc TIA kèm rung nhĩ phát hiện bằng thiết bị cho thấy nguy cơ tái phát hằng năm cao hơn rõ rệt, hiệu quả tương đối của kháng đông vẫn nhất quán, khoảng tin cậy rộng do cỡ mẫu nhỏ [157]. Truy tìm rung nhĩ ở nhóm này vì thế có cơ sở vững hơn sàng lọc cộng đồng (xem Mục 1.4.5).
+P Ở người tiền sử đột quỵ hoặc TIA kèm rung nhĩ phát hiện bằng thiết bị, nguy cơ tái phát cao hơn rõ rệt và hiệu quả kháng đông nhất quán, nên truy tìm ở nhóm này vững hơn sàng lọc cộng đồng [157] (Mục 1.4.5).
 H3 2.4.4. Siêu âm tim và khảo sát luồng thông phải – trái
 H4 2.4.4.1. Siêu âm tim qua thành ngực và qua thực quản
-P Siêu âm tim qua thành ngực tìm huyết khối buồng tim, bệnh van tim và đo chỉ số đường kính nhĩ trái; siêu âm tim qua thực quản nhạy hơn với tiểu nhĩ trái và mảng xơ vữa cung động mạch chủ từ 4 mm trở lên nhưng bán xâm lấn, nên phải xuất phát từ một giả thuyết cụ thể [18,37]. Chỉ nguồn lấp mạch nguy cơ cao — rung nhĩ, hẹp van hai lá, van cơ học, huyết khối thất trái, phân suất tống máu dưới 30%, viêm nội tâm mạc — mới loại trừ đột quỵ lấp mạch chưa rõ nguồn [35-37].
+P Siêu âm tim qua thành ngực tìm huyết khối buồng tim, bệnh van tim, chỉ số đường kính nhĩ trái; qua thực quản nhạy hơn với tiểu nhĩ trái và mảng xơ vữa cung động mạch chủ ≥ 4 mm nhưng bán xâm lấn, cần giả thuyết cụ thể [18,37]. Nguồn nguy cơ cao — rung nhĩ, hẹp van hai lá, van cơ học, huyết khối thất trái, phân suất tống máu dưới 30%, viêm nội tâm mạc — loại trừ chẩn đoán đột quỵ lấp mạch chưa rõ nguồn [35-37].
 H4 2.4.4.2. Khảo sát luồng thông phải – trái
-P Doppler xuyên sọ có cản âm nhạy nhất để khẳng định có luồng thông nhưng không phân biệt luồng thông trong tim với luồng thông động – tĩnh mạch phổi; siêu âm tim qua thực quản có cản âm mô tả đường hầm lỗ bầu dục và phình vách liên nhĩ. Nghiệm pháp Valsalva chuẩn hoá là bắt buộc để tránh âm tính giả [70,126]. Phát hiện lỗ bầu dục thông không đồng nghĩa với quan hệ nhân quả (xem Mục 4.2).
+P Doppler xuyên sọ có cản âm nhạy nhất nhưng không phân biệt luồng thông trong tim với động – tĩnh mạch phổi; siêu âm qua thực quản mô tả đường hầm lỗ bầu dục, phình vách liên nhĩ, cần Valsalva chuẩn hoá tránh âm tính giả [70,126]. Lỗ bầu dục thông không đồng nghĩa nhân quả (Mục 4.2).
 H3 2.4.5. Bệnh cơ nhĩ và dấu ấn sinh học
 H4 2.4.5.1. Khái niệm và ba tiêu chí thao tác
-P Bệnh cơ nhĩ là giả thuyết cho rằng nhĩ trái xơ hoá và giãn có thể sinh huyết khối trước khi rung nhĩ xuất hiện. Bộ tiêu chí thao tác duy nhất được kiểm chứng tiến cứu là của ARCADIA: lực tận sóng P ở V1 trên 5.000 µV·ms, NT-proBNP trên 250 pg/mL, hoặc chỉ số đường kính nhĩ trái từ 3 cm/m^{2} trở lên [38].
+P Bệnh cơ nhĩ giả định nhĩ trái xơ hoá, giãn sinh huyết khối trước khi rung nhĩ xuất hiện; tiêu chí thao tác duy nhất kiểm chứng tiến cứu là của ARCADIA: lực tận sóng P ở V1 trên 5.000 µV·ms, NT-proBNP trên 250 pg/mL, hoặc chỉ số đường kính nhĩ trái ≥ 3 cm/m^{2} [38].
 H4 2.4.5.2. Hiệu năng tiên đoán của các dấu ấn và bài học từ ARCADIA
-P Trong 3.745 người bệnh được sàng lọc bệnh cơ nhĩ, 254 người về sau có rung nhĩ. Mô hình đa biến chỉ còn tuổi với tỷ suất 1,24 mỗi 10 năm (KTC 95% 1,09–1,41), ln(NT-proBNP) 1,88 (KTC 95% 1,67–2,11) và chỉ số đường kính nhĩ trái 1,25 (KTC 95% 1,14–1,37), còn lực tận sóng P rơi khỏi mô hình [160]. ARCADIA vì thế trung tính ở kết cục chính là đột quỵ tái phát: 40 người bệnh mỗi nhánh (4,4% mỗi năm), HR 1,00 (KTC 95% 0,64–1,55), xuất huyết nội sọ có triệu chứng 0 so với 7 [38]; ARCADIA-MRI cũng không thấy khác biệt về nhồi máu não im lặng mới [159].
+P Trong 3.745 người sàng lọc bệnh cơ nhĩ, 254 người về sau có rung nhĩ; đa biến chỉ còn tuổi (tỷ suất 1,24 mỗi 10 năm; KTC 95% 1,09–1,41), ln(NT-proBNP) 1,88 (KTC 95% 1,67–2,11), chỉ số đường kính nhĩ trái 1,25 (KTC 95% 1,14–1,37); lực tận sóng P rơi khỏi mô hình [160]. ARCADIA trung tính ở đột quỵ tái phát: 40 người bệnh mỗi nhánh (4,4% mỗi năm), HR 1,00 (KTC 95% 0,64–1,55), xuất huyết nội sọ có triệu chứng 0 so với 7 [38]; ARCADIA-MRI không khác biệt về nhồi máu não im lặng mới [159].
 H3 2.4.6. Xét nghiệm nền và tầm soát nguyên nhân đặc biệt
 H4 2.4.6.1. Bộ xét nghiệm nền bắt buộc
-P Bộ xét nghiệm nền gồm đường huyết mao mạch đo ngay để loại trừ bệnh cảnh giả, công thức máu toàn phần và đông máu cơ bản để tìm căn nguyên, creatinin cùng mức lọc cầu thận ước tính và bộ lipid để chuẩn bị điều trị [13,18]. Vì nguy cơ tái phát tập trung trong 48 giờ đầu, toàn bộ phải hoàn tất trong vài giờ; các xét nghiệm còn lại theo giả thuyết căn nguyên (Bảng 2.10).
+P Bộ xét nghiệm nền gồm đường huyết mao mạch loại trừ bệnh cảnh giả, công thức máu, đông máu cơ bản, creatinin, mức lọc cầu thận ước tính và bộ lipid [13,18]; nguy cơ tái phát tập trung trong 48 giờ đầu nên phải xong trong vài giờ, phần còn lại chỉ định theo giả thuyết căn nguyên (Bảng 2.10).
 TABLE Xét nghiệm nền và xét nghiệm chỉ định theo giả thuyết căn nguyên [13,18,36,37].
 COLW 1.0,1.7,1.3,1.9
 ALIGN l,l,l,j
 FSIZE 10.5
-H Nhóm|Xét nghiệm|Chỉ định|Lưu ý diễn giải
-R Huyết học|Công thức máu toàn phần|Mọi người bệnh|Đa hồng cầu, tăng tiểu cầu và thiếu máu nặng đều có thể là căn nguyên
-R Đông máu|PT–INR, aPTT|Mọi người bệnh|aPTT kéo dài không giải thích được gợi ý kháng đông lupus
-R Chuyển hoá|Glucose mao mạch, HbA_{1c}|Mọi người bệnh|Hạ đường huyết là bệnh cảnh giả có thể đảo ngược (xem Mục 2.6)
-R Thận – điện giải|Điện giải đồ, creatinin và mức lọc cầu thận ước tính|Mọi người bệnh|Chi phối liều thuốc kháng huyết khối (xem Mục 3.4)
-R Lipid|LDL-C, cholesterol toàn phần và triglycerid|Mọi người bệnh|Không cần nhịn ăn để khởi trị (xem Mục 3.3)
-R Tim|Troponin siêu nhạy|Mọi người bệnh|Tăng nhẹ rất thường gặp; chỉ động học tăng dần mới gợi ý hội chứng vành cấp
-R Nhĩ trái|NT-proBNP|Nhồi máu lấp mạch chưa rõ nguồn|Ngưỡng bệnh cơ nhĩ trên 250 pg/mL; tăng theo tuổi, suy tim và suy thận
-R Viêm|CRP, tốc độ máu lắng|Nghi viêm mạch hoặc viêm nội tâm mạc|Giá trị bình thường không loại trừ viêm mạch thần kinh trung ương
-R Miễn dịch|Kháng đông lupus, kháng cardiolipin, kháng β_{2}-glycoprotein I|Người trẻ, huyết khối tái diễn, sảy thai liên tiếp|Phải dương tính dai dẳng sau ít nhất 12 tuần; thuốc kháng đông gây dương tính giả
-R Tăng đông di truyền|Protein C, protein S, antithrombin|Huyết khối tĩnh mạch kèm luồng thông phải – trái|Giảm giả tạo ở giai đoạn cấp và khi đang dùng kháng đông
-R Ung thư|D-dimer|Nhồi máu nhiều ổ ở nhiều vùng cấp máu|Tăng rất cao gợi ý tăng đông liên quan ung thư; tăng sinh lý trong thai kỳ
-R Nội tiết|TSH và FT4|Rung nhĩ mới phát hiện|Cường giáp là yếu tố thúc đẩy rung nhĩ có thể điều trị được
-R Di truyền|α-galactosidase A, NOTCH3, lactat máu|Kiểu hình gợi ý Fabry, CADASIL hoặc MELAS|Chỉ định khi hình ảnh và tiền sử gia đình phù hợp
+H Nhóm|Xét nghiệm|Chỉ định|Lưu ý
+R Huyết học – đông máu|Công thức máu, PT–INR, aPTT|Thường quy|Đa hồng cầu, tăng tiểu cầu; aPTT dài: kháng đông lupus
+R Chuyển hoá|Glucose mao mạch, HbA_{1c}|Thường quy|Hạ đường huyết: bệnh cảnh giả (Mục 2.6)
+R Thận, lipid|Điện giải đồ, creatinin, mức lọc cầu thận, bộ lipid|Thường quy|Chi phối liều kháng huyết khối; không nhịn ăn (Mục 3.3)
+R Tim|Troponin siêu nhạy|Thường quy|Tăng nhẹ thường gặp; động học tăng dần: vành cấp
+R Nhĩ trái|NT-proBNP|Lấp mạch chưa rõ nguồn|Ngưỡng trên 250 pg/mL; tăng theo tuổi, suy tim/thận
+R Viêm|CRP, tốc độ máu lắng|Nghi viêm mạch, nội tâm mạc|Bình thường không loại trừ viêm mạch nội sọ
+R Tăng đông|Kháng đông lupus, kháng cardiolipin, kháng β_{2}-glycoprotein I, protein C, S, antithrombin|Người trẻ, huyết khối tái diễn, lấp mạch nghịch thường|Dương tính dai dẳng ≥ 12 tuần; giảm giả tạo lúc cấp
+R Ung thư|D-dimer|Nhồi máu nhiều vùng cấp máu|Rất cao: tăng đông ung thư; sinh lý khi có thai
+R Nội tiết|TSH, FT4|Rung nhĩ mới phát hiện|Cường giáp thúc đẩy rung nhĩ
+R Di truyền|α-galactosidase A, NOTCH3, lactat máu|Kiểu hình Fabry, CADASIL, MELAS|Khi hình ảnh, tiền sử gia đình phù hợp
 ENDTABLE
 H4 2.4.6.2. Tầm soát có mục tiêu theo giả thuyết căn nguyên
-P Bộ xét nghiệm tăng đông không nên chỉ định thường quy; nên giới hạn ở người trẻ có huyết khối tĩnh mạch tái diễn, sảy thai liên tiếp hoặc nghi lấp mạch nghịch thường. Hội chứng kháng phospholipid đáng truy tìm chủ động, dựa trên kháng đông lupus, kháng cardiolipin và kháng β_{2}-glycoprotein I, bắt buộc dương tính dai dẳng sau ít nhất 12 tuần trong bối cảnh huyết khối hoặc bệnh lý thai sản [13,18].
-P Ung thư gây đột quỵ qua tăng đông toàn thân và viêm nội tâm mạc huyết khối vô khuẩn; kiểu hình gợi ý là nhồi máu nhiều ổ ở nhiều vùng cấp máu không tìm được nguồn [36,37]. Ở người bệnh dưới 50–55 tuổi cần truy tìm bóc tách động mạch vùng cổ, viêm mạch và bệnh đơn gen như CADASIL, Fabry hay MELAS bằng hình ảnh thành mạch độ phân giải cao (xem Mục 2.3) [13,23]; trong thai kỳ và hậu sản, D-dimer tăng sinh lý nên không loại trừ được huyết khối tĩnh mạch não [18].
+P Xét nghiệm tăng đông chỉ dành cho người trẻ có huyết khối tĩnh mạch tái diễn, sảy thai liên tiếp hoặc nghi lấp mạch nghịch thường; hội chứng kháng phospholipid (kháng đông lupus, kháng cardiolipin, kháng β_{2}-glycoprotein I) cần dương tính dai dẳng sau ít nhất 12 tuần kèm huyết khối hoặc bệnh lý thai sản [13,18].
+P Ung thư gây đột quỵ qua tăng đông toàn thân và viêm nội tâm mạc huyết khối vô khuẩn, kiểu hình là nhồi máu nhiều vùng cấp máu không rõ nguồn [36,37]. Dưới 50–55 tuổi cần tìm bóc tách động mạch cổ, viêm mạch và bệnh đơn gen (CADASIL, Fabry, MELAS) bằng hình ảnh thành mạch độ phân giải cao (Mục 2.3) [13,23]; thai kỳ và hậu sản, D-dimer tăng sinh lý nên không loại trừ huyết khối tĩnh mạch não [18].
